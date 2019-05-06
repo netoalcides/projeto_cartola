@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+15,263,266,2,0,Botafogo,Fluminense,2014,17/08/2014 18:30,Mané Garrincha
+15,264,265,1,1,Corinthians,Bahia,2014,16/08/2014 21:00,Arena Corinthians
+15,275,276,1,2,Palmeiras,São Paulo,2014,17/08/2014 16:00,Pacaembu
+15,283,277,3,0,Cruzeiro,Santos,2014,17/08/2014 16:00,Mineirão
+15,284,288,2,0,Grêmio,Criciúma,2014,17/08/2014 16:00,Arena do Grêmio
+15,287,315,0,0,Vitória,Chapecoense,2014,17/08/2014 16:00,Manoel Barradas
+15,290,285,0,1,Goiás,Internacional,2014,16/08/2014 18:30,Serra Dourada
+15,292,293,1,1,Sport,Atlético-PR,2014,17/08/2014 18:30,Ilha do Retiro
+15,294,262,0,1,Coritiba,Flamengo,2014,17/08/2014 16:00,Couto Pereira
+15,316,282,2,2,Figueirense,Atlético-MG,2014,17/08/2014 18:30,Orlando Scarpelli

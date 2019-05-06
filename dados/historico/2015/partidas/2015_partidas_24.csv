@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+24,262,283,2,0,Flamengo,Cruzeiro,2015,10/09/2015 21:00,Maracanã
+24,264,284,1,1,Corinthians,Grêmio,2015,09/09/2015 22:00,Arena Corinthians
+24,277,276,3,0,Santos,São Paulo,2015,09/09/2015 22:00,Vila Belmiro
+24,282,314,2,0,Atlético-MG,Avaí,2015,09/09/2015 19:30,Independência
+24,285,275,1,0,Internacional,Palmeiras,2015,09/09/2015 19:30,Beira-Rio
+24,290,292,1,0,Goiás,Sport,2015,10/09/2015 19:30,Serra Dourada
+24,294,266,1,1,Coritiba,Fluminense,2015,09/09/2015 22:00,Couto Pereira
+24,303,267,0,1,Ponte Preta,Vasco,2015,09/09/2015 19:30,Moisés Lucarelli
+24,316,293,1,1,Figueirense,Atlético-PR,2015,09/09/2015 21:00,Orlando Scarpelli
+24,317,315,0,0,Joinville,Chapecoense,2015,10/09/2015 21:00,Arena Joinville

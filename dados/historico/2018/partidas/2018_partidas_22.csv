@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+22,283,285,0,0,Cruzeiro,Internacional,2018,02/09/2018 19:00,Mineirão
+22,293,265,2,0,Atlético-PR,Bahia,2018,02/09/2018 16:00,Arena da Baixada
+22,315,275,1,2,Chapecoense,Palmeiras,2018,02/09/2018 19:00,Arena Condá
+22,287,327,1,0,Vitória,América-MG,2018,01/09/2018 16:00,Barradão
+22,267,277,0,3,Vasco,Santos,2018,01/09/2018 19:00,Maracanã
+22,262,354,0,1,Flamengo,Ceará,2018,02/09/2018 11:00,Maracanã
+22,276,266,1,1,São Paulo,Fluminense,2018,02/09/2018 16:00,Morumbi
+22,292,289,1,0,Sport,Paraná,2018,02/09/2018 16:00,Ilha do Retiro
+22,264,282,1,1,Corinthians,Atlético-MG,2018,01/09/2018 21:00,Arena Corinthians
+22,284,263,4,0,Grêmio,Botafogo,2018,01/09/2018 16:00,Arena do Grêmio

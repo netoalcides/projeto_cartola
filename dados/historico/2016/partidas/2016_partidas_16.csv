@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+16,262,327,2,1,Flamengo,América-MG,2016,25/07/2016 20:00,Maracanã
+16,264,316,1,1,Corinthians,Figueirense,2016,23/07/2016 16:00,Itaquerão
+16,275,282,0,1,Palmeiras,Atlético-MG,2016,24/07/2016 11:00,Allianz Parque
+16,283,292,1,2,Cruzeiro,Sport,2016,24/07/2016 16:00,Mineirão
+16,284,276,1,0,Grêmio,São Paulo,2016,24/07/2016 16:00,Arena do Grêmio
+16,287,277,2,3,Vitória,Santos,2016,24/07/2016 18:30,Barradão
+16,293,266,1,0,Atlético-PR,Fluminense,2016,24/07/2016 16:00,Arena da Baixada
+16,303,285,2,2,Ponte Preta,Internacional,2016,24/07/2016 11:00,Moisés Lucarelli
+16,315,263,2,1,Chapecoense,Botafogo,2016,24/07/2016 16:00,Arena Condá
+16,344,294,0,1,Santa Cruz,Coritiba,2016,23/07/2016 18:30,Arruda

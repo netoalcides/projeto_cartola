@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+18,277,262,3,2,Santos,Flamengo,2017,02/08/2017 21:45,Pacaembu
+18,263,275,1,2,Botafogo,Palmeiras,2017,02/08/2017 21:45,Engenhão
+18,267,283,0,3,Vasco,Cruzeiro,2017,03/08/2017 20:00,Raulino de Oliveira
+18,287,303,3,1,Vitória,Ponte Preta,2017,02/08/2017 21:00,Barradão
+18,293,314,5,0,Atlético-PR,Avaí,2017,03/08/2017 19:30,Arena da Baixada
+18,282,264,0,2,Atlético-MG,Corinthians,2017,02/08/2017 21:00,Mineirão
+18,276,294,1,2,São Paulo,Coritiba,2017,03/08/2017 19:30,Morumbi
+18,373,284,0,1,Atlético-GO,Grêmio,2017,02/08/2017 21:45,Olímpico (GO)
+18,315,265,1,1,Chapecoense,Bahia,2017,02/08/2017 19:30,Arena Condá
+18,292,266,2,2,Sport,Fluminense,2017,02/08/2017 19:30,Ilha do Retiro

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+25,264,317,3,0,Corinthians,Joinville,2015,13/09/2015 11:00,Arena Corinthians
+25,267,293,2,0,Vasco,Atlético-PR,2015,13/09/2015 16:00,São Januário
+25,275,316,2,0,Palmeiras,Figueirense,2015,12/09/2015 21:00,Allianz Parque
+25,283,282,1,1,Cruzeiro,Atlético-MG,2015,13/09/2015 16:00,Mineirão
+25,284,276,1,2,Grêmio,São Paulo,2015,13/09/2015 16:00,Arena do Grêmio
+25,292,266,1,0,Sport,Fluminense,2015,13/09/2015 18:30,Arena Pernambuco
+25,294,285,0,1,Coritiba,Internacional,2015,12/09/2015 18:30,Couto Pereira
+25,303,277,3,1,Ponte Preta,Santos,2015,13/09/2015 11:00,Moisés Lucarelli
+25,314,290,2,1,Avaí,Goiás,2015,13/09/2015 18:30,Ressacada
+25,315,262,1,3,Chapecoense,Flamengo,2015,13/09/2015 16:00,Arena Condá

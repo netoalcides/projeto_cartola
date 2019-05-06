@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+36,262,294,2,2,Flamengo,Coritiba,2016,20/11/2016 19:30,Maracanã
+36,264,285,1,0,Corinthians,Internacional,2016,21/11/2016 20:00,Itaquerão
+36,275,263,1,0,Palmeiras,Botafogo,2016,20/11/2016 17:00,Allianz Parque
+36,283,277,2,2,Cruzeiro,Santos,2016,20/11/2016 17:00,Mineirão
+36,284,327,3,0,Grêmio,América-MG,2016,20/11/2016 17:00,Arena do Grêmio
+36,287,316,4,0,Vitória,Figueirense,2016,20/11/2016 17:00,Barradão
+36,293,292,2,0,Atlético-PR,Sport,2016,20/11/2015 17:00,Arena da Baixada
+36,303,266,1,0,Ponte Preta,Fluminense,2016,20/11/2016 17:00,Moisés Lucarelli
+36,315,276,2,0,Chapecoense,São Paulo,2016,20/11/2016 19:30,Arena Condá
+36,344,282,3,3,Santa Cruz,Atlético-MG,2016,20/11/2016 19:30,Arruda

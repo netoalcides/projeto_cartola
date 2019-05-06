@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+17,263,315,1,0,Botafogo,Chapecoense,2014,23/08/2014 18:30,Maracanã
+17,266,292,4,0,Fluminense,Sport,2014,24/08/2014 16:00,Maracanã
+17,275,294,1,0,Palmeiras,Coritiba,2014,23/08/2014 21:00,Pacaembu
+17,276,277,2,1,São Paulo,Santos,2014,24/08/2014 16:00,Morumbi
+17,282,285,1,0,Atlético-MG,Internacional,2014,23/08/2014 18:30,Independência
+17,284,264,2,1,Grêmio,Corinthians,2014,24/08/2014 16:00,Arena do Grêmio
+17,287,316,0,1,Vitória,Figueirense,2014,24/08/2014 16:00,Manoel Barradas
+17,288,262,0,2,Criciúma,Flamengo,2014,24/08/2014 16:00,Estádio Heriberto Hülse
+17,290,283,0,1,Goiás,Cruzeiro,2014,24/08/2014 18:30,Serra Dourada
+17,293,265,0,0,Atlético-PR,Bahia,2014,24/08/2014 18:30,Arena da Baixada

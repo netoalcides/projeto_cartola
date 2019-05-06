@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+9,262,315,5,1,Flamengo,Chapecoense,2017,22/06/2017 21:00,Luso-Brasileiro
+9,275,373,1,0,Palmeiras,Atlético-GO,2017,21/06/2017 21:00,Arena Palmeiras
+9,303,283,1,0,Ponte Preta,Cruzeiro,2017,22/06/2017 19:30,Moisés Lucarelli
+9,293,276,1,0,Atlético-PR,São Paulo,2017,21/06/2017 21:45,Arena da Baixada
+9,264,265,3,0,Corinthians,Bahia,2017,22/06/2017 19:30,Arena Corinthians
+9,263,267,3,1,Botafogo,Vasco,2017,21/06/2017 21:00,Engenhão
+9,314,266,0,3,Avaí,Fluminense,2017,21/06/2017 21:45,Ressacada
+9,282,292,2,2,Atlético-MG,Sport,2017,21/06/2017 21:45,Independência
+9,284,294,2,0,Grêmio,Coritiba,2017,22/06/2017 21:00,Arena do Grêmio
+9,287,277,0,2,Vitória,Santos,2017,21/06/2017 19:30,Barradão

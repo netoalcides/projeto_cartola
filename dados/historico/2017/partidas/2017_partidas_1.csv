@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+1,262,282,1,1,Flamengo,Atlético-MG,2017,13/05/2017 16:00,Maracanã
+1,275,267,4,0,Palmeiras,Vasco,2017,14/05/2017 16:00,Arena Palmeiras
+1,265,293,6,2,Bahia,Atlético-PR,2017,14/05/2017 16:00,Fonte Nova
+1,303,292,2,4,Ponte Preta,Sport,2017,14/05/2017 16:00,Moisés Lucarelli
+1,283,276,1,0,Cruzeiro,São Paulo,2017,14/05/2017 16:00,Mineirão
+1,294,373,4,1,Coritiba,Atlético-GO,2017,15/05/2017 20:00,Couto Pereira
+1,264,315,3,3,Corinthians,Chapecoense,2017,13/05/2017 19:00,Arena Corinthians
+1,314,287,0,0,Avaí,Vitória,2017,14/05/2017 16:00,Ressacada
+1,284,263,2,0,Grêmio,Botafogo,2017,14/05/2017 19:00,Arena do Grêmio
+1,266,277,3,2,Fluminense,Santos,2017,14/05/2017 11:00,Maracanã

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+6,262,275,1,2,Flamengo,Palmeiras,2016,05/06/2016 16:00,Mané Garrincha
+6,264,294,2,1,Corinthians,Coritiba,2016,04/06/2016 20:30,Itaquerão
+6,277,263,3,0,Santos,Botafogo,2016,05/06/2016 11:00,Pacaembu
+6,283,276,0,1,Cruzeiro,São Paulo,2016,05/06/2016 18:30,Mineirão
+6,284,303,1,0,Grêmio,Ponte Preta,2016,05/06/2016 16:00,Arena do Grêmio
+6,287,285,1,0,Vitória,Internacional,2016,05/06/2016 16:00,Barradão
+6,292,282,4,4,Sport,Atlético-MG,2016,05/06/2016 16:00,Ilha do Retiro
+6,293,344,1,0,Atlético-PR,Santa Cruz,2016,04/06/2016 16:00,Arena da Baixada
+6,315,266,0,0,Chapecoense,Fluminense,2016,04/06/2016 20:30,Arena Condá
+6,327,316,1,0,América-MG,Figueirense,2016,05/06/2016 11:00,Independência

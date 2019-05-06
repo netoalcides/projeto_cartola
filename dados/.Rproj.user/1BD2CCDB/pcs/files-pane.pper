@@ -1,0 +1,9 @@
+{
+    "path" : "~/projeto_cartola/dados/atual/data/classificacao",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

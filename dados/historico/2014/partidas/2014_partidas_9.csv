@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+9,264,263,1,1,Corinthians,Botafogo,2014,01/06/2014 16:00,Maracanã
+9,266,285,1,1,Fluminense,Internacional,2014,01/06/2014 18:30,Claudio Moacyr
+9,276,282,2,1,São Paulo,Atlético-MG,2014,31/05/2014 18:30,Morumbi
+9,277,288,2,0,Santos,Criciúma,2014,01/06/2014 18:30,Estádio 1º de Maio
+9,283,262,3,0,Cruzeiro,Flamengo,2014,01/06/2014 16:00,João Havelange
+9,284,275,0,0,Grêmio,Palmeiras,2014,01/06/2014 16:00,Alfredo Jaconi
+9,287,292,0,1,Vitória,Sport,2014,31/05/2014 21:00,Joia da Princesa
+9,294,290,3,0,Coritiba,Goiás,2014,31/05/2014 18:30,Durival Britto
+9,315,265,2,1,Chapecoense,Bahia,2014,01/06/2014 16:00,Arena Condá
+9,316,293,1,3,Figueirense,Atlético-PR,2014,01/06/2014 18:30,Orlando Scarpelli

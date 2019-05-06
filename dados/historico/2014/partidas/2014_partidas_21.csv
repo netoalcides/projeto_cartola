@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+21,262,264,1,0,Flamengo,Corinthians,2014,14/09/2014 16:00,Estádio Maracanã
+21,265,316,3,0,Bahia,Figueirense,2014,14/09/2014 16:00,Joia da Princesa
+21,266,275,3,0,Fluminense,Palmeiras,2014,13/09/2014 18:30,Estádio Maracanã
+21,276,283,2,0,São Paulo,Cruzeiro,2014,14/09/2014 16:00,Morumbi
+21,277,294,2,1,Santos,Coritiba,2014,13/09/2014 21:00,Vila Belmiro
+21,282,284,0,0,Atlético-MG,Grêmio,2014,14/09/2014 18:30,Estádio Raimundo Sampaio
+21,285,263,2,0,Internacional,Botafogo,2014,14/09/2014 16:00,Estádio Beira-Rio
+21,288,290,1,0,Criciúma,Goiás,2014,14/09/2014 18:30,Estádio Heriberto Hülse
+21,293,287,2,0,Atlético-PR,Vitória,2014,14/09/2014 18:30,Arena da Baixada
+21,315,292,3,1,Chapecoense,Sport,2014,13/09/2014 18:30,Arena Condá

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+10,262,293,1,2,Flamengo,Atlético-PR,2014,16/07/2014 22:00,Claudio Moacyr
+10,264,285,2,1,Corinthians,Internacional,2014,17/07/2014 19:30,Arena Corinthians
+10,265,276,0,2,Bahia,São Paulo,2014,16/07/2014 22:00,Fonte Nova
+10,277,275,2,0,Santos,Palmeiras,2014,17/07/2014 19:30,Vila Belmiro
+10,283,287,3,1,Cruzeiro,Vitória,2014,17/07/2014 21:00,Mineirão
+10,284,290,0,0,Grêmio,Goiás,2014,16/07/2014 19:30,Arena do Grêmio
+10,288,266,3,2,Criciúma,Fluminense,2014,16/07/2014 22:00,Estádio Heriberto Hülse
+10,292,263,1,0,Sport,Botafogo,2014,16/07/2014 19:30,Ilha do Retiro
+10,294,316,0,2,Coritiba,Figueirense,2014,16/07/2014 19:30,Couto Pereira
+10,315,282,1,1,Chapecoense,Atlético-MG,2014,06/08/2014 21:00,Arena Condá

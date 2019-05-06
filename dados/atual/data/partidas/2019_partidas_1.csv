@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+1,284,277,1,2,Grêmio,Santos,2019,2019-04-28 11:00:00,Arena do Grêmio
+1,282,314,2,1,Atlético-MG,Avaí,2019,2019-04-27 19:00:00,Independência
+1,354,341,4,0,Ceará,CSA,2019,2019-04-28 16:00:00,Castelão (CE)
+1,275,356,4,0,Palmeiras,Fortaleza,2019,2019-04-28 19:00:00,Arena Palmeiras
+1,276,263,2,0,São Paulo,Botafogo,2019,2019-04-27 16:00:00,Morumbi
+1,262,283,3,1,Flamengo,Cruzeiro,2019,2019-04-27 21:00:00,Maracanã
+1,266,290,0,1,Fluminense,Goiás,2019,2019-04-28 19:00:00,Maracanã
+1,315,285,2,0,Chapecoense,Internacional,2019,2019-04-27 19:00:00,Arena Condá
+1,265,264,3,2,Bahia,Corinthians,2019,2019-04-28 16:00:00,Fonte Nova
+1,293,267,4,1,Athlético-PR,Vasco,2019,2019-04-28 16:00:00,Arena da Baixada

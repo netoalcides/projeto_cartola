@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+20,266,327,1,0,Fluminense,América-MG,2016,14/08/2016 11:00,Kléber Andrade
+20,276,263,0,1,São Paulo,Botafogo,2016,14/08/2016 16:15,Morumbi
+20,277,282,3,0,Santos,Atlético-MG,2016,14/08/2016 16:00,Vila Belmiro
+20,283,294,2,2,Cruzeiro,Coritiba,2016,14/08/2016 16:00,Independência
+20,284,264,3,0,Grêmio,Corinthians,2016,14/08/2016 11:00,Arena do Grêmio
+20,287,344,2,2,Vitória,Santa Cruz,2016,14/08/2016 16:00,Barradão
+20,292,262,1,0,Sport,Flamengo,2016,13/08/2016 16:00,Ilha do Retiro
+20,293,275,0,1,Atlético-PR,Palmeiras,2016,14/08/2016 18:30,Arena da Baixada
+20,303,316,2,0,Ponte Preta,Figueirense,2016,13/08/2016 18:30,Moisés Lucarelli
+20,315,285,1,0,Chapecoense,Internacional,2016,15/08/2016 20:00,Arena Condá

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+18,262,293,3,2,Flamengo,Atlético-PR,2015,12/08/2015 19:30,Maracanã
+18,264,292,4,3,Corinthians,Sport,2015,12/08/2015 22:00,Arena Corinthians
+18,277,267,1,0,Santos,Vasco,2015,12/08/2015 21:00,Vila Belmiro
+18,282,284,0,2,Atlético-MG,Grêmio,2015,13/08/2015 21:00,Mineirão
+18,285,266,1,0,Internacional,Fluminense,2015,12/08/2015 22:00,Beira-Rio
+18,290,315,0,0,Goiás,Chapecoense,2015,12/08/2015 21:00,Serra Dourada
+18,294,275,2,1,Coritiba,Palmeiras,2015,12/08/2015 19:30,Couto Pereira
+18,303,314,2,0,Ponte Preta,Avaí,2015,13/08/2015 19:30,Moisés Lucarelli
+18,316,276,0,2,Figueirense,São Paulo,2015,12/08/2015 22:00,Orlando Scarpelli
+18,317,283,3,0,Joinville,Cruzeiro,2015,13/08/2015 21:00,Arena Joinville

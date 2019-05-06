@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+31,263,282,3,2,Botafogo,Atlético-MG,2016,16/10/2016 17:00,Arena Botafogo
+31,264,327,2,0,Corinthians,América-MG,2016,16/10/2016 18:30,Itaquerão
+31,266,276,1,2,Fluminense,São Paulo,2016,17/10/2016 20:00,Giulite Coutinho
+31,277,284,1,1,Santos,Grêmio,2016,16/10/2016 19:30,Vila Belmiro
+31,283,315,0,0,Cruzeiro,Chapecoense,2016,16/10/2016 17:00,Mineirão
+31,285,262,2,1,Internacional,Flamengo,2016,16/10/2016 17:00,Beira-Rio
+31,292,287,1,0,Sport,Vitória,2016,16/10/2016 19:30,Ilha do Retiro
+31,293,294,2,0,Atlético-PR,Coritiba,2016,16/10/2016 17:00,Vila Capanema
+31,303,344,3,0,Ponte Preta,Santa Cruz,2016,16/10/2016 18:30,Moisés Lucarelli
+31,316,275,1,2,Figueirense,Palmeiras,2016,16/10/2016 17:00,Orlando Scarpelli

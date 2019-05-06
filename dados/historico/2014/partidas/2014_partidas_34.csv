@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+34,262,294,3,2,Flamengo,Coritiba,2014,16/11/2014 17:00,Maracanã
+34,265,264,1,2,Bahia,Corinthians,2014,16/11/2014 17:00,Arena Fonte Nova
+34,266,263,1,0,Fluminense,Botafogo,2014,15/11/2014 19:30,Maracanã
+34,276,275,2,0,São Paulo,Palmeiras,2014,16/11/2014 19:30,Morumbi
+34,277,283,0,1,Santos,Cruzeiro,2014,16/11/2014 17:00,Vila Belmiro
+34,282,316,1,1,Atlético-MG,Figueirense,2014,16/11/2014 19:30,Estádio Independência
+34,285,290,1,0,Internacional,Goiás,2014,16/11/2014 17:00,Estádio Beira-Rio
+34,288,284,0,3,Criciúma,Grêmio,2014,15/11/2014 19:30,Estário Heriberto Hulse
+34,293,292,0,1,Atlético-PR,Sport,2014,16/11/2014 17:00,Arena da Baixada
+34,315,287,0,1,Chapecoense,Vitória,2014,16/11/2014 19:30,Arena Condá

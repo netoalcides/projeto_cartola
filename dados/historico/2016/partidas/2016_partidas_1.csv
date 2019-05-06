@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+1,262,292,1,0,Flamengo,Sport,2016,14/05/2016 16:00,Raulino de Oliveira
+1,263,276,0,1,Botafogo,São Paulo,2016,15/05/2016 11:00,Raulino de Oliveira
+1,264,284,0,0,Corinthians,Grêmio,2016,15/05/2016 16:00,Itaquerão
+1,275,293,4,0,Palmeiras,Atlético-PR,2016,14/05/2016 16:00,Allianz Parque
+1,282,277,1,0,Atlético-MG,Santos,2016,14/05/2016 18:30,Independência
+1,285,315,0,0,Internacional,Chapecoense,2016,15/05/2016 18:30,Beira-Rio
+1,294,283,1,0,Coritiba,Cruzeiro,2016,14/05/2016 21:00,Couto Pereira
+1,316,303,0,0,Figueirense,Ponte Preta,2016,15/05/2016 16:00,Orlando Scarpelli
+1,327,266,0,1,América-MG,Fluminense,2016,15/05/2016 16:00,Independência
+1,344,287,4,1,Santa Cruz,Vitória,2016,15/05/2016 11:00,Arruda

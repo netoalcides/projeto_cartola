@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+11,282,266,5,2,Atlético-MG,Fluminense,2018,10/06/2018 16:00,Independência
+11,293,276,0,1,Atlético-PR,São Paulo,2018,09/06/2018 16:00,Arena da Baixada
+11,315,283,2,0,Chapecoense,Cruzeiro,2018,09/06/2018 19:00,Arena Condá
+11,265,263,3,3,Bahia,Botafogo,2018,10/06/2018 16:00,Fonte Nova
+11,264,287,0,0,Corinthians,Vitória,2018,09/06/2018 21:00,Arena Corinthians
+11,267,292,3,2,Vasco,Sport,2018,09/06/2018 19:00,São Januário
+11,262,289,2,0,Flamengo,Paraná,2018,10/06/2018 19:00,Maracanã
+11,354,275,2,2,Ceará,Palmeiras,2018,10/06/2018 16:00,Castelão (CE)
+11,277,285,1,2,Santos,Internacional,2018,10/06/2018 19:00,Vila Belmiro
+11,284,327,1,0,Grêmio,América-MG,2018,10/06/2018 16:00,Arena do Grêmio

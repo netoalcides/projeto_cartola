@@ -1,0 +1,381 @@
+rodada_id;clube_casa_id;clube_visitante_id;placar_oficial_mandante;placar_oficial_visitante;clube_casa;clube_visitante;ano;partidas.partida_data;partidas.local
+1;283;284;0;1;Cruzeiro;Grêmio;2018;14/04/2018 16:00;Mineirão
+1;293;315;5;1;Atlético-PR;Chapecoense;2018;15/04/2018 19:00;Arena da Baixada
+1;327;292;3;0;América-MG;Sport;2018;15/04/2018 11:00;Independência
+1;287;262;2;2;Vitória;Flamengo;2018;14/04/2018 19:00;Barradão
+1;267;282;2;1;Vasco;Atlético-MG;2018;15/04/2018 16:00;São Januário
+1;263;275;1;1;Botafogo;Palmeiras;2018;16/04/2018 20:00;Engenhão
+1;276;289;1;0;São Paulo;Paraná;2018;16/04/2018 20:00;Morumbi
+1;277;354;2;0;Santos;Ceará;2018;14/04/2018 21:00;Pacaembu
+1;264;266;2;1;Corinthians;Fluminense;2018;15/04/2018 16:00;Arena Corinthians
+1;285;265;2;0;Internacional;Bahia;2018;15/04/2018 16:00;Beira-Rio
+2;282;287;2;1;Atlético-MG;Vitória;2018;22/04/2018 16:00;Independência
+2;289;264;0;4;Paraná;Corinthians;2018;22/04/2018 11:00;Durival Britto
+2;315;267;1;1;Chapecoense;Vasco;2018;22/04/2018 16:00;Arena Condá
+2;265;277;1;0;Bahia;Santos;2018;21/04/2018 16:00;Fonte Nova
+2;266;283;1;0;Fluminense;Cruzeiro;2018;22/04/2018 16:00;Maracanã
+2;262;327;2;0;Flamengo;América-MG;2018;21/04/2018 19:00;Maracanã
+2;354;276;0;0;Ceará;São Paulo;2018;22/04/2018 16:00;Castelão (CE)
+2;292;263;1;1;Sport;Botafogo;2018;23/04/2018 20:00;Ilha do Retiro
+2;275;285;1;0;Palmeiras;Internacional;2018;22/04/2018 16:00;Pacaembu
+2;284;293;0;0;Grêmio;Atlético-PR;2018;22/04/2018 19:00;Arena do Grêmio
+3;282;264;1;0;Atlético-MG;Corinthians;2018;29/04/2018 16:00;Independência
+3;289;292;1;2;Paraná;Sport;2018;29/04/2018 16:00;Durival Britto
+3;327;287;2;1;América-MG;Vitória;2018;30/04/2018 20:00;Independência
+3;265;293;0;0;Bahia;Atlético-PR;2018;29/04/2018 16:00;Fonte Nova
+3;266;276;1;1;Fluminense;São Paulo;2018;29/04/2018 16:00;Maracanã
+3;263;284;2;1;Botafogo;Grêmio;2018;28/04/2018 16:00;Engenhão
+3;354;262;0;3;Ceará;Flamengo;2018;29/04/2018 16:00;Castelão (CE)
+3;277;267;1;1;Santos;Vasco;2018;27/09/2018 20:00;Pacaembu
+3;275;315;0;0;Palmeiras;Chapecoense;2018;29/04/2018 16:00;Arena Palmeiras
+3;285;283;0;0;Internacional;Cruzeiro;2018;29/04/2018 19:00;Beira-Rio
+4;283;263;1;0;Cruzeiro;Botafogo;2018;06/05/2018 16:00;Mineirão
+4;293;275;1;3;Atlético-PR;Palmeiras;2018;06/05/2018 16:00;Arena da Baixada
+4;315;289;1;1;Chapecoense;Paraná;2018;07/05/2018 20:00;Arena Condá
+4;287;266;1;2;Vitória;Fluminense;2018;06/05/2018 16:00;Barradão
+4;267;327;4;1;Vasco;América-MG;2018;05/05/2018 19:00;São Januário
+4;262;285;2;0;Flamengo;Internacional;2018;06/05/2018 16:00;Maracanã
+4;276;282;2;2;São Paulo;Atlético-MG;2018;05/05/2018 19:00;Morumbi
+4;292;265;2;0;Sport;Bahia;2018;06/05/2018 19:00;Ilha do Retiro
+4;264;354;1;1;Corinthians;Ceará;2018;06/05/2018 11:00;Arena Corinthians
+4;284;277;5;1;Grêmio;Santos;2018;06/05/2018 19:00;Arena do Grêmio
+5;283;292;2;0;Cruzeiro;Sport;2018;13/05/2018 11:00;Mineirão
+5;293;282;1;2;Atlético-PR;Atlético-MG;2018;13/05/2018 16:00;Arena da Baixada
+5;315;262;3;2;Chapecoense;Flamengo;2018;13/05/2018 16:00;Arena Condá
+5;265;276;2;2;Bahia;São Paulo;2018;13/05/2018 16:00;Fonte Nova
+5;267;287;2;3;Vasco;Vitória;2018;13/05/2018 16:00;São Januário
+5;263;266;2;1;Botafogo;Fluminense;2018;14/05/2018 20:00;Engenhão
+5;354;327;2;2;Ceará;América-MG;2018;14/05/2018 20:00;Castelão (CE)
+5;277;289;3;1;Santos;Paraná;2018;13/05/2018 19:00;Vila Belmiro
+5;264;275;1;0;Corinthians;Palmeiras;2018;13/05/2018 16:00;Arena Corinthians
+5;284;285;0;0;Grêmio;Internacional;2018;12/05/2018 16:00;Arena do Grêmio
+6;282;283;1;0;Atlético-MG;Cruzeiro;2018;19/05/2018 16:00;Independência
+6;289;284;0;0;Paraná;Grêmio;2018;20/05/2018 16:00;Durival Britto
+6;327;263;1;0;América-MG;Botafogo;2018;20/05/2018 16:00;Independência
+6;287;354;2;1;Vitória;Ceará;2018;20/05/2018 11:00;Barradão
+6;266;293;2;0;Fluminense;Atlético-PR;2018;20/05/2018 19:00;Maracanã
+6;262;267;1;1;Flamengo;Vasco;2018;19/05/2018 19:00;Maracanã
+6;276;277;1;0;São Paulo;Santos;2018;20/05/2018 16:00;Morumbi
+6;292;264;1;1;Sport;Corinthians;2018;20/05/2018 16:00;Arena de Pernambuco
+6;275;265;3;0;Palmeiras;Bahia;2018;19/05/2018 21:00;Arena Palmeiras
+6;285;315;3;0;Internacional;Chapecoense;2018;21/05/2018 20:00;Beira-Rio
+7;282;262;0;1;Atlético-MG;Flamengo;2018;26/05/2018 21:00;Independência
+7;289;293;0;0;Paraná;Atlético-PR;2018;27/05/2018 11:00;Durival Britto
+7;327;276;1;3;América-MG;São Paulo;2018;27/05/2018 19:00;Independência
+7;265;267;3;0;Bahia;Vasco;2018;27/05/2018 16:00;Fonte Nova
+7;266;315;3;1;Fluminense;Chapecoense;2018;26/05/2018 16:00;Maracanã
+7;263;287;1;1;Botafogo;Vitória;2018;27/05/2018 16:00;Engenhão
+7;354;284;0;1;Ceará;Grêmio;2018;27/05/2018 19:00;Castelão (CE)
+7;277;283;0;1;Santos;Cruzeiro;2018;27/05/2018 16:00;Pacaembu
+7;275;292;2;3;Palmeiras;Sport;2018;26/05/2018 19:00;Arena Palmeiras
+7;285;264;2;1;Internacional;Corinthians;2018;27/05/2018 16:00;Beira-Rio
+8;283;275;1;0;Cruzeiro;Palmeiras;2018;30/05/2018 21:45;Mineirão
+8;293;277;2;0;Atlético-PR;Santos;2018;31/05/2018 21:00;Arena da Baixada
+8;315;354;2;0;Chapecoense;Ceará;2018;30/05/2018 21:00;Arena Condá
+8;287;285;2;3;Vitória;Internacional;2018;30/05/2018 19:30;Barradão
+8;267;289;1;0;Vasco;Paraná;2018;30/05/2018 19:30;São Januário
+8;262;265;2;0;Flamengo;Bahia;2018;31/05/2018 16:00;Maracanã
+8;276;263;3;2;São Paulo;Botafogo;2018;30/05/2018 21:00;Morumbi
+8;292;282;3;2;Sport;Atlético-MG;2018;30/05/2018 19:30;Ilha do Retiro
+8;264;327;1;0;Corinthians;América-MG;2018;31/05/2018 18:00;Arena Corinthians
+8;284;266;0;0;Grêmio;Fluminense;2018;30/05/2018 21:45;Arena do Grêmio
+9;282;315;3;3;Atlético-MG;Chapecoense;2018;02/06/2018 16:00;Independência
+9;289;266;2;1;Paraná;Fluminense;2018;04/06/2018 20:00;Durival Britto
+9;327;293;3;1;América-MG;Atlético-PR;2018;03/06/2018 16:00;Independência
+9;265;284;0;2;Bahia;Grêmio;2018;03/06/2018 16:00;Fonte Nova
+9;267;263;1;2;Vasco;Botafogo;2018;02/06/2018 19:00;São Januário
+9;262;264;1;0;Flamengo;Corinthians;2018;03/06/2018 16:00;Maracanã
+9;354;283;0;1;Ceará;Cruzeiro;2018;03/06/2018 19:00;Castelão (CE)
+9;277;287;5;2;Santos;Vitória;2018;03/06/2018 16:00;Vila Belmiro
+9;275;276;3;1;Palmeiras;São Paulo;2018;02/06/2018 21:00;Arena Palmeiras
+9;285;292;0;0;Internacional;Sport;2018;02/06/2018 16:00;Beira-Rio
+10;283;267;1;1;Cruzeiro;Vasco;2018;06/06/2018 21:45;Mineirão
+10;289;265;1;0;Paraná;Bahia;2018;07/06/2018 20:00;Durival Britto
+10;327;282;1;3;América-MG;Atlético-MG;2018;07/06/2018 21:00;Independência
+10;287;315;1;0;Vitória;Chapecoense;2018;06/06/2018 19:30;Barradão
+10;266;262;0;2;Fluminense;Flamengo;2018;07/06/2018 20:00;Mané Garrincha
+10;263;354;0;0;Botafogo;Ceará;2018;06/06/2018 19:30;Engenhão
+10;276;285;0;0;São Paulo;Internacional;2018;05/06/2018 21:30;Morumbi
+10;292;293;1;0;Sport;Atlético-PR;2018;06/06/2018 21:00;Ilha do Retiro
+10;264;277;1;1;Corinthians;Santos;2018;06/06/2018 21:00;Arena Corinthians
+10;284;275;0;2;Grêmio;Palmeiras;2018;06/06/2018 21:45;Arena do Grêmio
+11;282;266;5;2;Atlético-MG;Fluminense;2018;10/06/2018 16:00;Independência
+11;293;276;0;1;Atlético-PR;São Paulo;2018;09/06/2018 16:00;Arena da Baixada
+11;315;283;2;0;Chapecoense;Cruzeiro;2018;09/06/2018 19:00;Arena Condá
+11;265;263;3;3;Bahia;Botafogo;2018;10/06/2018 16:00;Fonte Nova
+11;264;287;0;0;Corinthians;Vitória;2018;09/06/2018 21:00;Arena Corinthians
+11;267;292;3;2;Vasco;Sport;2018;09/06/2018 19:00;São Januário
+11;262;289;2;0;Flamengo;Paraná;2018;10/06/2018 19:00;Maracanã
+11;354;275;2;2;Ceará;Palmeiras;2018;10/06/2018 16:00;Castelão (CE)
+11;277;285;1;2;Santos;Internacional;2018;10/06/2018 19:00;Vila Belmiro
+11;284;327;1;0;Grêmio;América-MG;2018;10/06/2018 16:00;Arena do Grêmio
+12;282;354;2;1;Atlético-MG;Ceará;2018;13/06/2018 21:45;Independência
+12;289;283;1;1;Paraná;Cruzeiro;2018;13/06/2018 19:30;Durival Britto
+12;327;315;0;0;América-MG;Chapecoense;2018;13/06/2018 16:00;Independência
+12;265;264;1;0;Bahia;Corinthians;2018;13/06/2018 21:45;Fonte Nova
+12;266;277;0;1;Fluminense;Santos;2018;13/06/2018 19:00;Maracanã
+12;263;293;2;0;Botafogo;Atlético-PR;2018;13/06/2018 21:00;Engenhão
+12;276;287;3;0;São Paulo;Vitória;2018;12/06/2018 21:30;Morumbi
+12;292;284;0;0;Sport;Grêmio;2018;13/06/2018 19:30;Ilha do Retiro
+12;275;262;1;1;Palmeiras;Flamengo;2018;13/06/2018 21:00;Arena Palmeiras
+12;285;267;3;1;Internacional;Vasco;2018;13/06/2018 21:45;Beira-Rio
+13;283;327;3;1;Cruzeiro;América-MG;2018;19/07/2018 19:30;Mineirão
+13;293;285;2;2;Atlético-PR;Internacional;2018;19/07/2018 21:00;Arena da Baixada
+13;315;265;1;1;Chapecoense;Bahia;2018;19/07/2018 19:30;Arena Condá
+13;287;289;1;0;Vitória;Paraná;2018;18/07/2018 21:00;Barradão
+13;267;266;1;1;Vasco;Fluminense;2018;19/07/2018 20:00;São Januário
+13;262;276;0;1;Flamengo;São Paulo;2018;18/07/2018 21:45;Maracanã
+13;354;292;1;0;Ceará;Sport;2018;18/07/2018 19:30;Presidente Vargas (CE)
+13;277;275;1;1;Santos;Palmeiras;2018;19/07/2018 20:00;Pacaembu
+13;264;263;2;0;Corinthians;Botafogo;2018;18/07/2018 21:45;Arena Corinthians
+13;284;282;2;0;Grêmio;Atlético-MG;2018;18/07/2018 21:45;Arena do Grêmio
+14;283;293;2;1;Cruzeiro;Atlético-PR;2018;22/07/2018 19:00;Mineirão
+14;289;327;1;0;Paraná;América-MG;2018;22/07/2018 16:00;Durival Britto
+14;315;277;0;0;Chapecoense;Santos;2018;22/07/2018 19:00;Arena Condá
+14;265;287;4;1;Bahia;Vitória;2018;22/07/2018 16:00;Fonte Nova
+14;267;284;1;0;Vasco;Grêmio;2018;22/07/2018 16:00;São Januário
+14;262;263;2;0;Flamengo;Botafogo;2018;21/07/2018 19:00;Maracanã
+14;276;264;3;1;São Paulo;Corinthians;2018;21/07/2018 21:00;Morumbi
+14;292;266;1;2;Sport;Fluminense;2018;22/07/2018 16:00;Ilha do Retiro
+14;275;282;3;2;Palmeiras;Atlético-MG;2018;22/07/2018 16:00;Arena Palmeiras
+14;285;354;1;0;Internacional;Ceará;2018;23/07/2018 20:00;Beira-Rio
+15;282;289;2;0;Atlético-MG;Paraná;2018;25/07/2018 21:00;Independência
+15;293;267;1;0;Atlético-PR;Vasco;2018;29/08/2018 19:30;Arena da Baixada
+15;327;285;2;1;América-MG;Internacional;2018;26/07/2018 20:00;Independência
+15;287;292;1;0;Vitória;Sport;2018;26/07/2018 19:30;Barradão
+15;266;275;1;0;Fluminense;Palmeiras;2018;25/07/2018 19:30;Maracanã
+15;263;315;1;0;Botafogo;Chapecoense;2018;26/07/2018 19:30;Engenhão
+15;354;265;2;1;Ceará;Bahia;2018;29/08/2018 19:30;Presidente Vargas (CE)
+15;277;262;1;1;Santos;Flamengo;2018;25/07/2018 21:45;Vila Belmiro
+15;264;283;2;0;Corinthians;Cruzeiro;2018;25/07/2018 21:45;Arena Corinthians
+15;284;276;2;1;Grêmio;São Paulo;2018;26/07/2018 19:30;Arena do Grêmio
+16;283;276;0;2;Cruzeiro;São Paulo;2018;29/07/2018 16:00;Mineirão
+16;293;287;4;0;Atlético-PR;Vitória;2018;29/07/2018 16:00;Arena da Baixada
+16;315;284;1;1;Chapecoense;Grêmio;2018;29/07/2018 19:00;Arena Condá
+16;265;282;2;2;Bahia;Atlético-MG;2018;30/07/2018 20:00;Fonte Nova
+16;267;264;1;4;Vasco;Corinthians;2018;29/07/2018 11:00;Mané Garrincha
+16;262;292;4;1;Flamengo;Sport;2018;29/07/2018 16:00;Maracanã
+16;354;266;1;0;Ceará;Fluminense;2018;28/07/2018 16:00;Presidente Vargas (CE)
+16;277;327;0;1;Santos;América-MG;2018;29/07/2018 19:00;Vila Belmiro
+16;275;289;3;0;Palmeiras;Paraná;2018;29/07/2018 11:00;Arena Palmeiras
+16;285;263;3;0;Internacional;Botafogo;2018;29/07/2018 16:00;Beira-Rio
+17;282;285;0;1;Atlético-MG;Internacional;2018;06/08/2018 20:00;Independência
+17;289;354;0;1;Paraná;Ceará;2018;05/08/2018 16:00;Durival Britto
+17;327;275;0;0;América-MG;Palmeiras;2018;05/08/2018 16:00;Independência
+17;287;283;1;1;Vitória;Cruzeiro;2018;05/08/2018 16:00;Barradão
+17;266;265;1;1;Fluminense;Bahia;2018;05/08/2018 19:00;Maracanã
+17;263;277;0;0;Botafogo;Santos;2018;04/08/2018 16:00;Engenhão
+17;276;267;2;1;São Paulo;Vasco;2018;05/08/2018 16:00;Morumbi
+17;292;315;1;1;Sport;Chapecoense;2018;05/08/2018 19:00;Ilha do Retiro
+17;264;293;0;0;Corinthians;Atlético-PR;2018;04/08/2018 21:00;Arena Corinthians
+17;284;262;2;0;Grêmio;Flamengo;2018;04/08/2018 19:00;Arena do Grêmio
+18;282;277;3;1;Atlético-MG;Santos;2018;12/08/2018 11:00;Independência
+18;289;263;1;1;Paraná;Botafogo;2018;12/08/2018 11:00;Durival Britto
+18;315;264;2;1;Chapecoense;Corinthians;2018;12/08/2018 16:00;Arena Condá
+18;265;327;1;0;Bahia;América-MG;2018;11/08/2018 19:00;Fonte Nova
+18;266;285;0;3;Fluminense;Internacional;2018;13/08/2018 20:00;Maracanã
+18;262;283;1;0;Flamengo;Cruzeiro;2018;12/08/2018 16:00;Maracanã
+18;354;293;0;0;Ceará;Atlético-PR;2018;11/08/2018 16:00;Presidente Vargas (CE)
+18;292;276;1;3;Sport;São Paulo;2018;12/08/2018 16:00;Ilha do Retiro
+18;275;267;1;0;Palmeiras;Vasco;2018;12/08/2018 19:00;Arena Palmeiras
+18;284;287;4;0;Grêmio;Vitória;2018;12/08/2018 19:00;Arena do Grêmio
+19;283;265;1;1;Cruzeiro;Bahia;2018;19/08/2018 16:00;Mineirão
+19;293;262;3;0;Atlético-PR;Flamengo;2018;19/08/2018 11:00;Arena da Baixada
+19;327;266;0;0;América-MG;Fluminense;2018;19/08/2018 19:00;Independência
+19;287;275;0;3;Vitória;Palmeiras;2018;19/08/2018 16:00;Barradão
+19;267;354;1;1;Vasco;Ceará;2018;20/08/2018 20:00;São Januário
+19;263;282;0;3;Botafogo;Atlético-MG;2018;19/08/2018 16:00;Engenhão
+19;276;315;2;0;São Paulo;Chapecoense;2018;19/08/2018 19:00;Morumbi
+19;277;292;3;0;Santos;Sport;2018;18/08/2018 16:00;Vila Belmiro
+19;264;284;0;1;Corinthians;Grêmio;2018;18/08/2018 19:00;Arena Corinthians
+19;285;289;1;0;Internacional;Paraná;2018;19/08/2018 11:00;Beira-Rio
+20;282;267;0;0;Atlético-MG;Vasco;2018;23/08/2018 20:00;Independência
+20;289;276;1;1;Paraná;São Paulo;2018;22/08/2018 19:30;Durival Britto
+20;315;293;2;1;Chapecoense;Atlético-PR;2018;13/09/2018 20:00;Arena Condá
+20;265;285;0;1;Bahia;Internacional;2018;22/08/2018 19:30;Fonte Nova
+20;266;264;1;0;Fluminense;Corinthians;2018;22/08/2018 21:45;Maracanã
+20;262;287;1;0;Flamengo;Vitória;2018;23/08/2018 19:30;Maracanã
+20;354;277;1;1;Ceará;Santos;2018;08/08/2018 19:30;Presidente Vargas (CE)
+20;292;327;0;2;Sport;América-MG;2018;22/08/2018 21:00;Ilha do Retiro
+20;275;263;2;0;Palmeiras;Botafogo;2018;22/08/2018 21:00;Arena Palmeiras
+20;284;283;1;1;Grêmio;Cruzeiro;2018;22/08/2018 21:45;Arena do Grêmio
+21;283;266;2;1;Cruzeiro;Fluminense;2018;25/08/2018 21:00;Mineirão
+21;293;284;2;1;Atlético-PR;Grêmio;2018;25/08/2018 19:00;Arena da Baixada
+21;327;262;2;2;América-MG;Flamengo;2018;26/08/2018 16:00;Independência
+21;287;282;1;0;Vitória;Atlético-MG;2018;26/08/2018 16:00;Barradão
+21;267;315;3;1;Vasco;Chapecoense;2018;26/08/2018 19:00;São Januário
+21;263;292;2;0;Botafogo;Sport;2018;25/08/2018 21:00;Engenhão
+21;276;354;1;0;São Paulo;Ceará;2018;26/08/2018 11:00;Morumbi
+21;277;265;2;0;Santos;Bahia;2018;25/08/2018 16:00;Vila Belmiro
+21;264;289;1;0;Corinthians;Paraná;2018;25/08/2018 19:00;Arena Corinthians
+21;285;275;0;0;Internacional;Palmeiras;2018;26/08/2018 16:00;Beira-Rio
+22;283;285;0;0;Cruzeiro;Internacional;2018;02/09/2018 19:00;Mineirão
+22;293;265;2;0;Atlético-PR;Bahia;2018;02/09/2018 16:00;Arena da Baixada
+22;315;275;1;2;Chapecoense;Palmeiras;2018;02/09/2018 19:00;Arena Condá
+22;287;327;1;0;Vitória;América-MG;2018;01/09/2018 16:00;Barradão
+22;267;277;0;3;Vasco;Santos;2018;01/09/2018 19:00;Maracanã
+22;262;354;0;1;Flamengo;Ceará;2018;02/09/2018 11:00;Maracanã
+22;276;266;1;1;São Paulo;Fluminense;2018;02/09/2018 16:00;Morumbi
+22;292;289;1;0;Sport;Paraná;2018;02/09/2018 16:00;Ilha do Retiro
+22;264;282;1;1;Corinthians;Atlético-MG;2018;01/09/2018 21:00;Arena Corinthians
+22;284;263;4;0;Grêmio;Botafogo;2018;01/09/2018 16:00;Arena do Grêmio
+23;;;2;0;Palmeiras;Atlético-PR;2018;05/09/2018 21:00;Arena Palmeiras
+23;;;2;0;Bahia;Sport;2018;05/09/2018 19:30;Fonte Nova
+23;;;1;1;Botafogo;Cruzeiro;2018;05/09/2018 19:30;Engenhão
+23;;;2;1;Ceará;Corinthians;2018;05/09/2018 20:00;Castelão (CE)
+23;;;1;1;Paraná;Chapecoense;2018;05/09/2018 21:00;Durival Britto
+23;;;1;0;Atlético-MG;São Paulo;2018;05/09/2018 21:45;Independência
+23;;;2;1;Internacional;Flamengo;2018;05/09/2018 21:45;Beira-Rio
+23;;;0;0;Fluminense;Vitória;2018;06/09/2018 19:00;Maracanã
+23;;;0;0;Santos;Grêmio;2018;06/09/2018 19:00;Pacaembu
+23;;;2;1;América-MG;Vasco;2018;06/09/2018 20:00;Independência
+24;282;293;3;1;Atlético-MG;Atlético-PR;2018;10/09/2018 20:00;Independência
+24;289;277;0;2;Paraná;Santos;2018;09/09/2018 19:00;Durival Britto
+24;327;354;0;0;América-MG;Ceará;2018;09/09/2018 16:00;Independência
+24;287;267;1;0;Vitória;Vasco;2018;09/09/2018 19:00;Barradão
+24;266;263;1;0;Fluminense;Botafogo;2018;09/09/2018 16:00;Maracanã
+24;262;315;2;0;Flamengo;Chapecoense;2018;08/09/2018 21:00;Maracanã
+24;276;265;1;0;São Paulo;Bahia;2018;08/09/2018 19:00;Morumbi
+24;292;283;0;0;Sport;Cruzeiro;2018;08/09/2018 16:00;Ilha do Retiro
+24;275;264;1;0;Palmeiras;Corinthians;2018;09/09/2018 16:00;Arena Palmeiras
+24;285;284;1;0;Internacional;Grêmio;2018;09/09/2018 16:00;Beira-Rio
+25;;;2;0;Ceará;Vitória;2018;15/09/2018 16:00;Castelão (CE)
+25;;;2;0;Grêmio;Paraná;2018;15/09/2018 16:00;Arena do Grêmio
+25;;;1;1;Vasco;Flamengo;2018;15/09/2018 19:00;Mané Garrincha
+25;;;1;0;Botafogo;América-MG;2018;16/09/2018 11:00;Engenhão
+25;;;0;0;Cruzeiro;Atlético-MG;2018;16/09/2018 16:00;Mineirão
+25;;;3;1;Atlético-PR;Fluminense;2018;16/09/2018 16:00;Arena da Baixada
+25;;;1;1;Bahia;Palmeiras;2018;16/09/2018 16:00;Fonte Nova
+25;;;0;0;Santos;São Paulo;2018;16/09/2018 16:00;Vila Belmiro
+25;;;2;1;Corinthians;Sport;2018;16/09/2018 19:00;Arena Corinthians
+25;;;2;1;Chapecoense;Internacional;2018;17/09/2018 20:00;Arena Condá
+26;;;1;1;São Paulo;América-MG;2018;22/09/2018 16:00;Morumbi
+26;;;3;2;Grêmio;Ceará;2018;23/09/2018 11:00;Arena do Grêmio
+26;;;3;0;Atlético-PR;Paraná;2018;23/09/2018 16:00;Arena da Baixada
+26;;;2;1;Flamengo;Atlético-MG;2018;23/09/2018 16:00;Maracanã
+26;;;1;1;Corinthians;Internacional;2018;23/09/2018 16:00;Arena Corinthians
+26;;;3;4;Vitória;Botafogo;2018;23/09/2018 18:00;Barradão
+26;;;0;1;Sport;Palmeiras;2018;23/09/2018 18:00;Ilha do Retiro
+26;;;2;1;Cruzeiro;Santos;2018;23/09/2018 19:00;Mineirão
+26;;;1;2;Chapecoense;Fluminense;2018;24/09/2018 20:00;Arena Condá
+26;;;2;1;Vasco;Bahia;2018;24/09/2018 20:00;São Januário
+27;;;0;1;Fluminense;Grêmio;2018;29/09/2018 16:00;Engenhão
+27;;;0;0;América-MG;Corinthians;2018;29/09/2018 19:00;Independência
+27;;;0;0;Bahia;Flamengo;2018;29/09/2018 21:00;Fonte Nova
+27;;;3;1;Palmeiras;Cruzeiro;2018;30/09/2018 11:00;Pacaembu
+27;;;5;2;Atlético-MG;Sport;2018;30/09/2018 16:00;Independência
+27;;;2;2;Botafogo;São Paulo;2018;30/09/2018 16:00;Engenhão
+27;;;1;0;Santos;Atlético-PR;2018;30/09/2018 16:00;Vila Belmiro
+27;;;2;1;Internacional;Vitória;2018;30/09/2018 16:00;Beira-Rio
+27;;;3;1;Ceará;Chapecoense;2018;30/09/2018 19:00;Castelão (CE)
+27;;;1;1;Paraná;Vasco;2018;01/10/2018 20:00;Durival Britto
+28;;;2;1;Sport;Internacional;2018;05/10/2018 19:00;Ilha do Retiro
+28;;;0;3;Corinthians;Flamengo;2018;05/10/2018 21:00;Arena Corinthians
+28;;;0;1;Vitória;Santos;2018;05/10/2018 21:30;Barradão
+28;;;4;0;Atlético-PR;América-MG;2018;06/10/2018 16:00;Arena da Baixada
+28;;;1;0;Chapecoense;Atlético-MG;2018;06/10/2018 16:00;Arena Condá
+28;;;0;2;São Paulo;Palmeiras;2018;06/10/2018 18:00;Morumbi
+28;;;2;2;Grêmio;Bahia;2018;06/10/2018 21:00;Arena do Grêmio
+28;;;4;0;Fluminense;Paraná;2018;08/10/2018 20:00;Maracanã
+28;;;1;1;Botafogo;Vasco;2018;09/10/2018 21:00;Engenhão
+28;;;0;2;Cruzeiro;Ceará;2018;24/10/2018 19:30;Mineirão
+29;;;3;0;Flamengo;Fluminense;2018;13/10/2018 17:00;Maracanã
+29;;;1;0;Santos;Corinthians;2018;13/10/2018 19:00;Pacaembu
+29;;;2;0;Bahia;Paraná;2018;13/10/2018 21:00;Pituaçu
+29;;;0;1;Chapecoense;Vitória;2018;14/10/2018 11:00;Arena Condá
+29;;;2;0;Vasco;Cruzeiro;2018;14/10/2018 16:00;São Januário
+29;;;2;0;Palmeiras;Grêmio;2018;14/10/2018 16:00;Pacaembu
+29;;;3;1;Internacional;São Paulo;2018;14/10/2018 16:00;Beira-Rio
+29;;;0;0;Atlético-MG;América-MG;2018;14/10/2018 19:00;Independência
+29;;;4;0;Atlético-PR;Sport;2018;14/10/2018 19:00;Arena da Baixada
+29;;;0;0;Ceará;Botafogo;2018;15/10/2018 20:00;Castelão (CE)
+30;;;1;1;América-MG;Grêmio;2018;20/10/2018 16:00;Independência
+30;;;0;1;Botafogo;Bahia;2018;20/10/2018 16:00;Engenhão
+30;;;0;0;São Paulo;Atlético-PR;2018;20/10/2018 19:00;Morumbi
+30;;;2;1;Sport;Vasco;2018;20/10/2018 19:00;Ilha do Retiro
+30;;;2;2;Vitória;Corinthians;2018;21/10/2018 16:00;Barradão
+30;;;1;0;Fluminense;Atlético-MG;2018;21/10/2018 16:00;Engenhão
+30;;;2;1;Palmeiras;Ceará;2018;21/10/2018 16:00;Pacaembu
+30;;;3;0;Cruzeiro;Chapecoense;2018;21/10/2018 19:00;Independência
+30;;;0;4;Paraná;Flamengo;2018;21/10/2018 19:00;Durival Britto
+30;;;2;2;Internacional;Santos;2018;22/10/2018 20:00;Beira-Rio
+31;;;0;1;Vitória;São Paulo;2018;26/10/2018 19:30;Barradão
+31;;;1;1;Vasco;Internacional;2018;26/10/2018 21:30;São Januário
+31;;;3;0;Santos;Fluminense;2018;27/10/2018 16:30;Vila Belmiro
+31;;;3;4;Grêmio;Sport;2018;27/10/2018 16:30;Arena do Grêmio
+31;;;1;0;Chapecoense;América-MG;2018;27/10/2018 19:00;Arena Condá
+31;;;1;1;Flamengo;Palmeiras;2018;27/10/2018 19:00;Maracanã
+31;;;2;1;Corinthians;Bahia;2018;27/10/2018 19:00;Arena Corinthians
+31;;;3;1;Cruzeiro;Paraná;2018;27/10/2018 21:00;Mineirão
+31;;;2;1;Atlético-PR;Botafogo;2018;27/10/2018 21:00;Arena da Baixada
+31;;;2;1;Ceará;Atlético-MG;2018;29/10/2018 20:00;Castelão (CE)
+32;;;0;1;Atlético-MG;Grêmio;2018;03/11/2018 17:00;Independência
+32;;;0;1;Fluminense;Vasco;2018;03/11/2018 17:00;Maracanã
+32;;;3;2;Palmeiras;Santos;2018;03/11/2018 19:00;Arena Palmeiras
+32;;;1;1;Paraná;Vitória;2018;04/11/2018 17:00;Durival Britto
+32;;;1;2;América-MG;Cruzeiro;2018;04/11/2018 17:00;Independência
+32;;;1;0;Botafogo;Corinthians;2018;04/11/2018 17:00;Engenhão
+32;;;2;2;São Paulo;Flamengo;2018;04/11/2018 17:00;Morumbi
+32;;;1;0;Bahia;Chapecoense;2018;04/11/2018 19:00;Fonte Nova
+32;;;2;1;Internacional;Atlético-PR;2018;04/11/2018 19:00;Beira-Rio
+32;;;1;0;Sport;Ceará;2018;05/11/2018 20:00;Ilha do Retiro
+33;;;0;1;América-MG;Paraná;2018;10/11/2018 17:00;Independência
+33;;;1;1;Corinthians;São Paulo;2018;10/11/2018 17:00;Arena Corinthians
+33;;;2;0;Atlético-PR;Cruzeiro;2018;10/11/2018 19:00;Arena da Baixada
+33;;;2;1;Botafogo;Flamengo;2018;10/11/2018 19:00;Engenhão
+33;;;1;1;Atlético-MG;Palmeiras;2018;11/11/2018 17:00;Independência
+33;;;2;2;Vitória;Bahia;2018;11/11/2018 17:00;Barradão
+33;;;1;1;Ceará;Internacional;2018;11/11/2018 17:00;Castelão (CE)
+33;;;2;1;Grêmio;Vasco;2018;11/11/2018 17:00;Arena do Grêmio
+33;;;0;0;Fluminense;Sport;2018;11/11/2018 19:00;Maracanã
+33;;;0;1;Santos;Chapecoense;2018;12/11/2018 20:00;Pacaembu
+34;;;1;1;Vasco;Atlético-PR;2018;14/11/2018 19:30;São Januário
+34;;;0;1;Paraná;Atlético-MG;2018;14/11/2018 21:00;Durival Britto
+34;;;2;1;Bahia;Ceará;2018;14/11/2018 21:00;Fonte Nova
+34;;;1;0;Cruzeiro;Corinthians;2018;14/11/2018 21:45;Mineirão
+34;;;0;0;Sport;Vitória;2018;14/11/2018 21:45;Ilha do Retiro
+34;;;3;0;Palmeiras;Fluminense;2018;14/11/2018 21:45;Arena Palmeiras
+34;;;0;1;Chapecoense;Botafogo;2018;15/11/2018 17:00;Arena Condá
+34;;;1;0;Flamengo;Santos;2018;15/11/2018 17:00;Maracanã
+34;;;1;1;São Paulo;Grêmio;2018;15/11/2018 21:00;Morumbi
+34;;;2;0;Internacional;América-MG;2018;15/11/2018 21:00;Beira-Rio
+35;;;1;2;Vitória;Atlético-PR;2018;17/11/2018 19:00;Barradão
+35;;;1;0;Corinthians;Vasco;2018;17/11/2018 19:00;Arena Corinthians
+35;;;1;0;Atlético-MG;Bahia;2018;17/11/2018 21:00;Independência
+35;;;1;1;Paraná;Palmeiras;2018;18/11/2018 17:00;Estádio do Café
+35;;;2;1;América-MG;Santos;2018;18/11/2018 17:00;Independência
+35;;;1;0;Botafogo;Internacional;2018;18/11/2018 17:00;Engenhão
+35;;;0;1;Sport;Flamengo;2018;18/11/2018 17:00;Ilha do Retiro
+35;;;1;0;São Paulo;Cruzeiro;2018;18/11/2018 19:00;Morumbi
+35;;;2;0;Grêmio;Chapecoense;2018;18/11/2018 19:00;Arena do Grêmio
+35;;;0;0;Fluminense;Ceará;2018;19/11/2018 20:00;Maracanã
+36;;;1;2;Internacional;Atlético-MG;2018;21/11/2018 19:30;Beira-Rio
+36;;;1;1;Santos;Botafogo;2018;21/11/2018 21:00;Vila Belmiro
+36;;;3;0;Cruzeiro;Vitória;2018;21/11/2018 21:45;Mineirão
+36;;;1;0;Atlético-PR;Corinthians;2018;21/11/2018 21:45;Arena da Baixada
+36;;;2;0;Flamengo;Grêmio;2018;21/11/2018 21:45;Maracanã
+36;;;4;0;Palmeiras;América-MG;2018;21/11/2018 21:45;Arena Palmeiras
+36;;;2;0;Vasco;São Paulo;2018;22/11/2018 20:00;São Januário
+36;;;2;1;Chapecoense;Sport;2018;22/11/2018 21:00;Arena Condá
+36;;;2;0;Bahia;Fluminense;2018;22/11/2018 21:00;Fonte Nova
+36;;;1;0;Ceará;Paraná;2018;22/11/2018 21:00;Castelão (CE)
+37;;;3;2;Santos;Atlético-MG;2018;24/11/2018 20:00;Vila Belmiro
+37;;;0;2;Cruzeiro;Flamengo;2018;25/11/2018 17:00;Mineirão
+37;;;2;2;Atlético-PR;Ceará;2018;25/11/2018 17:00;Arena da Baixada
+37;;;0;0;Vitória;Grêmio;2018;25/11/2018 17:00;Barradão
+37;;;0;1;Vasco;Palmeiras;2018;25/11/2018 17:00;São Januário
+37;;;1;0;América-MG;Bahia;2018;25/11/2018 19:00;Independência
+37;;;0;0;Corinthians;Chapecoense;2018;25/11/2018 19:00;Arena Corinthians
+37;;;2;0;Internacional;Fluminense;2018;25/11/2018 19:00;Beira-Rio
+37;;;2;1;Botafogo;Paraná;2018;26/11/2018 20:00;Engenhão
+37;;;0;0;São Paulo;Sport;2018;26/11/2018 20:00;Morumbi
+38;;;1;0;Atlético-MG;Botafogo;2018;01/12/2018 17:00;Independência
+38;;;1;2;Flamengo;Atlético-PR;2018;01/12/2018 17:00;Maracanã
+38;;;1;1;Paraná;Internacional;2018;02/12/2018 17:00;Durival Britto
+38;;;1;0;Chapecoense;São Paulo;2018;02/12/2018 17:00;Arena Condá
+38;;;0;0;Bahia;Cruzeiro;2018;02/12/2018 17:00;Pituaçu
+38;;;1;0;Fluminense;América-MG;2018;02/12/2018 17:00;Maracanã
+38;;;0;0;Ceará;Vasco;2018;02/12/2018 17:00;Castelão (CE)
+38;;;2;1;Sport;Santos;2018;02/12/2018 17:00;Ilha do Retiro
+38;;;3;2;Palmeiras;Vitória;2018;02/12/2018 17:00;Arena Palmeiras
+38;;;1;0;Grêmio;Corinthians;2018;02/12/2018 17:00;Arena do Grêmio

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+33,262,283,2,0,Flamengo,Cruzeiro,2017,08/11/2017 21:45,Luso-Brasileiro
+33,287,275,3,1,Vitória,Palmeiras,2017,08/11/2017 21:45,Barradão
+33,282,373,3,2,Atlético-MG,Atlético-GO,2017,09/11/2017 20:00,Independência
+33,276,315,2,2,São Paulo,Chapecoense,2017,09/11/2017 20:00,Pacaembu
+33,293,264,0,1,Atlético-PR,Corinthians,2017,08/11/2017 21:00,Arena da Baixada
+33,303,284,0,1,Ponte Preta,Grêmio,2017,08/11/2017 19:30,Moisés Lucarelli
+33,277,267,1,2,Santos,Vasco,2017,08/11/2017 21:45,Vila Belmiro
+33,314,265,1,2,Avaí,Bahia,2017,08/11/2017 19:30,Ressacada
+33,266,294,2,2,Fluminense,Coritiba,2017,09/11/2017 21:00,Maracanã
+33,292,263,1,2,Sport,Botafogo,2017,08/11/2017 21:00,Ilha do Retiro

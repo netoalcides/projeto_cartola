@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+37,266,285,1,1,Fluminense,Internacional,2015,28/11/2015 19:30,Maracanã
+37,267,277,1,0,Vasco,Santos,2015,29/11/2015 17:00,São Januário
+37,275,294,0,2,Palmeiras,Coritiba,2015,29/11/2015 18:00,Allianz Parque
+37,276,316,3,2,São Paulo,Figueirense,2015,28/11/2015 17:00,Morumbi
+37,283,317,3,0,Cruzeiro,Joinville,2015,29/11/2015 17:00,Mineirão
+37,284,282,2,1,Grêmio,Atlético-MG,2015,29/11/2015 17:00,Arena do Grêmio
+37,292,264,2,0,Sport,Corinthians,2015,29/11/2015 17:00,Arena Pernambuco
+37,293,262,3,0,Atlético-PR,Flamengo,2015,29/11/2015 19:30,Arena da Baixada
+37,314,303,1,0,Avaí,Ponte Preta,2015,28/11/2015 21:00,Ressacada
+37,315,290,1,3,Chapecoense,Goiás,2015,29/11/2015 18:00,Arena Condá

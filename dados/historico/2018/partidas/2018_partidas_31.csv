@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+31,287,276,0,1,Vitória,São Paulo,2018,26/10/2018 19:30,Barradão
+31,267,285,1,1,Vasco,Internacional,2018,26/10/2018 21:30,São Januário
+31,277,266,3,0,Santos,Fluminense,2018,27/10/2018 16:30,Vila Belmiro
+31,284,292,3,4,Grêmio,Sport,2018,27/10/2018 16:30,Arena do Grêmio
+31,315,327,1,0,Chapecoense,América-MG,2018,27/10/2018 19:00,Arena Condá
+31,262,275,1,1,Flamengo,Palmeiras,2018,27/10/2018 19:00,Maracanã
+31,264,265,2,1,Corinthians,Bahia,2018,27/10/2018 19:00,Arena Corinthians
+31,283,289,3,1,Cruzeiro,Paraná,2018,27/10/2018 21:00,Mineirão
+31,293,263,2,1,Atlético-PR,Botafogo,2018,27/10/2018 21:00,Arena da Baixada
+31,354,282,2,1,Ceará,Atlético-MG,2018,29/10/2018 20:00,Castelão (CE)

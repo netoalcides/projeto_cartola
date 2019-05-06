@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+15,282,289,2,0,Atlético-MG,Paraná,2018,25/07/2018 21:00,Independência
+15,293,267,1,0,Atlético-PR,Vasco,2018,29/08/2018 19:30,Arena da Baixada
+15,327,285,2,1,América-MG,Internacional,2018,26/07/2018 20:00,Independência
+15,287,292,1,0,Vitória,Sport,2018,26/07/2018 19:30,Barradão
+15,266,275,1,0,Fluminense,Palmeiras,2018,25/07/2018 19:30,Maracanã
+15,263,315,1,0,Botafogo,Chapecoense,2018,26/07/2018 19:30,Engenhão
+15,354,265,2,1,Ceará,Bahia,2018,29/08/2018 19:30,Presidente Vargas (CE)
+15,277,262,1,1,Santos,Flamengo,2018,25/07/2018 21:45,Vila Belmiro
+15,264,283,2,0,Corinthians,Cruzeiro,2018,25/07/2018 21:45,Arena Corinthians
+15,284,276,2,1,Grêmio,São Paulo,2018,26/07/2018 19:30,Arena do Grêmio

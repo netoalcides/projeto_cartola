@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+35,263,315,0,2,Botafogo,Chapecoense,2016,16/11/2016 19:30,Arena Botafogo
+35,266,293,1,1,Fluminense,Atlético-PR,2016,15/11/2016 17:00,Maracanã
+35,276,284,1,1,São Paulo,Grêmio,2016,17/11/2016 19:30,Morumbi
+35,277,287,3,2,Santos,Vitória,2016,17/11/2016 19:30,Vila Belmiro
+35,282,275,1,1,Atlético-MG,Palmeiras,2016,17/11/2016 21:00,Independência
+35,285,303,1,1,Internacional,Ponte Preta,2016,17/11/2016 21:00,Beira-Rio
+35,292,283,0,1,Sport,Cruzeiro,2016,16/11/2016 21:45,Ilha do Retiro
+35,294,344,1,0,Coritiba,Santa Cruz,2016,16/11/2016 21:00,Couto Pereira
+35,316,264,1,1,Figueirense,Corinthians,2016,16/11/2016 21:45,Orlando Scarpelli
+35,327,262,0,1,América-MG,Flamengo,2016,16/11/2016 21:45,Mineirão

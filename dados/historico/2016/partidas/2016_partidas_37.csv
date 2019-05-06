@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+37,262,277,2,0,Flamengo,Santos,2016,27/11/2016 17:00,Maracanã
+37,263,303,1,1,Botafogo,Ponte Preta,2016,26/11/2016 20:00,Arena Botafogo
+37,264,293,0,0,Corinthians,Atlético-PR,2016,26/11/2016 21:00,Itaquerão
+37,275,315,1,0,Palmeiras,Chapecoense,2016,27/11/2016 17:00,Allianz Parque
+37,282,276,1,2,Atlético-MG,São Paulo,2016,27/11/2016 17:00,Independência
+37,285,283,1,0,Internacional,Cruzeiro,2016,27/11/2016 17:00,Beira-Rio
+37,294,287,0,1,Coritiba,Vitória,2016,28/11/2016 20:00,Couto Pereira
+37,316,266,1,0,Figueirense,Fluminense,2016,27/11/2016 19:30,Orlando Scarpelli
+37,327,292,2,2,América-MG,Sport,2016,26/11/2016 20:00,Independência
+37,344,284,5,1,Santa Cruz,Grêmio,2016,27/11/2016 19:30,Arruda

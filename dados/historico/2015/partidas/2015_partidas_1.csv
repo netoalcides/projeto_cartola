@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+1,266,317,1,0,Fluminense,Joinville,2015,09/05/2015 21:00,Maracanã
+1,267,290,0,0,Vasco,Goiás,2015,10/05/2015 18:30,São Januário
+1,275,282,2,2,Palmeiras,Atlético-MG,2015,09/05/2015 18:30,Allianz Parque
+1,276,262,2,1,São Paulo,Flamengo,2015,10/05/2015 16:00,Morumbi
+1,283,264,0,1,Cruzeiro,Corinthians,2015,10/05/2015 16:00,Arena Pantanal
+1,284,303,3,3,Grêmio,Ponte Preta,2015,10/05/2015 11:00,Arena do Grêmio
+1,292,316,4,1,Sport,Figueirense,2015,10/05/2015 16:00,Ilha do Retiro
+1,293,285,3,0,Atlético-PR,Internacional,2015,10/05/2015 16:00,Arena da Baixada
+1,314,277,1,1,Avaí,Santos,2015,10/05/2015 18:30,Ressacada
+1,315,294,2,1,Chapecoense,Coritiba,2015,09/05/2015 18:30,Arena Condá

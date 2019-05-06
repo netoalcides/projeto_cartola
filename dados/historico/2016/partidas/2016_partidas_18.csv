@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+18,266,316,3,2,Fluminense,Figueirense,2016,03/09/2016 16:00,Giulite Coutinho
+18,276,282,1,2,São Paulo,Atlético-MG,2016,04/08/2016 19:30,Morumbi
+18,277,262,0,0,Santos,Flamengo,2016,03/08/2016 21:45,Vila Belmiro
+18,283,285,4,2,Cruzeiro,Internacional,2016,04/08/2016 21:00,Mineirão
+18,284,344,0,0,Grêmio,Santa Cruz,2016,04/08/2016 19:30,Arena do Grêmio
+18,287,294,3,1,Vitória,Coritiba,2016,03/08/2016 19:30,Joia da Princesa
+18,292,327,1,1,Sport,América-MG,2016,03/08/2016 19:30,Ilha do Retiro
+18,293,264,2,0,Atlético-PR,Corinthians,2016,03/08/2016 21:45,Arena da Baixada
+18,303,263,2,0,Ponte Preta,Botafogo,2016,04/08/2016 19:15,Moisés Lucarelli
+18,315,275,1,1,Chapecoense,Palmeiras,2016,04/08/2016 21:30,Arena Condá

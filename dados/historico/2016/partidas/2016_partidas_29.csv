@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+29,262,344,3,0,Flamengo,Santa Cruz,2016,09/10/2016 17:00,Pacaembu
+29,264,282,0,0,Corinthians,Atlético-MG,2016,05/10/2016 21:00,Itaquerão
+29,277,266,2,1,Santos,Fluminense,2016,05/10/2016 21:00,Vila Belmiro
+29,283,303,2,0,Cruzeiro,Ponte Preta,2016,08/10/2016 21:00,Mineirão
+29,285,294,1,0,Internacional,Coritiba,2016,06/10/2016 19:30,Beira-Rio
+29,287,284,0,1,Vitória,Grêmio,2016,05/10/2016 19:30,Fonte Nova
+29,292,276,1,1,Sport,São Paulo,2016,05/10/2016 21:45,Ilha do Retiro
+29,293,315,3,1,Atlético-PR,Chapecoense,2016,05/10/2016 19:30,Arena da Baixada
+29,316,263,0,1,Figueirense,Botafogo,2016,09/10/2016 17:00,Orlando Scarpelli
+29,327,275,0,2,América-MG,Palmeiras,2016,09/10/2016 17:00,Café

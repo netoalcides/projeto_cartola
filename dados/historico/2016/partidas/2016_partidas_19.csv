@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+19,262,293,1,0,Flamengo,Atlético-PR,2016,06/08/2016 18:30,Kléber Andrade
+19,263,284,2,1,Botafogo,Grêmio,2016,04/09/2016 16:00,Arena Botafogo
+19,264,283,1,1,Corinthians,Cruzeiro,2016,08/08/2016 21:00,Pacaembu
+19,275,287,2,1,Palmeiras,Vitória,2016,07/08/2016 16:00,Allianz Parque
+19,282,315,3,1,Atlético-MG,Chapecoense,2016,08/08/2016 20:00,Independência
+19,285,266,2,2,Internacional,Fluminense,2016,07/08/2016 16:15,Beira-Rio
+19,294,303,3,1,Coritiba,Ponte Preta,2016,07/08/2016 16:00,Couto Pereira
+19,316,292,1,1,Figueirense,Sport,2016,07/08/2016 18:30,Orlando Scarpelli
+19,327,277,1,0,América-MG,Santos,2016,07/08/2016 11:00,Independência
+19,344,276,1,2,Santa Cruz,São Paulo,2016,07/08/2016 16:15,Arruda

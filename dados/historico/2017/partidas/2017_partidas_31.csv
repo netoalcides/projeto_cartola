@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+31,262,267,0,0,Flamengo,Vasco,2017,28/10/2017 19:00,Maracanã
+31,275,283,2,2,Palmeiras,Cruzeiro,2017,30/10/2017 20:00,Arena Palmeiras
+31,282,263,0,0,Atlético-MG,Botafogo,2017,29/10/2017 17:00,Independência
+31,293,315,0,0,Atlético-PR,Chapecoense,2017,28/10/2017 21:00,Arena da Baixada
+31,314,284,2,2,Avaí,Grêmio,2017,29/10/2017 19:00,Ressacada
+31,303,264,1,0,Ponte Preta,Corinthians,2017,29/10/2017 17:00,Moisés Lucarelli
+31,276,277,2,1,São Paulo,Santos,2017,28/10/2017 17:00,Pacaembu
+31,292,294,3,4,Sport,Coritiba,2017,29/10/2017 18:00,Ilha do Retiro
+31,266,265,1,1,Fluminense,Bahia,2017,29/10/2017 17:00,Maracanã
+31,287,373,1,1,Vitória,Atlético-GO,2017,29/10/2017 18:00,Barradão

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+7,263,287,1,1,Botafogo,Vitória,2016,12/06/2016 11:00,Raulino de Oliveira
+7,266,284,1,1,Fluminense,Grêmio,2016,11/06/2016 18:30,Raulino de Oliveira
+7,275,264,1,0,Palmeiras,Corinthians,2016,12/06/2016 16:00,Allianz Parque
+7,276,293,1,2,São Paulo,Atlético-PR,2016,11/06/2016 21:00,Morumbi
+7,282,283,2,3,Atlético-MG,Cruzeiro,2016,12/06/2016 16:00,Independência
+7,285,327,3,1,Internacional,América-MG,2016,11/06/2016 16:00,Beira-Rio
+7,294,292,3,2,Coritiba,Sport,2016,12/06/2016 11:00,Couto Pereira
+7,303,315,2,1,Ponte Preta,Chapecoense,2016,11/06/2016 16:00,Moisés Lucarelli
+7,316,262,1,0,Figueirense,Flamengo,2016,12/06/2016 16:00,Orlando Scarpelli
+7,344,277,0,2,Santa Cruz,Santos,2016,12/06/2016 19:00,Arruda

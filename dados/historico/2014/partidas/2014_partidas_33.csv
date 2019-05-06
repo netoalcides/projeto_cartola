@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+33,263,293,0,2,Botafogo,Atlético-PR,2014,08/11/2014 21:00,Estádio Raulino de Oliveira
+33,264,277,1,0,Corinthians,Santos,2014,09/11/2014 19:30,Estádio Itaquerão
+33,275,282,0,2,Palmeiras,Atlético-MG,2014,08/11/2014 19:30,Pacaembu
+33,283,288,3,1,Cruzeiro,Criciúma,2014,09/11/2014 19:30,Mineirão
+33,284,285,4,1,Grêmio,Internacional,2014,09/11/2014 17:00,Arena do Grêmio
+33,287,276,1,2,Vitória,São Paulo,2014,09/11/2014 17:00,Estádio Barradão
+33,290,265,3,0,Goiás,Bahia,2014,09/11/2014 19:30,Estádio Serra Dourada
+33,292,262,2,2,Sport,Flamengo,2014,09/11/2014 17:00,Arena Pernambuco
+33,294,266,1,0,Coritiba,Fluminense,2014,08/11/2014 19:30,Couto Pereira
+33,316,315,1,0,Figueirense,Chapecoense,2014,09/11/2014 17:00,Estádio Orlando Scarpelli

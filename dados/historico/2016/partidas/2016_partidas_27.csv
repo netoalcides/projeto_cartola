@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+27,262,283,2,1,Flamengo,Cruzeiro,2016,25/09/2016 16:00,Kléber Andrade
+27,264,266,0,1,Corinthians,Fluminense,2016,25/09/2016 16:00,Itaquerão
+27,275,294,2,1,Palmeiras,Coritiba,2016,24/09/2016 16:00,Allianz Parque
+27,282,285,3,1,Atlético-MG,Internacional,2016,25/09/2016 18:30,Independência
+27,284,315,1,0,Grêmio,Chapecoense,2016,25/09/2016 16:00,Arena do Grêmio
+27,287,276,2,0,Vitória,São Paulo,2016,25/09/2016 16:00,Barradão
+27,292,277,1,0,Sport,Santos,2016,24/09/2016 18:30,Ilha do Retiro
+27,293,303,3,0,Atlético-PR,Ponte Preta,2016,25/09/2016 11:00,Arena da Baixada
+27,316,344,3,1,Figueirense,Santa Cruz,2016,25/09/2016 11:00,Orlando Scarpelli
+27,327,263,1,0,América-MG,Botafogo,2016,24/09/2016 21:00,Independência

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+19,266,316,2,1,Fluminense,Figueirense,2015,16/08/2015 16:00,Maracanã
+19,267,294,0,1,Vasco,Coritiba,2015,15/08/2015 18:30,Maracanã
+19,275,262,4,2,Palmeiras,Flamengo,2015,16/08/2015 11:00,Allianz Parque
+19,276,290,0,3,São Paulo,Goiás,2015,15/08/2015 21:00,Morumbi
+19,283,285,0,0,Cruzeiro,Internacional,2015,16/08/2015 16:00,Mineirão
+19,284,317,2,1,Grêmio,Joinville,2015,16/08/2015 18:30,Arena do Grêmio
+19,292,303,1,1,Sport,Ponte Preta,2015,16/08/2015 16:00,Ilha do Retiro
+19,293,277,0,0,Atlético-PR,Santos,2015,15/08/2015 18:30,Arena da Baixada
+19,314,264,1,2,Avaí,Corinthians,2015,16/08/2015 16:00,Ressacada
+19,315,282,2,1,Chapecoense,Atlético-MG,2015,16/08/2015 18:30,Arena Condá

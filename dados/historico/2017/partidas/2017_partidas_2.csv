@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+2,373,262,0,3,Atlético-GO,Flamengo,2017,20/05/2017 19:00,Serra Dourada
+2,315,275,1,0,Chapecoense,Palmeiras,2017,20/05/2017 19:00,Arena Condá
+2,267,265,2,1,Vasco,Bahia,2017,21/05/2017 11:00,São Januário
+2,292,283,1,1,Sport,Cruzeiro,2017,21/05/2017 19:00,Ilha do Retiro
+2,263,303,2,0,Botafogo,Ponte Preta,2017,21/05/2017 18:00,Engenhão
+2,293,284,0,2,Atlético-PR,Grêmio,2017,21/05/2017 16:00,Arena da Baixada
+2,287,264,0,1,Vitória,Corinthians,2017,21/05/2017 16:00,Fonte Nova
+2,276,314,2,0,São Paulo,Avaí,2017,22/05/2017 20:00,Morumbi
+2,282,266,1,2,Atlético-MG,Fluminense,2017,21/05/2017 16:00,Independência
+2,277,294,1,0,Santos,Coritiba,2017,20/05/2017 16:00,Vila Belmiro

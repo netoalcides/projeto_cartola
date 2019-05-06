@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+34,262,290,4,1,Flamengo,Goiás,2015,08/11/2015 17:00,Maracanã
+34,264,294,2,1,Corinthians,Coritiba,2015,07/11/2015 19:30,Arena Corinthians
+34,266,315,2,3,Fluminense,Chapecoense,2015,07/11/2015 21:00,Maracanã
+34,275,267,0,2,Palmeiras,Vasco,2015,08/11/2015 17:00,Allianz Parque
+34,283,276,2,1,Cruzeiro,São Paulo,2015,08/11/2015 17:00,Mineirão
+34,285,303,1,0,Internacional,Ponte Preta,2015,07/11/2015 17:00,Beira-Rio
+34,292,284,1,0,Sport,Grêmio,2015,08/11/2015 19:30,Ilha do Retiro
+34,293,314,2,1,Atlético-PR,Avaí,2015,07/11/2015 19:30,Arena da Baixada
+34,316,282,0,1,Figueirense,Atlético-MG,2015,08/11/2015 17:00,Orlando Scarpelli
+34,317,277,0,0,Joinville,Santos,2015,08/11/2015 18:00,Arena Joinville

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+11,263,294,1,0,Botafogo,Coritiba,2014,19/07/2014 21:00,Raulino de Oliveira
+11,266,277,1,0,Fluminense,Santos,2014,20/07/2014 18:30,Raulino de Oliveira
+11,275,283,1,2,Palmeiras,Cruzeiro,2014,20/07/2014 16:00,Pacaembu
+11,276,315,0,1,São Paulo,Chapecoense,2014,19/07/2014 18:30,Morumbi
+11,282,265,1,1,Atlético-MG,Bahia,2014,19/07/2014 18:30,Independência
+11,285,262,4,0,Internacional,Flamengo,2014,20/07/2014 16:00,Beira-Rio
+11,287,264,0,0,Vitória,Corinthians,2014,20/07/2014 16:00,Manoel Barradas
+11,290,292,0,0,Goiás,Sport,2014,20/07/2014 18:30,Serra Dourada
+11,293,288,2,0,Atlético-PR,Criciúma,2014,20/07/2014 18:30,Arena da Baixada
+11,316,284,0,1,Figueirense,Grêmio,2014,19/07/2014 18:30,Orlando Scarpelli

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+32,264,262,1,0,Corinthians,Flamengo,2015,25/10/2015 17:00,Arena Corinthians
+32,266,293,0,1,Fluminense,Atlético-PR,2015,24/10/2015 17:00,Maracanã
+32,267,284,0,0,Vasco,Grêmio,2015,25/10/2015 17:00,Maracanã
+32,275,292,0,2,Palmeiras,Sport,2015,24/10/2015 21:00,Allianz Parque
+32,282,303,2,1,Atlético-MG,Ponte Preta,2015,25/10/2015 19:30,Independência
+32,285,317,1,0,Internacional,Joinville,2015,24/10/2015 18:30,Beira-Rio
+32,290,283,0,1,Goiás,Cruzeiro,2015,25/10/2015 18:00,Serra Dourada
+32,294,276,1,2,Coritiba,São Paulo,2015,25/10/2015 17:00,Couto Pereira
+32,315,314,0,0,Chapecoense,Avaí,2015,25/10/2015 17:00,Arena Condá
+32,316,277,0,0,Figueirense,Santos,2015,24/10/2015 18:30,Orlando Scarpelli

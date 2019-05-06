@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+22,262,293,2,0,Flamengo,Atlético-PR,2017,27/08/2017 16:00,Luso-Brasileiro
+22,275,276,4,2,Palmeiras,São Paulo,2017,27/08/2017 16:00,Arena Palmeiras
+22,283,277,1,1,Cruzeiro,Santos,2017,27/08/2017 19:00,Mineirão
+22,303,282,1,2,Ponte Preta,Atlético-MG,2017,27/08/2017 16:00,Moisés Lucarelli
+22,284,292,5,0,Grêmio,Sport,2017,02/09/2017 16:00,Arena do Grêmio
+22,266,267,0,1,Fluminense,Vasco,2017,26/08/2017 16:00,Maracanã
+22,314,315,1,0,Avaí,Chapecoense,2017,27/08/2017 19:00,Ressacada
+22,294,287,0,1,Coritiba,Vitória,2017,28/08/2017 20:00,Couto Pereira
+22,265,263,1,2,Bahia,Botafogo,2017,27/08/2017 16:00,Fonte Nova
+22,264,373,0,1,Corinthians,Atlético-GO,2017,26/08/2017 19:00,Arena Corinthians

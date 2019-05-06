@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+9,264,316,2,1,Corinthians,Figueirense,2015,27/06/2015 21:00,Arena Corinthians
+9,267,262,1,0,Vasco,Flamengo,2015,28/06/2015 18:30,Maracanã
+9,275,276,4,0,Palmeiras,São Paulo,2015,28/06/2015 16:00,Allianz Parque
+9,282,317,1,0,Atlético-MG,Joinville,2015,28/06/2015 11:00,Independência
+9,285,277,1,0,Internacional,Santos,2015,28/06/2015 18:30,Beira-Rio
+9,290,266,1,2,Goiás,Fluminense,2015,28/06/2015 16:00,Serra Dourada
+9,294,283,1,0,Coritiba,Cruzeiro,2015,28/06/2015 16:00,Couto Pereira
+9,303,293,2,1,Ponte Preta,Atlético-PR,2015,28/06/2015 16:00,Moisés Lucarelli
+9,314,284,1,2,Avaí,Grêmio,2015,27/06/2015 16:00,Ressacada
+9,315,292,1,1,Chapecoense,Sport,2015,27/06/2015 16:00,Arena Condá

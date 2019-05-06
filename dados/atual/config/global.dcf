@@ -1,0 +1,16 @@
+version: 0.8.2
+data_loading: FALSE
+data_loading_header: FALSE
+data_ignore:
+cache_loading: FALSE
+recursive_loading: FALSE
+munging: TRUE
+logging: TRUE
+logging_level: INFO
+load_libraries: TRUE
+libraries: httr, rjson, jsonlite, readr, dplyr, tidyr, magrittr, stringr, lubridate, tibble
+as_factors: FALSE
+data_tables: FALSE
+attach_internal_libraries: FALSE
+cache_loaded_data:  FALSE
+sticky_variables: NONE

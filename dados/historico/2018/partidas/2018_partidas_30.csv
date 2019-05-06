@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+30,327,284,1,1,América-MG,Grêmio,2018,20/10/2018 16:00,Independência
+30,263,265,0,1,Botafogo,Bahia,2018,20/10/2018 16:00,Engenhão
+30,276,293,0,0,São Paulo,Atlético-PR,2018,20/10/2018 19:00,Morumbi
+30,292,267,2,1,Sport,Vasco,2018,20/10/2018 19:00,Ilha do Retiro
+30,287,264,2,2,Vitória,Corinthians,2018,21/10/2018 16:00,Barradão
+30,266,282,1,0,Fluminense,Atlético-MG,2018,21/10/2018 16:00,Engenhão
+30,275,354,2,1,Palmeiras,Ceará,2018,21/10/2018 16:00,Pacaembu
+30,283,315,3,0,Cruzeiro,Chapecoense,2018,21/10/2018 19:00,Independência
+30,289,262,0,4,Paraná,Flamengo,2018,21/10/2018 19:00,Durival Britto
+30,285,277,2,2,Internacional,Santos,2018,22/10/2018 20:00,Beira-Rio

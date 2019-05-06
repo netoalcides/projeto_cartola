@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+37,277,282,3,2,Santos,Atlético-MG,2018,24/11/2018 20:00,Vila Belmiro
+37,283,262,0,2,Cruzeiro,Flamengo,2018,25/11/2018 17:00,Mineirão
+37,293,354,2,2,Atlético-PR,Ceará,2018,25/11/2018 17:00,Arena da Baixada
+37,287,284,0,0,Vitória,Grêmio,2018,25/11/2018 17:00,Barradão
+37,267,275,0,1,Vasco,Palmeiras,2018,25/11/2018 17:00,São Januário
+37,327,265,1,0,América-MG,Bahia,2018,25/11/2018 19:00,Independência
+37,264,315,0,0,Corinthians,Chapecoense,2018,25/11/2018 19:00,Arena Corinthians
+37,285,266,2,0,Internacional,Fluminense,2018,25/11/2018 19:00,Beira-Rio
+37,263,289,2,1,Botafogo,Paraná,2018,26/11/2018 20:00,Engenhão
+37,276,292,0,0,São Paulo,Sport,2018,26/11/2018 20:00,Morumbi

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+4,266,263,1,0,Fluminense,Botafogo,2016,29/05/2016 16:00,Raulino de Oliveira
+4,276,275,1,0,São Paulo,Palmeiras,2016,29/05/2016 16:00,Morumbi
+4,277,285,0,1,Santos,Internacional,2016,29/05/2016 18:30,Vila Belmiro
+4,283,327,1,1,Cruzeiro,América-MG,2016,28/05/2016 16:00,Mineirão
+4,284,294,2,0,Grêmio,Coritiba,2016,29/05/2016 18:30,Arena do Grêmio
+4,287,282,1,1,Vitória,Atlético-MG,2016,29/05/2016 16:00,Barradão
+4,292,264,0,2,Sport,Corinthians,2016,29/05/2016 11:00,Ilha do Retiro
+4,293,316,2,1,Atlético-PR,Figueirense,2016,28/05/2016 18:30,Arena da Baixada
+4,303,262,1,2,Ponte Preta,Flamengo,2016,29/05/2016 11:00,Moisés Lucarelli
+4,315,344,1,1,Chapecoense,Santa Cruz,2016,28/05/2016 21:00,Arena Condá

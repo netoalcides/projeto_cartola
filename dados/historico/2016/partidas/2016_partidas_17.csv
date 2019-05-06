@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+17,263,275,3,1,Botafogo,Palmeiras,2016,31/07/2016 18:30,Arena Botafogo
+17,266,303,3,0,Fluminense,Ponte Preta,2016,31/07/2016 11:00,Kléber Andrade
+17,276,315,2,2,São Paulo,Chapecoense,2016,31/07/2016 11:00,Morumbi
+17,277,283,2,0,Santos,Cruzeiro,2016,31/07/2016 16:00,Vila Belmiro
+17,282,344,3,0,Atlético-MG,Santa Cruz,2016,30/07/2016 21:00,Independência
+17,285,264,0,1,Internacional,Corinthians,2016,31/07/2016 16:00,Beira-Rio
+17,292,293,2,0,Sport,Atlético-PR,2016,30/07/2016 18:30,Ilha do Retiro
+17,294,262,0,2,Coritiba,Flamengo,2016,31/07/2016 16:00,Couto Pereira
+17,316,287,1,0,Figueirense,Vitória,2016,30/07/2016 18:30,Orlando Scarpelli
+17,327,284,0,0,América-MG,Grêmio,2016,31/07/2016 18:30,Independência

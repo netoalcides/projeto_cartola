@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+37,262,277,1,2,Flamengo,Santos,2017,26/11/2017 19:00,Luso-Brasileiro
+37,275,263,2,0,Palmeiras,Botafogo,2017,27/11/2017 20:00,Arena Palmeiras
+37,264,282,2,2,Corinthians,Atlético-MG,2017,26/11/2017 17:00,Arena Corinthians
+37,283,267,0,1,Cruzeiro,Vasco,2017,26/11/2017 17:00,Mineirão
+37,265,315,0,1,Bahia,Chapecoense,2017,26/11/2017 19:00,Fonte Nova
+37,314,293,1,0,Avaí,Atlético-PR,2017,26/11/2017 17:00,Ressacada
+37,284,373,1,1,Grêmio,Atlético-GO,2017,26/11/2017 17:00,Arena do Grêmio
+37,303,287,2,3,Ponte Preta,Vitória,2017,26/11/2017 17:00,Moisés Lucarelli
+37,294,276,1,2,Coritiba,São Paulo,2017,26/11/2017 17:00,Couto Pereira
+37,266,292,1,2,Fluminense,Sport,2017,25/11/2017 17:00,Maracanã

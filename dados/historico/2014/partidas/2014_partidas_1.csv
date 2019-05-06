@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+1,262,290,0,0,Flamengo,Goiás,2014,20/04/2014 18:30,Estádio Nacional de Brasilia
+1,265,283,1,2,Bahia,Cruzeiro,2014,20/04/2014 16:00,Arena Fonte Nova
+1,266,316,3,0,Fluminense,Figueirense,2014,19/04/2014 18:30,Estádio Maracanã
+1,276,263,3,0,São Paulo,Botafogo,2014,20/04/2014 16:00,Morumbi
+1,277,292,1,1,Santos,Sport,2014,20/04/2014 18:30,Estádio Urbano Caldeira
+1,282,264,0,0,Atlético-MG,Corinthians,2014,20/04/2014 16:00,Estádio Municipal Parque do Sabiá
+1,285,287,1,0,Internacional,Vitória,2014,19/04/2014 18:30,Estádio Beira-Rio
+1,288,275,1,2,Criciúma,Palmeiras,2014,20/04/2014 18:30,Estádio Eriberto Hülse
+1,293,284,1,0,Atlético-PR,Grêmio,2014,20/04/2014 16:00,Estádio Orlando Scarpelli
+1,315,294,0,0,Chapecoense,Coritiba,2014,19/04/2014 19:00,Arena Condá

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+5,262,287,1,0,Flamengo,Vitória,2016,02/06/2016 21:00,Raulino de Oliveira
+5,263,283,0,1,Botafogo,Cruzeiro,2016,01/06/2016 21:45,Mané Garrincha
+5,264,277,1,0,Corinthians,Santos,2016,01/06/2016 21:00,Itaquerão
+5,275,284,4,3,Palmeiras,Grêmio,2016,02/06/2016 21:00,Pacaembu
+5,282,266,1,1,Atlético-MG,Fluminense,2016,01/06/2016 21:45,Independência
+5,285,293,1,0,Internacional,Atlético-PR,2016,01/06/2016 19:30,Beira-Rio
+5,294,315,3,4,Coritiba,Chapecoense,2016,01/06/2016 21:00,Vila Capanema
+5,316,276,1,0,Figueirense,São Paulo,2016,01/06/2016 21:45,Orlando Scarpelli
+5,327,303,1,2,América-MG,Ponte Preta,2016,02/06/2016 19:30,Independência
+5,344,292,0,1,Santa Cruz,Sport,2016,01/06/2016 21:00,Arruda

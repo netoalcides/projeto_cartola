@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+26,262,316,2,0,Flamengo,Figueirense,2016,18/09/2016 11:00,Pacaembu
+26,264,275,0,2,Corinthians,Palmeiras,2016,17/09/2016 16:00,Itaquerão
+26,277,344,3,2,Santos,Santa Cruz,2016,18/09/2016 18:30,Vila Belmiro
+26,283,282,1,1,Cruzeiro,Atlético-MG,2016,18/09/2016 16:00,Mineirão
+26,284,266,0,1,Grêmio,Fluminense,2016,18/09/2016 16:00,Arena do Grêmio
+26,287,263,0,1,Vitória,Botafogo,2016,18/09/2016 18:30,Barradão
+26,292,294,0,1,Sport,Coritiba,2016,18/09/2016 16:00,Ilha do Retiro
+26,293,276,1,0,Atlético-PR,São Paulo,2016,18/09/2016 16:00,Arena da Baixada
+26,315,303,2,2,Chapecoense,Ponte Preta,2016,18/09/2016 16:00,Arena Condá
+26,327,285,1,0,América-MG,Internacional,2016,19/09/2016 20:00,Independência

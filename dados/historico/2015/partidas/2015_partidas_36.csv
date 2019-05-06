@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+36,262,303,1,1,Flamengo,Ponte Preta,2015,22/11/2015 18:00,Mané Garrincha
+36,264,276,6,1,Corinthians,São Paulo,2015,22/11/2015 17:00,Arena Corinthians
+36,266,314,3,1,Fluminense,Avaí,2015,22/11/2015 19:30,Maracanã
+36,275,283,1,1,Palmeiras,Cruzeiro,2015,21/11/2015 19:30,Allianz Parque
+36,282,290,2,2,Atlético-MG,Goiás,2015,22/11/2015 17:00,Independência
+36,285,284,1,0,Internacional,Grêmio,2015,22/11/2015 17:00,Beira-Rio
+36,292,293,0,0,Sport,Atlético-PR,2015,22/11/2015 19:30,Ilha do Retiro
+36,294,277,1,0,Coritiba,Santos,2015,22/11/2015 19:30,Couto Pereira
+36,316,315,0,0,Figueirense,Chapecoense,2015,22/11/2015 17:00,Orlando Scarpelli
+36,317,267,1,2,Joinville,Vasco,2015,22/11/2015 17:00,Arena Joinville

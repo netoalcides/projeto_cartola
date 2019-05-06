@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+4,262,263,0,0,Flamengo,Botafogo,2017,04/06/2017 11:00,Raulino de Oliveira
+4,275,282,0,0,Palmeiras,Atlético-MG,2017,04/06/2017 16:00,Arena Palmeiras
+4,283,315,0,2,Cruzeiro,Chapecoense,2017,04/06/2017 19:00,Mineirão
+4,303,276,1,0,Ponte Preta,São Paulo,2017,04/06/2017 16:00,Moisés Lucarelli
+4,294,293,1,0,Coritiba,Atlético-PR,2017,03/06/2017 16:00,Couto Pereira
+4,264,277,2,0,Corinthians,Santos,2017,03/06/2017 19:00,Arena Corinthians
+4,284,267,2,0,Grêmio,Vasco,2017,04/06/2017 16:00,Arena do Grêmio
+4,314,292,1,0,Avaí,Sport,2017,04/06/2017 11:00,Ressacada
+4,265,373,3,0,Bahia,Atlético-GO,2017,05/06/2017 20:00,Fonte Nova
+4,266,287,2,1,Fluminense,Vitória,2017,03/06/2017 18:00,Maracanã

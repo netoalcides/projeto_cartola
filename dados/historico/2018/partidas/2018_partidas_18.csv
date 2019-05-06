@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+18,282,277,3,1,Atlético-MG,Santos,2018,12/08/2018 11:00,Independência
+18,289,263,1,1,Paraná,Botafogo,2018,12/08/2018 11:00,Durival Britto
+18,315,264,2,1,Chapecoense,Corinthians,2018,12/08/2018 16:00,Arena Condá
+18,265,327,1,0,Bahia,América-MG,2018,11/08/2018 19:00,Fonte Nova
+18,266,285,0,3,Fluminense,Internacional,2018,13/08/2018 20:00,Maracanã
+18,262,283,1,0,Flamengo,Cruzeiro,2018,12/08/2018 16:00,Maracanã
+18,354,293,0,0,Ceará,Atlético-PR,2018,11/08/2018 16:00,Presidente Vargas (CE)
+18,292,276,1,3,Sport,São Paulo,2018,12/08/2018 16:00,Ilha do Retiro
+18,275,267,1,0,Palmeiras,Vasco,2018,12/08/2018 19:00,Arena Palmeiras
+18,284,287,4,0,Grêmio,Vitória,2018,12/08/2018 19:00,Arena do Grêmio

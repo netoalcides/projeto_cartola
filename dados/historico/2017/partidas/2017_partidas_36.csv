@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+36,262,264,3,0,Flamengo,Corinthians,2017,19/11/2017 17:00,Luso-Brasileiro
+36,314,275,2,1,Avaí,Palmeiras,2017,20/11/2017 20:00,Ressacada
+36,282,294,3,0,Atlético-MG,Coritiba,2017,19/11/2017 19:00,Independência
+36,287,283,1,1,Vitória,Cruzeiro,2017,19/11/2017 17:00,Barradão
+36,373,315,1,1,Atlético-GO,Chapecoense,2017,19/11/2017 17:00,Olímpico (GO)
+36,293,267,3,1,Atlético-PR,Vasco,2017,19/11/2017 19:00,Arena da Baixada
+36,277,284,1,0,Santos,Grêmio,2017,19/11/2017 19:00,Vila Belmiro
+36,266,303,2,0,Fluminense,Ponte Preta,2017,20/11/2017 17:00,Maracanã
+36,276,263,0,0,São Paulo,Botafogo,2017,19/11/2017 17:00,Pacaembu
+36,292,265,1,0,Sport,Bahia,2017,19/11/2017 17:00,Ilha do Retiro

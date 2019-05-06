@@ -1,0 +1,1521 @@
+rodada_id;clube_casa_id;clube_visitante_id;placar_oficial_mandante;placar_oficial_visitante;clube_casa;clube_visitante;ano;partidas.partida_data;partidas.local
+1;262;290;0;0;Flamengo;Goiás;2014;20/04/2014 18:30;Estádio Nacional de Brasilia
+1;265;283;1;2;Bahia;Cruzeiro;2014;20/04/2014 16:00;Arena Fonte Nova
+1;266;316;3;0;Fluminense;Figueirense;2014;19/04/2014 18:30;Estádio Maracanã
+1;276;263;3;0;São Paulo;Botafogo;2014;20/04/2014 16:00;Morumbi
+1;277;292;1;1;Santos;Sport;2014;20/04/2014 18:30;Estádio Urbano Caldeira
+1;282;264;0;0;Atlético-MG;Corinthians;2014;20/04/2014 16:00;Estádio Municipal Parque do Sabiá
+1;285;287;1;0;Internacional;Vitória;2014;19/04/2014 18:30;Estádio Beira-Rio
+1;288;275;1;2;Criciúma;Palmeiras;2014;20/04/2014 18:30;Estádio Eriberto Hülse
+1;293;284;1;0;Atlético-PR;Grêmio;2014;20/04/2014 16:00;Estádio Orlando Scarpelli
+1;315;294;0;0;Chapecoense;Coritiba;2014;19/04/2014 19:00;Arena Condá
+2;263;285;2;2;Botafogo;Internacional;2014;27/04/2014 16:00;Estádio Maracanã
+2;264;262;2;0;Corinthians;Flamengo;2014;27/04/2014 16:00;Pacaembu
+2;275;266;0;1;Palmeiras;Fluminense;2014;26/04/2014 21:00;Pacaembu
+2;283;276;1;1;Cruzeiro;São Paulo;2014;27/04/2014 16:00;Estádio Municipal Parque do Sabiá
+2;284;282;2;1;Grêmio;Atlético-MG;2014;27/04/2014 18:30;Arena do Grêmio
+2;287;293;2;2;Vitória;Atlético-PR;2014;27/04/2014 16:00;Estádio Pituaçu
+2;290;288;1;0;Goiás;Criciúma;2014;27/04/2014 18:30;Estádio Municipal Juscelino Kubitschek
+2;292;315;2;1;Sport;Chapecoense;2014;27/04/2014 18:30;Estádio Adelmar da Costa Carvalho
+2;294;277;0;0;Coritiba;Santos;2014;26/04/2014 18:30;Estádio Couto Pereira
+2;316;265;0;2;Figueirense;Bahia;2014;27/04/2014 18:30;Arena Barueri
+3;262;275;4;2;Flamengo;Palmeiras;2014;04/05/2014 16:00;Maracanã
+3;265;263;1;0;Bahia;Botafogo;2014;04/05/2014 16:00;Fonte Nova
+3;266;287;1;2;Fluminense;Vitória;2014;03/05/2014 21:00;Maracanã
+3;276;294;2;2;São Paulo;Coritiba;2014;03/05/2014 18:30;Morumbi
+3;277;284;0;0;Santos;Grêmio;2014;03/05/2014 18:30;Vila Belmiro
+3;282;290;0;1;Atlético-MG;Goiás;2014;04/05/2014 18:30;Independência
+3;285;292;2;1;Internacional;Sport;2014;04/05/2014 16:00;Beira-Rio
+3;288;316;1;0;Criciúma;Figueirense;2014;04/05/2014 16:00;Estádio Heriberto Hülse
+3;293;283;2;3;Atlético-PR;Cruzeiro;2014;03/05/2014 18:30;Mané Garrincha
+3;315;264;0;1;Chapecoense;Corinthians;2014;04/05/2014 18:30;Arena Condá
+4;263;288;6;0;Botafogo;Criciúma;2014;10/05/2014 21:00;Maracanã
+4;265;287;1;1;Bahia;Vitória;2014;11/05/2014 18:30;Fonte Nova
+4;266;262;2;0;Fluminense;Flamengo;2014;11/05/2014 16:00;Maracanã
+4;275;290;2;0;Palmeiras;Goiás;2014;10/05/2014 18:30;Pacaembu
+4;276;264;1;1;São Paulo;Corinthians;2014;11/05/2014 16:00;Arena Barueri
+4;282;283;2;1;Atlético-MG;Cruzeiro;2014;11/05/2014 16:00;Independência
+4;285;293;2;1;Internacional;Atlético-PR;2014;10/05/2014 18:30;Beira-Rio
+4;294;292;0;1;Coritiba;Sport;2014;11/05/2014 18:30;Couto Pereira
+4;315;284;1;2;Chapecoense;Grêmio;2014;11/05/2014 16:00;Arena Condá
+4;316;277;0;2;Figueirense;Santos;2014;11/05/2014 18:30;Estádio do Café
+5;262;276;0;2;Flamengo;São Paulo;2014;18/05/2014 16:00;Maracanã
+5;264;316;0;1;Corinthians;Figueirense;2014;18/05/2014 16:00;Arena Corinthians
+5;277;282;1;2;Santos;Atlético-MG;2014;18/05/2014 18:30;Arena Pantanal
+5;283;294;3;2;Cruzeiro;Coritiba;2014;17/05/2014 18:30;Mineirão
+5;284;266;1;0;Grêmio;Fluminense;2014;18/05/2014 16:00;Arena do Grêmio
+5;287;275;0;1;Vitória;Palmeiras;2014;18/05/2014 18:30;Pituaçu
+5;288;285;0;0;Criciúma;Internacional;2014;18/05/2014 18:30;Estádio Heriberto Hülse
+5;290;263;2;0;Goiás;Botafogo;2014;14/05/2014 22:00;Mário Helenio
+5;292;265;1;0;Sport;Bahia;2014;04/06/2014 21:00;Ilha do Retiro
+5;293;315;1;1;Atlético-PR;Chapecoense;2014;18/05/2014 16:00;Willie Davids
+6;262;265;1;1;Flamengo;Bahia;2014;21/05/2014 19:30;Moacyrzão
+6;264;293;1;1;Corinthians;Atlético-PR;2014;21/05/2014 22:00;Canindé
+6;266;276;5;2;Fluminense;São Paulo;2014;21/05/2014 22:00;Maracanã
+6;275;316;1;0;Palmeiras;Figueirense;2014;22/05/2014 19:30;Arena da Fonte
+6;283;292;2;0;Cruzeiro;Sport;2014;21/05/2014 21:00;Mineirão
+6;284;263;2;1;Grêmio;Botafogo;2014;21/05/2014 22:00;Arena do Grêmio
+6;287;282;2;3;Vitória;Atlético-MG;2014;22/05/2014 21:00;Joia da Princesa
+6;288;315;1;0;Criciúma;Chapecoense;2014;21/05/2014 21:00;Estádio Heriberto Hülse
+6;290;277;2;2;Goiás;Santos;2014;22/05/2014 19:30;Serra Dourada
+6;294;285;1;1;Coritiba;Internacional;2014;21/05/2014 19:30;Couto Pereira
+7;263;287;1;1;Botafogo;Vitória;2014;25/05/2014 18:30;Moacyrzão
+7;265;266;0;1;Bahia;Fluminense;2014;24/05/2014 18:30;Arena Barueri
+7;276;284;1;0;São Paulo;Grêmio;2014;24/05/2014 21:00;Morumbi
+7;277;262;0;0;Santos;Flamengo;2014;25/05/2014 16:00;Morumbi
+7;282;288;0;0;Atlético-MG;Criciúma;2014;25/05/2014 18:30;João Lamego
+7;285;283;1;3;Internacional;Cruzeiro;2014;25/05/2014 18:30;Estádio Centenário
+7;292;264;1;4;Sport;Corinthians;2014;25/05/2014 16:00;Ilha do Retiro
+7;293;294;2;0;Atlético-PR;Coritiba;2014;25/05/2014 16:00;Willie Davids
+7;315;275;2;0;Chapecoense;Palmeiras;2014;25/05/2014 18:30;Arena Condá
+7;316;290;0;1;Figueirense;Goiás;2014;25/05/2014 16:00;Orlando Scarpelli
+8;262;316;1;1;Flamengo;Figueirense;2014;29/05/2014 19:30;Morumbi
+8;264;283;1;0;Corinthians;Cruzeiro;2014;28/05/2014 22:00;Canindé
+8;265;277;0;2;Bahia;Santos;2014;29/05/2014 21:00;Joia da Princesa
+8;275;263;0;2;Palmeiras;Botafogo;2014;28/05/2014 19:30;Prudentão
+8;282;266;2;0;Atlético-MG;Fluminense;2014;28/05/2014 22:00;João Lamego
+8;285;315;2;0;Internacional;Chapecoense;2014;28/05/2014 21:00;Estádio Centenário
+8;288;294;1;0;Criciúma;Coritiba;2014;28/05/2014 19:30;Estádio Heriberto Hülse
+8;290;287;0;0;Goiás;Vitória;2014;28/05/2014 21:00;Serra Dourada
+8;292;284;0;0;Sport;Grêmio;2014;28/05/2014 19:30;Ilha do Retiro
+8;293;276;2;2;Atlético-PR;São Paulo;2014;28/05/2014 22:00;Parque do Sabiá
+9;264;263;1;1;Corinthians;Botafogo;2014;01/06/2014 16:00;Maracanã
+9;266;285;1;1;Fluminense;Internacional;2014;01/06/2014 18:30;Claudio Moacyr
+9;276;282;2;1;São Paulo;Atlético-MG;2014;31/05/2014 18:30;Morumbi
+9;277;288;2;0;Santos;Criciúma;2014;01/06/2014 18:30;Estádio 1º de Maio
+9;283;262;3;0;Cruzeiro;Flamengo;2014;01/06/2014 16:00;João Havelange
+9;284;275;0;0;Grêmio;Palmeiras;2014;01/06/2014 16:00;Alfredo Jaconi
+9;287;292;0;1;Vitória;Sport;2014;31/05/2014 21:00;Joia da Princesa
+9;294;290;3;0;Coritiba;Goiás;2014;31/05/2014 18:30;Durival Britto
+9;315;265;2;1;Chapecoense;Bahia;2014;01/06/2014 16:00;Arena Condá
+9;316;293;1;3;Figueirense;Atlético-PR;2014;01/06/2014 18:30;Orlando Scarpelli
+10;262;293;1;2;Flamengo;Atlético-PR;2014;16/07/2014 22:00;Claudio Moacyr
+10;264;285;2;1;Corinthians;Internacional;2014;17/07/2014 19:30;Arena Corinthians
+10;265;276;0;2;Bahia;São Paulo;2014;16/07/2014 22:00;Fonte Nova
+10;277;275;2;0;Santos;Palmeiras;2014;17/07/2014 19:30;Vila Belmiro
+10;283;287;3;1;Cruzeiro;Vitória;2014;17/07/2014 21:00;Mineirão
+10;284;290;0;0;Grêmio;Goiás;2014;16/07/2014 19:30;Arena do Grêmio
+10;288;266;3;2;Criciúma;Fluminense;2014;16/07/2014 22:00;Estádio Heriberto Hülse
+10;292;263;1;0;Sport;Botafogo;2014;16/07/2014 19:30;Ilha do Retiro
+10;294;316;0;2;Coritiba;Figueirense;2014;16/07/2014 19:30;Couto Pereira
+10;315;282;1;1;Chapecoense;Atlético-MG;2014;06/08/2014 21:00;Arena Condá
+11;263;294;1;0;Botafogo;Coritiba;2014;19/07/2014 21:00;Raulino de Oliveira
+11;266;277;1;0;Fluminense;Santos;2014;20/07/2014 18:30;Raulino de Oliveira
+11;275;283;1;2;Palmeiras;Cruzeiro;2014;20/07/2014 16:00;Pacaembu
+11;276;315;0;1;São Paulo;Chapecoense;2014;19/07/2014 18:30;Morumbi
+11;282;265;1;1;Atlético-MG;Bahia;2014;19/07/2014 18:30;Independência
+11;285;262;4;0;Internacional;Flamengo;2014;20/07/2014 16:00;Beira-Rio
+11;287;264;0;0;Vitória;Corinthians;2014;20/07/2014 16:00;Manoel Barradas
+11;290;292;0;0;Goiás;Sport;2014;20/07/2014 18:30;Serra Dourada
+11;293;288;2;0;Atlético-PR;Criciúma;2014;20/07/2014 18:30;Arena da Baixada
+11;316;284;0;1;Figueirense;Grêmio;2014;19/07/2014 18:30;Orlando Scarpelli
+12;262;263;1;0;Flamengo;Botafogo;2014;27/07/2014 18:30;Maracanã
+12;264;275;2;0;Corinthians;Palmeiras;2014;27/07/2014 16:00;Arena Corinthians
+12;265;285;0;1;Bahia;Internacional;2014;26/07/2014 21:00;Fonte Nova
+12;277;315;3;0;Santos;Chapecoense;2014;26/07/2014 18:30;Vila Belmiro
+12;283;316;5;0;Cruzeiro;Figueirense;2014;26/07/2014 18:30;Mineirão
+12;284;294;2;3;Grêmio;Coritiba;2014;27/07/2014 18:30;Arena do Grêmio
+12;288;287;1;3;Criciúma;Vitória;2014;26/07/2014 18:30;Estádio Heriberto Hülse
+12;290;276;2;1;Goiás;São Paulo;2014;27/07/2014 16:00;Serra Dourada
+12;292;282;2;1;Sport;Atlético-MG;2014;27/07/2014 16:00;Ilha do Retiro
+12;293;266;0;3;Atlético-PR;Fluminense;2014;27/07/2014 16:00;Arena da Baixada
+13;263;283;1;1;Botafogo;Cruzeiro;2014;02/08/2014 18:30;Maracanã
+13;266;290;2;0;Fluminense;Goiás;2014;03/08/2014 18:30;Maracanã
+13;275;265;1;1;Palmeiras;Bahia;2014;03/08/2014 16:00;Pacaembu
+13;276;288;1;1;São Paulo;Criciúma;2014;02/08/2014 18:30;Morumbi
+13;282;293;3;1;Atlético-MG;Atlético-PR;2014;03/08/2014 18:30;Independência
+13;285;277;1;0;Internacional;Santos;2014;03/08/2014 18:30;Beira-Rio
+13;287;284;2;1;Vitória;Grêmio;2014;02/08/2014 21:00;Manoel Barradas
+13;294;264;0;0;Coritiba;Corinthians;2014;03/08/2014 16:00;Couto Pereira
+13;315;262;1;0;Chapecoense;Flamengo;2014;03/08/2014 16:00;Arena Condá
+13;316;292;3;0;Figueirense;Sport;2014;03/08/2014 16:00;Orlando Scarpelli
+14;262;292;1;0;Flamengo;Sport;2014;10/08/2014 16:00;Maracanã
+14;265;290;1;0;Bahia;Goiás;2014;09/08/2014 18:30;Fonte Nova
+14;266;294;1;1;Fluminense;Coritiba;2014;09/08/2014 21:00;Maracanã
+14;276;287;3;1;São Paulo;Vitória;2014;10/08/2014 18:30;Morumbi
+14;277;264;0;1;Santos;Corinthians;2014;10/08/2014 16:00;Vila Belmiro
+14;282;275;2;1;Atlético-MG;Palmeiras;2014;10/08/2014 18:30;Independência
+14;285;284;2;0;Internacional;Grêmio;2014;10/08/2014 16:00;Beira-Rio
+14;288;283;0;0;Criciúma;Cruzeiro;2014;09/08/2014 18:30;Estádio Heriberto Hülse
+14;293;263;2;0;Atlético-PR;Botafogo;2014;10/08/2014 16:00;Arena da Baixada
+14;315;316;0;1;Chapecoense;Figueirense;2014;10/08/2014 18:30;Arena Condá
+15;263;266;2;0;Botafogo;Fluminense;2014;17/08/2014 18:30;Mané Garrincha
+15;264;265;1;1;Corinthians;Bahia;2014;16/08/2014 21:00;Arena Corinthians
+15;275;276;1;2;Palmeiras;São Paulo;2014;17/08/2014 16:00;Pacaembu
+15;283;277;3;0;Cruzeiro;Santos;2014;17/08/2014 16:00;Mineirão
+15;284;288;2;0;Grêmio;Criciúma;2014;17/08/2014 16:00;Arena do Grêmio
+15;287;315;0;0;Vitória;Chapecoense;2014;17/08/2014 16:00;Manoel Barradas
+15;290;285;0;1;Goiás;Internacional;2014;16/08/2014 18:30;Serra Dourada
+15;292;293;1;1;Sport;Atlético-PR;2014;17/08/2014 18:30;Ilha do Retiro
+15;294;262;0;1;Coritiba;Flamengo;2014;17/08/2014 16:00;Couto Pereira
+15;316;282;2;2;Figueirense;Atlético-MG;2014;17/08/2014 18:30;Orlando Scarpelli
+16;262;282;2;1;Flamengo;Atlético-MG;2014;20/08/2014 22:00;Maracanã
+16;264;290;5;2;Corinthians;Goiás;2014;21/08/2014 19:30;Arena Corinthians
+16;265;288;0;0;Bahia;Criciúma;2014;20/08/2014 21:00;Fonte Nova
+16;277;293;2;0;Santos;Atlético-PR;2014;20/08/2014 19:30;Vila Belmiro
+16;283;284;1;0;Cruzeiro;Grêmio;2014;21/08/2014 20:30;Mineirão
+16;285;276;0;1;Internacional;São Paulo;2014;20/08/2014 22:00;Beira-Rio
+16;292;275;2;1;Sport;Palmeiras;2014;20/08/2014 19:30;Arena Pernambuco
+16;294;287;2;0;Coritiba;Vitória;2014;20/08/2014 21:00;Couto Pereira
+16;315;266;1;0;Chapecoense;Fluminense;2014;20/08/2014 22:00;Arena Condá
+16;316;263;1;0;Figueirense;Botafogo;2014;20/08/2014 19:30;Orlando Scarpelli
+17;263;315;1;0;Botafogo;Chapecoense;2014;23/08/2014 18:30;Maracanã
+17;266;292;4;0;Fluminense;Sport;2014;24/08/2014 16:00;Maracanã
+17;275;294;1;0;Palmeiras;Coritiba;2014;23/08/2014 21:00;Pacaembu
+17;276;277;2;1;São Paulo;Santos;2014;24/08/2014 16:00;Morumbi
+17;282;285;1;0;Atlético-MG;Internacional;2014;23/08/2014 18:30;Independência
+17;284;264;2;1;Grêmio;Corinthians;2014;24/08/2014 16:00;Arena do Grêmio
+17;287;316;0;1;Vitória;Figueirense;2014;24/08/2014 16:00;Manoel Barradas
+17;288;262;0;2;Criciúma;Flamengo;2014;24/08/2014 16:00;Estádio Heriberto Hülse
+17;290;283;0;1;Goiás;Cruzeiro;2014;24/08/2014 18:30;Serra Dourada
+17;293;265;0;0;Atlético-PR;Bahia;2014;24/08/2014 18:30;Arena da Baixada
+18;263;277;1;0;Botafogo;Santos;2014;31/08/2014 16:00;Maracanã
+18;264;266;1;1;Corinthians;Fluminense;2014;31/08/2014 16:00;Arena Corinthians
+18;275;285;0;1;Palmeiras;Internacional;2014;30/08/2014 18:30;Pacaembu
+18;283;315;4;2;Cruzeiro;Chapecoense;2014;30/08/2014 18:30;Mineirão
+18;284;265;1;0;Grêmio;Bahia;2014;31/08/2014 18:30;Arena do Grêmio
+18;287;262;1;2;Vitória;Flamengo;2014;31/08/2014 18:30;Manoel Barradas
+18;290;293;3;1;Goiás;Atlético-PR;2014;31/08/2014 18:30;Serra Dourada
+18;292;288;2;0;Sport;Criciúma;2014;31/08/2014 16:00;Ilha do Retiro
+18;294;282;0;0;Coritiba;Atlético-MG;2014;31/08/2014 16:00;Couto Pereira
+18;316;276;1;1;Figueirense;São Paulo;2014;31/08/2014 16:00;Orlando Scarpelli
+19;262;284;0;1;Flamengo;Grêmio;2014;06/09/2014 18:30;Maracanã
+19;265;294;0;0;Bahia;Coritiba;2014;07/09/2014 18:30;Fonte Nova
+19;266;283;3;3;Fluminense;Cruzeiro;2014;07/09/2014 16:00;Maracanã
+19;276;292;2;0;São Paulo;Sport;2014;07/09/2014 16:00;Morumbi
+19;277;287;3;1;Santos;Vitória;2014;06/09/2014 18:30;Pacaembu
+19;282;263;1;0;Atlético-MG;Botafogo;2014;07/09/2014 16:00;Independência
+19;285;316;2;3;Internacional;Figueirense;2014;07/09/2014 18:30;Beira-Rio
+19;288;264;0;0;Criciúma;Corinthians;2014;07/09/2014 16:00;Estádio Heriberto Hülse
+19;293;275;1;1;Atlético-PR;Palmeiras;2014;07/09/2014 18:30;Arena da Baixada
+19;315;290;0;0;Chapecoense;Goiás;2014;06/09/2014 21:00;Arena Condá
+20;263;276;2;4;Botafogo;São Paulo;2014;10/09/2014 22:00;Estadio Nacional de Brasilia
+20;264;282;1;0;Corinthians;Atlético-MG;2014;11/09/2014 19:30;Arena Corinthians
+20;275;288;1;0;Palmeiras;Criciúma;2014;10/09/2014 19:30;Pacaembu
+20;283;265;2;1;Cruzeiro;Bahia;2014;11/09/2014 20:30;Estádio Mineirão
+20;284;293;1;0;Grêmio;Atlético-PR;2014;10/09/2014 19:30;Arena do Grêmio
+20;287;285;2;0;Vitória;Internacional;2014;10/09/2014 22:00;Barradão
+20;290;262;1;0;Goiás;Flamengo;2014;10/09/2014 22:00;Arena Pantanal
+20;292;277;3;1;Sport;Santos;2014;10/09/2014 21:00;Arena Pernambuco
+20;294;315;3;0;Coritiba;Chapecoense;2014;10/09/2014 21:00;Estádio Couto Pereira
+20;316;266;1;1;Figueirense;Fluminense;2014;10/09/2014 19:30;Estádio Orlando Scarpelli
+21;262;264;1;0;Flamengo;Corinthians;2014;14/09/2014 16:00;Estádio Maracanã
+21;265;316;3;0;Bahia;Figueirense;2014;14/09/2014 16:00;Joia da Princesa
+21;266;275;3;0;Fluminense;Palmeiras;2014;13/09/2014 18:30;Estádio Maracanã
+21;276;283;2;0;São Paulo;Cruzeiro;2014;14/09/2014 16:00;Morumbi
+21;277;294;2;1;Santos;Coritiba;2014;13/09/2014 21:00;Vila Belmiro
+21;282;284;0;0;Atlético-MG;Grêmio;2014;14/09/2014 18:30;Estádio Raimundo Sampaio
+21;285;263;2;0;Internacional;Botafogo;2014;14/09/2014 16:00;Estádio Beira-Rio
+21;288;290;1;0;Criciúma;Goiás;2014;14/09/2014 18:30;Estádio Heriberto Hülse
+21;293;287;2;0;Atlético-PR;Vitória;2014;14/09/2014 18:30;Arena da Baixada
+21;315;292;3;1;Chapecoense;Sport;2014;13/09/2014 18:30;Arena Condá
+22;263;265;2;3;Botafogo;Bahia;2014;17/09/2014 22:00;Maracanã
+22;264;315;1;1;Corinthians;Chapecoense;2014;18/09/2014 19:30;Couto Pereira
+22;275;262;2;2;Palmeiras;Flamengo;2014;17/09/2014 22:00;Pacaembu
+22;283;293;2;0;Cruzeiro;Atlético-PR;2014;17/09/2014 19:30;Mineirão
+22;284;277;0;0;Grêmio;Santos;2014;18/09/2014 20:30;Arena do Grêmio
+22;287;266;3;1;Vitória;Fluminense;2014;17/09/2014 19:30;Barradão
+22;290;282;2;3;Goiás;Atlético-MG;2014;18/09/2014 19:30;Serra Dourada
+22;292;285;0;0;Sport;Internacional;2014;17/09/2014 21:00;Arena Pernambuco
+22;294;276;3;1;Coritiba;São Paulo;2014;17/09/2014 22:00;Couto Pereira
+22;316;288;1;1;Figueirense;Criciúma;2014;17/09/2014 21:00;Estádio Orlando Scarpelli
+23;262;266;1;1;Flamengo;Fluminense;2014;21/09/2014 16:00;Maracanã
+23;264;276;3;2;Corinthians;São Paulo;2014;21/09/2014 16:00;Arena Corinthians
+23;277;316;3;1;Santos;Figueirense;2014;21/09/2014 18:30;Vila Belmiro
+23;283;282;2;3;Cruzeiro;Atlético-MG;2014;21/09/2014 16:00;Mineirão
+23;284;315;1;0;Grêmio;Chapecoense;2014;21/09/2014 18:30;Arena do Grêmio
+23;287;265;2;1;Vitória;Bahia;2014;21/09/2014 16:00;Fonte Nova
+23;288;263;1;1;Criciúma;Botafogo;2014;20/09/2014 21:00;Estádio Heriberto Hülse
+23;290;275;6;0;Goiás;Palmeiras;2014;21/09/2014 18:30;Serra Dourada
+23;292;294;1;0;Sport;Coritiba;2014;21/09/2014 16:00;Ilha do Retiro
+23;293;285;0;1;Atlético-PR;Internacional;2014;20/09/2014 18:30;Arena da Baixada
+24;263;290;1;0;Botafogo;Goiás;2014;25/09/2014 19:30;Maracanã
+24;265;292;1;0;Bahia;Sport;2014;24/09/2014 21:00;Fonte Nova
+24;266;284;0;0;Fluminense;Grêmio;2014;24/09/2014 22:00;Maracanã
+24;275;287;2;0;Palmeiras;Vitória;2014;25/09/2014 19:30;Pacaembu
+24;276;262;2;2;São Paulo;Flamengo;2014;24/09/2014 22:00;Morumbi
+24;282;277;3;2;Atlético-MG;Santos;2014;25/09/2014 20:30;Independência
+24;285;288;3;0;Internacional;Criciúma;2014;24/09/2014 19:30;Beira-Rio
+24;294;283;1;2;Coritiba;Cruzeiro;2014;24/09/2014 19:30;Couto Pereira
+24;315;293;3;0;Chapecoense;Atlético-PR;2014;24/09/2014 21:00;Arena Condá
+24;316;264;1;0;Figueirense;Corinthians;2014;24/09/2014 22:00;Estádio Orlando Scarpelli
+25;263;284;0;2;Botafogo;Grêmio;2014;28/09/2014 16:00;Maracanã
+25;265;262;2;1;Bahia;Flamengo;2014;28/09/2014 16:00;Fonte Nova
+25;276;266;1;3;São Paulo;Fluminense;2014;27/09/2014 21:00;Morumbi
+25;277;290;2;0;Santos;Goiás;2014;28/09/2014 18:30;Pacaembu
+25;282;287;2;0;Atlético-MG;Vitória;2014;28/09/2014 16:00;Independência
+25;285;294;4;2;Internacional;Coritiba;2014;28/09/2014 18:30;Beira-Rio
+25;292;283;0;0;Sport;Cruzeiro;2014;27/09/2014 18:30;Ilha do Retiro
+25;293;264;1;0;Atlético-PR;Corinthians;2014;28/09/2014 16:00;Arena da Baixada
+25;315;288;1;1;Chapecoense;Criciúma;2014;27/09/2014 18:30;Arena Condá
+25;316;275;3;1;Figueirense;Palmeiras;2014;28/09/2014 18:30;Estádio Orlando Scarpelli
+26;262;277;0;1;Flamengo;Santos;2014;04/10/2014 16:20;Maracanã
+26;264;292;3;0;Corinthians;Sport;2014;04/10/2014 18:30;Arena Corinthians
+26;266;265;1;1;Fluminense;Bahia;2014;04/10/2014 16:20;Mané Garrincha
+26;275;315;4;2;Palmeiras;Chapecoense;2014;02/10/2014 19:30;Pacaembu
+26;283;285;2;1;Cruzeiro;Internacional;2014;04/10/2014 18:30;Mineirão
+26;284;276;0;1;Grêmio;São Paulo;2014;04/10/2014 16:20;Arena do Grêmio
+26;287;263;2;1;Vitória;Botafogo;2014;04/10/2014 16:20;Manoel Barradas
+26;288;282;3;1;Criciúma;Atlético-MG;2014;04/10/2014 18:30;Estádio Heriberto Hülse
+26;290;316;1;0;Goiás;Figueirense;2014;04/10/2014 21:00;Serra Dourada
+26;294;293;1;0;Coritiba;Atlético-PR;2014;04/10/2014 16:20;Couto Pereira
+27;263;275;0;1;Botafogo;Palmeiras;2014;08/10/2014 19:30;Maracanã
+27;266;282;0;0;Fluminense;Atlético-MG;2014;09/10/2014 19:30;Maracanã
+27;276;293;1;0;São Paulo;Atlético-PR;2014;08/10/2014 19:30;Morumbi
+27;277;265;1;0;Santos;Bahia;2014;09/10/2014 19:30;Vila Belmiro
+27;283;264;0;1;Cruzeiro;Corinthians;2014;08/10/2014 22:00;Mineirão
+27;284;292;2;0;Grêmio;Sport;2014;08/10/2014 22:00;Arena do Grêmio
+27;287;290;2;2;Vitória;Goiás;2014;08/10/2014 21:00;Manoel Barradas
+27;294;288;1;0;Coritiba;Criciúma;2014;08/10/2014 19:30;Couto Pereira
+27;315;285;5;0;Chapecoense;Internacional;2014;09/10/2014 20:30;Arena Condá
+27;316;262;1;2;Figueirense;Flamengo;2014;08/10/2014 22:00;Estádio Orlando Scarpelli
+28;262;283;3;0;Flamengo;Cruzeiro;2014;12/10/2014 16:00;Maracanã
+28;263;264;1;1;Botafogo;Corinthians;2014;11/10/2014 18:30;Arena Corinthians
+28;265;315;0;1;Bahia;Chapecoense;2014;12/10/2014 16:00;Fonte Nova
+28;275;284;2;1;Palmeiras;Grêmio;2014;11/10/2014 21:00;Pacaembu
+28;282;276;1;0;Atlético-MG;São Paulo;2014;12/10/2014 16:00;Independência
+28;285;266;2;1;Internacional;Fluminense;2014;12/10/2014 16:00;Beira-Rio
+28;288;277;3;0;Criciúma;Santos;2014;12/10/2014 18:30;Heriberto Hulse
+28;290;294;3;0;Goiás;Coritiba;2014;11/10/2014 18:30;Serra Dourada
+28;292;287;1;2;Sport;Vitória;2014;12/10/2014 18:30;Ilha do Retiro
+28;293;316;3;0;Atlético-PR;Figueirense;2014;12/10/2014 18:30;Arena da Baixada
+29;263;292;1;1;Botafogo;Sport;2014;19/10/2014 18:30;Maracanã
+29;266;288;4;2;Fluminense;Criciúma;2014;18/10/2014 18:30;Maracanã
+29;275;277;1;3;Palmeiras;Santos;2014;19/10/2014 16:00;Pacaembu
+29;276;265;2;1;São Paulo;Bahia;2014;18/10/2014 18:30;Morumbi
+29;282;315;1;0;Atlético-MG;Chapecoense;2014;18/10/2014 21:00;Independência
+29;285;264;1;2;Internacional;Corinthians;2014;19/10/2014 16:00;Beira-Rio
+29;287;283;0;1;Vitória;Cruzeiro;2014;19/10/2014 18:30;Manoel Barradas
+29;290;284;0;0;Goiás;Grêmio;2014;18/10/2014 18:30;Serra Dourada
+29;293;262;2;1;Atlético-PR;Flamengo;2014;19/10/2014 16:00;Arena da Baixada
+29;316;294;4;0;Figueirense;Coritiba;2014;19/10/2014 16:00;Estádio Orlando Scarpelli
+30;262;285;2;0;Flamengo;Internacional;2014;22/10/2014 19:30;Maracanã
+30;264;287;2;1;Corinthians;Vitória;2014;22/10/2014 19:30;Arena Pantanal
+30;265;282;1;1;Bahia;Atlético-MG;2014;21/10/2014 21:50;Fonte Nova
+30;277;266;0;1;Santos;Fluminense;2014;22/10/2014 22:00;Vila Belmiro
+30;283;275;1;1;Cruzeiro;Palmeiras;2014;22/10/2014 19:30;Mineirão
+30;284;316;1;0;Grêmio;Figueirense;2014;22/10/2014 21:00;Arena do Grêmio
+30;288;293;0;1;Criciúma;Atlético-PR;2014;22/10/2014 19:30;Heriberto Hulse
+30;292;290;0;1;Sport;Goiás;2014;22/10/2014 22:30;Ilha do Retiro
+30;294;263;2;0;Coritiba;Botafogo;2014;22/10/2014 21:00;Couto Pereira
+30;315;276;0;0;Chapecoense;São Paulo;2014;22/10/2014 22:00;Arena Condá
+31;263;262;2;1;Botafogo;Flamengo;2014;25/10/2014 21:00;Arena Amazônia
+31;266;293;2;1;Fluminense;Atlético-PR;2014;25/10/2014 16:20;Maracanã
+31;275;264;1;1;Palmeiras;Corinthians;2014;25/10/2014 16:20;Pacaembu
+31;276;290;3;0;São Paulo;Goiás;2014;27/10/2014 20:30;Morumbi
+31;282;292;3;2;Atlético-MG;Sport;2014;25/10/2014 18:30;Independência
+31;285;265;2;0;Internacional;Bahia;2014;25/10/2014 21:00;Beira-Rio
+31;287;288;3;1;Vitória;Criciúma;2014;25/10/2014 18:30;Manoel Barradas
+31;294;284;1;1;Coritiba;Grêmio;2014;25/10/2014 18:30;Couto Pereira
+31;315;277;1;1;Chapecoense;Santos;2014;25/10/2014 18:30;Arena Condá
+31;316;283;1;1;Figueirense;Cruzeiro;2014;25/10/2014 16:20;Estádio Orlando Scarpelli
+32;262;315;3;0;Flamengo;Chapecoense;2014;02/11/2014 19:30;Maracanã
+32;264;294;2;2;Corinthians;Coritiba;2014;01/11/2014 21:00;Arena Corinthians
+32;265;275;0;1;Bahia;Palmeiras;2014;02/11/2014 20:00;Fonte Nova
+32;277;285;1;2;Santos;Internacional;2014;02/11/2014 17:00;Vila Belmiro
+32;283;263;2;1;Cruzeiro;Botafogo;2014;02/11/2014 17:00;Mineirão
+32;284;287;1;0;Grêmio;Vitória;2014;01/11/2014 19:30;Arena do Grêmio
+32;288;276;1;2;Criciúma;São Paulo;2014;02/11/2014 17:00;Heriberto Hulse
+32;290;266;0;2;Goiás;Fluminense;2014;01/11/2014 19:30;Serra Dourada
+32;292;316;1;0;Sport;Figueirense;2014;02/11/2014 17:00;Ilha do Retiro
+32;293;282;1;0;Atlético-PR;Atlético-MG;2014;02/11/2014 19:30;Arena da Baixada
+33;263;293;0;2;Botafogo;Atlético-PR;2014;08/11/2014 21:00;Estádio Raulino de Oliveira
+33;264;277;1;0;Corinthians;Santos;2014;09/11/2014 19:30;Estádio Itaquerão
+33;275;282;0;2;Palmeiras;Atlético-MG;2014;08/11/2014 19:30;Pacaembu
+33;283;288;3;1;Cruzeiro;Criciúma;2014;09/11/2014 19:30;Mineirão
+33;284;285;4;1;Grêmio;Internacional;2014;09/11/2014 17:00;Arena do Grêmio
+33;287;276;1;2;Vitória;São Paulo;2014;09/11/2014 17:00;Estádio Barradão
+33;290;265;3;0;Goiás;Bahia;2014;09/11/2014 19:30;Estádio Serra Dourada
+33;292;262;2;2;Sport;Flamengo;2014;09/11/2014 17:00;Arena Pernambuco
+33;294;266;1;0;Coritiba;Fluminense;2014;08/11/2014 19:30;Couto Pereira
+33;316;315;1;0;Figueirense;Chapecoense;2014;09/11/2014 17:00;Estádio Orlando Scarpelli
+34;262;294;3;2;Flamengo;Coritiba;2014;16/11/2014 17:00;Maracanã
+34;265;264;1;2;Bahia;Corinthians;2014;16/11/2014 17:00;Arena Fonte Nova
+34;266;263;1;0;Fluminense;Botafogo;2014;15/11/2014 19:30;Maracanã
+34;276;275;2;0;São Paulo;Palmeiras;2014;16/11/2014 19:30;Morumbi
+34;277;283;0;1;Santos;Cruzeiro;2014;16/11/2014 17:00;Vila Belmiro
+34;282;316;1;1;Atlético-MG;Figueirense;2014;16/11/2014 19:30;Estádio Independência
+34;285;290;1;0;Internacional;Goiás;2014;16/11/2014 17:00;Estádio Beira-Rio
+34;288;284;0;3;Criciúma;Grêmio;2014;15/11/2014 19:30;Estário Heriberto Hulse
+34;293;292;0;1;Atlético-PR;Sport;2014;16/11/2014 17:00;Arena da Baixada
+34;315;287;0;1;Chapecoense;Vitória;2014;16/11/2014 19:30;Arena Condá
+35;263;316;0;1;Botafogo;Figueirense;2014;19/11/2014 19:30;São Januário
+35;266;315;1;4;Fluminense;Chapecoense;2014;20/11/2014 19:30;Maracanã
+35;275;292;0;2;Palmeiras;Sport;2014;19/11/2014 21:00;Allianz Parque
+35;276;285;1;1;São Paulo;Internacional;2014;12/11/2014 22:00;Morumbi
+35;282;262;4;0;Atlético-MG;Flamengo;2014;19/11/2014 22:00;Estádio Independência
+35;284;283;1;2;Grêmio;Cruzeiro;2014;20/11/2014 21:50;Arena do Grêmio
+35;287;294;1;1;Vitória;Coritiba;2014;19/11/2014 21:00;Manoel Barradas
+35;288;265;0;1;Criciúma;Bahia;2014;19/11/2014 21:00;Heriberto Hulse
+35;290;264;0;1;Goiás;Corinthians;2014;19/11/2014 21:00;Estádio Manguerão
+35;293;277;1;1;Atlético-PR;Santos;2014;19/11/2014 19:30;Arena da Baixada
+36;262;288;1;1;Flamengo;Criciúma;2014;23/11/2014 17:00;Estadio Castelão
+36;264;284;1;0;Corinthians;Grêmio;2014;23/11/2014 19:30;Arena Corinthians
+36;265;293;1;2;Bahia;Atlético-PR;2014;22/11/2014 21:00;Arena Fonte Nova
+36;277;276;0;1;Santos;São Paulo;2014;23/11/2014 17:00;Arena Pantanal
+36;283;290;2;1;Cruzeiro;Goiás;2014;23/11/2014 17:00;Mineirão
+36;285;282;2;1;Internacional;Atlético-MG;2014;22/11/2014 19:30;Estádio Beira-Rio
+36;292;266;2;2;Sport;Fluminense;2014;23/11/2014 17:00;Arena Pernambuco
+36;294;275;2;0;Coritiba;Palmeiras;2014;23/11/2014 19:30;Couto Pereira
+36;315;263;2;0;Chapecoense;Botafogo;2014;23/11/2014 19:30;Arena Condá
+36;316;287;2;0;Figueirense;Vitória;2014;23/11/2014 17:00;Estádio Orlando Scarpelli
+37;262;287;4;0;Flamengo;Vitória;2014;29/11/2014 21:00;Arena Amazônia
+37;265;284;1;0;Bahia;Grêmio;2014;30/11/2014 19:30;Arena Fonte Nova
+37;266;264;5;2;Fluminense;Corinthians;2014;30/11/2014 17:00;Estádio do Maracanã
+37;276;316;1;1;São Paulo;Figueirense;2014;30/11/2014 17:00;Morumbi
+37;277;263;2;0;Santos;Botafogo;2014;30/11/2014 17:00;Vila Belmiro
+37;282;294;1;2;Atlético-MG;Coritiba;2014;30/11/2014 19:30;Arena da Baixada
+37;285;275;3;1;Internacional;Palmeiras;2014;29/11/2014 19:30;Estádio Beira-Rio
+37;288;292;2;2;Criciúma;Sport;2014;29/11/2014 19:30;Heriberto Hulse
+37;293;290;1;0;Atlético-PR;Goiás;2014;30/11/2014 19:30;Independência
+37;315;283;1;1;Chapecoense;Cruzeiro;2014;30/11/2014 17:00;Arena Condá
+38;263;282;0;0;Botafogo;Atlético-MG;2014;07/12/2014 17:00;Estadio Mané Garrincha
+38;264;288;2;1;Corinthians;Criciúma;2014;06/12/2014 16:30;Itaquera 
+38;275;293;1;1;Palmeiras;Atlético-PR;2014;07/12/2014 17:00;Allianz Parque
+38;283;266;2;1;Cruzeiro;Fluminense;2014;07/12/2014 17:00;Mineirão
+38;284;262;1;1;Grêmio;Flamengo;2014;07/12/2014 17:00;Arena do Grêmio
+38;287;277;0;1;Vitória;Santos;2014;07/12/2014 17:00;Estádio Barradão
+38;290;315;4;2;Goiás;Chapecoense;2014;07/12/2014 17:00;Estádio Serra Dourada
+38;292;276;1;0;Sport;São Paulo;2014;07/12/2014 17:00;Arena Pernambuco
+38;294;265;3;2;Coritiba;Bahia;2014;07/12/2014 17:00;Estadio Major Antônio Couto Pereira
+38;316;285;1;2;Figueirense;Internacional;2014;06/12/2014 16:30;Estádio Orlando Scarpelli
+1;266;317;1;0;Fluminense;Joinville;2015;09/05/2015 21:00;Maracanã
+1;267;290;0;0;Vasco;Goiás;2015;10/05/2015 18:30;São Januário
+1;275;282;2;2;Palmeiras;Atlético-MG;2015;09/05/2015 18:30;Allianz Parque
+1;276;262;2;1;São Paulo;Flamengo;2015;10/05/2015 16:00;Morumbi
+1;283;264;0;1;Cruzeiro;Corinthians;2015;10/05/2015 16:00;Arena Pantanal
+1;284;303;3;3;Grêmio;Ponte Preta;2015;10/05/2015 11:00;Arena do Grêmio
+1;292;316;4;1;Sport;Figueirense;2015;10/05/2015 16:00;Ilha do Retiro
+1;293;285;3;0;Atlético-PR;Internacional;2015;10/05/2015 16:00;Arena da Baixada
+1;314;277;1;1;Avaí;Santos;2015;10/05/2015 18:30;Ressacada
+1;315;294;2;1;Chapecoense;Coritiba;2015;09/05/2015 18:30;Arena Condá
+2;262;292;2;2;Flamengo;Sport;2015;17/05/2015 16:00;Maracanã
+2;264;315;1;0;Corinthians;Chapecoense;2015;16/05/2015 21:00;Arena Corinthians
+2;277;283;1;0;Santos;Cruzeiro;2015;17/05/2015 16:00;Vila Belmiro
+2;282;266;4;1;Atlético-MG;Fluminense;2015;17/05/2015 16:00;Independência
+2;285;314;1;0;Internacional;Avaí;2015;17/05/2015 18:30;Beira-Rio
+2;290;293;2;0;Goiás;Atlético-PR;2015;16/05/2015 18:30;Serra Dourada
+2;294;284;2;0;Coritiba;Grêmio;2015;16/05/2015 18:30;Couto Pereira
+2;303;276;1;0;Ponte Preta;São Paulo;2015;17/05/2015 18:30;Moisés Lucarelli
+2;316;267;0;0;Figueirense;Vasco;2015;17/05/2015 11:00;Estádio Orlando Scarpelli
+2;317;275;0;0;Joinville;Palmeiras;2015;17/05/2015 18:30;Arena Joinville
+3;266;264;0;0;Fluminense;Corinthians;2015;24/05/2015 16:00;Maracanã
+3;267;285;1;1;Vasco;Internacional;2015;23/05/2015 18:30;São Januário
+3;275;290;0;1;Palmeiras;Goiás;2015;24/05/2015 11:00;Allianz Parque
+3;276;317;3;0;São Paulo;Joinville;2015;23/05/2015 18:30;Morumbi
+3;283;303;1;1;Cruzeiro;Ponte Preta;2015;24/05/2015 18:30;Mineirão
+3;284;316;1;0;Grêmio;Figueirense;2015;23/05/2015 21:00;Arena do Grêmio
+3;292;294;1;0;Sport;Coritiba;2015;24/05/2015 18:30;Ilha do Retiro
+3;293;282;1;0;Atlético-PR;Atlético-MG;2015;24/05/2015 16:00;Arena da Baixada
+3;314;262;2;1;Avaí;Flamengo;2015;24/05/2015 16:00;Ressacada
+3;315;277;1;0;Chapecoense;Santos;2015;24/05/2015 16:00;Arena Condá
+4;262;266;2;3;Flamengo;Fluminense;2015;31/05/2015 18:30;Maracanã
+4;264;275;0;2;Corinthians;Palmeiras;2015;31/05/2015 16:00;Arena Corinthians
+4;277;292;2;2;Santos;Sport;2015;31/05/2015 11:00;Vila Belmiro
+4;282;267;3;0;Atlético-MG;Vasco;2015;31/05/2015 16:00;Independência
+4;285;276;0;0;Internacional;São Paulo;2015;31/05/2015 16:00;Beira-Rio
+4;290;284;1;1;Goiás;Grêmio;2015;31/05/2015 16:00;Serra Dourada
+4;294;314;1;2;Coritiba;Avaí;2015;30/05/2015 18:30;Couto Pereira
+4;303;315;3;1;Ponte Preta;Chapecoense;2015;30/05/2015 18:30;Moisés Lucarelli
+4;316;283;2;1;Figueirense;Cruzeiro;2015;31/05/2015 18:30;Estádio Orlando Scarpelli
+4;317;293;1;2;Joinville;Atlético-PR;2015;30/05/2015 21:00;Arena Joinville
+5;266;294;2;0;Fluminense;Coritiba;2015;04/06/2015 16:00;Maracanã
+5;267;303;0;3;Vasco;Ponte Preta;2015;03/06/2015 19:30;São Januário
+5;275;285;1;1;Palmeiras;Internacional;2015;04/06/2015 21:00;Allianz Parque
+5;276;277;3;2;São Paulo;Santos;2015;03/06/2015 21:00;Morumbi
+5;283;262;1;0;Cruzeiro;Flamengo;2015;03/06/2015 22:00;Mineirão
+5;284;264;3;1;Grêmio;Corinthians;2015;03/06/2015 22:00;Arena do Grêmio
+5;292;290;1;0;Sport;Goiás;2015;04/06/2015 21:00;Ilha do Retiro
+5;293;316;1;0;Atlético-PR;Figueirense;2015;03/06/2015 19:30;Arena da Baixada
+5;314;282;1;4;Avaí;Atlético-MG;2015;03/06/2015 22:00;Ressacada
+5;315;317;2;0;Chapecoense;Joinville;2015;03/06/2015 19:30;Arena Condá
+6;262;315;1;0;Flamengo;Chapecoense;2015;06/06/2015 18:30;Maracanã
+6;266;292;0;0;Fluminense;Sport;2015;07/06/2015 19:30;Maracanã
+6;276;284;2;0;São Paulo;Grêmio;2015;06/06/2015 22:00;Morumbi
+6;277;303;2;2;Santos;Ponte Preta;2015;06/06/2015 18:30;Vila Belmiro
+6;282;283;1;3;Atlético-MG;Cruzeiro;2015;06/06/2015 18:30;Independência
+6;285;294;2;0;Internacional;Coritiba;2015;07/06/2015 11:00;Beira-Rio
+6;290;314;0;1;Goiás;Avaí;2015;07/06/2015 19:30;Serra Dourada
+6;293;267;2;0;Atlético-PR;Vasco;2015;06/06/2015 22:00;Arena da Baixada
+6;316;275;2;1;Figueirense;Palmeiras;2015;07/06/2015 19:30;Estádio Orlando Scarpelli
+6;317;264;0;1;Joinville;Corinthians;2015;06/06/2015 22:00;Arena Joinville
+7;264;285;2;1;Corinthians;Internacional;2015;13/06/2015 16:30;Arena Corinthians
+7;267;283;1;3;Vasco;Cruzeiro;2015;13/06/2015 21:00;São Januário
+7;275;266;2;1;Palmeiras;Fluminense;2015;14/06/2015 16:00;Allianz Parque
+7;282;277;2;2;Atlético-MG;Santos;2015;10/06/2015 19:30;Independência
+7;284;293;2;1;Grêmio;Atlético-PR;2015;14/06/2015 16:00;Arena do Grêmio
+7;292;317;2;1;Sport;Joinville;2015;13/06/2015 21:00;Ilha do Retiro
+7;294;262;0;1;Coritiba;Flamengo;2015;13/06/2015 16:30;Couto Pereira
+7;303;290;0;0;Ponte Preta;Goiás;2015;14/06/2015 11:00;Moisés Lucarelli
+7;314;316;1;1;Avaí;Figueirense;2015;14/06/2015 16:00;Ressacada
+7;315;276;0;1;Chapecoense;São Paulo;2015;13/06/2015 16:30;Arena Condá
+8;262;282;0;2;Flamengo;Atlético-MG;2015;20/06/2015 16:30;Maracanã
+8;266;303;2;0;Fluminense;Ponte Preta;2015;24/06/2015 19:30;Maracanã
+8;276;314;1;1;São Paulo;Avaí;2015;21/06/2015 16:00;Morumbi
+8;277;264;1;0;Santos;Corinthians;2015;20/06/2015 16:30;Vila Belmiro
+8;283;315;0;1;Cruzeiro;Chapecoense;2015;21/06/2015 11:00;Mineirão
+8;284;275;1;0;Grêmio;Palmeiras;2015;20/06/2015 21:00;Arena do Grêmio
+8;292;267;2;1;Sport;Vasco;2015;20/06/2015 16:30;Ilha do Retiro
+8;293;294;2;2;Atlético-PR;Coritiba;2015;21/06/2015 16:00;Arena da Baixada
+8;316;285;0;0;Figueirense;Internacional;2015;18/06/2015 21:00;Estádio Orlando Scarpelli
+8;317;290;2;1;Joinville;Goiás;2015;21/06/2015 16:00;Arena Joinville
+9;264;316;2;1;Corinthians;Figueirense;2015;27/06/2015 21:00;Arena Corinthians
+9;267;262;1;0;Vasco;Flamengo;2015;28/06/2015 18:30;Maracanã
+9;275;276;4;0;Palmeiras;São Paulo;2015;28/06/2015 16:00;Allianz Parque
+9;282;317;1;0;Atlético-MG;Joinville;2015;28/06/2015 11:00;Independência
+9;285;277;1;0;Internacional;Santos;2015;28/06/2015 18:30;Beira-Rio
+9;290;266;1;2;Goiás;Fluminense;2015;28/06/2015 16:00;Serra Dourada
+9;294;283;1;0;Coritiba;Cruzeiro;2015;28/06/2015 16:00;Couto Pereira
+9;303;293;2;1;Ponte Preta;Atlético-PR;2015;28/06/2015 16:00;Moisés Lucarelli
+9;314;284;1;2;Avaí;Grêmio;2015;27/06/2015 16:00;Ressacada
+9;315;292;1;1;Chapecoense;Sport;2015;27/06/2015 16:00;Arena Condá
+10;264;303;2;0;Corinthians;Ponte Preta;2015;02/07/2015 19:30;Arena Corinthians
+10;266;277;2;1;Fluminense;Santos;2015;02/07/2015 21:00;Maracanã
+10;267;314;1;0;Vasco;Avaí;2015;01/07/2015 19:30;São Januário
+10;275;315;2;0;Palmeiras;Chapecoense;2015;01/07/2015 21:00;Allianz Parque
+10;282;294;2;0;Atlético-MG;Coritiba;2015;01/07/2015 21:00;Independência
+10;284;283;1;0;Grêmio;Cruzeiro;2015;01/07/2015 22:00;Arena do Grêmio
+10;292;285;3;0;Sport;Internacional;2015;01/07/2015 19:30;Ilha do Retiro
+10;293;276;2;1;Atlético-PR;São Paulo;2015;01/07/2015 22:00;Arena da Baixada
+10;316;290;3;1;Figueirense;Goiás;2015;02/07/2015 19:30;Estádio Orlando Scarpelli
+10;317;262;0;1;Joinville;Flamengo;2015;01/07/2015 22:00;Arena Joinville
+11;262;316;1;2;Flamengo;Figueirense;2015;05/07/2015 18:30;Maracanã
+11;276;266;0;0;São Paulo;Fluminense;2015;05/07/2015 16:00;Morumbi
+11;277;284;1;3;Santos;Grêmio;2015;05/07/2015 16:00;Vila Belmiro
+11;283;293;2;0;Cruzeiro;Atlético-PR;2015;04/07/2015 21:00;Mineirão
+11;285;282;1;3;Internacional;Atlético-MG;2015;05/07/2015 18:30;Beira-Rio
+11;290;264;0;0;Goiás;Corinthians;2015;05/07/2015 16:00;Serra Dourada
+11;294;317;0;0;Coritiba;Joinville;2015;04/07/2015 15:00;Couto Pereira
+11;303;275;0;2;Ponte Preta;Palmeiras;2015;05/07/2015 18:30;Arena Pantanal
+11;314;292;2;2;Avaí;Sport;2015;05/07/2015 11:00;Ressacada
+11;315;267;1;0;Chapecoense;Vasco;2015;04/07/2015 21:00;Arena Condá
+12;264;293;2;0;Corinthians;Atlético-PR;2015;09/07/2015 19:30;Arena Corinthians
+12;266;283;1;0;Fluminense;Cruzeiro;2015;09/07/2015 21:00;Maracanã
+12;267;276;0;4;Vasco;São Paulo;2015;08/07/2015 22:00;Mané Garrincha
+12;275;314;3;0;Palmeiras;Avaí;2015;08/07/2015 21:00;Allianz Parque
+12;282;292;2;1;Atlético-MG;Sport;2015;08/07/2015 22:00;Mineirão
+12;285;262;1;2;Internacional;Flamengo;2015;08/07/2015 22:00;Beira-Rio
+12;290;277;4;1;Goiás;Santos;2015;08/07/2015 19:30;Serra Dourada
+12;294;303;0;0;Coritiba;Ponte Preta;2015;08/07/2015 19:30;Couto Pereira
+12;315;284;1;0;Chapecoense;Grêmio;2015;08/07/2015 19:30;Arena Condá
+12;316;317;0;2;Figueirense;Joinville;2015;08/07/2015 21:00;Orlando Scarpelli
+13;262;264;0;3;Flamengo;Corinthians;2015;12/07/2015 16:00;Maracanã
+13;276;294;3;1;São Paulo;Coritiba;2015;12/07/2015 11:00;Morumbi
+13;277;316;3;0;Santos;Figueirense;2015;11/07/2015 18:30;Vila Belmiro
+13;283;290;1;0;Cruzeiro;Goiás;2015;12/07/2015 16:00;Mineirão
+13;284;267;2;0;Grêmio;Vasco;2015;11/07/2015 18:30;Arena do Grêmio
+13;292;275;2;2;Sport;Palmeiras;2015;12/07/2015 18:30;Arena Pernambuco
+13;293;266;1;2;Atlético-PR;Fluminense;2015;12/07/2015 16:00;Arena da Baixada
+13;303;282;0;2;Ponte Preta;Atlético-MG;2015;11/07/2015 21:00;Moisés Lucarelli
+13;314;315;2;1;Avaí;Chapecoense;2015;12/07/2015 18:30;Ressacada
+13;317;285;0;2;Joinville;Internacional;2015;12/07/2015 16:00;Arena Joinville
+14;262;284;1;0;Flamengo;Grêmio;2015;18/07/2015 18:30;Maracanã
+14;264;282;1;0;Corinthians;Atlético-MG;2015;18/07/2015 21:00;Arena Corinthians
+14;266;267;1;2;Fluminense;Vasco;2015;19/07/2015 16:00;Maracanã
+14;275;277;1;0;Palmeiras;Santos;2015;19/07/2015 16:00;Allianz Parque
+14;283;314;1;1;Cruzeiro;Avaí;2015;19/07/2015 18:30;Mineirão
+14;285;290;2;1;Internacional;Goiás;2015;18/07/2015 18:30;Beira-Rio
+14;292;276;2;0;Sport;São Paulo;2015;19/07/2015 16:00;Arena Pernambuco
+14;293;315;1;0;Atlético-PR;Chapecoense;2015;19/07/2015 11:00;Arena da Baixada
+14;316;294;0;0;Figueirense;Coritiba;2015;19/07/2015 16:00;Orlando Scarpelli
+14;317;303;1;1;Joinville;Ponte Preta;2015;19/07/2015 18:30;Arena Joinville
+15;267;275;1;4;Vasco;Palmeiras;2015;26/07/2015 18:30;São Januário
+15;276;283;1;0;São Paulo;Cruzeiro;2015;26/07/2015 16:00;Morumbi
+15;277;317;2;0;Santos;Joinville;2015;26/07/2015 11:00;Vila Belmiro
+15;282;316;1;0;Atlético-MG;Figueirense;2015;25/07/2015 21:00;Independência
+15;284;292;1;1;Grêmio;Sport;2015;25/07/2015 19:30;Arena do Grêmio
+15;290;262;0;1;Goiás;Flamengo;2015;26/07/2015 16:00;Serra Dourada
+15;294;264;1;1;Coritiba;Corinthians;2015;26/07/2015 16:00;Couto Pereira
+15;303;285;0;0;Ponte Preta;Internacional;2015;26/07/2015 16:00;Moisés Lucarelli
+15;314;293;1;2;Avaí;Atlético-PR;2015;25/07/2015 18:30;Ressacada
+15;315;266;2;1;Chapecoense;Fluminense;2015;26/07/2015 11:00;Arena Condá
+16;262;277;2;2;Flamengo;Santos;2015;02/08/2015 16:00;Maracanã
+16;264;267;3;0;Corinthians;Vasco;2015;29/07/2015 22:00;Arena Corinthians
+16;266;284;1;0;Fluminense;Grêmio;2015;01/08/2015 18:30;Maracanã
+16;275;293;0;1;Palmeiras;Atlético-PR;2015;02/08/2015 11:00;Allianz Parque
+16;282;276;3;1;Atlético-MG;São Paulo;2015;29/07/2015 22:00;Independência
+16;285;315;0;0;Internacional;Chapecoense;2015;02/08/2015 16:00;Beira-Rio
+16;292;283;0;0;Sport;Cruzeiro;2015;02/08/2015 18:30;Arena Pernambuco
+16;294;290;1;1;Coritiba;Goiás;2015;02/08/2015 11:00;Couto Pereira
+16;316;303;3;1;Figueirense;Ponte Preta;2015;02/08/2015 16:00;Orlando Scarpelli
+16;317;314;2;0;Joinville;Avaí;2015;02/08/2015 16:00;Arena Joinville
+17;267;317;0;0;Vasco;Joinville;2015;09/08/2015 11:00;Maracanã
+17;276;264;1;1;São Paulo;Corinthians;2015;09/08/2015 16:00;Morumbi
+17;277;294;3;0;Santos;Coritiba;2015;08/08/2015 21:00;Vila Belmiro
+17;283;275;2;1;Cruzeiro;Palmeiras;2015;09/08/2015 16:00;Mineirão
+17;284;285;5;0;Grêmio;Internacional;2015;09/08/2015 18:30;Arena do Grêmio
+17;290;282;0;0;Goiás;Atlético-MG;2015;09/08/2015 16:00;Serra Dourada
+17;293;292;1;1;Atlético-PR;Sport;2015;09/08/2015 11:00;Arena da Baixada
+17;303;262;1;0;Ponte Preta;Flamengo;2015;09/08/2015 16:00;Moisés Lucarelli
+17;314;266;1;0;Avaí;Fluminense;2015;08/08/2015 18:30;Ressacada
+17;315;316;2;2;Chapecoense;Figueirense;2015;09/08/2015 18:30;Arena Condá
+18;262;293;3;2;Flamengo;Atlético-PR;2015;12/08/2015 19:30;Maracanã
+18;264;292;4;3;Corinthians;Sport;2015;12/08/2015 22:00;Arena Corinthians
+18;277;267;1;0;Santos;Vasco;2015;12/08/2015 21:00;Vila Belmiro
+18;282;284;0;2;Atlético-MG;Grêmio;2015;13/08/2015 21:00;Mineirão
+18;285;266;1;0;Internacional;Fluminense;2015;12/08/2015 22:00;Beira-Rio
+18;290;315;0;0;Goiás;Chapecoense;2015;12/08/2015 21:00;Serra Dourada
+18;294;275;2;1;Coritiba;Palmeiras;2015;12/08/2015 19:30;Couto Pereira
+18;303;314;2;0;Ponte Preta;Avaí;2015;13/08/2015 19:30;Moisés Lucarelli
+18;316;276;0;2;Figueirense;São Paulo;2015;12/08/2015 22:00;Orlando Scarpelli
+18;317;283;3;0;Joinville;Cruzeiro;2015;13/08/2015 21:00;Arena Joinville
+19;266;316;2;1;Fluminense;Figueirense;2015;16/08/2015 16:00;Maracanã
+19;267;294;0;1;Vasco;Coritiba;2015;15/08/2015 18:30;Maracanã
+19;275;262;4;2;Palmeiras;Flamengo;2015;16/08/2015 11:00;Allianz Parque
+19;276;290;0;3;São Paulo;Goiás;2015;15/08/2015 21:00;Morumbi
+19;283;285;0;0;Cruzeiro;Internacional;2015;16/08/2015 16:00;Mineirão
+19;284;317;2;1;Grêmio;Joinville;2015;16/08/2015 18:30;Arena do Grêmio
+19;292;303;1;1;Sport;Ponte Preta;2015;16/08/2015 16:00;Ilha do Retiro
+19;293;277;0;0;Atlético-PR;Santos;2015;15/08/2015 18:30;Arena da Baixada
+19;314;264;1;2;Avaí;Corinthians;2015;16/08/2015 16:00;Ressacada
+19;315;282;2;1;Chapecoense;Atlético-MG;2015;16/08/2015 18:30;Arena Condá
+20;262;276;2;1;Flamengo;São Paulo;2015;23/08/2015 16:00;Maracanã
+20;264;283;3;0;Corinthians;Cruzeiro;2015;23/08/2015 16:00;Arena Corinthians
+20;277;314;5;2;Santos;Avaí;2015;22/08/2015 18:30;Vila Belmiro
+20;282;275;2;1;Atlético-MG;Palmeiras;2015;23/08/2015 18:30;Independência
+20;285;293;2;0;Internacional;Atlético-PR;2015;23/08/2015 16:00;Beira-Rio
+20;290;267;3;0;Goiás;Vasco;2015;22/08/2015 18:30;Serra Dourada
+20;294;315;1;0;Coritiba;Chapecoense;2015;23/08/2015 11:00;Couto Pereira
+20;303;284;0;0;Ponte Preta;Grêmio;2015;23/08/2015 11:00;Moisés Lucarelli
+20;316;292;2;1;Figueirense;Sport;2015;22/08/2015 21:00;Orlando Scarpelli
+20;317;266;2;1;Joinville;Fluminense;2015;23/08/2015 16:00;Arena Joinville
+21;266;282;1;2;Fluminense;Atlético-MG;2015;30/08/2015 16:00;Maracanã
+21;267;316;0;1;Vasco;Figueirense;2015;29/08/2015 18:30;Maracanã
+21;275;317;3;2;Palmeiras;Joinville;2015;30/08/2015 16:00;Allianz Parque
+21;276;303;3;0;São Paulo;Ponte Preta;2015;29/08/2015 21:00;Morumbi
+21;283;277;0;1;Cruzeiro;Santos;2015;30/08/2015 18:30;Mineirão
+21;284;294;0;0;Grêmio;Coritiba;2015;30/08/2015 11:00;Arena do Grêmio
+21;292;262;0;1;Sport;Flamengo;2015;30/08/2015 16:00;Arena Pernambuco
+21;293;290;3;0;Atlético-PR;Goiás;2015;30/08/2015 18:30;Arena da Baixada
+21;314;285;3;0;Avaí;Internacional;2015;30/08/2015 11:00;Ressacada
+21;315;264;1;3;Chapecoense;Corinthians;2015;30/08/2015 16:00;Arena Condá
+22;262;314;3;0;Flamengo;Avaí;2015;02/09/2015 21:00;Arena das Dunas
+22;264;266;2;0;Corinthians;Fluminense;2015;02/09/2015 22:00;Arena Corinthians
+22;277;315;3;1;Santos;Chapecoense;2015;03/09/2015 19:30;Vila Belmiro
+22;282;293;0;1;Atlético-MG;Atlético-PR;2015;02/09/2015 21:00;Independência
+22;285;267;6;0;Internacional;Vasco;2015;02/09/2015 19:30;Beira-Rio
+22;290;275;1;0;Goiás;Palmeiras;2015;02/09/2015 22:00;Serra Dourada
+22;294;292;0;0;Coritiba;Sport;2015;02/09/2015 22:00;Couto Pereira
+22;303;283;1;2;Ponte Preta;Cruzeiro;2015;02/09/2015 19:30;Moisés Lucarelli
+22;316;284;0;2;Figueirense;Grêmio;2015;03/09/2015 21:00;Orlando Scarpelli
+22;317;276;0;0;Joinville;São Paulo;2015;02/09/2015 19:30;Ressacada
+23;266;262;1;3;Fluminense;Flamengo;2015;06/09/2015 16:00;Maracanã
+23;267;282;1;2;Vasco;Atlético-MG;2015;05/09/2015 19:30;Maracanã
+23;275;264;3;3;Palmeiras;Corinthians;2015;06/09/2015 16:00;Allianz Parque
+23;276;285;2;0;São Paulo;Internacional;2015;05/09/2015 19:30;Morumbi
+23;283;316;5;1;Cruzeiro;Figueirense;2015;06/09/2015 11:00;Mineirão
+23;284;290;2;1;Grêmio;Goiás;2015;06/09/2015 16:00;Arena do Grêmio
+23;292;277;1;1;Sport;Santos;2015;06/09/2015 18:30;Ilha do Retiro
+23;293;317;0;0;Atlético-PR;Joinville;2015;05/09/2015 21:00;Arena da Baixada
+23;314;294;0;2;Avaí;Coritiba;2015;06/09/2015 16:00;Ressacada
+23;315;303;0;0;Chapecoense;Ponte Preta;2015;06/09/2015 11:00;Arena Condá
+24;262;283;2;0;Flamengo;Cruzeiro;2015;10/09/2015 21:00;Maracanã
+24;264;284;1;1;Corinthians;Grêmio;2015;09/09/2015 22:00;Arena Corinthians
+24;277;276;3;0;Santos;São Paulo;2015;09/09/2015 22:00;Vila Belmiro
+24;282;314;2;0;Atlético-MG;Avaí;2015;09/09/2015 19:30;Independência
+24;285;275;1;0;Internacional;Palmeiras;2015;09/09/2015 19:30;Beira-Rio
+24;290;292;1;0;Goiás;Sport;2015;10/09/2015 19:30;Serra Dourada
+24;294;266;1;1;Coritiba;Fluminense;2015;09/09/2015 22:00;Couto Pereira
+24;303;267;0;1;Ponte Preta;Vasco;2015;09/09/2015 19:30;Moisés Lucarelli
+24;316;293;1;1;Figueirense;Atlético-PR;2015;09/09/2015 21:00;Orlando Scarpelli
+24;317;315;0;0;Joinville;Chapecoense;2015;10/09/2015 21:00;Arena Joinville
+25;264;317;3;0;Corinthians;Joinville;2015;13/09/2015 11:00;Arena Corinthians
+25;267;293;2;0;Vasco;Atlético-PR;2015;13/09/2015 16:00;São Januário
+25;275;316;2;0;Palmeiras;Figueirense;2015;12/09/2015 21:00;Allianz Parque
+25;283;282;1;1;Cruzeiro;Atlético-MG;2015;13/09/2015 16:00;Mineirão
+25;284;276;1;2;Grêmio;São Paulo;2015;13/09/2015 16:00;Arena do Grêmio
+25;292;266;1;0;Sport;Fluminense;2015;13/09/2015 18:30;Arena Pernambuco
+25;294;285;0;1;Coritiba;Internacional;2015;12/09/2015 18:30;Couto Pereira
+25;303;277;3;1;Ponte Preta;Santos;2015;13/09/2015 11:00;Moisés Lucarelli
+25;314;290;2;1;Avaí;Goiás;2015;13/09/2015 18:30;Ressacada
+25;315;262;1;3;Chapecoense;Flamengo;2015;13/09/2015 16:00;Arena Condá
+26;262;294;0;2;Flamengo;Coritiba;2015;17/09/2015 21:00;Mané Garrincha
+26;266;275;1;4;Fluminense;Palmeiras;2015;16/09/2015 19:30;Maracanã
+26;276;315;0;0;São Paulo;Chapecoense;2015;17/09/2015 19:30;Morumbi
+26;277;282;4;0;Santos;Atlético-MG;2015;16/09/2015 22:00;Vila Belmiro
+26;283;267;2;2;Cruzeiro;Vasco;2015;16/09/2015 22:00;Mineirão
+26;285;264;2;1;Internacional;Corinthians;2015;16/09/2015 22:00;Beira-Rio
+26;290;303;1;2;Goiás;Ponte Preta;2015;16/09/2015 19:30;Serra Dourada
+26;293;284;1;2;Atlético-PR;Grêmio;2015;16/09/2015 21:00;Couto Pereira
+26;316;314;0;1;Figueirense;Avaí;2015;16/09/2015 21:00;Orlando Scarpelli
+26;317;292;1;1;Joinville;Sport;2015;16/09/2015 19:30;Arena Joinville
+27;264;277;2;0;Corinthians;Santos;2015;20/09/2015 11:00;Arena Corinthians
+27;267;292;2;1;Vasco;Sport;2015;20/09/2015 16:00;Maracanã
+27;275;284;3;2;Palmeiras;Grêmio;2015;19/09/2015 18:30;Pacaembu
+27;282;262;4;1;Atlético-MG;Flamengo;2015;20/09/2015 16:00;Independência
+27;285;316;1;1;Internacional;Figueirense;2015;19/09/2015 18:30;Beira-Rio
+27;290;317;3;0;Goiás;Joinville;2015;20/09/2015 11:00;Serra Dourada
+27;294;293;2;0;Coritiba;Atlético-PR;2015;20/09/2015 18:30;Couto Pereira
+27;303;266;3;1;Ponte Preta;Fluminense;2015;19/09/2015 21:00;Moisés Lucarelli
+27;314;276;2;1;Avaí;São Paulo;2015;20/09/2015 16:00;Ressacada
+27;315;283;0;2;Chapecoense;Cruzeiro;2015;20/09/2015 18:30;Arena Condá
+28;262;267;1;2;Flamengo;Vasco;2015;27/09/2015 16:00;Maracanã
+28;266;290;2;0;Fluminense;Goiás;2015;26/09/2015 18:30;Maracanã
+28;276;275;1;1;São Paulo;Palmeiras;2015;27/09/2015 16:00;Morumbi
+28;277;285;3;1;Santos;Internacional;2015;27/09/2015 11:00;Vila Belmiro
+28;283;294;2;0;Cruzeiro;Coritiba;2015;27/09/2015 18:30;Mineirão
+28;284;314;3;1;Grêmio;Avaí;2015;26/09/2015 21:00;Arena do Grêmio
+28;292;315;3;0;Sport;Chapecoense;2015;27/09/2015 18:30;Ilha do Retiro
+28;293;303;1;2;Atlético-PR;Ponte Preta;2015;27/09/2015 11:00;Arena da Baixada
+28;316;264;1;3;Figueirense;Corinthians;2015;27/09/2015 16:00;Orlando Scarpelli
+28;317;282;2;2;Joinville;Atlético-MG;2015;27/09/2015 16:00;Arena Joinville
+29;262;317;2;0;Flamengo;Joinville;2015;04/10/2015 11:00;Maracanã
+29;276;293;1;0;São Paulo;Atlético-PR;2015;03/10/2015 21:00;Morumbi
+29;277;266;3;1;Santos;Fluminense;2015;04/10/2015 16:00;Vila Belmiro
+29;283;284;0;0;Cruzeiro;Grêmio;2015;04/10/2015 16:00;Mineirão
+29;285;292;2;1;Internacional;Sport;2015;03/10/2015 18:30;Beira-Rio
+29;290;316;2;3;Goiás;Figueirense;2015;04/10/2015 16:00;Serra Dourada
+29;294;282;0;3;Coritiba;Atlético-MG;2015;03/10/2015 18:30;Couto Pereira
+29;303;264;2;2;Ponte Preta;Corinthians;2015;04/10/2015 16:00;Moisés Lucarelli
+29;314;267;1;1;Avaí;Vasco;2015;04/10/2015 11:00;Ressacada
+29;315;275;5;1;Chapecoense;Palmeiras;2015;04/10/2015 18:30;Arena Condá
+30;264;290;3;0;Corinthians;Goiás;2015;15/10/2015 19:30;Arena Corinthians
+30;266;276;2;0;Fluminense;São Paulo;2015;14/10/2015 22:00;Maracanã
+30;267;315;1;1;Vasco;Chapecoense;2015;15/10/2015 19:30;Maracanã
+30;275;303;0;1;Palmeiras;Ponte Preta;2015;14/10/2015 21:00;Allianz Parque
+30;282;285;2;1;Atlético-MG;Internacional;2015;14/10/2015 19:30;Independência
+30;284;277;1;0;Grêmio;Santos;2015;15/10/2015 21:00;Arena do Grêmio
+30;292;314;3;0;Sport;Avaí;2015;14/10/2015 19:30;Ilha do Retiro
+30;293;283;2;2;Atlético-PR;Cruzeiro;2015;14/10/2015 22:00;Arena da Baixada
+30;316;262;3;0;Figueirense;Flamengo;2015;14/10/2015 21:00;Orlando Scarpelli
+30;317;294;3;1;Joinville;Coritiba;2015;14/10/2015 21:00;Arena Joinville
+31;262;285;0;1;Flamengo;Internacional;2015;18/10/2015 16:00;Maracanã
+31;276;267;2;2;São Paulo;Vasco;2015;18/10/2015 16:00;Morumbi
+31;277;290;3;1;Santos;Goiás;2015;18/10/2015 17:00;Vila Belmiro
+31;283;266;2;0;Cruzeiro;Fluminense;2015;18/10/2015 11:00;Mineirão
+31;284;315;2;3;Grêmio;Chapecoense;2015;18/10/2015 17:00;Arena do Grêmio
+31;292;282;4;1;Sport;Atlético-MG;2015;18/10/2015 18:30;Ilha do Retiro
+31;293;264;1;4;Atlético-PR;Corinthians;2015;18/10/2015 16:00;Arena da Baixada
+31;303;294;3;0;Ponte Preta;Coritiba;2015;18/10/2015 11:00;Moisés Lucarelli
+31;314;275;1;3;Avaí;Palmeiras;2015;17/10/2015 18:30;Ressacada
+31;317;316;1;0;Joinville;Figueirense;2015;17/10/2015 21:00;Arena Joinville
+32;264;262;1;0;Corinthians;Flamengo;2015;25/10/2015 17:00;Arena Corinthians
+32;266;293;0;1;Fluminense;Atlético-PR;2015;24/10/2015 17:00;Maracanã
+32;267;284;0;0;Vasco;Grêmio;2015;25/10/2015 17:00;Maracanã
+32;275;292;0;2;Palmeiras;Sport;2015;24/10/2015 21:00;Allianz Parque
+32;282;303;2;1;Atlético-MG;Ponte Preta;2015;25/10/2015 19:30;Independência
+32;285;317;1;0;Internacional;Joinville;2015;24/10/2015 18:30;Beira-Rio
+32;290;283;0;1;Goiás;Cruzeiro;2015;25/10/2015 18:00;Serra Dourada
+32;294;276;1;2;Coritiba;São Paulo;2015;25/10/2015 17:00;Couto Pereira
+32;315;314;0;0;Chapecoense;Avaí;2015;25/10/2015 17:00;Arena Condá
+32;316;277;0;0;Figueirense;Santos;2015;24/10/2015 18:30;Orlando Scarpelli
+33;267;266;0;1;Vasco;Fluminense;2015;01/11/2015 18:00;Maracanã
+33;276;292;3;0;São Paulo;Sport;2015;31/10/2015 17:00;Morumbi
+33;277;275;2;1;Santos;Palmeiras;2015;01/11/2015 17:00;Vila Belmiro
+33;282;264;0;3;Atlético-MG;Corinthians;2015;01/11/2015 17:00;Independência
+33;284;262;2;0;Grêmio;Flamengo;2015;01/11/2015 17:00;Arena do Grêmio
+33;290;285;2;1;Goiás;Internacional;2015;01/11/2015 19:30;Serra Dourada
+33;294;316;1;1;Coritiba;Figueirense;2015;31/10/2015 21:00;Couto Pereira
+33;303;317;1;0;Ponte Preta;Joinville;2015;31/10/2015 19:30;Moisés Lucarelli
+33;314;283;1;1;Avaí;Cruzeiro;2015;31/10/2015 19:30;Ressacada
+33;315;293;0;0;Chapecoense;Atlético-PR;2015;01/11/2015 17:00;Arena Condá
+34;262;290;4;1;Flamengo;Goiás;2015;08/11/2015 17:00;Maracanã
+34;264;294;2;1;Corinthians;Coritiba;2015;07/11/2015 19:30;Arena Corinthians
+34;266;315;2;3;Fluminense;Chapecoense;2015;07/11/2015 21:00;Maracanã
+34;275;267;0;2;Palmeiras;Vasco;2015;08/11/2015 17:00;Allianz Parque
+34;283;276;2;1;Cruzeiro;São Paulo;2015;08/11/2015 17:00;Mineirão
+34;285;303;1;0;Internacional;Ponte Preta;2015;07/11/2015 17:00;Beira-Rio
+34;292;284;1;0;Sport;Grêmio;2015;08/11/2015 19:30;Ilha do Retiro
+34;293;314;2;1;Atlético-PR;Avaí;2015;07/11/2015 19:30;Arena da Baixada
+34;316;282;0;1;Figueirense;Atlético-MG;2015;08/11/2015 17:00;Orlando Scarpelli
+34;317;277;0;0;Joinville;Santos;2015;08/11/2015 18:00;Arena Joinville
+35;267;264;1;1;Vasco;Corinthians;2015;19/11/2015 22:00;São Januário
+35;276;282;4;2;São Paulo;Atlético-MG;2015;19/11/2015 22:00;Morumbi
+35;277;262;0;0;Santos;Flamengo;2015;19/11/2015 22:00;Vila Belmiro
+35;283;292;3;0;Cruzeiro;Sport;2015;15/11/2015 17:00;Mineirão
+35;284;266;1;0;Grêmio;Fluminense;2015;19/11/2015 19:30;Arena do Grêmio
+35;290;294;1;3;Goiás;Coritiba;2015;18/11/2015 19:30;Serra Dourada
+35;293;275;3;3;Atlético-PR;Palmeiras;2015;18/11/2015 21:00;Arena da Baixada
+35;303;316;0;1;Ponte Preta;Figueirense;2015;18/11/2015 21:00;Moisés Lucarelli
+35;314;317;2;1;Avaí;Joinville;2015;18/11/2015 21:00;Ressacada
+35;315;285;1;0;Chapecoense;Internacional;2015;19/11/2015 19:30;Arena Condá
+36;262;303;1;1;Flamengo;Ponte Preta;2015;22/11/2015 18:00;Mané Garrincha
+36;264;276;6;1;Corinthians;São Paulo;2015;22/11/2015 17:00;Arena Corinthians
+36;266;314;3;1;Fluminense;Avaí;2015;22/11/2015 19:30;Maracanã
+36;275;283;1;1;Palmeiras;Cruzeiro;2015;21/11/2015 19:30;Allianz Parque
+36;282;290;2;2;Atlético-MG;Goiás;2015;22/11/2015 17:00;Independência
+36;285;284;1;0;Internacional;Grêmio;2015;22/11/2015 17:00;Beira-Rio
+36;292;293;0;0;Sport;Atlético-PR;2015;22/11/2015 19:30;Ilha do Retiro
+36;294;277;1;0;Coritiba;Santos;2015;22/11/2015 19:30;Couto Pereira
+36;316;315;0;0;Figueirense;Chapecoense;2015;22/11/2015 17:00;Orlando Scarpelli
+36;317;267;1;2;Joinville;Vasco;2015;22/11/2015 17:00;Arena Joinville
+37;266;285;1;1;Fluminense;Internacional;2015;28/11/2015 19:30;Maracanã
+37;267;277;1;0;Vasco;Santos;2015;29/11/2015 17:00;São Januário
+37;275;294;0;2;Palmeiras;Coritiba;2015;29/11/2015 18:00;Allianz Parque
+37;276;316;3;2;São Paulo;Figueirense;2015;28/11/2015 17:00;Morumbi
+37;283;317;3;0;Cruzeiro;Joinville;2015;29/11/2015 17:00;Mineirão
+37;284;282;2;1;Grêmio;Atlético-MG;2015;29/11/2015 17:00;Arena do Grêmio
+37;292;264;2;0;Sport;Corinthians;2015;29/11/2015 17:00;Arena Pernambuco
+37;293;262;3;0;Atlético-PR;Flamengo;2015;29/11/2015 19:30;Arena da Baixada
+37;314;303;1;0;Avaí;Ponte Preta;2015;28/11/2015 21:00;Ressacada
+37;315;290;1;3;Chapecoense;Goiás;2015;29/11/2015 18:00;Arena Condá
+38;262;275;1;2;Flamengo;Palmeiras;2015;06/12/2015 17:00;Maracanã
+38;264;314;1;1;Corinthians;Avaí;2015;06/12/2015 17:00;Arena Corinthians
+38;277;293;5;1;Santos;Atlético-PR;2015;06/12/2015 17:00;Vila Belmiro
+38;282;315;3;0;Atlético-MG;Chapecoense;2015;06/12/2015 17:00;Independência
+38;285;283;2;0;Internacional;Cruzeiro;2015;06/12/2015 17:00;Beira-Rio
+38;290;276;0;1;Goiás;São Paulo;2015;06/12/2015 17:00;Serra Dourada
+38;294;267;0;0;Coritiba;Vasco;2015;06/12/2015 17:00;Couto Pereira
+38;303;292;0;1;Ponte Preta;Sport;2015;06/12/2015 17:00;Moisés Lucarelli
+38;316;266;1;0;Figueirense;Fluminense;2015;06/12/2015 17:00;Orlando Scarpelli
+38;317;284;0;2;Joinville;Grêmio;2015;06/12/2015 17:00;Arena Joinville
+1;262;292;1;0;Flamengo;Sport;2016;14/05/2016 16:00;Raulino de Oliveira
+1;263;276;0;1;Botafogo;São Paulo;2016;15/05/2016 11:00;Raulino de Oliveira
+1;264;284;0;0;Corinthians;Grêmio;2016;15/05/2016 16:00;Itaquerão
+1;275;293;4;0;Palmeiras;Atlético-PR;2016;14/05/2016 16:00;Allianz Parque
+1;282;277;1;0;Atlético-MG;Santos;2016;14/05/2016 18:30;Independência
+1;285;315;0;0;Internacional;Chapecoense;2016;15/05/2016 18:30;Beira-Rio
+1;294;283;1;0;Coritiba;Cruzeiro;2016;14/05/2016 21:00;Couto Pereira
+1;316;303;0;0;Figueirense;Ponte Preta;2016;15/05/2016 16:00;Orlando Scarpelli
+1;327;266;0;1;América-MG;Fluminense;2016;15/05/2016 16:00;Independência
+1;344;287;4;1;Santa Cruz;Vitória;2016;15/05/2016 11:00;Arruda
+2;266;344;2;2;Fluminense;Santa Cruz;2016;21/05/2016 18:30;Raulino de Oliveira
+2;276;285;1;2;São Paulo;Internacional;2016;22/05/2016 16:00;Morumbi
+2;277;294;2;1;Santos;Coritiba;2016;22/05/2016 11:00;Vila Belmiro
+2;283;316;2;2;Cruzeiro;Figueirense;2016;21/05/2016 21:00;Mineirão
+2;284;262;1;0;Grêmio;Flamengo;2016;22/05/2016 16:00;Arena do Grêmio
+2;287;264;3;2;Vitória;Corinthians;2016;23/05/2016 16:00;Barradão
+2;292;263;1;1;Sport;Botafogo;2016;22/05/2016 18:30;Ilha do Retiro
+2;293;282;1;1;Atlético-PR;Atlético-MG;2016;22/05/2016 11:00;Arena da Baixada
+2;303;275;2;1;Ponte Preta;Palmeiras;2016;21/05/2016 16:00;Moisés Lucarelli
+2;315;327;3;1;Chapecoense;América-MG;2016;22/05/2016 16:00;Arena Condá
+3;262;315;2;2;Flamengo;Chapecoense;2016;25/05/2016 21:00;Raulino de Oliveira
+3;263;293;2;1;Botafogo;Atlético-PR;2016;25/05/2016 19:30;Municipal de Juiz de Fora
+3;264;303;3;0;Corinthians;Ponte Preta;2016;26/05/2016 11:00;Itaquerão
+3;275;266;2;0;Palmeiras;Fluminense;2016;25/05/2016 21:45;Allianz Parque
+3;282;284;0;3;Atlético-MG;Grêmio;2016;26/05/2016 21:00;Independência
+3;285;292;1;0;Internacional;Sport;2016;26/05/2016 16:00;Beira-Rio
+3;294;276;1;1;Coritiba;São Paulo;2016;25/05/2016 21:45;Couto Pereira
+3;316;277;2;2;Figueirense;Santos;2016;25/05/2016 19:30;Orlando Scarpelli
+3;327;287;1;1;América-MG;Vitória;2016;25/05/2016 21:00;Independência
+3;344;283;4;1;Santa Cruz;Cruzeiro;2016;25/05/2016 21:45;Arruda
+4;266;263;1;0;Fluminense;Botafogo;2016;29/05/2016 16:00;Raulino de Oliveira
+4;276;275;1;0;São Paulo;Palmeiras;2016;29/05/2016 16:00;Morumbi
+4;277;285;0;1;Santos;Internacional;2016;29/05/2016 18:30;Vila Belmiro
+4;283;327;1;1;Cruzeiro;América-MG;2016;28/05/2016 16:00;Mineirão
+4;284;294;2;0;Grêmio;Coritiba;2016;29/05/2016 18:30;Arena do Grêmio
+4;287;282;1;1;Vitória;Atlético-MG;2016;29/05/2016 16:00;Barradão
+4;292;264;0;2;Sport;Corinthians;2016;29/05/2016 11:00;Ilha do Retiro
+4;293;316;2;1;Atlético-PR;Figueirense;2016;28/05/2016 18:30;Arena da Baixada
+4;303;262;1;2;Ponte Preta;Flamengo;2016;29/05/2016 11:00;Moisés Lucarelli
+4;315;344;1;1;Chapecoense;Santa Cruz;2016;28/05/2016 21:00;Arena Condá
+5;262;287;1;0;Flamengo;Vitória;2016;02/06/2016 21:00;Raulino de Oliveira
+5;263;283;0;1;Botafogo;Cruzeiro;2016;01/06/2016 21:45;Mané Garrincha
+5;264;277;1;0;Corinthians;Santos;2016;01/06/2016 21:00;Itaquerão
+5;275;284;4;3;Palmeiras;Grêmio;2016;02/06/2016 21:00;Pacaembu
+5;282;266;1;1;Atlético-MG;Fluminense;2016;01/06/2016 21:45;Independência
+5;285;293;1;0;Internacional;Atlético-PR;2016;01/06/2016 19:30;Beira-Rio
+5;294;315;3;4;Coritiba;Chapecoense;2016;01/06/2016 21:00;Vila Capanema
+5;316;276;1;0;Figueirense;São Paulo;2016;01/06/2016 21:45;Orlando Scarpelli
+5;327;303;1;2;América-MG;Ponte Preta;2016;02/06/2016 19:30;Independência
+5;344;292;0;1;Santa Cruz;Sport;2016;01/06/2016 21:00;Arruda
+6;262;275;1;2;Flamengo;Palmeiras;2016;05/06/2016 16:00;Mané Garrincha
+6;264;294;2;1;Corinthians;Coritiba;2016;04/06/2016 20:30;Itaquerão
+6;277;263;3;0;Santos;Botafogo;2016;05/06/2016 11:00;Pacaembu
+6;283;276;0;1;Cruzeiro;São Paulo;2016;05/06/2016 18:30;Mineirão
+6;284;303;1;0;Grêmio;Ponte Preta;2016;05/06/2016 16:00;Arena do Grêmio
+6;287;285;1;0;Vitória;Internacional;2016;05/06/2016 16:00;Barradão
+6;292;282;4;4;Sport;Atlético-MG;2016;05/06/2016 16:00;Ilha do Retiro
+6;293;344;1;0;Atlético-PR;Santa Cruz;2016;04/06/2016 16:00;Arena da Baixada
+6;315;266;0;0;Chapecoense;Fluminense;2016;04/06/2016 20:30;Arena Condá
+6;327;316;1;0;América-MG;Figueirense;2016;05/06/2016 11:00;Independência
+7;263;287;1;1;Botafogo;Vitória;2016;12/06/2016 11:00;Raulino de Oliveira
+7;266;284;1;1;Fluminense;Grêmio;2016;11/06/2016 18:30;Raulino de Oliveira
+7;275;264;1;0;Palmeiras;Corinthians;2016;12/06/2016 16:00;Allianz Parque
+7;276;293;1;2;São Paulo;Atlético-PR;2016;11/06/2016 21:00;Morumbi
+7;282;283;2;3;Atlético-MG;Cruzeiro;2016;12/06/2016 16:00;Independência
+7;285;327;3;1;Internacional;América-MG;2016;11/06/2016 16:00;Beira-Rio
+7;294;292;3;2;Coritiba;Sport;2016;12/06/2016 11:00;Couto Pereira
+7;303;315;2;1;Ponte Preta;Chapecoense;2016;11/06/2016 16:00;Moisés Lucarelli
+7;316;262;1;0;Figueirense;Flamengo;2016;12/06/2016 16:00;Orlando Scarpelli
+7;344;277;0;2;Santa Cruz;Santos;2016;12/06/2016 19:00;Arruda
+8;263;327;3;1;Botafogo;América-MG;2016;12/06/2016 11:00;Raulino de Oliveira
+8;266;264;1;0;Fluminense;Corinthians;2016;11/06/2016 18:30;Mané Garrincha
+8;276;287;2;0;São Paulo;Vitória;2016;15/06/2016 19:30;Morumbi
+8;277;292;2;0;Santos;Sport;2016;15/06/2016 21:00;Vila Belmiro
+8;283;262;0;1;Cruzeiro;Flamengo;2016;15/06/2016 21:45;Mineirão
+8;285;282;2;0;Internacional;Atlético-MG;2016;16/06/2016 20:00;Beira-Rio
+8;294;275;2;2;Coritiba;Palmeiras;2016;15/06/2016 21:45;Couto Pereira
+8;303;293;3;2;Ponte Preta;Atlético-PR;2016;15/06/2016 19:30;Moisés Lucarelli
+8;315;284;3;3;Chapecoense;Grêmio;2016;15/06/2016 19:30;Arena Condá
+8;344;316;1;0;Santa Cruz;Figueirense;2016;15/06/2016 21:00;Arruda
+9;262;276;2;2;Flamengo;São Paulo;2016;19/06/2016 16:00;Mané Garrincha
+9;264;263;3;1;Corinthians;Botafogo;2016;19/06/2016 16:00;Itaquerão
+9;275;344;3;1;Palmeiras;Santa Cruz;2016;18/06/2016 16:00;Allianz Parque
+9;282;303;3;0;Atlético-MG;Ponte Preta;2016;19/06/2016 11:00;Independência
+9;284;283;2;0;Grêmio;Cruzeiro;2016;19/06/2016 19:00;Arena do Grêmio
+9;287;315;1;2;Vitória;Chapecoense;2016;19/06/2016 11:00;Barradão
+9;292;266;2;1;Sport;Fluminense;2016;19/06/2016 16:00;Ilha do Retiro
+9;293;277;1;0;Atlético-PR;Santos;2016;18/06/2016 18:00;Arena da Baixada
+9;316;285;3;2;Figueirense;Internacional;2016;19/06/2016 16:00;Orlando Scarpelli
+9;327;294;2;1;América-MG;Coritiba;2016;18/06/2016 21:00;Independência
+10;263;316;0;0;Botafogo;Figueirense;2016;22/06/2016 21:00;Municipal de Juis de Fora
+10;266;277;2;4;Fluminense;Santos;2016;22/06/2016 21:45;Kléber Andrade
+10;275;327;2;0;Palmeiras;América-MG;2016;21/06/2016 21:30;Allianz Parque
+10;276;292;0;0;São Paulo;Sport;2016;23/06/2016 21:00;Morumbi
+10;282;264;2;1;Atlético-MG;Corinthians;2016;22/06/2016 21:45;Mineirão
+10;284;287;1;2;Grêmio;Vitória;2016;23/06/2016 19:15;Arena do Grêmio
+10;294;285;1;1;Coritiba;Internacional;2016;23/06/2016 21:30;Couto Pereira
+10;303;283;0;4;Ponte Preta;Cruzeiro;2016;22/06/2016 19:30;Moisés Lucarelli
+10;315;293;0;0;Chapecoense;Atlético-PR;2016;23/06/2016 15:00;Arena Condá
+10;344;262;0;1;Santa Cruz;Flamengo;2016;22/06/2016 21:00;Arruda
+11;262;266;1;2;Flamengo;Fluminense;2016;26/06/2016 16:00;Arena das Dunas
+11;264;344;2;1;Corinthians;Santa Cruz;2016;25/06/2016 21:00;Itaquerão
+11;277;276;3;0;Santos;São Paulo;2016;26/06/2016 16:00;Vila Belmiro
+11;283;275;2;1;Cruzeiro;Palmeiras;2016;25/06/2016 19:00;Mineirão
+11;285;263;2;3;Internacional;Botafogo;2016;26/06/2016 16:00;Beira-Rio
+11;287;303;1;1;Vitória;Ponte Preta;2016;26/06/2016 16:00;Barradão
+11;292;315;5;1;Sport;Chapecoense;2016;26/06/2016 18:30;Ilha do Retiro
+11;293;284;2;0;Atlético-PR;Grêmio;2016;26/06/2016 16:00;Arena da Baixada
+11;316;294;0;0;Figueirense;Coritiba;2016;26/06/2016 18:30;Orlando Scarpelli
+11;327;282;0;1;América-MG;Atlético-MG;2016;26/06/2016 11:00;Independência
+12;262;285;1;0;Flamengo;Internacional;2016;29/06/2016 19:30;Kléber Andrade
+12;275;316;4;0;Palmeiras;Figueirense;2016;30/06/2016 19:30;Allianz Parque
+12;276;266;2;1;São Paulo;Fluminense;2016;29/06/2016 21:45;Morumbi
+12;282;263;5;3;Atlético-MG;Botafogo;2016;30/06/2016 21:00;Independência
+12;284;277;3;2;Grêmio;Santos;2016;29/06/2016 19:30;Arena do Grêmio
+12;287;292;3;2;Vitória;Sport;2016;29/06/2016 19:30;Barradão
+12;294;293;1;0;Coritiba;Atlético-PR;2016;29/06/2016 21:00;Couto Pereira
+12;315;283;3;2;Chapecoense;Cruzeiro;2016;29/06/2016 21:00;Arena Condá
+12;327;264;0;2;América-MG;Corinthians;2016;29/06/2016 21:45;Independência
+12;344;303;0;3;Santa Cruz;Ponte Preta;2016;30/06/2016 19:30;Arruda
+13;263;344;2;1;Botafogo;Santa Cruz;2016;03/07/2016 16:00;Arena Botafogo
+13;264;262;4;0;Corinthians;Flamengo;2016;03/07/2016 16:00;Itaquerão
+13;266;294;0;0;Fluminense;Coritiba;2016;02/07/2016 16:00;Raulino de Oliveira
+13;277;315;3;0;Santos;Chapecoense;2016;03/07/2016 16:00;Vila Belmiro
+13;283;287;2;2;Cruzeiro;Vitória;2016;03/07/2016 11:00;Mineirão
+13;285;284;0;1;Internacional;Grêmio;2016;03/07/2016 11:00;Beira-Rio
+13;292;275;1;3;Sport;Palmeiras;2016;04/07/2016 20:00;Ilha do Retiro
+13;293;327;1;0;Atlético-PR;América-MG;2016;02/07/2016 18:30;Arena da Baixada
+13;303;276;1;0;Ponte Preta;São Paulo;2016;03/07/2016 16:00;Moisés Lucarelli
+13;316;282;1;1;Figueirense;Atlético-MG;2016;03/07/2016 19:00;Orlando Scarpelli
+14;262;282;2;0;Flamengo;Atlético-MG;2016;10/07/2016 11:00;Mané Garrincha
+14;275;277;1;1;Palmeiras;Santos;2016;12/07/2016 20:30;Allianz Parque
+14;276;327;3;0;São Paulo;América-MG;2016;10/07/2016 16:00;Morumbi
+14;283;293;0;3;Cruzeiro;Atlético-PR;2016;11/07/2016 20:00;Mineirão
+14;284;316;2;1;Grêmio;Figueirense;2016;10/07/2016 11:00;Arena do Grêmio
+14;287;266;0;0;Vitória;Fluminense;2016;10/07/2016 19:30;Barradão
+14;294;263;0;0;Coritiba;Botafogo;2016;09/07/2016 16:30;Couto Pereira
+14;303;292;2;1;Ponte Preta;Sport;2016;09/07/2016 21:00;Moisés Lucarelli
+14;315;264;0;2;Chapecoense;Corinthians;2016;09/07/2016 16:30;Arena Condá
+14;344;285;1;0;Santa Cruz;Internacional;2016;10/07/2016 16:00;Arruda
+15;263;262;3;3;Botafogo;Flamengo;2016;16/07/2016 16:00;Arena Botafogo
+15;264;276;1;1;Corinthians;São Paulo;2016;17/07/2016 16:00;Itaquerão
+15;266;283;2;0;Fluminense;Cruzeiro;2016;17/07/2016 16:00;Édson Passos
+15;277;303;3;1;Santos;Ponte Preta;2016;16/07/2016 18:30;Vila Belmiro
+15;282;294;2;1;Atlético-MG;Coritiba;2016;18/07/2016 20:00;Independência
+15;285;275;0;1;Internacional;Palmeiras;2016;17/07/2016 16:00;Beira-Rio
+15;292;284;4;2;Sport;Grêmio;2016;17/07/2016 18:30;Ilha do Retiro
+15;293;287;1;1;Atlético-PR;Vitória;2016;17/07/2016 16:00;Arena da Baixada
+15;316;315;1;1;Figueirense;Chapecoense;2016;17/07/2016 16:00;Orlando Scarpelli
+15;327;344;0;3;América-MG;Santa Cruz;2016;17/07/2016 11:00;Independência
+16;262;327;2;1;Flamengo;América-MG;2016;25/07/2016 20:00;Maracanã
+16;264;316;1;1;Corinthians;Figueirense;2016;23/07/2016 16:00;Itaquerão
+16;275;282;0;1;Palmeiras;Atlético-MG;2016;24/07/2016 11:00;Allianz Parque
+16;283;292;1;2;Cruzeiro;Sport;2016;24/07/2016 16:00;Mineirão
+16;284;276;1;0;Grêmio;São Paulo;2016;24/07/2016 16:00;Arena do Grêmio
+16;287;277;2;3;Vitória;Santos;2016;24/07/2016 18:30;Barradão
+16;293;266;1;0;Atlético-PR;Fluminense;2016;24/07/2016 16:00;Arena da Baixada
+16;303;285;2;2;Ponte Preta;Internacional;2016;24/07/2016 11:00;Moisés Lucarelli
+16;315;263;2;1;Chapecoense;Botafogo;2016;24/07/2016 16:00;Arena Condá
+16;344;294;0;1;Santa Cruz;Coritiba;2016;23/07/2016 18:30;Arruda
+17;263;275;3;1;Botafogo;Palmeiras;2016;31/07/2016 18:30;Arena Botafogo
+17;266;303;3;0;Fluminense;Ponte Preta;2016;31/07/2016 11:00;Kléber Andrade
+17;276;315;2;2;São Paulo;Chapecoense;2016;31/07/2016 11:00;Morumbi
+17;277;283;2;0;Santos;Cruzeiro;2016;31/07/2016 16:00;Vila Belmiro
+17;282;344;3;0;Atlético-MG;Santa Cruz;2016;30/07/2016 21:00;Independência
+17;285;264;0;1;Internacional;Corinthians;2016;31/07/2016 16:00;Beira-Rio
+17;292;293;2;0;Sport;Atlético-PR;2016;30/07/2016 18:30;Ilha do Retiro
+17;294;262;0;2;Coritiba;Flamengo;2016;31/07/2016 16:00;Couto Pereira
+17;316;287;1;0;Figueirense;Vitória;2016;30/07/2016 18:30;Orlando Scarpelli
+17;327;284;0;0;América-MG;Grêmio;2016;31/07/2016 18:30;Independência
+18;266;316;3;2;Fluminense;Figueirense;2016;03/09/2016 16:00;Giulite Coutinho
+18;276;282;1;2;São Paulo;Atlético-MG;2016;04/08/2016 19:30;Morumbi
+18;277;262;0;0;Santos;Flamengo;2016;03/08/2016 21:45;Vila Belmiro
+18;283;285;4;2;Cruzeiro;Internacional;2016;04/08/2016 21:00;Mineirão
+18;284;344;0;0;Grêmio;Santa Cruz;2016;04/08/2016 19:30;Arena do Grêmio
+18;287;294;3;1;Vitória;Coritiba;2016;03/08/2016 19:30;Joia da Princesa
+18;292;327;1;1;Sport;América-MG;2016;03/08/2016 19:30;Ilha do Retiro
+18;293;264;2;0;Atlético-PR;Corinthians;2016;03/08/2016 21:45;Arena da Baixada
+18;303;263;2;0;Ponte Preta;Botafogo;2016;04/08/2016 19:15;Moisés Lucarelli
+18;315;275;1;1;Chapecoense;Palmeiras;2016;04/08/2016 21:30;Arena Condá
+19;262;293;1;0;Flamengo;Atlético-PR;2016;06/08/2016 18:30;Kléber Andrade
+19;263;284;2;1;Botafogo;Grêmio;2016;04/09/2016 16:00;Arena Botafogo
+19;264;283;1;1;Corinthians;Cruzeiro;2016;08/08/2016 21:00;Pacaembu
+19;275;287;2;1;Palmeiras;Vitória;2016;07/08/2016 16:00;Allianz Parque
+19;282;315;3;1;Atlético-MG;Chapecoense;2016;08/08/2016 20:00;Independência
+19;285;266;2;2;Internacional;Fluminense;2016;07/08/2016 16:15;Beira-Rio
+19;294;303;3;1;Coritiba;Ponte Preta;2016;07/08/2016 16:00;Couto Pereira
+19;316;292;1;1;Figueirense;Sport;2016;07/08/2016 18:30;Orlando Scarpelli
+19;327;277;1;0;América-MG;Santos;2016;07/08/2016 11:00;Independência
+19;344;276;1;2;Santa Cruz;São Paulo;2016;07/08/2016 16:15;Arruda
+20;266;327;1;0;Fluminense;América-MG;2016;14/08/2016 11:00;Kléber Andrade
+20;276;263;0;1;São Paulo;Botafogo;2016;14/08/2016 16:15;Morumbi
+20;277;282;3;0;Santos;Atlético-MG;2016;14/08/2016 16:00;Vila Belmiro
+20;283;294;2;2;Cruzeiro;Coritiba;2016;14/08/2016 16:00;Independência
+20;284;264;3;0;Grêmio;Corinthians;2016;14/08/2016 11:00;Arena do Grêmio
+20;287;344;2;2;Vitória;Santa Cruz;2016;14/08/2016 16:00;Barradão
+20;292;262;1;0;Sport;Flamengo;2016;13/08/2016 16:00;Ilha do Retiro
+20;293;275;0;1;Atlético-PR;Palmeiras;2016;14/08/2016 18:30;Arena da Baixada
+20;303;316;2;0;Ponte Preta;Figueirense;2016;13/08/2016 18:30;Moisés Lucarelli
+20;315;285;1;0;Chapecoense;Internacional;2016;15/08/2016 20:00;Arena Condá
+21;262;284;2;1;Flamengo;Grêmio;2016;21/08/2016 11:00;Maracanã
+21;263;292;3;0;Botafogo;Sport;2016;20/08/2016 21:00;Arena Botafogo
+21;264;287;2;1;Corinthians;Vitória;2016;22/08/2016 20:00;Itaquerão
+21;275;303;2;2;Palmeiras;Ponte Preta;2016;21/08/2016 16:00;Allianz Parque
+21;282;293;1;0;Atlético-MG;Atlético-PR;2016;21/08/2016 16:00;Independência
+21;285;276;1;1;Internacional;São Paulo;2016;21/08/2016 16:00;Beira-Rio
+21;294;277;2;1;Coritiba;Santos;2016;21/08/2016 18:00;Couto Pereira
+21;316;283;1;2;Figueirense;Cruzeiro;2016;21/08/2016 18:30;Orlando Scarpelli
+21;327;315;1;2;América-MG;Chapecoense;2016;19/08/2016 21:30;Independência
+21;344;266;0;1;Santa Cruz;Fluminense;2016;21/08/2016 16:00;Arruda
+22;266;275;0;2;Fluminense;Palmeiras;2016;28/08/2016 16:00;Maracanã
+22;276;294;0;0;São Paulo;Coritiba;2016;28/08/2016 16:00;Morumbi
+22;277;316;0;1;Santos;Figueirense;2016;28/08/2016 11:00;Vila Belmiro
+22;283;344;2;0;Cruzeiro;Santa Cruz;2016;28/08/2016 11:00;Mineirão
+22;284;282;1;1;Grêmio;Atlético-MG;2016;28/08/2016 16:00;Arena do Grêmio
+22;287;327;2;1;Vitória;América-MG;2016;28/08/2016 18:30;Barradão
+22;292;285;1;1;Sport;Internacional;2016;28/08/2016 18:30;Ilha do Retiro
+22;293;263;1;0;Atlético-PR;Botafogo;2016;29/08/2016 20:00;Arena da Baixada
+22;303;264;2;0;Ponte Preta;Corinthians;2016;27/08/2016 16:00;Moisés Lucarelli
+22;315;262;1;3;Chapecoense;Flamengo;2016;28/08/2016 16:00;Arena Condá
+23;262;303;2;1;Flamengo;Ponte Preta;2016;07/09/2016 21:45;Kléber Andrade
+23;263;266;1;0;Botafogo;Fluminense;2016;07/09/2016 16:00;Arena Botafogo
+23;264;292;3;0;Corinthians;Sport;2016;08/09/2016 19:30;Itaquerão
+23;275;276;2;1;Palmeiras;São Paulo;2016;07/09/2016 21:45;Allianz Parque
+23;282;287;2;1;Atlético-MG;Vitória;2016;07/09/2016 19:30;Independência
+23;285;277;2;1;Internacional;Santos;2016;08/09/2016 21:00;Beira-Rio
+23;294;284;4;0;Coritiba;Grêmio;2016;07/09/2016 21:45;Couto Pereira
+23;316;293;1;0;Figueirense;Atlético-PR;2016;07/09/2016 16:00;Orlando Scarpelli
+23;327;283;0;2;América-MG;Cruzeiro;2016;08/09/2016 21:00;Independência
+23;344;315;2;2;Santa Cruz;Chapecoense;2016;07/09/2016 16:00;Arruda
+24;266;282;4;2;Fluminense;Atlético-MG;2016;12/09/2016 20:00;Giulite Coutinho
+24;276;316;3;1;São Paulo;Figueirense;2016;11/09/2016 11:00;Morumbi
+24;277;264;2;1;Santos;Corinthians;2016;11/09/2016 16:00;Vila Belmiro
+24;283;263;0;2;Cruzeiro;Botafogo;2016;11/09/2016 16:00;Mineirão
+24;284;275;0;0;Grêmio;Palmeiras;2016;11/09/2016 18:30;Arena do Grêmio
+24;287;262;1;2;Vitória;Flamengo;2016;10/09/2016 18:30;Barradão
+24;292;344;5;3;Sport;Santa Cruz;2016;11/09/2016 16:00;Ilha do Retiro
+24;293;285;2;1;Atlético-PR;Internacional;2016;11/09/2016 16:00;Arena da Baixada
+24;303;327;1;1;Ponte Preta;América-MG;2016;11/09/2016 18:30;Moisés Lucarelli
+24;315;294;1;0;Chapecoense;Coritiba;2016;11/09/2016 11:00;Arena Condá
+25;263;277;0;1;Botafogo;Santos;2016;14/09/2016 19:30;Arena Botafogo
+25;266;315;1;2;Fluminense;Chapecoense;2016;15/09/2016 19:30;Giulite Coutinho
+25;275;262;1;1;Palmeiras;Flamengo;2016;14/09/2016 21:45;Allianz Parque
+25;276;283;1;0;São Paulo;Cruzeiro;2016;15/09/2016 21:00;Morumbi
+25;282;292;1;0;Atlético-MG;Sport;2016;15/09/2016 19:30;Independência
+25;285;287;0;1;Internacional;Vitória;2016;15/09/2016 21:00;Beira-Rio
+25;294;264;1;1;Coritiba;Corinthians;2016;14/09/2016 21:45;Couto Pereira
+25;303;284;3;0;Ponte Preta;Grêmio;2016;14/09/2016 21:00;Moisés Lucarelli
+25;316;327;2;2;Figueirense;América-MG;2016;14/09/2016 19:30;Orlando Scarpelli
+25;344;293;1;0;Santa Cruz;Atlético-PR;2016;14/09/2016 21:00;Arruda
+26;262;316;2;0;Flamengo;Figueirense;2016;18/09/2016 11:00;Pacaembu
+26;264;275;0;2;Corinthians;Palmeiras;2016;17/09/2016 16:00;Itaquerão
+26;277;344;3;2;Santos;Santa Cruz;2016;18/09/2016 18:30;Vila Belmiro
+26;283;282;1;1;Cruzeiro;Atlético-MG;2016;18/09/2016 16:00;Mineirão
+26;284;266;0;1;Grêmio;Fluminense;2016;18/09/2016 16:00;Arena do Grêmio
+26;287;263;0;1;Vitória;Botafogo;2016;18/09/2016 18:30;Barradão
+26;292;294;0;1;Sport;Coritiba;2016;18/09/2016 16:00;Ilha do Retiro
+26;293;276;1;0;Atlético-PR;São Paulo;2016;18/09/2016 16:00;Arena da Baixada
+26;315;303;2;2;Chapecoense;Ponte Preta;2016;18/09/2016 16:00;Arena Condá
+26;327;285;1;0;América-MG;Internacional;2016;19/09/2016 20:00;Independência
+27;262;283;2;1;Flamengo;Cruzeiro;2016;25/09/2016 16:00;Kléber Andrade
+27;264;266;0;1;Corinthians;Fluminense;2016;25/09/2016 16:00;Itaquerão
+27;275;294;2;1;Palmeiras;Coritiba;2016;24/09/2016 16:00;Allianz Parque
+27;282;285;3;1;Atlético-MG;Internacional;2016;25/09/2016 18:30;Independência
+27;284;315;1;0;Grêmio;Chapecoense;2016;25/09/2016 16:00;Arena do Grêmio
+27;287;276;2;0;Vitória;São Paulo;2016;25/09/2016 16:00;Barradão
+27;292;277;1;0;Sport;Santos;2016;24/09/2016 18:30;Ilha do Retiro
+27;293;303;3;0;Atlético-PR;Ponte Preta;2016;25/09/2016 11:00;Arena da Baixada
+27;316;344;3;1;Figueirense;Santa Cruz;2016;25/09/2016 11:00;Orlando Scarpelli
+27;327;263;1;0;América-MG;Botafogo;2016;24/09/2016 21:00;Independência
+28;263;264;2;0;Botafogo;Corinthians;2016;01/10/2016 16:30;Arena Botafogo
+28;266;292;3;1;Fluminense;Sport;2016;01/10/2016 11:00;Giulite Coutinho
+28;276;262;0;0;São Paulo;Flamengo;2016;01/10/2016 16:00;Morumbi
+28;277;293;2;0;Santos;Atlético-PR;2016;01/10/2016 16:00;Vila Belmiro
+28;283;284;1;0;Cruzeiro;Grêmio;2016;01/10/2016 18:30;Mineirão
+28;285;316;1;0;Internacional;Figueirense;2016;01/10/2016 21:00;Beira-Rio
+28;294;327;3;0;Coritiba;América-MG;2016;03/10/2016 21:00;Couto Pereira
+28;303;282;1;2;Ponte Preta;Atlético-MG;2016;01/10/2016 16:30;Moisés Lucarelli
+28;315;287;1;4;Chapecoense;Vitória;2016;01/10/2016 16:00;Arena Condá
+28;344;275;2;3;Santa Cruz;Palmeiras;2016;03/10/2016 20:00;Arruda
+29;262;344;3;0;Flamengo;Santa Cruz;2016;09/10/2016 17:00;Pacaembu
+29;264;282;0;0;Corinthians;Atlético-MG;2016;05/10/2016 21:00;Itaquerão
+29;277;266;2;1;Santos;Fluminense;2016;05/10/2016 21:00;Vila Belmiro
+29;283;303;2;0;Cruzeiro;Ponte Preta;2016;08/10/2016 21:00;Mineirão
+29;285;294;1;0;Internacional;Coritiba;2016;06/10/2016 19:30;Beira-Rio
+29;287;284;0;1;Vitória;Grêmio;2016;05/10/2016 19:30;Fonte Nova
+29;292;276;1;1;Sport;São Paulo;2016;05/10/2016 21:45;Ilha do Retiro
+29;293;315;3;1;Atlético-PR;Chapecoense;2016;05/10/2016 19:30;Arena da Baixada
+29;316;263;0;1;Figueirense;Botafogo;2016;09/10/2016 17:00;Orlando Scarpelli
+29;327;275;0;2;América-MG;Palmeiras;2016;09/10/2016 17:00;Café
+30;263;285;1;0;Botafogo;Internacional;2016;12/10/2016 21:45;Arena Botafogo
+30;266;262;1;2;Fluminense;Flamengo;2016;13/10/2016 21:00;Raulino de Oliveira
+30;275;283;0;0;Palmeiras;Cruzeiro;2016;13/10/2016 19:30;Fonte Luminosa
+30;276;277;0;1;São Paulo;Santos;2016;13/10/2016 21:00;Pacaembu
+30;282;327;3;0;Atlético-MG;América-MG;2016;13/10/2016 19:30;Mineirão
+30;284;293;1;0;Grêmio;Atlético-PR;2016;13/10/2016 21:00;Arena do Grêmio
+30;294;316;0;0;Coritiba;Figueirense;2016;12/10/2016 19:30;Couto Pereira
+30;303;287;2;0;Ponte Preta;Vitória;2016;13/10/2016 19:30;Moisés Lucarelli
+30;315;292;3;0;Chapecoense;Sport;2016;12/10/2016 11:00;Arena Condá
+30;344;264;2;4;Santa Cruz;Corinthians;2016;12/10/2016 21:45;Arena Pantanal
+31;263;282;3;2;Botafogo;Atlético-MG;2016;16/10/2016 17:00;Arena Botafogo
+31;264;327;2;0;Corinthians;América-MG;2016;16/10/2016 18:30;Itaquerão
+31;266;276;1;2;Fluminense;São Paulo;2016;17/10/2016 20:00;Giulite Coutinho
+31;277;284;1;1;Santos;Grêmio;2016;16/10/2016 19:30;Vila Belmiro
+31;283;315;0;0;Cruzeiro;Chapecoense;2016;16/10/2016 17:00;Mineirão
+31;285;262;2;1;Internacional;Flamengo;2016;16/10/2016 17:00;Beira-Rio
+31;292;287;1;0;Sport;Vitória;2016;16/10/2016 19:30;Ilha do Retiro
+31;293;294;2;0;Atlético-PR;Coritiba;2016;16/10/2016 17:00;Vila Capanema
+31;303;344;3;0;Ponte Preta;Santa Cruz;2016;16/10/2016 18:30;Moisés Lucarelli
+31;316;275;1;2;Figueirense;Palmeiras;2016;16/10/2016 17:00;Orlando Scarpelli
+32;262;264;2;2;Flamengo;Corinthians;2016;23/10/2016 17:00;Maracanã
+32;275;292;2;1;Palmeiras;Sport;2016;23/10/2016 17:00;Allianz Parque
+32;276;303;2;0;São Paulo;Ponte Preta;2016;22/10/2016 17:00;Morumbi
+32;282;316;3;0;Atlético-MG;Figueirense;2016;23/10/2016 19:30;Independência
+32;284;285;0;0;Grêmio;Internacional;2016;23/10/2016 17:00;Arena do Grêmio
+32;287;283;0;1;Vitória;Cruzeiro;2016;23/10/2016 17:00;Barradão
+32;294;266;1;1;Coritiba;Fluminense;2016;23/10/2016 18:30;Couto Pereira
+32;315;277;0;1;Chapecoense;Santos;2016;23/10/2016 19:30;Arena Condá
+32;327;293;1;0;América-MG;Atlético-PR;2016;24/10/2016 20:00;Independência
+32;344;263;0;1;Santa Cruz;Botafogo;2016;19/10/2016 21:45;Arruda
+33;263;294;0;0;Botafogo;Coritiba;2016;29/10/2016 18:30;Arena Botafogo
+33;264;315;1;1;Corinthians;Chapecoense;2016;29/10/2016 16:30;Itaquerão
+33;266;287;2;2;Fluminense;Vitória;2016;28/10/2016 19:30;Maracanã
+33;277;275;1;0;Santos;Palmeiras;2016;29/10/2016 19:30;Vila Belmiro
+33;282;262;2;2;Atlético-MG;Flamengo;2016;29/10/2016 16:30;Independência
+33;285;344;1;1;Internacional;Santa Cruz;2016;29/10/2016 18:30;Beira-Rio
+33;292;303;1;0;Sport;Ponte Preta;2016;27/10/2016 20:30;Ilha do Retiro
+33;293;283;1;0;Atlético-PR;Cruzeiro;2016;29/10/2016 16:30;Arena da Baixada
+33;316;284;0;0;Figueirense;Grêmio;2016;29/10/2016 19:30;Orlando Scarpelli
+33;327;276;1;0;América-MG;São Paulo;2016;31/10/2016 20:00;Independência
+34;262;263;0;0;Flamengo;Botafogo;2016;05/11/2016 17:00;Maracanã
+34;275;285;1;0;Palmeiras;Internacional;2016;06/11/2016 17:00;Allianz Parque
+34;276;264;4;0;São Paulo;Corinthians;2016;05/11/2016 19:30;Morumbi
+34;283;266;4;2;Cruzeiro;Fluminense;2016;06/11/2016 17:00;Mineirão
+34;284;292;0;3;Grêmio;Sport;2016;07/11/2016 20:00;Arena do Grêmio
+34;287;293;3;2;Vitória;Atlético-PR;2016;06/11/2016 17:00;Barradão
+34;294;282;2;0;Coritiba;Atlético-MG;2016;06/11/2016 19:30;Couto Pereira
+34;303;277;1;2;Ponte Preta;Santos;2016;06/11/2016 11:00;Moisés Lucarelli
+34;315;316;1;0;Chapecoense;Figueirense;2016;06/11/2016 19:30;Arena Condá
+34;344;327;1;0;Santa Cruz;América-MG;2016;06/11/2016 17:00;Arruda
+35;263;315;0;2;Botafogo;Chapecoense;2016;16/11/2016 19:30;Arena Botafogo
+35;266;293;1;1;Fluminense;Atlético-PR;2016;15/11/2016 17:00;Maracanã
+35;276;284;1;1;São Paulo;Grêmio;2016;17/11/2016 19:30;Morumbi
+35;277;287;3;2;Santos;Vitória;2016;17/11/2016 19:30;Vila Belmiro
+35;282;275;1;1;Atlético-MG;Palmeiras;2016;17/11/2016 21:00;Independência
+35;285;303;1;1;Internacional;Ponte Preta;2016;17/11/2016 21:00;Beira-Rio
+35;292;283;0;1;Sport;Cruzeiro;2016;16/11/2016 21:45;Ilha do Retiro
+35;294;344;1;0;Coritiba;Santa Cruz;2016;16/11/2016 21:00;Couto Pereira
+35;316;264;1;1;Figueirense;Corinthians;2016;16/11/2016 21:45;Orlando Scarpelli
+35;327;262;0;1;América-MG;Flamengo;2016;16/11/2016 21:45;Mineirão
+36;262;294;2;2;Flamengo;Coritiba;2016;20/11/2016 19:30;Maracanã
+36;264;285;1;0;Corinthians;Internacional;2016;21/11/2016 20:00;Itaquerão
+36;275;263;1;0;Palmeiras;Botafogo;2016;20/11/2016 17:00;Allianz Parque
+36;283;277;2;2;Cruzeiro;Santos;2016;20/11/2016 17:00;Mineirão
+36;284;327;3;0;Grêmio;América-MG;2016;20/11/2016 17:00;Arena do Grêmio
+36;287;316;4;0;Vitória;Figueirense;2016;20/11/2016 17:00;Barradão
+36;293;292;2;0;Atlético-PR;Sport;2016;20/11/2015 17:00;Arena da Baixada
+36;303;266;1;0;Ponte Preta;Fluminense;2016;20/11/2016 17:00;Moisés Lucarelli
+36;315;276;2;0;Chapecoense;São Paulo;2016;20/11/2016 19:30;Arena Condá
+36;344;282;3;3;Santa Cruz;Atlético-MG;2016;20/11/2016 19:30;Arruda
+37;262;277;2;0;Flamengo;Santos;2016;27/11/2016 17:00;Maracanã
+37;263;303;1;1;Botafogo;Ponte Preta;2016;26/11/2016 20:00;Arena Botafogo
+37;264;293;0;0;Corinthians;Atlético-PR;2016;26/11/2016 21:00;Itaquerão
+37;275;315;1;0;Palmeiras;Chapecoense;2016;27/11/2016 17:00;Allianz Parque
+37;282;276;1;2;Atlético-MG;São Paulo;2016;27/11/2016 17:00;Independência
+37;285;283;1;0;Internacional;Cruzeiro;2016;27/11/2016 17:00;Beira-Rio
+37;294;287;0;1;Coritiba;Vitória;2016;28/11/2016 20:00;Couto Pereira
+37;316;266;1;0;Figueirense;Fluminense;2016;27/11/2016 19:30;Orlando Scarpelli
+37;327;292;2;2;América-MG;Sport;2016;26/11/2016 20:00;Independência
+37;344;284;5;1;Santa Cruz;Grêmio;2016;27/11/2016 19:30;Arruda
+38;266;285;1;1;Fluminense;Internacional;2016;11/12/2016 17:00;Maracanã
+38;276;344;5;0;São Paulo;Santa Cruz;2016;11/12/2016 17:00;Pacaembu
+38;277;327;1;0;Santos;América-MG;2016;11/12/2016 17:00;Vila Belmiro
+38;283;264;3;2;Cruzeiro;Corinthians;2016;11/12/2016 17:00;Mineirão
+38;284;263;0;1;Grêmio;Botafogo;2016;11/12/2016 17:00;Arena do Grêmio
+38;287;275;1;2;Vitória;Palmeiras;2016;11/12/2016 17:00;Barradão
+38;292;316;2;0;Sport;Figueirense;2016;11/12/2016 17:00;Ilha do Retiro
+38;293;262;0;0;Atlético-PR;Flamengo;2016;11/12/2016 17:00;Arena da Baixada
+38;303;294;2;0;Ponte Preta;Coritiba;2016;11/12/2016 17:00;Moisés Lucarelli
+38;315;282;NA;NA;Chapecoense;Atlético-MG;2016;11/12/2016 17:00;Arena Condá
+1;262;282;1;1;Flamengo;Atlético-MG;2017;13/05/2017 16:00;Maracanã
+1;275;267;4;0;Palmeiras;Vasco;2017;14/05/2017 16:00;Arena Palmeiras
+1;265;293;6;2;Bahia;Atlético-PR;2017;14/05/2017 16:00;Fonte Nova
+1;303;292;2;4;Ponte Preta;Sport;2017;14/05/2017 16:00;Moisés Lucarelli
+1;283;276;1;0;Cruzeiro;São Paulo;2017;14/05/2017 16:00;Mineirão
+1;294;373;4;1;Coritiba;Atlético-GO;2017;15/05/2017 20:00;Couto Pereira
+1;264;315;3;3;Corinthians;Chapecoense;2017;13/05/2017 19:00;Arena Corinthians
+1;314;287;0;0;Avaí;Vitória;2017;14/05/2017 16:00;Ressacada
+1;284;263;2;0;Grêmio;Botafogo;2017;14/05/2017 19:00;Arena do Grêmio
+1;266;277;3;2;Fluminense;Santos;2017;14/05/2017 11:00;Maracanã
+2;373;262;0;3;Atlético-GO;Flamengo;2017;20/05/2017 19:00;Serra Dourada
+2;315;275;1;0;Chapecoense;Palmeiras;2017;20/05/2017 19:00;Arena Condá
+2;267;265;2;1;Vasco;Bahia;2017;21/05/2017 11:00;São Januário
+2;292;283;1;1;Sport;Cruzeiro;2017;21/05/2017 19:00;Ilha do Retiro
+2;263;303;2;0;Botafogo;Ponte Preta;2017;21/05/2017 18:00;Engenhão
+2;293;284;0;2;Atlético-PR;Grêmio;2017;21/05/2017 16:00;Arena da Baixada
+2;287;264;0;1;Vitória;Corinthians;2017;21/05/2017 16:00;Fonte Nova
+2;276;314;2;0;São Paulo;Avaí;2017;22/05/2017 20:00;Morumbi
+2;282;266;1;2;Atlético-MG;Fluminense;2017;21/05/2017 16:00;Independência
+2;277;294;1;0;Santos;Coritiba;2017;20/05/2017 16:00;Vila Belmiro
+3;293;262;1;1;Atlético-PR;Flamengo;2017;28/05/2017 16:00;Arena da Baixada
+3;276;275;2;0;São Paulo;Palmeiras;2017;27/05/2017 19:00;Morumbi
+3;277;283;0;1;Santos;Cruzeiro;2017;28/05/2017 16:00;Vila Belmiro
+3;282;303;2;2;Atlético-MG;Ponte Preta;2017;28/05/2017 11:00;Independência
+3;373;264;0;1;Atlético-GO;Corinthians;2017;28/05/2017 16:00;Serra Dourada
+3;267;266;3;2;Vasco;Fluminense;2017;27/05/2017 16:00;São Januário
+3;315;314;2;0;Chapecoense;Avaí;2017;29/05/2017 20:00;Arena Condá
+3;287;294;0;1;Vitória;Coritiba;2017;27/05/2017 21:00;Fonte Nova
+3;292;284;4;3;Sport;Grêmio;2017;28/05/2017 18:00;Ilha do Retiro
+3;263;265;1;0;Botafogo;Bahia;2017;28/05/2017 19:00;Engenhão
+4;262;263;0;0;Flamengo;Botafogo;2017;04/06/2017 11:00;Raulino de Oliveira
+4;275;282;0;0;Palmeiras;Atlético-MG;2017;04/06/2017 16:00;Arena Palmeiras
+4;283;315;0;2;Cruzeiro;Chapecoense;2017;04/06/2017 19:00;Mineirão
+4;303;276;1;0;Ponte Preta;São Paulo;2017;04/06/2017 16:00;Moisés Lucarelli
+4;294;293;1;0;Coritiba;Atlético-PR;2017;03/06/2017 16:00;Couto Pereira
+4;264;277;2;0;Corinthians;Santos;2017;03/06/2017 19:00;Arena Corinthians
+4;284;267;2;0;Grêmio;Vasco;2017;04/06/2017 16:00;Arena do Grêmio
+4;314;292;1;0;Avaí;Sport;2017;04/06/2017 11:00;Ressacada
+4;265;373;3;0;Bahia;Atlético-GO;2017;05/06/2017 20:00;Fonte Nova
+4;266;287;2;1;Fluminense;Vitória;2017;03/06/2017 18:00;Maracanã
+5;292;262;2;0;Sport;Flamengo;2017;07/06/2017 21:45;Ilha do Retiro
+5;294;275;1;0;Coritiba;Palmeiras;2017;07/06/2017 19:30;Couto Pereira
+5;265;283;1;0;Bahia;Cruzeiro;2017;08/06/2017 21:00;Fonte Nova
+5;373;303;3;0;Atlético-GO;Ponte Preta;2017;08/06/2017 19:30;Olímpico (GO)
+5;266;293;1;1;Fluminense;Atlético-PR;2017;06/06/2017 20:00;Maracanã
+5;267;264;2;5;Vasco;Corinthians;2017;07/06/2017 21:45;São Januário
+5;282;314;1;0;Atlético-MG;Avaí;2017;07/06/2017 19:30;Independência
+5;276;287;2;0;São Paulo;Vitória;2017;08/06/2017 19:30;Morumbi
+5;315;284;3;6;Chapecoense;Grêmio;2017;08/06/2017 20:00;Arena Condá
+5;277;263;1;0;Santos;Botafogo;2017;07/06/2017 21:00;Pacaembu
+6;314;262;1;1;Avaí;Flamengo;2017;11/06/2017 16:00;Ressacada
+6;275;266;3;1;Palmeiras;Fluminense;2017;10/06/2017 16:00;Arena Palmeiras
+6;283;373;2;0;Cruzeiro;Atlético-GO;2017;11/06/2017 18:30;Mineirão
+6;303;315;3;2;Ponte Preta;Chapecoense;2017;11/06/2017 16:00;Moisés Lucarelli
+6;293;277;0;2;Atlético-PR;Santos;2017;11/06/2017 19:00;Arena da Baixada
+6;264;276;3;2;Corinthians;São Paulo;2017;11/06/2017 16:00;Arena Corinthians
+6;267;292;2;1;Vasco;Sport;2017;10/06/2017 19:00;São Januário
+6;287;282;2;0;Vitória;Atlético-MG;2017;11/06/2017 16:00;Barradão
+6;263;294;2;2;Botafogo;Coritiba;2017;11/06/2017 11:00;Engenhão
+6;284;265;1;0;Grêmio;Bahia;2017;12/06/2017 20:00;Arena do Grêmio
+7;262;303;2;0;Flamengo;Ponte Preta;2017;14/06/2017 21:00;Luso-Brasileiro
+7;277;275;1;0;Santos;Palmeiras;2017;14/06/2017 21:45;Vila Belmiro
+7;264;283;1;0;Corinthians;Cruzeiro;2017;14/06/2017 21:45;Arena Corinthians
+7;282;293;0;1;Atlético-MG;Atlético-PR;2017;14/06/2017 19:30;Independência
+7;315;267;2;1;Chapecoense;Vasco;2017;14/06/2017 21:45;Arena Condá
+7;373;314;3;1;Atlético-GO;Avaí;2017;14/06/2017 19:30;Olímpico (GO)
+7;294;265;0;0;Coritiba;Bahia;2017;15/06/2017 16:00;Couto Pereira
+7;292;276;0;0;Sport;São Paulo;2017;14/06/2017 19:30;Ilha do Retiro
+7;266;284;0;2;Fluminense;Grêmio;2017;15/06/2017 21:00;Maracanã
+7;287;263;2;2;Vitória;Botafogo;2017;14/06/2017 19:30;Barradão
+8;266;262;2;2;Fluminense;Flamengo;2017;18/06/2017 16:00;Maracanã
+8;265;275;2;4;Bahia;Palmeiras;2017;18/06/2017 16:00;Fonte Nova
+8;283;284;3;3;Cruzeiro;Grêmio;2017;19/06/2017 20:00;Mineirão
+8;277;303;0;0;Santos;Ponte Preta;2017;17/06/2017 21:00;Pacaembu
+8;373;293;0;1;Atlético-GO;Atlético-PR;2017;17/06/2017 16:00;Olímpico (GO)
+8;294;264;0;0;Coritiba;Corinthians;2017;18/06/2017 11:00;Couto Pereira
+8;267;314;1;0;Vasco;Avaí;2017;17/06/2017 19:00;São Januário
+8;276;282;1;2;São Paulo;Atlético-MG;2017;18/06/2017 16:00;Morumbi
+8;292;287;1;3;Sport;Vitória;2017;18/06/2017 19:00;Ilha do Retiro
+8;315;263;0;2;Chapecoense;Botafogo;2017;18/06/2017 16:00;Arena Condá
+9;262;315;5;1;Flamengo;Chapecoense;2017;22/06/2017 21:00;Luso-Brasileiro
+9;275;373;1;0;Palmeiras;Atlético-GO;2017;21/06/2017 21:00;Arena Palmeiras
+9;303;283;1;0;Ponte Preta;Cruzeiro;2017;22/06/2017 19:30;Moisés Lucarelli
+9;293;276;1;0;Atlético-PR;São Paulo;2017;21/06/2017 21:45;Arena da Baixada
+9;264;265;3;0;Corinthians;Bahia;2017;22/06/2017 19:30;Arena Corinthians
+9;263;267;3;1;Botafogo;Vasco;2017;21/06/2017 21:00;Engenhão
+9;314;266;0;3;Avaí;Fluminense;2017;21/06/2017 21:45;Ressacada
+9;282;292;2;2;Atlético-MG;Sport;2017;21/06/2017 21:45;Independência
+9;284;294;2;0;Grêmio;Coritiba;2017;22/06/2017 21:00;Arena do Grêmio
+9;287;277;0;2;Vitória;Santos;2017;21/06/2017 19:30;Barradão
+10;265;262;0;1;Bahia;Flamengo;2017;25/06/2017 18:30;Fonte Nova
+10;303;275;1;2;Ponte Preta;Palmeiras;2017;25/06/2017 16:00;Moisés Lucarelli
+10;283;294;2;0;Cruzeiro;Coritiba;2017;25/06/2017 16:00;Mineirão
+10;293;287;4;1;Atlético-PR;Vitória;2017;25/06/2017 16:00;Arena da Baixada
+10;284;264;0;1;Grêmio;Corinthians;2017;25/06/2017 16:00;Arena do Grêmio
+10;267;373;1;0;Vasco;Atlético-GO;2017;25/06/2017 11:00;São Januário
+10;263;314;0;2;Botafogo;Avaí;2017;26/06/2017 20:00;Engenhão
+10;315;282;0;1;Chapecoense;Atlético-MG;2017;25/06/2017 19:00;Arena Condá
+10;276;266;1;1;São Paulo;Fluminense;2017;25/06/2017 16:00;Morumbi
+10;277;292;0;1;Santos;Sport;2017;24/06/2017 19:00;Vila Belmiro
+11;262;276;2;0;Flamengo;São Paulo;2017;02/07/2017 16:00;Luso-Brasileiro
+11;275;284;1;0;Palmeiras;Grêmio;2017;01/07/2017 16:00;Pacaembu
+11;282;283;3;1;Atlético-MG;Cruzeiro;2017;02/07/2017 16:00;Independência
+11;314;303;0;0;Avaí;Ponte Preta;2017;02/07/2017 19:00;Ressacada
+11;292;293;1;0;Sport;Atlético-PR;2017;02/07/2017 16:00;Ilha do Retiro
+11;264;263;1;0;Corinthians;Botafogo;2017;02/07/2017 16:00;Arena Corinthians
+11;294;267;2;2;Coritiba;Vasco;2017;02/07/2017 19:00;Durival Britto
+11;287;265;0;0;Vitória;Bahia;2017;02/07/2017 16:00;Barradão
+11;266;315;3;3;Fluminense;Chapecoense;2017;03/07/2017 20:00;Giulite Coutinho
+11;373;277;1;1;Atlético-GO;Santos;2017;01/07/2017 19:00;Olímpico (GO)
+12;267;262;0;1;Vasco;Flamengo;2017;08/07/2017 18:00;São Januário
+12;283;275;3;1;Cruzeiro;Palmeiras;2017;09/07/2017 16:00;Mineirão
+12;264;303;2;0;Corinthians;Ponte Preta;2017;08/07/2017 19:00;Arena Corinthians
+12;315;293;1;1;Chapecoense;Atlético-PR;2017;09/07/2017 11:00;Arena Condá
+12;284;314;0;2;Grêmio;Avaí;2017;09/07/2017 19:00;Arena do Grêmio
+12;277;276;3;2;Santos;São Paulo;2017;09/07/2017 19:00;Vila Belmiro
+12;263;282;1;1;Botafogo;Atlético-MG;2017;09/07/2017 19:00;Engenhão
+12;294;292;0;3;Coritiba;Sport;2017;10/07/2017 20:00;Couto Pereira
+12;265;266;1;1;Bahia;Fluminense;2017;09/07/2017 16:00;Fonte Nova
+12;373;287;1;2;Atlético-GO;Vitória;2017;08/07/2017 16:00;Olímpico (GO)
+13;262;284;0;1;Flamengo;Grêmio;2017;13/07/2017 19:30;Luso-Brasileiro
+13;275;264;0;2;Palmeiras;Corinthians;2017;12/07/2017 21:45;Arena Palmeiras
+13;293;283;0;2;Atlético-PR;Cruzeiro;2017;12/07/2017 21:45;Arena da Baixada
+13;303;265;0;3;Ponte Preta;Bahia;2017;12/07/2017 19:30;Moisés Lucarelli
+13;287;267;1;4;Vitória;Vasco;2017;12/07/2017 21:45;Barradão
+13;314;294;1;4;Avaí;Coritiba;2017;13/07/2017 21:00;Ressacada
+13;282;277;0;1;Atlético-MG;Santos;2017;12/07/2017 19:30;Independência
+13;276;373;2;2;São Paulo;Atlético-GO;2017;13/07/2017 19:30;Morumbi
+13;292;315;3;0;Sport;Chapecoense;2017;13/07/2017 19:30;Arena de Pernambuco
+13;266;263;0;1;Fluminense;Botafogo;2017;12/07/2017 21:00;Maracanã
+14;283;262;1;1;Cruzeiro;Flamengo;2017;16/07/2017 16:00;Mineirão
+14;275;287;4;2;Palmeiras;Vitória;2017;16/07/2017 11:00;Arena Palmeiras
+14;284;303;3;1;Grêmio;Ponte Preta;2017;16/07/2017 16:00;Arena do Grêmio
+14;264;293;2;2;Corinthians;Atlético-PR;2017;15/07/2017 19:00;Arena Corinthians
+14;267;277;0;0;Vasco;Santos;2017;16/07/2017 16:00;Engenhão
+14;265;314;1;1;Bahia;Avaí;2017;16/07/2017 19:00;Pituaçu
+14;373;282;1;2;Atlético-GO;Atlético-MG;2017;16/07/2017 16:00;Olímpico (GO)
+14;294;266;1;2;Coritiba;Fluminense;2017;16/07/2017 19:00;Couto Pereira
+14;315;276;2;0;Chapecoense;São Paulo;2017;16/07/2017 16:00;Arena Condá
+14;263;292;2;1;Botafogo;Sport;2017;17/07/2017 20:00;Engenhão
+15;262;275;2;2;Flamengo;Palmeiras;2017;19/07/2017 21:45;Luso-Brasileiro
+15;266;283;1;1;Fluminense;Cruzeiro;2017;20/07/2017 19:30;Giulite Coutinho
+15;303;294;4;0;Ponte Preta;Coritiba;2017;19/07/2017 21:00;Moisés Lucarelli
+15;293;263;0;0;Atlético-PR;Botafogo;2017;20/07/2017 21:00;Arena da Baixada
+15;314;264;0;0;Avaí;Corinthians;2017;19/07/2017 21:00;Ressacada
+15;276;267;1;0;São Paulo;Vasco;2017;19/07/2017 21:45;Morumbi
+15;277;315;1;0;Santos;Chapecoense;2017;19/07/2017 19:30;Vila Belmiro
+15;282;265;0;2;Atlético-MG;Bahia;2017;19/07/2017 21:45;Independência
+15;287;284;1;3;Vitória;Grêmio;2017;19/07/2017 19:30;Barradão
+15;292;373;4;0;Sport;Atlético-GO;2017;20/07/2017 20:00;Ilha do Retiro
+16;262;294;2;1;Flamengo;Coritiba;2017;22/07/2017 19:00;Luso-Brasileiro
+16;292;275;0;2;Sport;Palmeiras;2017;23/07/2017 16:00;Arena de Pernambuco
+16;314;283;1;0;Avaí;Cruzeiro;2017;23/07/2017 16:00;Ressacada
+16;293;303;0;2;Atlético-PR;Ponte Preta;2017;23/07/2017 19:00;Arena da Baixada
+16;266;264;0;1;Fluminense;Corinthians;2017;23/07/2017 16:00;Maracanã
+16;282;267;1;2;Atlético-MG;Vasco;2017;23/07/2017 19:00;Independência
+16;277;265;3;0;Santos;Bahia;2017;23/07/2017 11:00;Pacaembu
+16;276;284;1;1;São Paulo;Grêmio;2017;24/07/2017 20:00;Morumbi
+16;373;263;1;1;Atlético-GO;Botafogo;2017;23/07/2017 19:00;Olímpico (GO)
+16;287;315;1;2;Vitória;Chapecoense;2017;22/07/2017 16:00;Barradão
+17;264;262;1;1;Corinthians;Flamengo;2017;30/07/2017 16:00;Arena Corinthians
+17;275;314;2;0;Palmeiras;Avaí;2017;29/07/2017 19:00;Arena Palmeiras
+17;283;287;0;0;Cruzeiro;Vitória;2017;30/07/2017 19:00;Mineirão
+17;303;266;0;0;Ponte Preta;Fluminense;2017;30/07/2017 16:00;Moisés Lucarelli
+17;267;293;0;1;Vasco;Atlético-PR;2017;31/07/2017 20:00;Raulino de Oliveira
+17;284;277;1;1;Grêmio;Santos;2017;30/07/2017 19:00;Arena do Grêmio
+17;294;282;0;2;Coritiba;Atlético-MG;2017;30/07/2017 16:00;Couto Pereira
+17;263;276;3;4;Botafogo;São Paulo;2017;29/07/2017 16:00;Engenhão
+17;265;292;1;3;Bahia;Sport;2017;30/07/2017 16:00;Fonte Nova
+17;315;373;1;2;Chapecoense;Atlético-GO;2017;30/07/2017 11:00;Arena Condá
+18;277;262;3;2;Santos;Flamengo;2017;02/08/2017 21:45;Pacaembu
+18;263;275;1;2;Botafogo;Palmeiras;2017;02/08/2017 21:45;Engenhão
+18;267;283;0;3;Vasco;Cruzeiro;2017;03/08/2017 20:00;Raulino de Oliveira
+18;287;303;3;1;Vitória;Ponte Preta;2017;02/08/2017 21:00;Barradão
+18;293;314;5;0;Atlético-PR;Avaí;2017;03/08/2017 19:30;Arena da Baixada
+18;282;264;0;2;Atlético-MG;Corinthians;2017;02/08/2017 21:00;Mineirão
+18;276;294;1;2;São Paulo;Coritiba;2017;03/08/2017 19:30;Morumbi
+18;373;284;0;1;Atlético-GO;Grêmio;2017;02/08/2017 21:45;Olímpico (GO)
+18;315;265;1;1;Chapecoense;Bahia;2017;02/08/2017 19:30;Arena Condá
+18;292;266;2;2;Sport;Fluminense;2017;02/08/2017 19:30;Ilha do Retiro
+19;262;287;0;2;Flamengo;Vitória;2017;06/08/2017 11:00;Luso-Brasileiro
+19;275;293;0;1;Palmeiras;Atlético-PR;2017;06/08/2017 16:00;Arena Palmeiras
+19;283;263;0;0;Cruzeiro;Botafogo;2017;06/08/2017 16:00;Mineirão
+19;303;267;0;0;Ponte Preta;Vasco;2017;06/08/2017 19:00;Moisés Lucarelli
+19;264;292;3;1;Corinthians;Sport;2017;05/08/2017 19:00;Arena Corinthians
+19;314;277;0;0;Avaí;Santos;2017;06/08/2017 19:00;Ressacada
+19;284;282;2;0;Grêmio;Atlético-MG;2017;06/08/2017 16:00;Arena do Grêmio
+19;294;315;2;0;Coritiba;Chapecoense;2017;06/08/2017 16:00;Couto Pereira
+19;265;276;2;1;Bahia;São Paulo;2017;06/08/2017 16:00;Fonte Nova
+19;266;373;3;1;Fluminense;Atlético-GO;2017;05/08/2017 19:00;Maracanã
+20;282;262;2;0;Atlético-MG;Flamengo;2017;13/08/2017 16:00;Independência
+20;267;275;1;1;Vasco;Palmeiras;2017;13/08/2017 16:00;Raulino de Oliveira
+20;276;283;3;2;São Paulo;Cruzeiro;2017;13/08/2017 11:00;Morumbi
+20;292;303;0;0;Sport;Ponte Preta;2017;13/08/2017 16:00;Ilha do Retiro
+20;293;265;4;1;Atlético-PR;Bahia;2017;13/08/2017 19:00;Arena da Baixada
+20;315;264;0;1;Chapecoense;Corinthians;2017;23/08/2017 19:30;Arena Condá
+20;287;314;0;1;Vitória;Avaí;2017;12/08/2017 19:00;Barradão
+20;277;266;0;0;Santos;Fluminense;2017;14/08/2017 20:00;Pacaembu
+20;373;294;1;0;Atlético-GO;Coritiba;2017;12/08/2017 16:00;Olímpico (GO)
+20;263;284;1;0;Botafogo;Grêmio;2017;13/08/2017 19:00;Engenhão
+21;262;373;2;0;Flamengo;Atlético-GO;2017;19/08/2017 19:00;Luso-Brasileiro
+21;275;315;0;2;Palmeiras;Chapecoense;2017;20/08/2017 19:00;Arena Palmeiras
+21;283;292;2;0;Cruzeiro;Sport;2017;20/08/2017 16:00;Mineirão
+21;303;263;2;1;Ponte Preta;Botafogo;2017;20/08/2017 16:00;Moisés Lucarelli
+21;284;293;0;0;Grêmio;Atlético-PR;2017;20/08/2017 11:00;Arena do Grêmio
+21;264;287;0;1;Corinthians;Vitória;2017;19/08/2017 16:00;Arena Corinthians
+21;265;267;3;0;Bahia;Vasco;2017;20/08/2017 16:00;Fonte Nova
+21;314;276;1;1;Avaí;São Paulo;2017;20/08/2017 16:00;Ressacada
+21;294;277;0;0;Coritiba;Santos;2017;20/08/2017 19:00;Couto Pereira
+21;266;282;2;1;Fluminense;Atlético-MG;2017;21/08/2017 20:00;Maracanã
+22;262;293;2;0;Flamengo;Atlético-PR;2017;27/08/2017 16:00;Luso-Brasileiro
+22;275;276;4;2;Palmeiras;São Paulo;2017;27/08/2017 16:00;Arena Palmeiras
+22;283;277;1;1;Cruzeiro;Santos;2017;27/08/2017 19:00;Mineirão
+22;303;282;1;2;Ponte Preta;Atlético-MG;2017;27/08/2017 16:00;Moisés Lucarelli
+22;284;292;5;0;Grêmio;Sport;2017;02/09/2017 16:00;Arena do Grêmio
+22;266;267;0;1;Fluminense;Vasco;2017;26/08/2017 16:00;Maracanã
+22;314;315;1;0;Avaí;Chapecoense;2017;27/08/2017 19:00;Ressacada
+22;294;287;0;1;Coritiba;Vitória;2017;28/08/2017 20:00;Couto Pereira
+22;265;263;1;2;Bahia;Botafogo;2017;27/08/2017 16:00;Fonte Nova
+22;264;373;0;1;Corinthians;Atlético-GO;2017;26/08/2017 19:00;Arena Corinthians
+23;263;262;2;0;Botafogo;Flamengo;2017;10/09/2017 19:00;Engenhão
+23;282;275;1;1;Atlético-MG;Palmeiras;2017;09/09/2017 16:00;Independência
+23;315;283;1;2;Chapecoense;Cruzeiro;2017;10/09/2017 19:00;Arena Condá
+23;276;303;2;2;São Paulo;Ponte Preta;2017;09/09/2017 19:00;Morumbi
+23;293;294;1;1;Atlético-PR;Coritiba;2017;10/09/2017 11:00;Arena da Baixada
+23;267;284;1;0;Vasco;Grêmio;2017;09/09/2017 18:00;São Januário
+23;292;314;0;1;Sport;Avaí;2017;10/09/2017 16:00;Ilha do Retiro
+23;277;264;2;0;Santos;Corinthians;2017;10/09/2017 16:00;Vila Belmiro
+23;373;265;1;1;Atlético-GO;Bahia;2017;11/09/2017 20:00;Olímpico (GO)
+23;287;266;2;2;Vitória;Fluminense;2017;10/09/2017 16:00;Barradão
+24;262;292;2;0;Flamengo;Sport;2017;17/09/2017 16:00;Luso-Brasileiro
+24;275;294;1;0;Palmeiras;Coritiba;2017;18/09/2017 20:00;Pacaembu
+24;283;265;1;0;Cruzeiro;Bahia;2017;17/09/2017 19:00;Mineirão
+24;293;266;3;1;Atlético-PR;Fluminense;2017;17/09/2017 16:00;Arena da Baixada
+24;284;315;0;1;Grêmio;Chapecoense;2017;17/09/2017 16:00;Arena do Grêmio
+24;264;267;1;0;Corinthians;Vasco;2017;17/09/2017 16:00;Arena Corinthians
+24;303;373;1;3;Ponte Preta;Atlético-GO;2017;16/09/2017 21:00;Moisés Lucarelli
+24;314;282;1;1;Avaí;Atlético-MG;2017;17/09/2017 11:00;Ressacada
+24;263;277;2;0;Botafogo;Santos;2017;16/09/2017 19:00;Engenhão
+24;287;276;1;2;Vitória;São Paulo;2017;17/09/2017 16:00;Barradão
+25;262;314;1;1;Flamengo;Avaí;2017;23/09/2017 19:00;Luso-Brasileiro
+25;266;275;0;1;Fluminense;Palmeiras;2017;24/09/2017 16:00;Maracanã
+25;282;287;1;3;Atlético-MG;Vitória;2017;24/09/2017 19:00;Independência
+25;373;283;1;2;Atlético-GO;Cruzeiro;2017;24/09/2017 16:00;Olímpico (GO)
+25;277;293;1;0;Santos;Atlético-PR;2017;23/09/2017 21:00;Vila Belmiro
+25;265;284;1;0;Bahia;Grêmio;2017;24/09/2017 19:00;Fonte Nova
+25;292;267;1;1;Sport;Vasco;2017;25/09/2017 20:00;Ilha do Retiro
+25;315;303;1;0;Chapecoense;Ponte Preta;2017;24/09/2017 16:00;Arena Condá
+25;294;263;2;3;Coritiba;Botafogo;2017;24/09/2017 16:00;Couto Pereira
+25;276;264;1;1;São Paulo;Corinthians;2017;24/09/2017 11:00;Morumbi
+26;303;262;1;0;Ponte Preta;Flamengo;2017;02/10/2017 20:00;Moisés Lucarelli
+26;275;277;0;1;Palmeiras;Santos;2017;30/09/2017 19:00;Arena Palmeiras
+26;293;282;0;2;Atlético-PR;Atlético-MG;2017;01/10/2017 19:00;Arena da Baixada
+26;283;264;1;1;Cruzeiro;Corinthians;2017;01/10/2017 16:00;Mineirão
+26;284;266;1;0;Grêmio;Fluminense;2017;01/10/2017 16:00;Arena do Grêmio
+26;267;315;1;1;Vasco;Chapecoense;2017;30/09/2017 16:00;São Januário
+26;314;373;0;2;Avaí;Atlético-GO;2017;01/10/2017 16:00;Ressacada
+26;265;294;1;1;Bahia;Coritiba;2017;30/09/2017 16:00;Fonte Nova
+26;276;292;1;0;São Paulo;Sport;2017;01/10/2017 16:00;Morumbi
+26;263;287;2;3;Botafogo;Vitória;2017;01/10/2017 16:00;Engenhão
+27;262;266;1;1;Flamengo;Fluminense;2017;12/10/2017 17:00;Maracanã
+27;275;265;2;2;Palmeiras;Bahia;2017;12/10/2017 21:00;Pacaembu
+27;282;276;1;0;Atlético-MG;São Paulo;2017;11/10/2017 21:45;Independência
+27;284;283;0;1;Grêmio;Cruzeiro;2017;11/10/2017 21:45;Arena do Grêmio
+27;293;373;2;2;Atlético-PR;Atlético-GO;2017;11/10/2017 19:30;Arena da Baixada
+27;314;267;1;2;Avaí;Vasco;2017;11/10/2017 21:45;Ressacada
+27;303;277;1;1;Ponte Preta;Santos;2017;12/10/2017 17:00;Moisés Lucarelli
+27;264;294;3;1;Corinthians;Coritiba;2017;11/10/2017 21:00;Arena Corinthians
+27;287;292;1;2;Vitória;Sport;2017;12/10/2017 17:00;Barradão
+27;263;315;2;1;Botafogo;Chapecoense;2017;11/10/2017 19:30;Engenhão
+28;315;262;0;1;Chapecoense;Flamengo;2017;15/10/2017 17:00;Arena Condá
+28;373;275;1;3;Atlético-GO;Palmeiras;2017;15/10/2017 17:00;Olímpico (GO)
+28;292;282;1;1;Sport;Atlético-MG;2017;15/10/2017 17:00;Ilha do Retiro
+28;283;303;2;1;Cruzeiro;Ponte Preta;2017;07/10/2017 16:00;Mineirão
+28;276;293;2;1;São Paulo;Atlético-PR;2017;14/10/2017 21:00;Pacaembu
+28;294;284;0;1;Coritiba;Grêmio;2017;15/10/2017 19:00;Couto Pereira
+28;267;263;1;0;Vasco;Botafogo;2017;14/10/2017 19:00;Maracanã
+28;266;314;1;0;Fluminense;Avaí;2017;15/10/2017 17:00;Maracanã
+28;277;287;2;2;Santos;Vitória;2017;16/10/2017 20:00;Pacaembu
+28;265;264;2;0;Bahia;Corinthians;2017;15/10/2017 19:00;Fonte Nova
+29;262;265;4;1;Flamengo;Bahia;2017;19/10/2017 21:00;Luso-Brasileiro
+29;275;303;2;0;Palmeiras;Ponte Preta;2017;19/10/2017 20:00;Pacaembu
+29;282;315;2;3;Atlético-MG;Chapecoense;2017;18/10/2017 21:00;Independência
+29;294;283;1;0;Coritiba;Cruzeiro;2017;18/10/2017 19:30;Couto Pereira
+29;287;293;2;3;Vitória;Atlético-PR;2017;19/10/2017 20:00;Barradão
+29;264;284;0;0;Corinthians;Grêmio;2017;18/10/2017 21:45;Arena Corinthians
+29;373;267;0;1;Atlético-GO;Vasco;2017;18/10/2017 19:30;Serra Dourada
+29;314;263;1;1;Avaí;Botafogo;2017;18/10/2017 21:45;Ressacada
+29;292;277;1;1;Sport;Santos;2017;19/10/2017 21:00;Ilha do Retiro
+29;266;276;3;1;Fluminense;São Paulo;2017;18/10/2017 21:45;Maracanã
+30;276;262;2;0;São Paulo;Flamengo;2017;22/10/2017 17:00;Pacaembu
+30;284;275;1;3;Grêmio;Palmeiras;2017;22/10/2017 17:00;Arena do Grêmio
+30;283;282;1;3;Cruzeiro;Atlético-MG;2017;22/10/2017 17:00;Mineirão
+30;315;266;2;0;Chapecoense;Fluminense;2017;22/10/2017 19:00;Arena Condá
+30;293;292;2;1;Atlético-PR;Sport;2017;22/10/2017 17:00;Arena da Baixada
+30;267;294;1;1;Vasco;Coritiba;2017;21/10/2017 17:00;Maracanã
+30;303;314;1;2;Ponte Preta;Avaí;2017;22/10/2017 19:00;Moisés Lucarelli
+30;277;373;1;0;Santos;Atlético-GO;2017;22/10/2017 17:00;Vila Belmiro
+30;265;287;2;1;Bahia;Vitória;2017;22/10/2017 17:00;Fonte Nova
+30;263;264;2;1;Botafogo;Corinthians;2017;23/10/2017 20:00;Engenhão
+31;262;267;0;0;Flamengo;Vasco;2017;28/10/2017 19:00;Maracanã
+31;275;283;2;2;Palmeiras;Cruzeiro;2017;30/10/2017 20:00;Arena Palmeiras
+31;282;263;0;0;Atlético-MG;Botafogo;2017;29/10/2017 17:00;Independência
+31;293;315;0;0;Atlético-PR;Chapecoense;2017;28/10/2017 21:00;Arena da Baixada
+31;314;284;2;2;Avaí;Grêmio;2017;29/10/2017 19:00;Ressacada
+31;303;264;1;0;Ponte Preta;Corinthians;2017;29/10/2017 17:00;Moisés Lucarelli
+31;276;277;2;1;São Paulo;Santos;2017;28/10/2017 17:00;Pacaembu
+31;292;294;3;4;Sport;Coritiba;2017;29/10/2017 18:00;Ilha do Retiro
+31;266;265;1;1;Fluminense;Bahia;2017;29/10/2017 17:00;Maracanã
+31;287;373;1;1;Vitória;Atlético-GO;2017;29/10/2017 18:00;Barradão
+32;284;262;3;1;Grêmio;Flamengo;2017;05/11/2017 17:00;Arena do Grêmio
+32;264;275;3;2;Corinthians;Palmeiras;2017;05/11/2017 17:00;Arena Corinthians
+32;277;282;3;1;Santos;Atlético-MG;2017;04/11/2017 17:00;Vila Belmiro
+32;283;293;1;0;Cruzeiro;Atlético-PR;2017;05/11/2017 17:00;Mineirão
+32;315;292;1;1;Chapecoense;Sport;2017;05/11/2017 19:00;Arena Condá
+32;267;287;1;1;Vasco;Vitória;2017;05/11/2017 19:00;Maracanã
+32;265;303;2;0;Bahia;Ponte Preta;2017;05/11/2017 18:00;Fonte Nova
+32;294;314;4;0;Coritiba;Avaí;2017;04/11/2017 21:00;Couto Pereira
+32;373;276;0;1;Atlético-GO;São Paulo;2017;04/11/2017 19:00;Serra Dourada
+32;263;266;1;2;Botafogo;Fluminense;2017;04/11/2017 19:00;Engenhão
+33;262;283;2;0;Flamengo;Cruzeiro;2017;08/11/2017 21:45;Luso-Brasileiro
+33;287;275;3;1;Vitória;Palmeiras;2017;08/11/2017 21:45;Barradão
+33;282;373;3;2;Atlético-MG;Atlético-GO;2017;09/11/2017 20:00;Independência
+33;276;315;2;2;São Paulo;Chapecoense;2017;09/11/2017 20:00;Pacaembu
+33;293;264;0;1;Atlético-PR;Corinthians;2017;08/11/2017 21:00;Arena da Baixada
+33;303;284;0;1;Ponte Preta;Grêmio;2017;08/11/2017 19:30;Moisés Lucarelli
+33;277;267;1;2;Santos;Vasco;2017;08/11/2017 21:45;Vila Belmiro
+33;314;265;1;2;Avaí;Bahia;2017;08/11/2017 19:30;Ressacada
+33;266;294;2;2;Fluminense;Coritiba;2017;09/11/2017 21:00;Maracanã
+33;292;263;1;2;Sport;Botafogo;2017;08/11/2017 21:00;Ilha do Retiro
+34;275;262;2;0;Palmeiras;Flamengo;2017;12/11/2017 17:00;Arena Palmeiras
+34;265;282;2;2;Bahia;Atlético-MG;2017;12/11/2017 18:00;Fonte Nova
+34;283;266;3;1;Cruzeiro;Fluminense;2017;12/11/2017 19:00;Mineirão
+34;315;277;2;0;Chapecoense;Santos;2017;13/11/2017 20:00;Arena Condá
+34;263;293;0;1;Botafogo;Atlético-PR;2017;11/11/2017 17:00;Engenhão
+34;284;287;1;1;Grêmio;Vitória;2017;12/11/2017 17:00;Alfredo Jaconi
+34;267;276;1;1;Vasco;São Paulo;2017;12/11/2017 17:00;São Januário
+34;294;303;1;1;Coritiba;Ponte Preta;2017;12/11/2017 19:00;Couto Pereira
+34;264;314;1;0;Corinthians;Avaí;2017;11/11/2017 19:00;Arena Corinthians
+34;373;292;2;0;Atlético-GO;Sport;2017;12/11/2017 17:00;Olímpico (GO)
+35;294;262;1;0;Coritiba;Flamengo;2017;16/11/2017 21:00;Couto Pereira
+35;275;292;5;1;Palmeiras;Sport;2017;16/11/2017 20:00;Arena Palmeiras
+35;267;282;1;1;Vasco;Atlético-MG;2017;15/11/2017 21:45;São Januário
+35;283;314;2;2;Cruzeiro;Avaí;2017;15/11/2017 19:30;Mineirão
+35;315;287;2;1;Chapecoense;Vitória;2017;16/11/2017 20:00;Arena Condá
+35;303;293;2;1;Ponte Preta;Atlético-PR;2017;15/11/2017 17:00;Moisés Lucarelli
+35;284;276;1;0;Grêmio;São Paulo;2017;15/11/2017 19:30;Arena do Grêmio
+35;265;277;2;3;Bahia;Santos;2017;16/11/2017 21:00;Fonte Nova
+35;264;266;3;1;Corinthians;Fluminense;2017;15/11/2017 21:45;Arena Corinthians
+35;263;373;1;2;Botafogo;Atlético-GO;2017;16/11/2017 20:00;Engenhão
+36;262;264;3;0;Flamengo;Corinthians;2017;19/11/2017 17:00;Luso-Brasileiro
+36;314;275;2;1;Avaí;Palmeiras;2017;20/11/2017 20:00;Ressacada
+36;282;294;3;0;Atlético-MG;Coritiba;2017;19/11/2017 19:00;Independência
+36;287;283;1;1;Vitória;Cruzeiro;2017;19/11/2017 17:00;Barradão
+36;373;315;1;1;Atlético-GO;Chapecoense;2017;19/11/2017 17:00;Olímpico (GO)
+36;293;267;3;1;Atlético-PR;Vasco;2017;19/11/2017 19:00;Arena da Baixada
+36;277;284;1;0;Santos;Grêmio;2017;19/11/2017 19:00;Vila Belmiro
+36;266;303;2;0;Fluminense;Ponte Preta;2017;20/11/2017 17:00;Maracanã
+36;276;263;0;0;São Paulo;Botafogo;2017;19/11/2017 17:00;Pacaembu
+36;292;265;1;0;Sport;Bahia;2017;19/11/2017 17:00;Ilha do Retiro
+37;262;277;1;2;Flamengo;Santos;2017;26/11/2017 19:00;Luso-Brasileiro
+37;275;263;2;0;Palmeiras;Botafogo;2017;27/11/2017 20:00;Arena Palmeiras
+37;264;282;2;2;Corinthians;Atlético-MG;2017;26/11/2017 17:00;Arena Corinthians
+37;283;267;0;1;Cruzeiro;Vasco;2017;26/11/2017 17:00;Mineirão
+37;265;315;0;1;Bahia;Chapecoense;2017;26/11/2017 19:00;Fonte Nova
+37;314;293;1;0;Avaí;Atlético-PR;2017;26/11/2017 17:00;Ressacada
+37;284;373;1;1;Grêmio;Atlético-GO;2017;26/11/2017 17:00;Arena do Grêmio
+37;303;287;2;3;Ponte Preta;Vitória;2017;26/11/2017 17:00;Moisés Lucarelli
+37;294;276;1;2;Coritiba;São Paulo;2017;26/11/2017 17:00;Couto Pereira
+37;266;292;1;2;Fluminense;Sport;2017;25/11/2017 17:00;Maracanã
+38;287;262;1;2;Vitória;Flamengo;2017;03/12/2017 17:00;Barradão
+38;293;275;3;0;Atlético-PR;Palmeiras;2017;03/12/2017 17:00;Arena da Baixada
+38;282;284;4;3;Atlético-MG;Grêmio;2017;03/12/2017 17:00;Independência
+38;263;283;2;2;Botafogo;Cruzeiro;2017;03/12/2017 17:00;Engenhão
+38;315;294;2;1;Chapecoense;Coritiba;2017;03/12/2017 17:00;Arena Condá
+38;267;303;2;1;Vasco;Ponte Preta;2017;03/12/2017 17:00;São Januário
+38;277;314;1;1;Santos;Avaí;2017;03/12/2017 17:00;Vila Belmiro
+38;276;265;1;1;São Paulo;Bahia;2017;03/12/2017 17:00;Morumbi
+38;292;264;1;0;Sport;Corinthians;2017;03/12/2017 17:00;Ilha do Retiro
+38;373;266;1;1;Atlético-GO;Fluminense;2017;03/12/2017 17:00;Olímpico (GO)

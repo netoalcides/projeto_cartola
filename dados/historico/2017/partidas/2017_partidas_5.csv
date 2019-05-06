@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+5,292,262,2,0,Sport,Flamengo,2017,07/06/2017 21:45,Ilha do Retiro
+5,294,275,1,0,Coritiba,Palmeiras,2017,07/06/2017 19:30,Couto Pereira
+5,265,283,1,0,Bahia,Cruzeiro,2017,08/06/2017 21:00,Fonte Nova
+5,373,303,3,0,Atlético-GO,Ponte Preta,2017,08/06/2017 19:30,Olímpico (GO)
+5,266,293,1,1,Fluminense,Atlético-PR,2017,06/06/2017 20:00,Maracanã
+5,267,264,2,5,Vasco,Corinthians,2017,07/06/2017 21:45,São Januário
+5,282,314,1,0,Atlético-MG,Avaí,2017,07/06/2017 19:30,Independência
+5,276,287,2,0,São Paulo,Vitória,2017,08/06/2017 19:30,Morumbi
+5,315,284,3,6,Chapecoense,Grêmio,2017,08/06/2017 20:00,Arena Condá
+5,277,263,1,0,Santos,Botafogo,2017,07/06/2017 21:00,Pacaembu

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+38,262,275,1,2,Flamengo,Palmeiras,2015,06/12/2015 17:00,Maracanã
+38,264,314,1,1,Corinthians,Avaí,2015,06/12/2015 17:00,Arena Corinthians
+38,277,293,5,1,Santos,Atlético-PR,2015,06/12/2015 17:00,Vila Belmiro
+38,282,315,3,0,Atlético-MG,Chapecoense,2015,06/12/2015 17:00,Independência
+38,285,283,2,0,Internacional,Cruzeiro,2015,06/12/2015 17:00,Beira-Rio
+38,290,276,0,1,Goiás,São Paulo,2015,06/12/2015 17:00,Serra Dourada
+38,294,267,0,0,Coritiba,Vasco,2015,06/12/2015 17:00,Couto Pereira
+38,303,292,0,1,Ponte Preta,Sport,2015,06/12/2015 17:00,Moisés Lucarelli
+38,316,266,1,0,Figueirense,Fluminense,2015,06/12/2015 17:00,Orlando Scarpelli
+38,317,284,0,2,Joinville,Grêmio,2015,06/12/2015 17:00,Arena Joinville

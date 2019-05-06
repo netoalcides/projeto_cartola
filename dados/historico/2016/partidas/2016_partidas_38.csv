@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+38,266,285,1,1,Fluminense,Internacional,2016,11/12/2016 17:00,Maracanã
+38,276,344,5,0,São Paulo,Santa Cruz,2016,11/12/2016 17:00,Pacaembu
+38,277,327,1,0,Santos,América-MG,2016,11/12/2016 17:00,Vila Belmiro
+38,283,264,3,2,Cruzeiro,Corinthians,2016,11/12/2016 17:00,Mineirão
+38,284,263,0,1,Grêmio,Botafogo,2016,11/12/2016 17:00,Arena do Grêmio
+38,287,275,1,2,Vitória,Palmeiras,2016,11/12/2016 17:00,Barradão
+38,292,316,2,0,Sport,Figueirense,2016,11/12/2016 17:00,Ilha do Retiro
+38,293,262,0,0,Atlético-PR,Flamengo,2016,11/12/2016 17:00,Arena da Baixada
+38,303,294,2,0,Ponte Preta,Coritiba,2016,11/12/2016 17:00,Moisés Lucarelli
+38,315,282,NA,NA,Chapecoense,Atlético-MG,2016,11/12/2016 17:00,Arena Condá

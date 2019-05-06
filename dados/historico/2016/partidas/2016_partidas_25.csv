@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+25,263,277,0,1,Botafogo,Santos,2016,14/09/2016 19:30,Arena Botafogo
+25,266,315,1,2,Fluminense,Chapecoense,2016,15/09/2016 19:30,Giulite Coutinho
+25,275,262,1,1,Palmeiras,Flamengo,2016,14/09/2016 21:45,Allianz Parque
+25,276,283,1,0,São Paulo,Cruzeiro,2016,15/09/2016 21:00,Morumbi
+25,282,292,1,0,Atlético-MG,Sport,2016,15/09/2016 19:30,Independência
+25,285,287,0,1,Internacional,Vitória,2016,15/09/2016 21:00,Beira-Rio
+25,294,264,1,1,Coritiba,Corinthians,2016,14/09/2016 21:45,Couto Pereira
+25,303,284,3,0,Ponte Preta,Grêmio,2016,14/09/2016 21:00,Moisés Lucarelli
+25,316,327,2,2,Figueirense,América-MG,2016,14/09/2016 19:30,Orlando Scarpelli
+25,344,293,1,0,Santa Cruz,Atlético-PR,2016,14/09/2016 21:00,Arruda

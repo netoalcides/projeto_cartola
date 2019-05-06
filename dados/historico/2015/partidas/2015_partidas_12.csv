@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+12,264,293,2,0,Corinthians,Atlético-PR,2015,09/07/2015 19:30,Arena Corinthians
+12,266,283,1,0,Fluminense,Cruzeiro,2015,09/07/2015 21:00,Maracanã
+12,267,276,0,4,Vasco,São Paulo,2015,08/07/2015 22:00,Mané Garrincha
+12,275,314,3,0,Palmeiras,Avaí,2015,08/07/2015 21:00,Allianz Parque
+12,282,292,2,1,Atlético-MG,Sport,2015,08/07/2015 22:00,Mineirão
+12,285,262,1,2,Internacional,Flamengo,2015,08/07/2015 22:00,Beira-Rio
+12,290,277,4,1,Goiás,Santos,2015,08/07/2015 19:30,Serra Dourada
+12,294,303,0,0,Coritiba,Ponte Preta,2015,08/07/2015 19:30,Couto Pereira
+12,315,284,1,0,Chapecoense,Grêmio,2015,08/07/2015 19:30,Arena Condá
+12,316,317,0,2,Figueirense,Joinville,2015,08/07/2015 21:00,Orlando Scarpelli

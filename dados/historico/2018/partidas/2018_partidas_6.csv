@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+6,282,283,1,0,Atlético-MG,Cruzeiro,2018,19/05/2018 16:00,Independência
+6,289,284,0,0,Paraná,Grêmio,2018,20/05/2018 16:00,Durival Britto
+6,327,263,1,0,América-MG,Botafogo,2018,20/05/2018 16:00,Independência
+6,287,354,2,1,Vitória,Ceará,2018,20/05/2018 11:00,Barradão
+6,266,293,2,0,Fluminense,Atlético-PR,2018,20/05/2018 19:00,Maracanã
+6,262,267,1,1,Flamengo,Vasco,2018,19/05/2018 19:00,Maracanã
+6,276,277,1,0,São Paulo,Santos,2018,20/05/2018 16:00,Morumbi
+6,292,264,1,1,Sport,Corinthians,2018,20/05/2018 16:00,Arena de Pernambuco
+6,275,265,3,0,Palmeiras,Bahia,2018,19/05/2018 21:00,Arena Palmeiras
+6,285,315,3,0,Internacional,Chapecoense,2018,21/05/2018 20:00,Beira-Rio

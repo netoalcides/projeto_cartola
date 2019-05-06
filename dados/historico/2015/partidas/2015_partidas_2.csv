@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+2,262,292,2,2,Flamengo,Sport,2015,17/05/2015 16:00,Maracanã
+2,264,315,1,0,Corinthians,Chapecoense,2015,16/05/2015 21:00,Arena Corinthians
+2,277,283,1,0,Santos,Cruzeiro,2015,17/05/2015 16:00,Vila Belmiro
+2,282,266,4,1,Atlético-MG,Fluminense,2015,17/05/2015 16:00,Independência
+2,285,314,1,0,Internacional,Avaí,2015,17/05/2015 18:30,Beira-Rio
+2,290,293,2,0,Goiás,Atlético-PR,2015,16/05/2015 18:30,Serra Dourada
+2,294,284,2,0,Coritiba,Grêmio,2015,16/05/2015 18:30,Couto Pereira
+2,303,276,1,0,Ponte Preta,São Paulo,2015,17/05/2015 18:30,Moisés Lucarelli
+2,316,267,0,0,Figueirense,Vasco,2015,17/05/2015 11:00,Estádio Orlando Scarpelli
+2,317,275,0,0,Joinville,Palmeiras,2015,17/05/2015 18:30,Arena Joinville

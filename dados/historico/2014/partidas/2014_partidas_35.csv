@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+35,263,316,0,1,Botafogo,Figueirense,2014,19/11/2014 19:30,São Januário
+35,266,315,1,4,Fluminense,Chapecoense,2014,20/11/2014 19:30,Maracanã
+35,275,292,0,2,Palmeiras,Sport,2014,19/11/2014 21:00,Allianz Parque
+35,276,285,1,1,São Paulo,Internacional,2014,12/11/2014 22:00,Morumbi
+35,282,262,4,0,Atlético-MG,Flamengo,2014,19/11/2014 22:00,Estádio Independência
+35,284,283,1,2,Grêmio,Cruzeiro,2014,20/11/2014 21:50,Arena do Grêmio
+35,287,294,1,1,Vitória,Coritiba,2014,19/11/2014 21:00,Manoel Barradas
+35,288,265,0,1,Criciúma,Bahia,2014,19/11/2014 21:00,Heriberto Hulse
+35,290,264,0,1,Goiás,Corinthians,2014,19/11/2014 21:00,Estádio Manguerão
+35,293,277,1,1,Atlético-PR,Santos,2014,19/11/2014 19:30,Arena da Baixada

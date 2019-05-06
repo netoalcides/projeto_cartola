@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+13,283,327,3,1,Cruzeiro,América-MG,2018,19/07/2018 19:30,Mineirão
+13,293,285,2,2,Atlético-PR,Internacional,2018,19/07/2018 21:00,Arena da Baixada
+13,315,265,1,1,Chapecoense,Bahia,2018,19/07/2018 19:30,Arena Condá
+13,287,289,1,0,Vitória,Paraná,2018,18/07/2018 21:00,Barradão
+13,267,266,1,1,Vasco,Fluminense,2018,19/07/2018 20:00,São Januário
+13,262,276,0,1,Flamengo,São Paulo,2018,18/07/2018 21:45,Maracanã
+13,354,292,1,0,Ceará,Sport,2018,18/07/2018 19:30,Presidente Vargas (CE)
+13,277,275,1,1,Santos,Palmeiras,2018,19/07/2018 20:00,Pacaembu
+13,264,263,2,0,Corinthians,Botafogo,2018,18/07/2018 21:45,Arena Corinthians
+13,284,282,2,0,Grêmio,Atlético-MG,2018,18/07/2018 21:45,Arena do Grêmio

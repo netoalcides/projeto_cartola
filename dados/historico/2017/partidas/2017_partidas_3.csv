@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+3,293,262,1,1,Atlético-PR,Flamengo,2017,28/05/2017 16:00,Arena da Baixada
+3,276,275,2,0,São Paulo,Palmeiras,2017,27/05/2017 19:00,Morumbi
+3,277,283,0,1,Santos,Cruzeiro,2017,28/05/2017 16:00,Vila Belmiro
+3,282,303,2,2,Atlético-MG,Ponte Preta,2017,28/05/2017 11:00,Independência
+3,373,264,0,1,Atlético-GO,Corinthians,2017,28/05/2017 16:00,Serra Dourada
+3,267,266,3,2,Vasco,Fluminense,2017,27/05/2017 16:00,São Januário
+3,315,314,2,0,Chapecoense,Avaí,2017,29/05/2017 20:00,Arena Condá
+3,287,294,0,1,Vitória,Coritiba,2017,27/05/2017 21:00,Fonte Nova
+3,292,284,4,3,Sport,Grêmio,2017,28/05/2017 18:00,Ilha do Retiro
+3,263,265,1,0,Botafogo,Bahia,2017,28/05/2017 19:00,Engenhão

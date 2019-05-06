@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+2,263,285,2,2,Botafogo,Internacional,2014,27/04/2014 16:00,Estádio Maracanã
+2,264,262,2,0,Corinthians,Flamengo,2014,27/04/2014 16:00,Pacaembu
+2,275,266,0,1,Palmeiras,Fluminense,2014,26/04/2014 21:00,Pacaembu
+2,283,276,1,1,Cruzeiro,São Paulo,2014,27/04/2014 16:00,Estádio Municipal Parque do Sabiá
+2,284,282,2,1,Grêmio,Atlético-MG,2014,27/04/2014 18:30,Arena do Grêmio
+2,287,293,2,2,Vitória,Atlético-PR,2014,27/04/2014 16:00,Estádio Pituaçu
+2,290,288,1,0,Goiás,Criciúma,2014,27/04/2014 18:30,Estádio Municipal Juscelino Kubitschek
+2,292,315,2,1,Sport,Chapecoense,2014,27/04/2014 18:30,Estádio Adelmar da Costa Carvalho
+2,294,277,0,0,Coritiba,Santos,2014,26/04/2014 18:30,Estádio Couto Pereira
+2,316,265,0,2,Figueirense,Bahia,2014,27/04/2014 18:30,Arena Barueri

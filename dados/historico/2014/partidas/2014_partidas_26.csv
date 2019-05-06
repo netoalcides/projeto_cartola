@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+26,262,277,0,1,Flamengo,Santos,2014,04/10/2014 16:20,Maracanã
+26,264,292,3,0,Corinthians,Sport,2014,04/10/2014 18:30,Arena Corinthians
+26,266,265,1,1,Fluminense,Bahia,2014,04/10/2014 16:20,Mané Garrincha
+26,275,315,4,2,Palmeiras,Chapecoense,2014,02/10/2014 19:30,Pacaembu
+26,283,285,2,1,Cruzeiro,Internacional,2014,04/10/2014 18:30,Mineirão
+26,284,276,0,1,Grêmio,São Paulo,2014,04/10/2014 16:20,Arena do Grêmio
+26,287,263,2,1,Vitória,Botafogo,2014,04/10/2014 16:20,Manoel Barradas
+26,288,282,3,1,Criciúma,Atlético-MG,2014,04/10/2014 18:30,Estádio Heriberto Hülse
+26,290,316,1,0,Goiás,Figueirense,2014,04/10/2014 21:00,Serra Dourada
+26,294,293,1,0,Coritiba,Atlético-PR,2014,04/10/2014 16:20,Couto Pereira

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+31,263,262,2,1,Botafogo,Flamengo,2014,25/10/2014 21:00,Arena Amazônia
+31,266,293,2,1,Fluminense,Atlético-PR,2014,25/10/2014 16:20,Maracanã
+31,275,264,1,1,Palmeiras,Corinthians,2014,25/10/2014 16:20,Pacaembu
+31,276,290,3,0,São Paulo,Goiás,2014,27/10/2014 20:30,Morumbi
+31,282,292,3,2,Atlético-MG,Sport,2014,25/10/2014 18:30,Independência
+31,285,265,2,0,Internacional,Bahia,2014,25/10/2014 21:00,Beira-Rio
+31,287,288,3,1,Vitória,Criciúma,2014,25/10/2014 18:30,Manoel Barradas
+31,294,284,1,1,Coritiba,Grêmio,2014,25/10/2014 18:30,Couto Pereira
+31,315,277,1,1,Chapecoense,Santos,2014,25/10/2014 18:30,Arena Condá
+31,316,283,1,1,Figueirense,Cruzeiro,2014,25/10/2014 16:20,Estádio Orlando Scarpelli

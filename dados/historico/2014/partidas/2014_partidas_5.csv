@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+5,262,276,0,2,Flamengo,São Paulo,2014,18/05/2014 16:00,Maracanã
+5,264,316,0,1,Corinthians,Figueirense,2014,18/05/2014 16:00,Arena Corinthians
+5,277,282,1,2,Santos,Atlético-MG,2014,18/05/2014 18:30,Arena Pantanal
+5,283,294,3,2,Cruzeiro,Coritiba,2014,17/05/2014 18:30,Mineirão
+5,284,266,1,0,Grêmio,Fluminense,2014,18/05/2014 16:00,Arena do Grêmio
+5,287,275,0,1,Vitória,Palmeiras,2014,18/05/2014 18:30,Pituaçu
+5,288,285,0,0,Criciúma,Internacional,2014,18/05/2014 18:30,Estádio Heriberto Hülse
+5,290,263,2,0,Goiás,Botafogo,2014,14/05/2014 22:00,Mário Helenio
+5,292,265,1,0,Sport,Bahia,2014,04/06/2014 21:00,Ilha do Retiro
+5,293,315,1,1,Atlético-PR,Chapecoense,2014,18/05/2014 16:00,Willie Davids

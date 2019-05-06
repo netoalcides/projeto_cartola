@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+4,262,266,2,3,Flamengo,Fluminense,2015,31/05/2015 18:30,Maracanã
+4,264,275,0,2,Corinthians,Palmeiras,2015,31/05/2015 16:00,Arena Corinthians
+4,277,292,2,2,Santos,Sport,2015,31/05/2015 11:00,Vila Belmiro
+4,282,267,3,0,Atlético-MG,Vasco,2015,31/05/2015 16:00,Independência
+4,285,276,0,0,Internacional,São Paulo,2015,31/05/2015 16:00,Beira-Rio
+4,290,284,1,1,Goiás,Grêmio,2015,31/05/2015 16:00,Serra Dourada
+4,294,314,1,2,Coritiba,Avaí,2015,30/05/2015 18:30,Couto Pereira
+4,303,315,3,1,Ponte Preta,Chapecoense,2015,30/05/2015 18:30,Moisés Lucarelli
+4,316,283,2,1,Figueirense,Cruzeiro,2015,31/05/2015 18:30,Estádio Orlando Scarpelli
+4,317,293,1,2,Joinville,Atlético-PR,2015,30/05/2015 21:00,Arena Joinville

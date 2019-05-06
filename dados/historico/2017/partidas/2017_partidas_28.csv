@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+28,315,262,0,1,Chapecoense,Flamengo,2017,15/10/2017 17:00,Arena Condá
+28,373,275,1,3,Atlético-GO,Palmeiras,2017,15/10/2017 17:00,Olímpico (GO)
+28,292,282,1,1,Sport,Atlético-MG,2017,15/10/2017 17:00,Ilha do Retiro
+28,283,303,2,1,Cruzeiro,Ponte Preta,2017,07/10/2017 16:00,Mineirão
+28,276,293,2,1,São Paulo,Atlético-PR,2017,14/10/2017 21:00,Pacaembu
+28,294,284,0,1,Coritiba,Grêmio,2017,15/10/2017 19:00,Couto Pereira
+28,267,263,1,0,Vasco,Botafogo,2017,14/10/2017 19:00,Maracanã
+28,266,314,1,0,Fluminense,Avaí,2017,15/10/2017 17:00,Maracanã
+28,277,287,2,2,Santos,Vitória,2017,16/10/2017 20:00,Pacaembu
+28,265,264,2,0,Bahia,Corinthians,2017,15/10/2017 19:00,Fonte Nova

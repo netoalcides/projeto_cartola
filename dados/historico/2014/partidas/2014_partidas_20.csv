@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+20,263,276,2,4,Botafogo,São Paulo,2014,10/09/2014 22:00,Estadio Nacional de Brasilia
+20,264,282,1,0,Corinthians,Atlético-MG,2014,11/09/2014 19:30,Arena Corinthians
+20,275,288,1,0,Palmeiras,Criciúma,2014,10/09/2014 19:30,Pacaembu
+20,283,265,2,1,Cruzeiro,Bahia,2014,11/09/2014 20:30,Estádio Mineirão
+20,284,293,1,0,Grêmio,Atlético-PR,2014,10/09/2014 19:30,Arena do Grêmio
+20,287,285,2,0,Vitória,Internacional,2014,10/09/2014 22:00,Barradão
+20,290,262,1,0,Goiás,Flamengo,2014,10/09/2014 22:00,Arena Pantanal
+20,292,277,3,1,Sport,Santos,2014,10/09/2014 21:00,Arena Pernambuco
+20,294,315,3,0,Coritiba,Chapecoense,2014,10/09/2014 21:00,Estádio Couto Pereira
+20,316,266,1,1,Figueirense,Fluminense,2014,10/09/2014 19:30,Estádio Orlando Scarpelli

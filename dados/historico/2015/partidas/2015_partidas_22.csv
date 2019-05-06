@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+22,262,314,3,0,Flamengo,Avaí,2015,02/09/2015 21:00,Arena das Dunas
+22,264,266,2,0,Corinthians,Fluminense,2015,02/09/2015 22:00,Arena Corinthians
+22,277,315,3,1,Santos,Chapecoense,2015,03/09/2015 19:30,Vila Belmiro
+22,282,293,0,1,Atlético-MG,Atlético-PR,2015,02/09/2015 21:00,Independência
+22,285,267,6,0,Internacional,Vasco,2015,02/09/2015 19:30,Beira-Rio
+22,290,275,1,0,Goiás,Palmeiras,2015,02/09/2015 22:00,Serra Dourada
+22,294,292,0,0,Coritiba,Sport,2015,02/09/2015 22:00,Couto Pereira
+22,303,283,1,2,Ponte Preta,Cruzeiro,2015,02/09/2015 19:30,Moisés Lucarelli
+22,316,284,0,2,Figueirense,Grêmio,2015,03/09/2015 21:00,Orlando Scarpelli
+22,317,276,0,0,Joinville,São Paulo,2015,02/09/2015 19:30,Ressacada

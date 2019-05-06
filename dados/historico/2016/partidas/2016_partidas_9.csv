@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+9,262,276,2,2,Flamengo,São Paulo,2016,19/06/2016 16:00,Mané Garrincha
+9,264,263,3,1,Corinthians,Botafogo,2016,19/06/2016 16:00,Itaquerão
+9,275,344,3,1,Palmeiras,Santa Cruz,2016,18/06/2016 16:00,Allianz Parque
+9,282,303,3,0,Atlético-MG,Ponte Preta,2016,19/06/2016 11:00,Independência
+9,284,283,2,0,Grêmio,Cruzeiro,2016,19/06/2016 19:00,Arena do Grêmio
+9,287,315,1,2,Vitória,Chapecoense,2016,19/06/2016 11:00,Barradão
+9,292,266,2,1,Sport,Fluminense,2016,19/06/2016 16:00,Ilha do Retiro
+9,293,277,1,0,Atlético-PR,Santos,2016,18/06/2016 18:00,Arena da Baixada
+9,316,285,3,2,Figueirense,Internacional,2016,19/06/2016 16:00,Orlando Scarpelli
+9,327,294,2,1,América-MG,Coritiba,2016,18/06/2016 21:00,Independência

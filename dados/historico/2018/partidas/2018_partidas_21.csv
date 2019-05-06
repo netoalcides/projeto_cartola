@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+21,283,266,2,1,Cruzeiro,Fluminense,2018,25/08/2018 21:00,Mineirão
+21,293,284,2,1,Atlético-PR,Grêmio,2018,25/08/2018 19:00,Arena da Baixada
+21,327,262,2,2,América-MG,Flamengo,2018,26/08/2018 16:00,Independência
+21,287,282,1,0,Vitória,Atlético-MG,2018,26/08/2018 16:00,Barradão
+21,267,315,3,1,Vasco,Chapecoense,2018,26/08/2018 19:00,São Januário
+21,263,292,2,0,Botafogo,Sport,2018,25/08/2018 21:00,Engenhão
+21,276,354,1,0,São Paulo,Ceará,2018,26/08/2018 11:00,Morumbi
+21,277,265,2,0,Santos,Bahia,2018,25/08/2018 16:00,Vila Belmiro
+21,264,289,1,0,Corinthians,Paraná,2018,25/08/2018 19:00,Arena Corinthians
+21,285,275,0,0,Internacional,Palmeiras,2018,26/08/2018 16:00,Beira-Rio

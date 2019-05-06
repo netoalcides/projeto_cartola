@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+8,262,316,1,1,Flamengo,Figueirense,2014,29/05/2014 19:30,Morumbi
+8,264,283,1,0,Corinthians,Cruzeiro,2014,28/05/2014 22:00,Canindé
+8,265,277,0,2,Bahia,Santos,2014,29/05/2014 21:00,Joia da Princesa
+8,275,263,0,2,Palmeiras,Botafogo,2014,28/05/2014 19:30,Prudentão
+8,282,266,2,0,Atlético-MG,Fluminense,2014,28/05/2014 22:00,João Lamego
+8,285,315,2,0,Internacional,Chapecoense,2014,28/05/2014 21:00,Estádio Centenário
+8,288,294,1,0,Criciúma,Coritiba,2014,28/05/2014 19:30,Estádio Heriberto Hülse
+8,290,287,0,0,Goiás,Vitória,2014,28/05/2014 21:00,Serra Dourada
+8,292,284,0,0,Sport,Grêmio,2014,28/05/2014 19:30,Ilha do Retiro
+8,293,276,2,2,Atlético-PR,São Paulo,2014,28/05/2014 22:00,Parque do Sabiá

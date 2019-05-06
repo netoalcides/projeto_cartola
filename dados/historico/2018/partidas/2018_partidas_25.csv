@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+25,354,287,2,0,Ceará,Vitória,2018,15/09/2018 16:00,Castelão (CE)
+25,284,289,2,0,Grêmio,Paraná,2018,15/09/2018 16:00,Arena do Grêmio
+25,267,262,1,1,Vasco,Flamengo,2018,15/09/2018 19:00,Mané Garrincha
+25,263,327,1,0,Botafogo,América-MG,2018,16/09/2018 11:00,Engenhão
+25,283,282,0,0,Cruzeiro,Atlético-MG,2018,16/09/2018 16:00,Mineirão
+25,293,266,3,1,Atlético-PR,Fluminense,2018,16/09/2018 16:00,Arena da Baixada
+25,265,275,1,1,Bahia,Palmeiras,2018,16/09/2018 16:00,Fonte Nova
+25,277,276,0,0,Santos,São Paulo,2018,16/09/2018 16:00,Vila Belmiro
+25,264,292,2,1,Corinthians,Sport,2018,16/09/2018 19:00,Arena Corinthians
+25,315,285,2,1,Chapecoense,Internacional,2018,17/09/2018 20:00,Arena Condá

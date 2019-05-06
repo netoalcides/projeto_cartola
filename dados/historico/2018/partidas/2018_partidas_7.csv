@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+7,282,262,0,1,Atlético-MG,Flamengo,2018,26/05/2018 21:00,Independência
+7,289,293,0,0,Paraná,Atlético-PR,2018,27/05/2018 11:00,Durival Britto
+7,327,276,1,3,América-MG,São Paulo,2018,27/05/2018 19:00,Independência
+7,265,267,3,0,Bahia,Vasco,2018,27/05/2018 16:00,Fonte Nova
+7,266,315,3,1,Fluminense,Chapecoense,2018,26/05/2018 16:00,Maracanã
+7,263,287,1,1,Botafogo,Vitória,2018,27/05/2018 16:00,Engenhão
+7,354,284,0,1,Ceará,Grêmio,2018,27/05/2018 19:00,Castelão (CE)
+7,277,283,0,1,Santos,Cruzeiro,2018,27/05/2018 16:00,Pacaembu
+7,275,292,2,3,Palmeiras,Sport,2018,26/05/2018 19:00,Arena Palmeiras
+7,285,264,2,1,Internacional,Corinthians,2018,27/05/2018 16:00,Beira-Rio

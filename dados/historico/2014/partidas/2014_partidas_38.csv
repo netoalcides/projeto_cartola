@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+38,263,282,0,0,Botafogo,Atlético-MG,2014,07/12/2014 17:00,Estadio Mané Garrincha
+38,264,288,2,1,Corinthians,Criciúma,2014,06/12/2014 16:30,Itaquera
+38,275,293,1,1,Palmeiras,Atlético-PR,2014,07/12/2014 17:00,Allianz Parque
+38,283,266,2,1,Cruzeiro,Fluminense,2014,07/12/2014 17:00,Mineirão
+38,284,262,1,1,Grêmio,Flamengo,2014,07/12/2014 17:00,Arena do Grêmio
+38,287,277,0,1,Vitória,Santos,2014,07/12/2014 17:00,Estádio Barradão
+38,290,315,4,2,Goiás,Chapecoense,2014,07/12/2014 17:00,Estádio Serra Dourada
+38,292,276,1,0,Sport,São Paulo,2014,07/12/2014 17:00,Arena Pernambuco
+38,294,265,3,2,Coritiba,Bahia,2014,07/12/2014 17:00,Estadio Major Antônio Couto Pereira
+38,316,285,1,2,Figueirense,Internacional,2014,06/12/2014 16:30,Estádio Orlando Scarpelli

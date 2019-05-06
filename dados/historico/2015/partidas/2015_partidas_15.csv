@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+15,267,275,1,4,Vasco,Palmeiras,2015,26/07/2015 18:30,São Januário
+15,276,283,1,0,São Paulo,Cruzeiro,2015,26/07/2015 16:00,Morumbi
+15,277,317,2,0,Santos,Joinville,2015,26/07/2015 11:00,Vila Belmiro
+15,282,316,1,0,Atlético-MG,Figueirense,2015,25/07/2015 21:00,Independência
+15,284,292,1,1,Grêmio,Sport,2015,25/07/2015 19:30,Arena do Grêmio
+15,290,262,0,1,Goiás,Flamengo,2015,26/07/2015 16:00,Serra Dourada
+15,294,264,1,1,Coritiba,Corinthians,2015,26/07/2015 16:00,Couto Pereira
+15,303,285,0,0,Ponte Preta,Internacional,2015,26/07/2015 16:00,Moisés Lucarelli
+15,314,293,1,2,Avaí,Atlético-PR,2015,25/07/2015 18:30,Ressacada
+15,315,266,2,1,Chapecoense,Fluminense,2015,26/07/2015 11:00,Arena Condá

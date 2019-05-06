@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+16,262,294,2,1,Flamengo,Coritiba,2017,22/07/2017 19:00,Luso-Brasileiro
+16,292,275,0,2,Sport,Palmeiras,2017,23/07/2017 16:00,Arena de Pernambuco
+16,314,283,1,0,Avaí,Cruzeiro,2017,23/07/2017 16:00,Ressacada
+16,293,303,0,2,Atlético-PR,Ponte Preta,2017,23/07/2017 19:00,Arena da Baixada
+16,266,264,0,1,Fluminense,Corinthians,2017,23/07/2017 16:00,Maracanã
+16,282,267,1,2,Atlético-MG,Vasco,2017,23/07/2017 19:00,Independência
+16,277,265,3,0,Santos,Bahia,2017,23/07/2017 11:00,Pacaembu
+16,276,284,1,1,São Paulo,Grêmio,2017,24/07/2017 20:00,Morumbi
+16,373,263,1,1,Atlético-GO,Botafogo,2017,23/07/2017 19:00,Olímpico (GO)
+16,287,315,1,2,Vitória,Chapecoense,2017,22/07/2017 16:00,Barradão

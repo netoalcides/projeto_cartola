@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+33,263,294,0,0,Botafogo,Coritiba,2016,29/10/2016 18:30,Arena Botafogo
+33,264,315,1,1,Corinthians,Chapecoense,2016,29/10/2016 16:30,Itaquerão
+33,266,287,2,2,Fluminense,Vitória,2016,28/10/2016 19:30,Maracanã
+33,277,275,1,0,Santos,Palmeiras,2016,29/10/2016 19:30,Vila Belmiro
+33,282,262,2,2,Atlético-MG,Flamengo,2016,29/10/2016 16:30,Independência
+33,285,344,1,1,Internacional,Santa Cruz,2016,29/10/2016 18:30,Beira-Rio
+33,292,303,1,0,Sport,Ponte Preta,2016,27/10/2016 20:30,Ilha do Retiro
+33,293,283,1,0,Atlético-PR,Cruzeiro,2016,29/10/2016 16:30,Arena da Baixada
+33,316,284,0,0,Figueirense,Grêmio,2016,29/10/2016 19:30,Orlando Scarpelli
+33,327,276,1,0,América-MG,São Paulo,2016,31/10/2016 20:00,Independência

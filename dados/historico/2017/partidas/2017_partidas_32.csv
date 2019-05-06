@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+32,284,262,3,1,Grêmio,Flamengo,2017,05/11/2017 17:00,Arena do Grêmio
+32,264,275,3,2,Corinthians,Palmeiras,2017,05/11/2017 17:00,Arena Corinthians
+32,277,282,3,1,Santos,Atlético-MG,2017,04/11/2017 17:00,Vila Belmiro
+32,283,293,1,0,Cruzeiro,Atlético-PR,2017,05/11/2017 17:00,Mineirão
+32,315,292,1,1,Chapecoense,Sport,2017,05/11/2017 19:00,Arena Condá
+32,267,287,1,1,Vasco,Vitória,2017,05/11/2017 19:00,Maracanã
+32,265,303,2,0,Bahia,Ponte Preta,2017,05/11/2017 18:00,Fonte Nova
+32,294,314,4,0,Coritiba,Avaí,2017,04/11/2017 21:00,Couto Pereira
+32,373,276,0,1,Atlético-GO,São Paulo,2017,04/11/2017 19:00,Serra Dourada
+32,263,266,1,2,Botafogo,Fluminense,2017,04/11/2017 19:00,Engenhão

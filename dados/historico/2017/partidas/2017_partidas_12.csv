@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+12,267,262,0,1,Vasco,Flamengo,2017,08/07/2017 18:00,São Januário
+12,283,275,3,1,Cruzeiro,Palmeiras,2017,09/07/2017 16:00,Mineirão
+12,264,303,2,0,Corinthians,Ponte Preta,2017,08/07/2017 19:00,Arena Corinthians
+12,315,293,1,1,Chapecoense,Atlético-PR,2017,09/07/2017 11:00,Arena Condá
+12,284,314,0,2,Grêmio,Avaí,2017,09/07/2017 19:00,Arena do Grêmio
+12,277,276,3,2,Santos,São Paulo,2017,09/07/2017 19:00,Vila Belmiro
+12,263,282,1,1,Botafogo,Atlético-MG,2017,09/07/2017 19:00,Engenhão
+12,294,292,0,3,Coritiba,Sport,2017,10/07/2017 20:00,Couto Pereira
+12,265,266,1,1,Bahia,Fluminense,2017,09/07/2017 16:00,Fonte Nova
+12,373,287,1,2,Atlético-GO,Vitória,2017,08/07/2017 16:00,Olímpico (GO)

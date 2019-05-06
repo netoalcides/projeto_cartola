@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+10,263,316,0,0,Botafogo,Figueirense,2016,22/06/2016 21:00,Municipal de Juis de Fora
+10,266,277,2,4,Fluminense,Santos,2016,22/06/2016 21:45,Kléber Andrade
+10,275,327,2,0,Palmeiras,América-MG,2016,21/06/2016 21:30,Allianz Parque
+10,276,292,0,0,São Paulo,Sport,2016,23/06/2016 21:00,Morumbi
+10,282,264,2,1,Atlético-MG,Corinthians,2016,22/06/2016 21:45,Mineirão
+10,284,287,1,2,Grêmio,Vitória,2016,23/06/2016 19:15,Arena do Grêmio
+10,294,285,1,1,Coritiba,Internacional,2016,23/06/2016 21:30,Couto Pereira
+10,303,283,0,4,Ponte Preta,Cruzeiro,2016,22/06/2016 19:30,Moisés Lucarelli
+10,315,293,0,0,Chapecoense,Atlético-PR,2016,23/06/2016 15:00,Arena Condá
+10,344,262,0,1,Santa Cruz,Flamengo,2016,22/06/2016 21:00,Arruda

@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+30,264,290,3,0,Corinthians,Goiás,2015,15/10/2015 19:30,Arena Corinthians
+30,266,276,2,0,Fluminense,São Paulo,2015,14/10/2015 22:00,Maracanã
+30,267,315,1,1,Vasco,Chapecoense,2015,15/10/2015 19:30,Maracanã
+30,275,303,0,1,Palmeiras,Ponte Preta,2015,14/10/2015 21:00,Allianz Parque
+30,282,285,2,1,Atlético-MG,Internacional,2015,14/10/2015 19:30,Independência
+30,284,277,1,0,Grêmio,Santos,2015,15/10/2015 21:00,Arena do Grêmio
+30,292,314,3,0,Sport,Avaí,2015,14/10/2015 19:30,Ilha do Retiro
+30,293,283,2,2,Atlético-PR,Cruzeiro,2015,14/10/2015 22:00,Arena da Baixada
+30,316,262,3,0,Figueirense,Flamengo,2015,14/10/2015 21:00,Orlando Scarpelli
+30,317,294,3,1,Joinville,Coritiba,2015,14/10/2015 21:00,Arena Joinville

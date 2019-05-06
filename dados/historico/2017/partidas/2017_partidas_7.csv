@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+7,262,303,2,0,Flamengo,Ponte Preta,2017,14/06/2017 21:00,Luso-Brasileiro
+7,277,275,1,0,Santos,Palmeiras,2017,14/06/2017 21:45,Vila Belmiro
+7,264,283,1,0,Corinthians,Cruzeiro,2017,14/06/2017 21:45,Arena Corinthians
+7,282,293,0,1,Atlético-MG,Atlético-PR,2017,14/06/2017 19:30,Independência
+7,315,267,2,1,Chapecoense,Vasco,2017,14/06/2017 21:45,Arena Condá
+7,373,314,3,1,Atlético-GO,Avaí,2017,14/06/2017 19:30,Olímpico (GO)
+7,294,265,0,0,Coritiba,Bahia,2017,15/06/2017 16:00,Couto Pereira
+7,292,276,0,0,Sport,São Paulo,2017,14/06/2017 19:30,Ilha do Retiro
+7,266,284,0,2,Fluminense,Grêmio,2017,15/06/2017 21:00,Maracanã
+7,287,263,2,2,Vitória,Botafogo,2017,14/06/2017 19:30,Barradão

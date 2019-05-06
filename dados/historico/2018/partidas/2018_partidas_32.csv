@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+32,282,284,0,1,Atlético-MG,Grêmio,2018,03/11/2018 17:00,Independência
+32,266,267,0,1,Fluminense,Vasco,2018,03/11/2018 17:00,Maracanã
+32,275,277,3,2,Palmeiras,Santos,2018,03/11/2018 19:00,Arena Palmeiras
+32,289,287,1,1,Paraná,Vitória,2018,04/11/2018 17:00,Durival Britto
+32,327,283,1,2,América-MG,Cruzeiro,2018,04/11/2018 17:00,Independência
+32,263,264,1,0,Botafogo,Corinthians,2018,04/11/2018 17:00,Engenhão
+32,276,262,2,2,São Paulo,Flamengo,2018,04/11/2018 17:00,Morumbi
+32,265,315,1,0,Bahia,Chapecoense,2018,04/11/2018 19:00,Fonte Nova
+32,285,293,2,1,Internacional,Atlético-PR,2018,04/11/2018 19:00,Beira-Rio
+32,292,354,1,0,Sport,Ceará,2018,05/11/2018 20:00,Ilha do Retiro

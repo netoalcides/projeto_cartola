@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+1,283,284,0,1,Cruzeiro,Grêmio,2018,14/04/2018 16:00,Mineirão
+1,293,315,5,1,Atlético-PR,Chapecoense,2018,15/04/2018 19:00,Arena da Baixada
+1,327,292,3,0,América-MG,Sport,2018,15/04/2018 11:00,Independência
+1,287,262,2,2,Vitória,Flamengo,2018,14/04/2018 19:00,Barradão
+1,267,282,2,1,Vasco,Atlético-MG,2018,15/04/2018 16:00,São Januário
+1,263,275,1,1,Botafogo,Palmeiras,2018,16/04/2018 20:00,Engenhão
+1,276,289,1,0,São Paulo,Paraná,2018,16/04/2018 20:00,Morumbi
+1,277,354,2,0,Santos,Ceará,2018,14/04/2018 21:00,Pacaembu
+1,264,266,2,1,Corinthians,Fluminense,2018,15/04/2018 16:00,Arena Corinthians
+1,285,265,2,0,Internacional,Bahia,2018,15/04/2018 16:00,Beira-Rio

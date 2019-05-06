@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+14,283,262,1,1,Cruzeiro,Flamengo,2017,16/07/2017 16:00,Mineirão
+14,275,287,4,2,Palmeiras,Vitória,2017,16/07/2017 11:00,Arena Palmeiras
+14,284,303,3,1,Grêmio,Ponte Preta,2017,16/07/2017 16:00,Arena do Grêmio
+14,264,293,2,2,Corinthians,Atlético-PR,2017,15/07/2017 19:00,Arena Corinthians
+14,267,277,0,0,Vasco,Santos,2017,16/07/2017 16:00,Engenhão
+14,265,314,1,1,Bahia,Avaí,2017,16/07/2017 19:00,Pituaçu
+14,373,282,1,2,Atlético-GO,Atlético-MG,2017,16/07/2017 16:00,Olímpico (GO)
+14,294,266,1,2,Coritiba,Fluminense,2017,16/07/2017 19:00,Couto Pereira
+14,315,276,2,0,Chapecoense,São Paulo,2017,16/07/2017 16:00,Arena Condá
+14,263,292,2,1,Botafogo,Sport,2017,17/07/2017 20:00,Engenhão

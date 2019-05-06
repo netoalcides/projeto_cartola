@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+5,266,294,2,0,Fluminense,Coritiba,2015,04/06/2015 16:00,Maracanã
+5,267,303,0,3,Vasco,Ponte Preta,2015,03/06/2015 19:30,São Januário
+5,275,285,1,1,Palmeiras,Internacional,2015,04/06/2015 21:00,Allianz Parque
+5,276,277,3,2,São Paulo,Santos,2015,03/06/2015 21:00,Morumbi
+5,283,262,1,0,Cruzeiro,Flamengo,2015,03/06/2015 22:00,Mineirão
+5,284,264,3,1,Grêmio,Corinthians,2015,03/06/2015 22:00,Arena do Grêmio
+5,292,290,1,0,Sport,Goiás,2015,04/06/2015 21:00,Ilha do Retiro
+5,293,316,1,0,Atlético-PR,Figueirense,2015,03/06/2015 19:30,Arena da Baixada
+5,314,282,1,4,Avaí,Atlético-MG,2015,03/06/2015 22:00,Ressacada
+5,315,317,2,0,Chapecoense,Joinville,2015,03/06/2015 19:30,Arena Condá

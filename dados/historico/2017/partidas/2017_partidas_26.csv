@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+26,303,262,1,0,Ponte Preta,Flamengo,2017,02/10/2017 20:00,Moisés Lucarelli
+26,275,277,0,1,Palmeiras,Santos,2017,30/09/2017 19:00,Arena Palmeiras
+26,293,282,0,2,Atlético-PR,Atlético-MG,2017,01/10/2017 19:00,Arena da Baixada
+26,283,264,1,1,Cruzeiro,Corinthians,2017,01/10/2017 16:00,Mineirão
+26,284,266,1,0,Grêmio,Fluminense,2017,01/10/2017 16:00,Arena do Grêmio
+26,267,315,1,1,Vasco,Chapecoense,2017,30/09/2017 16:00,São Januário
+26,314,373,0,2,Avaí,Atlético-GO,2017,01/10/2017 16:00,Ressacada
+26,265,294,1,1,Bahia,Coritiba,2017,30/09/2017 16:00,Fonte Nova
+26,276,292,1,0,São Paulo,Sport,2017,01/10/2017 16:00,Morumbi
+26,263,287,2,3,Botafogo,Vitória,2017,01/10/2017 16:00,Engenhão

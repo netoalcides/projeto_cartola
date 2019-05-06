@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+23,263,262,2,0,Botafogo,Flamengo,2017,10/09/2017 19:00,Engenhão
+23,282,275,1,1,Atlético-MG,Palmeiras,2017,09/09/2017 16:00,Independência
+23,315,283,1,2,Chapecoense,Cruzeiro,2017,10/09/2017 19:00,Arena Condá
+23,276,303,2,2,São Paulo,Ponte Preta,2017,09/09/2017 19:00,Morumbi
+23,293,294,1,1,Atlético-PR,Coritiba,2017,10/09/2017 11:00,Arena da Baixada
+23,267,284,1,0,Vasco,Grêmio,2017,09/09/2017 18:00,São Januário
+23,292,314,0,1,Sport,Avaí,2017,10/09/2017 16:00,Ilha do Retiro
+23,277,264,2,0,Santos,Corinthians,2017,10/09/2017 16:00,Vila Belmiro
+23,373,265,1,1,Atlético-GO,Bahia,2017,11/09/2017 20:00,Olímpico (GO)
+23,287,266,2,2,Vitória,Fluminense,2017,10/09/2017 16:00,Barradão
