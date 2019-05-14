@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+4,285,283,3,1,Internacional,Cruzeiro,2019,2019-05-12 16:00:00,Beira-Rio
+4,282,275,0,2,Atlético-MG,Palmeiras,2019,2019-05-12 16:00:00,Mineirão
+4,356,276,0,1,Fortaleza,São Paulo,2019,2019-05-12 19:00:00,Castelão (CE)
+4,264,284,0,0,Corinthians,Grêmio,2019,2019-05-11 19:00:00,Arena Corinthians
+4,277,267,3,0,Santos,Vasco,2019,2019-05-12 16:00:00,Pacaembu
+4,262,315,2,1,Flamengo,Chapecoense,2019,2019-05-12 11:00:00,Maracanã
+4,266,263,0,1,Fluminense,Botafogo,2019,2019-05-11 16:00:00,Maracanã
+4,314,341,0,0,Avaí,CSA,2019,2019-05-12 19:00:00,Ressacada
+4,290,354,2,1,Goiás,Ceará,2019,2019-05-11 21:00:00,Serra Dourada
+4,293,265,1,0,Athlético-PR,Bahia,2019,2019-05-12 19:00:00,Arena da Baixada

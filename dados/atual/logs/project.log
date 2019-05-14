@@ -59,3 +59,7 @@
 [ 2019-05-06 15:13:44 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
 [ 2019-05-06 15:13:44 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
 [ 2019-05-06 15:13:44 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+[ 2019-05-14 09:36:16 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-14 09:36:16 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-14 09:36:26 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-14 09:36:31 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
