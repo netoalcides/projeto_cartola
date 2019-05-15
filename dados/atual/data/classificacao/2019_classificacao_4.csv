@@ -1,4 +1,5 @@
 clube_id,clube,rodada_id,clube_rank,ano
+<<<<<<< HEAD
 262,Flamengo,4,9,2019
 263,Botafogo,4,6,2019
 264,Corinthians,4,11,2019
@@ -18,4 +19,25 @@ clube_id,clube,rodada_id,clube_rank,ano
 315,Chapecoense,4,10,2019
 341,CSA,4,17,2019
 354,Ceará,4,12,2019
+=======
+262,Flamengo,4,6,2019
+263,Botafogo,4,4,2019
+264,Corinthians,4,10,2019
+265,Bahia,4,8,2019
+266,Fluminense,4,15,2019
+267,Vasco,4,20,2019
+275,Palmeiras,4,1,2019
+276,São Paulo,4,5,2019
+277,Santos,4,2,2019
+282,Atlético-MG,4,3,2019
+283,Cruzeiro,4,7,2019
+284,Grêmio,4,17,2019
+285,Internacional,4,13,2019
+290,Goiás,4,9,2019
+293,Athlético-PR,4,11,2019
+314,Avaí,4,19,2019
+315,Chapecoense,4,12,2019
+341,CSA,4,18,2019
+354,Ceará,4,14,2019
+>>>>>>> 0b5ec5514773af19238722bd454f0f5cb4d54ecc
 356,Fortaleza,4,16,2019

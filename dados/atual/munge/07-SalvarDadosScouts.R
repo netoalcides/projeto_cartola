@@ -20,3 +20,5 @@ informacoes_jogadores %<>%
   
 write_csv( informacoes_jogadores,
            path = paste0( 'data/scouts/', year( Sys.Date() ), '_scouts_', informacoes_jogadores$rodada_id[1], '.csv' ) )
+
+rm(list=ls())

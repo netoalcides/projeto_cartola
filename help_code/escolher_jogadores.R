@@ -72,6 +72,24 @@ dados_atuais %>%
 
 ####################################################################################################
 
+library(dplyr)
+library(readr)
+library(magrittr)
+
+
+# marcinho - fort
+# diego souza
+# piris da mota
+# diego
+# marlone
+
+
+dados_atuais <- read_csv("data/scouts/2019_scouts_3.csv")
+
+dados_atuais %<>% 
+  select( atleta_id, apelido, clube, status_id, status, posicao, jogos_num, preco_num, pontos_num, media_num, variacao_num ) %>% 
+  filter( status_id == 7 )
+
 # atacante
 
 dados_atuais %>% 

@@ -1,3 +1,3 @@
 library(ProjectTemplate)
-setwd('atual/')
+setwd('/data-science/projetos/databol/projeto_cartola/dados/atual')
 load.project()

@@ -59,7 +59,186 @@
 [ 2019-05-06 15:13:44 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
 [ 2019-05-06 15:13:44 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
 [ 2019-05-06 15:13:44 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+<<<<<<< HEAD
 [ 2019-05-14 09:36:16 ] INFO CARTOLA_DADOS::iniciado 
 [ 2019-05-14 09:36:16 ] INFO CARTOLA_DADOS::obtem dados do mercado 
 [ 2019-05-14 09:36:26 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
 [ 2019-05-14 09:36:31 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+=======
+[ 2019-05-09 18:33:15 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-09 18:33:15 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-09 18:33:18 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-09 18:33:19 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+[ 2019-05-09 18:33:19 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-05-09 18:33:19 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-05-09 18:33:20 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-05-09 18:33:20 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-05-09 18:33:20 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-05-09 18:33:20 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-05-09 18:33:20 ] INFO CARTOLA_DADOS::obtem partidas 
+[ 2019-05-09 18:33:20 ] INFO CARTOLA_DADOS::salvar dados de classificacao 
+[ 2019-05-09 18:33:20 ] INFO CARTOLA_DADOS::salvar dados de partidas 
+[ 2019-05-09 18:33:20 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
+[ 2019-05-09 18:33:20 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
+[ 2019-05-09 18:33:20 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+[ 2019-05-09 18:38:15 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-09 18:38:15 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-09 18:38:17 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-09 18:38:18 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+[ 2019-05-09 18:38:19 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-05-09 18:38:19 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-05-09 18:38:19 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-05-09 18:38:19 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-05-09 18:38:19 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-05-09 18:38:19 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-05-09 18:38:19 ] INFO CARTOLA_DADOS::obtem partidas 
+[ 2019-05-09 18:38:19 ] INFO CARTOLA_DADOS::salvar dados de classificacao 
+[ 2019-05-09 18:38:19 ] INFO CARTOLA_DADOS::salvar dados de partidas 
+[ 2019-05-09 18:38:19 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
+[ 2019-05-09 18:38:19 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
+[ 2019-05-09 18:38:19 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+[ 2019-05-09 18:53:02 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-09 18:53:02 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-09 18:53:04 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-09 18:53:05 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+[ 2019-05-09 18:53:06 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-05-09 18:53:06 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-05-09 18:53:06 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-05-09 18:53:06 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-05-09 18:53:06 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-05-09 18:53:06 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-05-09 18:53:06 ] INFO CARTOLA_DADOS::obtem partidas 
+[ 2019-05-09 18:53:06 ] INFO CARTOLA_DADOS::salvar dados de classificacao 
+[ 2019-05-09 18:53:06 ] INFO CARTOLA_DADOS::salvar dados de partidas 
+[ 2019-05-09 18:53:06 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
+[ 2019-05-09 18:53:06 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
+[ 2019-05-09 18:53:06 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+[ 2019-05-09 19:26:02 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-09 19:26:02 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-09 19:26:04 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-09 19:26:05 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+[ 2019-05-09 19:26:06 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-05-09 19:26:06 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-05-09 19:26:06 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-05-09 19:26:06 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-05-09 19:26:06 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-05-09 19:26:06 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-05-09 19:26:06 ] INFO CARTOLA_DADOS::obtem partidas 
+[ 2019-05-09 19:26:06 ] INFO CARTOLA_DADOS::salvar dados de classificacao 
+[ 2019-05-09 19:26:06 ] INFO CARTOLA_DADOS::salvar dados de partidas 
+[ 2019-05-09 19:26:06 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
+[ 2019-05-09 19:26:06 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
+[ 2019-05-09 19:26:06 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+[ 2019-05-09 20:00:09 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-09 20:00:09 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-09 20:00:11 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-09 20:00:12 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+[ 2019-05-09 20:00:13 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-05-09 20:00:13 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-05-09 20:00:13 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-05-09 20:00:13 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-05-09 20:00:13 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-05-09 20:00:13 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-05-09 20:00:13 ] INFO CARTOLA_DADOS::obtem partidas 
+[ 2019-05-09 20:00:13 ] INFO CARTOLA_DADOS::salvar dados de classificacao 
+[ 2019-05-09 20:00:13 ] INFO CARTOLA_DADOS::salvar dados de partidas 
+[ 2019-05-09 20:00:13 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
+[ 2019-05-09 20:00:13 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
+[ 2019-05-09 20:00:13 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+[ 2019-05-09 20:01:05 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-09 20:01:05 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-09 20:01:06 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-09 20:01:07 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+[ 2019-05-09 20:01:08 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-05-09 20:01:08 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-05-09 20:01:08 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-05-09 20:01:08 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-05-09 20:01:08 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-05-09 20:01:08 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-05-09 20:01:08 ] INFO CARTOLA_DADOS::obtem partidas 
+[ 2019-05-09 20:01:08 ] INFO CARTOLA_DADOS::salvar dados de classificacao 
+[ 2019-05-09 20:01:08 ] INFO CARTOLA_DADOS::salvar dados de partidas 
+[ 2019-05-09 20:01:08 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
+[ 2019-05-09 20:01:08 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
+[ 2019-05-09 20:01:08 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+[ 2019-05-09 20:28:02 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-09 20:28:02 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-09 20:28:04 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-09 20:28:05 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+[ 2019-05-09 20:28:06 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-05-09 20:28:06 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-05-09 20:28:06 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-05-09 20:28:06 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-05-09 20:28:06 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-05-09 20:28:06 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-05-09 20:28:06 ] INFO CARTOLA_DADOS::obtem partidas 
+[ 2019-05-09 20:28:06 ] INFO CARTOLA_DADOS::salvar dados de classificacao 
+[ 2019-05-09 20:28:06 ] INFO CARTOLA_DADOS::salvar dados de partidas 
+[ 2019-05-09 20:28:06 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
+[ 2019-05-09 20:28:06 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
+[ 2019-05-09 20:28:06 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+[ 2019-05-09 22:38:02 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-09 22:38:02 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-09 22:38:03 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-09 22:38:04 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+[ 2019-05-09 22:38:05 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-05-09 22:38:05 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-05-09 22:38:05 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-05-09 22:38:05 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-05-09 22:38:05 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-05-09 22:38:05 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-05-09 22:38:05 ] INFO CARTOLA_DADOS::obtem partidas 
+[ 2019-05-09 22:38:05 ] INFO CARTOLA_DADOS::salvar dados de classificacao 
+[ 2019-05-09 22:38:05 ] INFO CARTOLA_DADOS::salvar dados de partidas 
+[ 2019-05-09 22:38:05 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
+[ 2019-05-09 22:38:05 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
+[ 2019-05-09 22:38:05 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+[ 2019-05-09 22:43:02 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-09 22:43:02 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-09 22:43:03 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-09 22:43:04 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+[ 2019-05-09 22:43:05 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-05-09 22:43:05 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-05-09 22:43:05 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-05-09 22:43:05 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-05-09 22:43:05 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-05-09 22:43:05 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-05-09 22:43:05 ] INFO CARTOLA_DADOS::obtem partidas 
+[ 2019-05-09 22:43:05 ] INFO CARTOLA_DADOS::salvar dados de classificacao 
+[ 2019-05-09 22:43:05 ] INFO CARTOLA_DADOS::salvar dados de partidas 
+[ 2019-05-09 22:43:05 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
+[ 2019-05-09 22:43:05 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
+[ 2019-05-09 22:43:05 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+[ 2019-05-11 06:33:07 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-11 06:33:07 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-11 06:33:09 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-11 06:33:10 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+[ 2019-05-11 06:33:10 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-05-11 06:33:11 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-05-11 06:33:11 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-05-11 06:33:11 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-05-11 06:33:11 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-05-11 06:33:11 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-05-11 06:33:11 ] INFO CARTOLA_DADOS::obtem partidas 
+[ 2019-05-11 06:33:11 ] INFO CARTOLA_DADOS::salvar dados de classificacao 
+[ 2019-05-11 06:33:11 ] INFO CARTOLA_DADOS::salvar dados de partidas 
+[ 2019-05-11 06:33:11 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
+[ 2019-05-11 06:33:11 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
+[ 2019-05-11 06:33:11 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+[ 2019-05-14 06:33:02 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-14 06:33:02 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-14 06:33:03 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-14 06:33:04 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+[ 2019-05-14 06:33:05 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-05-14 06:33:05 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-05-14 06:33:05 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-05-14 06:33:05 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-05-14 06:33:05 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-05-14 06:33:05 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-05-14 06:33:05 ] INFO CARTOLA_DADOS::obtem partidas 
+[ 2019-05-14 06:33:05 ] INFO CARTOLA_DADOS::salvar dados de classificacao 
+[ 2019-05-14 06:33:05 ] INFO CARTOLA_DADOS::salvar dados de partidas 
+[ 2019-05-14 06:33:05 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
+[ 2019-05-14 06:33:05 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
+[ 2019-05-14 06:33:06 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
+>>>>>>> 0b5ec5514773af19238722bd454f0f5cb4d54ecc
