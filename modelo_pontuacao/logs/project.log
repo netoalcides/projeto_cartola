@@ -1,0 +1,15 @@
+[ 2019-05-16 19:13:05 ] INFO MODELO_CARTOLA::Prepara os dados 
+[ 2019-05-16 19:13:05 ] INFO MODELO_CARTOLA::Ler os dados 
+[ 2019-05-16 19:13:06 ] INFO MODELO_CARTOLA::partidas e classificacao 
+[ 2019-05-16 19:13:07 ] INFO MODELO_CARTOLA::jogadores, partidas e classificacao 
+[ 2019-05-16 19:13:07 ] INFO MODELO_CARTOLA::ajusta dados 
+[ 2019-05-16 19:25:58 ] INFO MODELO_CARTOLA::forca dos clubes 
+[ 2019-05-16 19:25:58 ] INFO MODELO_CARTOLA::forca dos clubes - ataque 
+[ 2019-05-16 19:25:59 ] INFO MODELO_CARTOLA::forca dos clubes - meio 
+[ 2019-05-16 19:26:00 ] INFO MODELO_CARTOLA::forca dos clubes - laterais 
+[ 2019-05-16 19:26:00 ] INFO MODELO_CARTOLA::forca dos clubes - zagueiros 
+[ 2019-05-16 19:26:00 ] INFO MODELO_CARTOLA::forca dos clubes - goleiros 
+[ 2019-05-16 20:22:50 ] INFO MODELO_CARTOLA::criar defasagens 
+[ 2019-05-16 20:22:50 ] INFO MODELO_CARTOLA::variaveis da forca do adversario 
+[ 2019-05-16 20:22:50 ] INFO MODELO_CARTOLA::dados treino 
+[ 2019-05-16 20:22:51 ] INFO MODELO_CARTOLA::etapa de clustering iniciada 
