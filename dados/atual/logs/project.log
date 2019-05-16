@@ -277,3 +277,19 @@
 =======
 >>>>>>> 0b5ec5514773af19238722bd454f0f5cb4d54ecc
 >>>>>>> e55f37704026a74bb8757b829ce5ffd81eee4c51
+[ 2019-05-15 21:03:35 ] INFO CARTOLA_DADOS::iniciado 
+[ 2019-05-15 21:03:35 ] INFO CARTOLA_DADOS::obtem dados do mercado 
+[ 2019-05-15 21:03:37 ] INFO CARTOLA_DADOS::obtem dados das partidas atuais 
+[ 2019-05-15 21:03:38 ] INFO CARTOLA_DADOS::obtem dados das partidas anteriores 
+[ 2019-05-15 21:03:39 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-05-15 21:03:39 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-05-15 21:03:39 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-05-15 21:03:39 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-05-15 21:03:39 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-05-15 21:03:39 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-05-15 21:03:39 ] INFO CARTOLA_DADOS::obtem partidas 
+[ 2019-05-15 21:03:39 ] INFO CARTOLA_DADOS::salvar dados de classificacao 
+[ 2019-05-15 21:03:39 ] INFO CARTOLA_DADOS::salvar dados de partidas 
+[ 2019-05-15 21:03:39 ] INFO CARTOLA_DADOS::dados de partidas rodada atual 
+[ 2019-05-15 21:03:39 ] INFO CARTOLA_DADOS::dados de partidas rodada anterior 
+[ 2019-05-15 21:03:39 ] INFO CARTOLA_DADOS::salvar dados de scouts jogadores 
