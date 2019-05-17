@@ -1,9 +1,9 @@
-info( logger, "MODELO_CARTOLA::modelo atacantes" )
+info( logger, "MODELO_CARTOLA::modelo zagueiros" )
 
-info( logger, "MODELO_CARTOLA::filtrar atacantes" )
+info( logger, "MODELO_CARTOLA::filtra zagueiros" )
 
-ataque <- dados_cartola %>%
-  filter( posicao == "ata" ) %>%
+zagueiros <- dados_cartola %>%
+  filter( posicao == "zag" ) %>%
   mutate( fin = FF + FD + FT,
           RB_FC = ifelse( is.infinite(RB/FC) == TRUE, 0, RB/FC ),
           A_PE = ifelse( is.infinite(A/PE) == TRUE, 0, A/PE ),
@@ -18,7 +18,7 @@ ataque <- dados_cartola %>%
 
 info( logger, "MODELO_CARTOLA::criar defasagens" )
 
-ataque %<>%
+zagueiros %<>%
   group_by( atleta_id ) %>%
   mutate( lfin = lag(fin, n = 1),
           lfin2 = lag(fin, n = 2),
@@ -30,14 +30,12 @@ ataque %<>%
           lFS_FC2 = lag(FS_FC, n = 2),
           lG = lag(G, n = 1),
           lG2 = lag(G, n = 2),
-          lI = lag(I, n = 1),
-          lI2 = lag(I, n = 2),
-          lPE = lag(PE, n = 1),
-          lPE2 = lag(PE, n = 2),
           lFC = lag(FC, n = 1),
           lFC2 = lag(FC, n = 2),
           lCA = lag(CA, n = 1),
-          lCA2 = lag(CA, n = 2) ) %>%
+          lCA2 = lag(CA, n = 2),
+          lSG = lag(SG, n = 1),
+          lSG2 = lag(SG, n = 2) ) %>%
   ungroup %>% 
   na.omit()
 
@@ -45,52 +43,51 @@ ataque %<>%
 
 info( logger, "MODELO_CARTOLA::variaveis da forca do adversario" )
 
-ataque %<>%
-  left_join(., y = ata_data %>%
-              select( clube_id, ata_ptos_clube, mandante, rodada_id ),
+zagueiros %<>%
+  left_join(., y = zag_data %>%
+              select( clube_id, zag_ptos_clube, mandante, rodada_id ),
             by = "clube_id" ) %>%
   filter( mandante.x == mandante.y,
           rodada_id.x == rodada_id.y ) %>%
-  left_join(., y = zag_data %>%
-              select( clube_id, zag_ptos_clube, mandante, rodada_id ),
-            by = c( "clube_adv_id" = "clube_id" ) ) %>%
-  filter( mandante.x != mandante,
-          rodada_id.x == rodada_id ) %>%
-  select( -mandante, -rodada_id ) %>%
-  left_join(., y = lat_data %>%
-              select( clube_id, lat_ptos_clube, mandante, rodada_id ),
-            by = c( "clube_adv_id" = "clube_id" ) ) %>%
-  filter( mandante.x != mandante,
-          rodada_id.x == rodada_id ) %>%
-  select( -mandante, -rodada_id ) %>%
   left_join(., y = gol_data %>%
               select( clube_id, gol_ptos_clube, mandante, rodada_id ),
+            by = "clube_id" ) %>%
+  filter( mandante.x == mandante,
+          rodada_id.x == rodada_id ) %>%
+  select( -mandante, -rodada_id ) %>%
+  left_join(., y = ata_data %>%
+              select( clube_id, ata_ptos_clube, mandante, rodada_id ),
+            by = c( "clube_adv_id" = "clube_id" ) ) %>%
+  filter( mandante.x != mandante,
+          rodada_id.x == rodada_id ) %>%
+  select( -mandante, -rodada_id ) %>%
+  left_join(., y = meio_data %>%
+              select( clube_id, meio_ptos_clube, mandante, rodada_id ),
             by = c( "clube_adv_id" = "clube_id" ) ) %>%
   filter( mandante.x != mandante,
           rodada_id.x == rodada_id ) %>%
   select( -fez, -mandante.x, -mandante,
           -rodada_id.x, -rodada_id.y ) %>%
-  rename(., zag_ptos_clube_adv = zag_ptos_clube,
-         lat_ptos_clube_adv = lat_ptos_clube,
-         gol_ptos_clube_adv = gol_ptos_clube ) %>%
-  mutate( mandante = ifelse( mandante.y == "S", 1, 0 ) ) %>%
+  rename(., ata_ptos_clube_adv = ata_ptos_clube,
+         meio_ptos_clube_adv = meio_ptos_clube ) %>%
+  mutate( mandante = ifelse( mandante.y == "S", 1, 0 ) ) %>% 
   select( -mandante.y )
 
 
 
 info( logger, "MODELO_CARTOLA::dados treino" )
 
-dados_treino <- ataque %>% 
+dados_treino <- zagueiros %>% 
   select( atleta_id, apelido,
           clube_casa,
           clube_visitante,
           pontos_num,
-          lfin, lRB_FC, lA_PE, lFS_FC, lG, lI, lPE, lFC, lCA,
-          lfin2, lRB_FC2, lA_PE2, lFS_FC2, lG2, lI2, lPE2, lFC2, lCA2,
-          ata_ptos_clube,
-          zag_ptos_clube_adv,
-          lat_ptos_clube_adv,
-          gol_ptos_clube_adv,
+          lfin, lRB_FC, lA_PE, lFS_FC, lG, lFC, lCA, lSG,
+          lfin2, lRB_FC2, lA_PE2, lFS_FC2, lG2, lFC2, lCA2, lSG2,
+          zag_ptos_clube,
+          gol_ptos_clube,
+          ata_ptos_clube_adv,
+          meio_ptos_clube_adv,
           mandante,
           rodada_id )
 
@@ -99,21 +96,21 @@ dados_treino <- ataque %>%
 info( logger, "MODELO_CARTOLA::etapa de clustering iniciada" )
 
 set.seed(54321)
-cluster_model_ataque <- dados_treino %>%
+cluster_model_zagueiros <- dados_treino %>%
   group_by( atleta_id ) %>%
-  summarise_at( vars( lfin, lRB_FC, lA_PE, lFS_FC, lG, lI, lPE, lFC, lCA ), 
+  summarise_at( vars( lSG, lfin, lRB_FC, lG, lA_PE, lFS_FC ),
                 funs( sum ) ) %>%
   select( -atleta_id ) %>%
   mutate_all( funs(rescale) ) %>%
-  kcca(., 9, family = kccaFamily("kmeans") )
+  kcca(., 8, family = kccaFamily("kmeans") )
 
-grupos_dadosTreinoAta <- dados_treino %>%
+grupos_dadosTreinoZag <- dados_treino %>%
   group_by( atleta_id ) %>%
-  summarise_at( vars( lfin, lRB_FC, lA_PE, lFS_FC, lG, lI, lPE, lFC, lCA ),
+  summarise_at( vars( lSG, lfin, lRB_FC, lG, lA_PE, lFS_FC ),
                 funs( sum ) ) %>%
-  mutate_at( vars( lfin, lRB_FC, lA_PE, lFS_FC, lG, lI, lPE, lFC, lCA ),
+  mutate_at( vars( lSG, lfin, lRB_FC, lG, lA_PE, lFS_FC ),
              funs(rescale) ) %>%
-  mutate( grupos = predict(cluster_model_ataque) ) %>%
+  mutate( grupos = predict(cluster_model_zagueiros) ) %>%
   select( atleta_id, grupos ) %>%
   mutate( grupos = paste( "gr_kmeans_m1", grupos, sep = "_" ) ) %>%
   spread( key = grupos, value = grupos ) %>%
@@ -122,7 +119,7 @@ grupos_dadosTreinoAta <- dados_treino %>%
   mutate( base = "Treino" )
 
 dados_treino %<>%
-  right_join(., y = grupos_dadosTreinoAta, by = "atleta_id" ) %>%
+  right_join(., y = grupos_dadosTreinoZag, by = "atleta_id" ) %>%
   select( -base, -atleta_id, -gr_kmeans_m1_1,
           -apelido,
           -clube_casa,
@@ -133,15 +130,11 @@ dados_treino %<>%
 
 info( logger, "MODELO_CARTOLA::obtem modelo" )
 
-# Linear
-modelo_ataque <- lm( pontos_num ~., data = dados_treino )
+modelo_zagueiros <- lm( pontos_num ~., data = dados_treino )
 
 
+info( logger, "MODELO_CARTOLA::salva modelo zagueiros" )
 
-info( logger, "MODELO_CARTOLA::salva modelo ataque" )
+save( cluster_model_zagueiros, modelo_zagueiros, file = "data/modelo_zagueiros.RData" )
 
-save( cluster_model_ataque, modelo_ataque, file = "data/modelo_ataque.RData" )
-
-rm( ataque, cluster_model_ataque, modelo_ataque, grupos_dadosTreinoAta )
-
-
+rm( zagueiros, cluster_model_zagueiros, modelo_zagueiros, grupos_dadosTreinoZag )

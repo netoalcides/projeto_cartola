@@ -140,7 +140,7 @@ info( logger, "MODELO_CARTOLA::salva modelo meio" )
 
 save( cluster_model_meio, modelo_meio, file = "data/modelo_meio.RData" )
 
-rm( meio, cluster_model_meio, modelo_meio )
+rm( meio, cluster_model_meio, modelo_meio, grupos_dadosTreinoMei )
 
 
 
