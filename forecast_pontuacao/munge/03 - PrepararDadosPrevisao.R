@@ -1,7 +1,7 @@
-info( logger, "MODELO_CARTOLA::Prepara os dados" )
+info( logger, "FORECAST_CARTOLA::Prepara os dados" )
 
 
-info( logger, "MODELO_CARTOLA::Ler os dados" )
+info( logger, "FORECAST_CARTOLA::Ler os dados" )
 
 informacoes_jogadores <- list.files( path = '/data-science/projetos/databol/projeto_cartola/dados/atual/data/scouts', full.names = TRUE ) %>% 
   map_df(., read_csv )
@@ -14,7 +14,10 @@ informacoes_classificacao <- list.files( path = '/data-science/projetos/databol/
 
 
 
-info( logger, "MODELO_CARTOLA::partidas e classificacao" )
+info( logger, "FORECAST_CARTOLA::partidas e classificacao" )
+
+informacoes_partidas %<>% 
+  bind_rows(., partidas_atuais )
 
 rodadas <- informacoes_partidas %>% 
   distinct(rodada_id)
@@ -27,7 +30,7 @@ informacoes_partidas_classificacao <- foreach( rod = rodadas$rodada_id, .combine
   classificacao <- informacoes_classificacao %>%
     filter(rodada_id == rod) %>%
     select( clube_id, clube_rank )
-
+  
   partidas %>%
     left_join(., classificacao,
               by = c( 'clube_casa_id' = 'clube_id' ) ) %>%
@@ -42,10 +45,11 @@ rm(partidas, classificacao, informacoes_partidas, informacoes_classificacao, rod
 
 
 
-info( logger, "MODELO_CARTOLA::jogadores, partidas e classificacao" )
+info( logger, "FORECAST_CARTOLA::jogadores, partidas e classificacao" )
 
 informacoes_jogadores %<>% 
-  replace(., is.na(.), 0 )
+  replace(., is.na(.), 0 ) %>% 
+  bind_rows(., informacoes_jogadores_atuais )
 
 dados_cartola <- foreach( rod = rodadas$rodada_id, .combine = rbind ) %do% {
   
@@ -57,19 +61,19 @@ dados_cartola <- foreach( rod = rodadas$rodada_id, .combine = rbind ) %do% {
     select( clube_casa_id, clube_visitante_id,
             clube_casa, clube_visitante,
             clube_rank_casa, clube_rank_visitante )
-
+  
   casa  <- jogadores %>%
     right_join(., y = partidas, by = c( "clube_id" = "clube_casa_id" ) ) %>%
     mutate( clube_casa_id = clube_id ) %>%
     filter( !is.na(clube) )
-
+  
   fora <- jogadores %>%
     right_join(., y = partidas, by = c( "clube_id" = "clube_visitante_id" ) ) %>%
     mutate( clube_visitante_id = clube_id ) %>%
     filter( !is.na(clube) )
-
+  
   bind_rows(casa, fora) %>%
-    mutate( mandante = ifelse( clube_id == clube_casa_id, "S", "N") )
+    mutate( mandante = ifelse( clube_id == clube_casa_id, "S", "N" ) )
   
 }
 
@@ -77,7 +81,7 @@ rm(informacoes_jogadores, casa, fora, jogadores, informacoes_partidas_classifica
 
 
 
-info( logger, "MODELO_CARTOLA::ajusta dados" )
+info( logger, "FORECAST_CARTOLA::ajusta dados" )
 
 dados_cartola %<>% 
   arrange( atleta_id, rodada_id ) %>% 
@@ -92,3 +96,4 @@ dados_cartola %<>%
                               clube_visitante,
                               clube_casa ) )
 
+rm(informacoes_jogadores_atuais)
