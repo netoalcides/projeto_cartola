@@ -157,11 +157,3 @@ rm(meio, dados_meio_rodada, base_cluster, grupos_cluster, dados_lags, dados_forc
 
 
 
-
-
-
-
-
-
-
-
