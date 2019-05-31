@@ -23,4 +23,5 @@ forecast_jogadores %>%
   select( apelido, posicao, 
           preco_num, variacao_num, pontuacao_projetada,
           clube, clube_adv ) %>% 
+  mutate( pontuacao_projetada = round(pontuacao_projetada, 2) ) %>% 
   write_csv(., path = 'data/maiores_esperados.csv' )
