@@ -16,12 +16,25 @@ rm( list = ls( pattern = "projecoes*") )
 
 ### enquanto a API nao sai
 
-forecast_jogadores %>% 
-  filter( status == 'Provável') %>% 
-  group_by( posicao ) %>% 
-  top_n( n = 5, wt = pontuacao_projetada) %>% 
+bind_rows( forecast_jogadores %>% 
+             filter( status == 'Provável',
+                     posicao == 'ata' ) %>% 
+             arrange( desc(pontuacao_projetada) ) %>% 
+             head(8),
+           forecast_jogadores %>% 
+             filter( status == 'Provável',
+                     posicao == 'mei' ) %>% 
+             arrange( desc(pontuacao_projetada) ) %>% 
+             head(10),
+           forecast_jogadores %>% 
+             filter( status == 'Provável',
+                     !posicao %in% c('ata', 'mei') ) %>% 
+             group_by( posicao ) %>% 
+             top_n( n = 5, wt = pontuacao_projetada)
+) %>% 
   select( apelido, posicao, 
-          preco_num, variacao_num, pontuacao_projetada,
-          clube, clube_adv ) %>% 
+         preco_num, variacao_num, pontuacao_projetada,
+         clube, clube_adv, mandante ) %>% 
   mutate( pontuacao_projetada = round(pontuacao_projetada, 2) ) %>% 
   write_csv(., path = 'data/maiores_esperados.csv' )
+

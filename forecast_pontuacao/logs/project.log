@@ -631,3 +631,178 @@
 [ 2019-06-04 06:42:10 ] INFO FORECAST_CARTOLA::obtem as previsoes 
 [ 2019-06-04 06:42:10 ] INFO FORECAST_CARTOLA::forecast treinadores 
 [ 2019-06-04 06:42:10 ] INFO FORECAST_CARTOLA::forecast de todos os jogadores 
+[ 2019-06-12 01:40:42 ] INFO FORECAST_CARTOLA::Prepara os dados dos jogadores 
+[ 2019-06-12 01:40:44 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-06-12 01:40:44 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-06-12 01:40:44 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-06-12 01:40:44 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-06-12 01:40:44 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-06-12 01:40:44 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-06-12 01:40:44 ] INFO CARTOLA_DADOS::obtem organiza dados atuais 
+[ 2019-06-12 01:40:57 ] INFO FORECAST_CARTOLA::Prepara os dados das partidas 
+[ 2019-06-12 01:40:58 ] INFO FORECAST_CARTOLA::Ajusta dados partidas 
+[ 2019-06-12 01:40:58 ] INFO FORECAST_CARTOLA::Partidas atuais 
+[ 2019-06-12 01:41:07 ] INFO FORECAST_CARTOLA::Prepara os dados 
+[ 2019-06-12 01:41:07 ] INFO FORECAST_CARTOLA::Ler os dados 
+[ 2019-06-12 01:41:08 ] INFO FORECAST_CARTOLA::partidas e classificacao 
+[ 2019-06-12 01:41:08 ] INFO FORECAST_CARTOLA::jogadores, partidas e classificacao 
+[ 2019-06-12 01:41:09 ] INFO FORECAST_CARTOLA::ajusta dados 
+[ 2019-06-12 01:41:24 ] INFO FORECAST_CARTOLA::forca dos clubes 
+[ 2019-06-12 01:41:24 ] INFO FORECAST_CARTOLA::forca dos clubes - ataque 
+[ 2019-06-12 01:41:26 ] INFO FORECAST_CARTOLA::forca dos clubes - meio 
+[ 2019-06-12 01:41:27 ] INFO FORECAST_CARTOLA::forca dos clubes - laterais 
+[ 2019-06-12 01:41:28 ] INFO FORECAST_CARTOLA::forca dos clubes - zagueiros 
+[ 2019-06-12 01:41:28 ] INFO FORECAST_CARTOLA::forca dos clubes - goleiros 
+[ 2019-06-12 01:41:50 ] INFO FORECAST_CARTOLA::forecast atacantes 
+[ 2019-06-12 01:41:50 ] INFO FORECAST_CARTOLA::filtra atacantes 
+[ 2019-06-12 01:41:50 ] INFO FORECAST_CARTOLA::preparar dados forecast atacantes 
+[ 2019-06-12 01:41:50 ] INFO FORECAST_CARTOLA::clusterizar atacantes 
+[ 2019-06-12 01:41:50 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 01:41:51 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 01:41:51 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 01:41:58 ] INFO FORECAST_CARTOLA::forecast meias 
+[ 2019-06-12 01:41:58 ] INFO FORECAST_CARTOLA::filtra meio-campo 
+[ 2019-06-12 01:41:58 ] INFO FORECAST_CARTOLA::preparar dados forecast meio-campo 
+[ 2019-06-12 01:41:58 ] INFO FORECAST_CARTOLA::clusterizar meias 
+[ 2019-06-12 01:41:58 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 01:41:58 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 01:41:59 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 01:42:10 ] INFO FORECAST_CARTOLA::forecast laterais 
+[ 2019-06-12 01:42:10 ] INFO FORECAST_CARTOLA::filtra meio-campo 
+[ 2019-06-12 01:42:10 ] INFO FORECAST_CARTOLA::preparar dados forecast laterais 
+[ 2019-06-12 01:42:10 ] INFO FORECAST_CARTOLA::clusterizar laterais 
+[ 2019-06-12 01:42:10 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 01:42:10 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 01:42:10 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 01:42:19 ] INFO FORECAST_CARTOLA::forecast zagueiros 
+[ 2019-06-12 01:42:19 ] INFO FORECAST_CARTOLA::filtra zagueiros 
+[ 2019-06-12 01:42:19 ] INFO FORECAST_CARTOLA::preparar dados forecast zagueiros 
+[ 2019-06-12 01:42:19 ] INFO FORECAST_CARTOLA::clusterizar zagueiros 
+[ 2019-06-12 01:42:19 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 01:42:19 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 01:42:19 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 01:43:54 ] INFO FORECAST_CARTOLA::forecast goleiros 
+[ 2019-06-12 01:43:54 ] INFO FORECAST_CARTOLA::filtra goleiros 
+[ 2019-06-12 01:43:54 ] INFO FORECAST_CARTOLA::preparar dados forecast goleiros 
+[ 2019-06-12 01:43:54 ] INFO FORECAST_CARTOLA::clusterizar goleiros 
+[ 2019-06-12 01:43:54 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 01:43:54 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 01:43:54 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 01:44:07 ] INFO FORECAST_CARTOLA::forecast treinadores 
+[ 2019-06-12 02:01:02 ] INFO FORECAST_CARTOLA::Prepara os dados dos jogadores 
+[ 2019-06-12 02:01:03 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-06-12 02:01:03 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-06-12 02:01:03 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-06-12 02:01:03 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-06-12 02:01:03 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-06-12 02:01:03 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-06-12 02:01:03 ] INFO CARTOLA_DADOS::obtem organiza dados atuais 
+[ 2019-06-12 02:01:22 ] INFO FORECAST_CARTOLA::Prepara os dados das partidas 
+[ 2019-06-12 02:01:23 ] INFO FORECAST_CARTOLA::Ajusta dados partidas 
+[ 2019-06-12 02:01:23 ] INFO FORECAST_CARTOLA::Partidas atuais 
+[ 2019-06-12 02:01:34 ] INFO FORECAST_CARTOLA::Prepara os dados 
+[ 2019-06-12 02:01:34 ] INFO FORECAST_CARTOLA::Ler os dados 
+[ 2019-06-12 02:01:34 ] INFO FORECAST_CARTOLA::partidas e classificacao 
+[ 2019-06-12 02:01:34 ] INFO FORECAST_CARTOLA::jogadores, partidas e classificacao 
+[ 2019-06-12 02:01:35 ] INFO FORECAST_CARTOLA::ajusta dados 
+[ 2019-06-12 02:01:43 ] INFO FORECAST_CARTOLA::forca dos clubes 
+[ 2019-06-12 02:01:43 ] INFO FORECAST_CARTOLA::forca dos clubes - ataque 
+[ 2019-06-12 02:01:45 ] INFO FORECAST_CARTOLA::forca dos clubes - meio 
+[ 2019-06-12 02:01:47 ] INFO FORECAST_CARTOLA::forca dos clubes - laterais 
+[ 2019-06-12 02:01:47 ] INFO FORECAST_CARTOLA::forca dos clubes - zagueiros 
+[ 2019-06-12 02:01:47 ] INFO FORECAST_CARTOLA::forca dos clubes - goleiros 
+[ 2019-06-12 02:02:10 ] INFO FORECAST_CARTOLA::forecast atacantes 
+[ 2019-06-12 02:02:10 ] INFO FORECAST_CARTOLA::filtra atacantes 
+[ 2019-06-12 02:02:10 ] INFO FORECAST_CARTOLA::preparar dados forecast atacantes 
+[ 2019-06-12 02:02:10 ] INFO FORECAST_CARTOLA::clusterizar atacantes 
+[ 2019-06-12 02:02:10 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 02:02:10 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 02:02:10 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 02:04:12 ] INFO FORECAST_CARTOLA::forecast meias 
+[ 2019-06-12 02:04:12 ] INFO FORECAST_CARTOLA::filtra meio-campo 
+[ 2019-06-12 02:04:12 ] INFO FORECAST_CARTOLA::preparar dados forecast meio-campo 
+[ 2019-06-12 02:04:12 ] INFO FORECAST_CARTOLA::clusterizar meias 
+[ 2019-06-12 02:04:12 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 02:04:12 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 02:04:12 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 02:04:32 ] INFO FORECAST_CARTOLA::forecast laterais 
+[ 2019-06-12 02:04:32 ] INFO FORECAST_CARTOLA::filtra meio-campo 
+[ 2019-06-12 02:04:32 ] INFO FORECAST_CARTOLA::preparar dados forecast laterais 
+[ 2019-06-12 02:04:32 ] INFO FORECAST_CARTOLA::clusterizar laterais 
+[ 2019-06-12 02:04:32 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 02:04:32 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 02:04:32 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 02:04:57 ] INFO FORECAST_CARTOLA::forecast zagueiros 
+[ 2019-06-12 02:04:57 ] INFO FORECAST_CARTOLA::filtra zagueiros 
+[ 2019-06-12 02:04:57 ] INFO FORECAST_CARTOLA::preparar dados forecast zagueiros 
+[ 2019-06-12 02:04:57 ] INFO FORECAST_CARTOLA::clusterizar zagueiros 
+[ 2019-06-12 02:04:57 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 02:04:57 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 02:04:57 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 02:05:14 ] INFO FORECAST_CARTOLA::forecast goleiros 
+[ 2019-06-12 02:05:14 ] INFO FORECAST_CARTOLA::filtra goleiros 
+[ 2019-06-12 02:05:14 ] INFO FORECAST_CARTOLA::preparar dados forecast goleiros 
+[ 2019-06-12 02:05:14 ] INFO FORECAST_CARTOLA::clusterizar goleiros 
+[ 2019-06-12 02:05:14 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 02:05:14 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 02:05:14 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 02:05:39 ] INFO FORECAST_CARTOLA::forecast treinadores 
+[ 2019-06-12 02:15:47 ] INFO FORECAST_CARTOLA::Prepara os dados dos jogadores 
+[ 2019-06-12 02:15:48 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-06-12 02:15:48 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-06-12 02:15:48 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-06-12 02:15:48 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-06-12 02:15:48 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-06-12 02:15:48 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-06-12 02:15:48 ] INFO CARTOLA_DADOS::obtem organiza dados atuais 
+[ 2019-06-12 02:15:48 ] INFO FORECAST_CARTOLA::Prepara os dados das partidas 
+[ 2019-06-12 02:15:49 ] INFO FORECAST_CARTOLA::Ajusta dados partidas 
+[ 2019-06-12 02:15:49 ] INFO FORECAST_CARTOLA::Partidas atuais 
+[ 2019-06-12 02:15:49 ] INFO FORECAST_CARTOLA::Prepara os dados 
+[ 2019-06-12 02:15:49 ] INFO FORECAST_CARTOLA::Ler os dados 
+[ 2019-06-12 02:15:50 ] INFO FORECAST_CARTOLA::partidas e classificacao 
+[ 2019-06-12 02:15:50 ] INFO FORECAST_CARTOLA::jogadores, partidas e classificacao 
+[ 2019-06-12 02:15:51 ] INFO FORECAST_CARTOLA::ajusta dados 
+[ 2019-06-12 02:15:51 ] INFO FORECAST_CARTOLA::forca dos clubes 
+[ 2019-06-12 02:15:51 ] INFO FORECAST_CARTOLA::forca dos clubes - ataque 
+[ 2019-06-12 02:15:53 ] INFO FORECAST_CARTOLA::forca dos clubes - meio 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::forca dos clubes - laterais 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::forca dos clubes - zagueiros 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::forca dos clubes - goleiros 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::forecast atacantes 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::filtra atacantes 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::preparar dados forecast atacantes 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::clusterizar atacantes 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::forecast meias 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::filtra meio-campo 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::preparar dados forecast meio-campo 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::clusterizar meias 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::forecast laterais 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::filtra meio-campo 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::preparar dados forecast laterais 
+[ 2019-06-12 02:15:54 ] INFO FORECAST_CARTOLA::clusterizar laterais 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::forecast zagueiros 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::filtra zagueiros 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::preparar dados forecast zagueiros 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::clusterizar zagueiros 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::forecast goleiros 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::filtra goleiros 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::preparar dados forecast goleiros 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::clusterizar goleiros 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::forecast treinadores 
+[ 2019-06-12 02:15:55 ] INFO FORECAST_CARTOLA::forecast de todos os jogadores 

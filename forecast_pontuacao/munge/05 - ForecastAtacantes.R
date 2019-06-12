@@ -151,6 +151,6 @@ dados_forecast <- dados_lags %>%
 projecoes_atacantes <- dados_forecast %>% 
   mutate( pontuacao_projetada = predict( modelo_ataque, .) ) %>% 
   select( atleta_id, apelido, posicao, status, preco_num, variacao_num, 
-          clube_id, clube, clube_adv_id, clube_adv, pontuacao_projetada )
+          clube_id, clube, clube_adv_id, clube_adv, mandante, pontuacao_projetada )
 
 rm(ataque, dados_atacantes_rodada, base_cluster, grupos_cluster, dados_lags, dados_forca_clubes, dados_forecast, cluster_model_ataque, modelo_ataque )

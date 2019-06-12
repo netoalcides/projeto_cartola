@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+8,284,356,1,0,Grêmio,Fortaleza,2019,2019-06-08 19:00:00,Centenário
+8,283,264,0,0,Cruzeiro,Corinthians,2019,2019-06-08 19:00:00,Mineirão
+8,354,265,0,0,Ceará,Bahia,2019,2019-06-08 19:30:00,Castelão (CE)
+8,275,293,1,0,Palmeiras,Athlético-PR,2019,2019-06-08 16:30:00,Arena Palmeiras
+8,277,282,3,1,Santos,Atlético-MG,2019,2019-06-09 19:00:00,Vila Belmiro
+8,314,276,0,0,Avaí,São Paulo,2019,2019-06-08 21:00:00,Ressacada
+8,267,285,2,1,Vasco,Internacional,2019,2019-06-07 20:30:00,São Januário
+8,266,262,0,0,Fluminense,Flamengo,2019,2019-06-09 19:00:00,Maracanã
+8,290,315,3,1,Goiás,Chapecoense,2019,2019-06-10 20:00:00,Serra Dourada
+8,341,263,1,2,CSA,Botafogo,2019,2019-06-09 19:00:00,Rei Pelé
