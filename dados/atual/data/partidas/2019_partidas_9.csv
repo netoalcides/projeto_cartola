@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+9,285,265,3,1,Internacional,Bahia,2019,2019-06-12 21:30:00,Beira-Rio
+9,282,276,1,1,Atlético-MG,São Paulo,2019,2019-06-13 20:00:00,Independência
+9,356,283,2,1,Fortaleza,Cruzeiro,2019,2019-06-12 21:00:00,Castelão (CE)
+9,275,314,2,0,Palmeiras,Avaí,2019,2019-06-13 20:00:00,Arena Palmeiras
+9,277,264,1,0,Santos,Corinthians,2019,2019-06-12 21:30:00,Vila Belmiro
+9,267,354,1,0,Vasco,Ceará,2019,2019-06-13 19:15:00,São Januário
+9,263,284,0,1,Botafogo,Grêmio,2019,2019-06-12 19:15:00,Engenhão
+9,315,266,1,1,Chapecoense,Fluminense,2019,2019-06-13 20:00:00,Arena Condá
+9,290,293,2,1,Goiás,Athlético-PR,2019,2019-06-13 20:00:00,Serra Dourada
+9,341,262,0,2,CSA,Flamengo,2019,2019-06-12 21:30:00,Mané Garrincha
