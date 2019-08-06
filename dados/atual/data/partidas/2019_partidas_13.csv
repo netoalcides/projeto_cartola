@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+13,284,315,3,3,Grêmio,Chapecoense,2019,2019-08-05 20:00:00,Arena do Grêmio
+13,282,283,2,0,Atlético-MG,Cruzeiro,2019,2019-08-04 19:00:00,Independência
+13,354,356,2,1,Ceará,Fortaleza,2019,2019-08-03 19:00:00,Castelão (CE)
+13,264,275,1,1,Corinthians,Palmeiras,2019,2019-08-04 19:00:00,Arena Corinthians
+13,277,290,6,1,Santos,Goiás,2019,2019-08-04 11:00:00,Vila Belmiro
+13,267,341,0,0,Vasco,CSA,2019,2019-08-04 19:00:00,Kleber Andrade
+13,266,285,2,1,Fluminense,Internacional,2019,2019-08-03 19:00:00,Maracanã
+13,314,263,0,2,Avaí,Botafogo,2019,2019-08-04 16:00:00,Ressacada
+13,265,262,3,0,Bahia,Flamengo,2019,2019-08-04 16:00:00,Fonte Nova
+13,293,276,NA,NA,Athlético-PR,São Paulo,2019,2019-08-21 19:15:00,Arena da Baixada
