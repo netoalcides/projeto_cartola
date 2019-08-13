@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+14,285,264,0,0,Internacional,Corinthians,2019,2019-08-11 11:00:00,Beira-Rio
+14,282,266,2,1,Atlético-MG,Fluminense,2019,2019-08-10 21:00:00,Independência
+14,354,315,4,1,Ceará,Chapecoense,2019,2019-08-10 17:00:00,Castelão (CE)
+14,275,265,2,2,Palmeiras,Bahia,2019,2019-08-11 16:00:00,Arena Palmeiras
+14,276,277,3,2,São Paulo,Santos,2019,2019-08-10 17:00:00,Morumbi
+14,262,284,3,1,Flamengo,Grêmio,2019,2019-08-10 19:00:00,Maracanã
+14,263,293,2,1,Botafogo,Athlético-PR,2019,2019-08-11 16:00:00,Engenhão
+14,314,283,2,2,Avaí,Cruzeiro,2019,2019-08-11 16:00:00,Ressacada
+14,290,267,0,1,Goiás,Vasco,2019,2019-08-11 19:00:00,Serra Dourada
+14,341,356,0,2,CSA,Fortaleza,2019,2019-08-12 20:00:00,Rei Pelé
