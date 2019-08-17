@@ -1,26 +1,26 @@
 apelido,posicao,preco_num,variacao_num,pontuacao_projetada,clube,clube_adv,mandante
 Yony González,ata,13.01,-1.33,7.28,Fluminense,CSA,1
-Alexandre Pato,ata,12.41,4.24,6.99,São Paulo,Ceará,1
 Gilberto,ata,18.43,0.48,6.27,Bahia,Goiás,1
+Gabriel,ata,19.12,0,6,Flamengo,Vasco,0
 Romarinho,ata,5.64,0.59,5.85,Fortaleza,Internacional,1
 Wellington Paulista,ata,10.13,-0.15,5.84,Fortaleza,Internacional,1
 Bruno Henrique,ata,20.1,1.57,5.41,Flamengo,Vasco,0
+Antony,ata,12.46,0,5.39,São Paulo,Ceará,1
 Vagner Love,ata,5.21,0,5.26,Corinthians,Botafogo,1
-Eduardo Sasha,ata,18.7,-0.09,5.24,Santos,Cruzeiro,0
 Arrascaeta,mei,18.19,3.69,6.52,Flamengo,Vasco,0
 Gustavo Campanharo,mei,7.79,1.86,6.11,Chapecoense,Avaí,1
 Carlos Sánchez,mei,13.76,-2.94,5.92,Santos,Cruzeiro,0
 Cícero,mei,12.96,-0.27,5.69,Botafogo,Corinthians,0
 Thiago Neves,mei,6.64,0,5.24,Cruzeiro,Santos,1
 Raul,mei,8.63,1.34,5.08,Vasco,Flamengo,1
-Everton,mei,6.81,-0.6,5.06,São Paulo,Ceará,1
 Juninho,mei,7.97,0.08,4.79,Fortaleza,Internacional,1
 Yago Pikachu,mei,9.4,-0.85,4.41,Vasco,Flamengo,1
 Gerson,mei,8.82,0.21,4.41,Flamengo,Vasco,0
+Elias,mei,10.32,1.47,4.36,Atlético-MG,Athlético-PR,0
 Apodi,lat,3.71,-0.95,5.29,CSA,Fluminense,0
-Nino Paraíba,lat,11.78,-2.16,5.66,Bahia,Goiás,1
 Igor Julião,lat,3.89,-0.01,5.76,Fluminense,CSA,1
 Bruno Pacheco,lat,12.64,0.18,5.74,Chapecoense,Avaí,1
+Jefferson,lat,11.87,-0.38,4.95,Goiás,Bahia,0
 Victor Ferraz,lat,10.52,0,6.16,Santos,Cruzeiro,0
 Dedé,zag,15.47,0.53,4.55,Cruzeiro,Santos,1
 Luciano Castán,zag,5.84,-0.58,4.27,CSA,Fluminense,0
@@ -35,5 +35,5 @@ Tiepo,gol,12.56,-1.48,8.11,Chapecoense,Avaí,1
 Vanderlei Luxemburgo,tec,8.31,0.39,2.93,Vasco,Flamengo,1
 Renato Gaúcho,tec,11.35,-0.46,3.12,Grêmio,Palmeiras,1
 Cuca,tec,10.22,0.09,3.35,São Paulo,Ceará,1
-Roger Machado ,tec,11.16,-0.61,2.87,Bahia,Goiás,1
+Fernando Diniz,tec,6.85,-0.12,3.04,Fluminense,CSA,1
 Zé Ricardo,tec,8,0,2.95,Fortaleza,Internacional,1
