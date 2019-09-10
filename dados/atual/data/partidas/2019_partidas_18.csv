@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+18,285,276,1,0,Internacional,São Paulo,2019,2019-09-07 19:00:00,Beira-Rio
+18,283,284,1,4,Cruzeiro,Grêmio,2019,2019-09-08 11:00:00,Independência
+18,356,266,0,1,Fortaleza,Fluminense,2019,2019-09-07 17:00:00,Castelão (CE)
+18,264,354,2,2,Corinthians,Ceará,2019,2019-09-07 11:00:00,Arena Corinthians
+18,277,293,1,1,Santos,Athlético-PR,2019,2019-09-08 16:00:00,Vila Belmiro
+18,267,265,0,2,Vasco,Bahia,2019,2019-09-07 11:00:00,São Januário
+18,263,282,2,1,Botafogo,Atlético-MG,2019,2019-09-08 16:00:00,Engenhão
+18,314,262,0,3,Avaí,Flamengo,2019,2019-09-07 17:00:00,Mané Garrincha
+18,290,275,1,2,Goiás,Palmeiras,2019,2019-09-07 21:00:00,Serra Dourada
+18,341,315,2,0,CSA,Chapecoense,2019,2019-09-08 19:00:00,Rei Pelé
