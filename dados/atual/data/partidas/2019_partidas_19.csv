@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+19,284,290,3,0,Grêmio,Goiás,2019,2019-09-15 16:00:00,Arena do Grêmio
+19,282,285,1,3,Atlético-MG,Internacional,2019,2019-09-15 11:00:00,Independência
+19,354,263,0,0,Ceará,Botafogo,2019,2019-09-14 21:00:00,Castelão (CE)
+19,275,283,1,0,Palmeiras,Cruzeiro,2019,2019-09-14 19:00:00,Arena Palmeiras
+19,276,341,1,1,São Paulo,CSA,2019,2019-09-15 19:00:00,Morumbi
+19,262,277,1,0,Flamengo,Santos,2019,2019-09-14 17:00:00,Maracanã
+19,266,264,1,0,Fluminense,Corinthians,2019,2019-09-15 16:00:00,Mané Garrincha
+19,315,267,1,2,Chapecoense,Vasco,2019,2019-09-14 19:00:00,Arena Condá
+19,265,356,1,1,Bahia,Fortaleza,2019,2019-09-15 16:00:00,Fonte Nova
+19,293,314,0,1,Athlético-PR,Avaí,2019,2019-09-15 11:00:00,Arena da Baixada
