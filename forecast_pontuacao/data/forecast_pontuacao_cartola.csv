@@ -1,16 +1,16 @@
 atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv_id,clube_adv,mandante,pontuacao_projetada
-37655,Rafael Moura,ata,Provável,3.26,-0.53,290,Goiás,266,Fluminense,1,2.998828691918079
+37655,Rafael Moura,ata,Contundido,3.26,-0.53,290,Goiás,266,Fluminense,1,2.998828691918079
 37673,Alecsandro,ata,Provável,4.02,0.23,341,CSA,354,Ceará,1,2.7188539885720466
-37798,Rafael Sobis,ata,Nulo,8.67,-0.29,285,Internacional,315,Chapecoense,1,3.747055899271019
+37798,Rafael Sobis,ata,Dúvida,8.67,-0.29,285,Internacional,315,Chapecoense,1,3.747055899271019
 38162,Fred,ata,Provável,5.98,-1.52,283,Cruzeiro,262,Flamengo,1,4.266565073364097
 38231,Diego Tardelli,ata,Provável,8.12,-1.04,284,Grêmio,277,Santos,0,3.2443710735859463
 38279,Wellington Paulista,ata,Suspenso,9.86,-1.48,356,Fortaleza,275,Palmeiras,1,4.665404487768971
-38910,Ricardo Oliveira,ata,Provável,13.34,-0.15,282,Atlético-MG,314,Avaí,0,2.9971578919177255
-38959,Vagner Love,ata,Nulo,5.17,-1.06,264,Corinthians,265,Bahia,1,2.685789814998042
+38910,Ricardo Oliveira,ata,Nulo,13.34,-0.15,282,Atlético-MG,314,Avaí,0,2.9971578919177255
+38959,Vagner Love,ata,Provável,5.17,-1.06,264,Corinthians,265,Bahia,1,2.685789814998042
 42116,Willian,ata,Provável,6.94,-1.26,275,Palmeiras,356,Fortaleza,0,1.8329114417199355
 42222,Osvaldo,ata,Provável,5.87,0.61,356,Fortaleza,275,Palmeiras,1,3.787889373480293
-49675,Alexandre Pato,ata,Nulo,8.98,-3.43,276,São Paulo,263,Botafogo,0,4.230499552567666
-61149,Lucca,ata,Provável,5.32,-1.04,265,Bahia,264,Corinthians,0,3.0637112762102072
+49675,Alexandre Pato,ata,Contundido,8.98,-3.43,276,São Paulo,263,Botafogo,0,4.230499552567666
+61149,Lucca,ata,Nulo,5.32,-1.04,265,Bahia,264,Corinthians,0,3.0637112762102072
 61188,Gilberto,ata,Provável,16.91,0.16,265,Bahia,264,Corinthians,0,4.209303938898634
 62033,Fernandão,ata,Nulo,6.33,0.06,265,Bahia,264,Corinthians,0,3.4447955826337084
 68696,Bergson,ata,Nulo,4.02,-0.14,354,Ceará,341,CSA,0,1.8097610795148327
@@ -18,12 +18,12 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 68911,Diego Souza,ata,Nulo,6.2,-1.3,263,Botafogo,276,São Paulo,1,2.399107332374454
 68920,Dudu,ata,Suspenso,18.02,-0.26,275,Palmeiras,356,Fortaleza,0,4.096976811770897
 68952,Marinho,ata,Provável,6.53,-0.77,277,Santos,284,Grêmio,1,3.841714280861299
-69022,Marcelo Cirino,ata,Nulo,8.33,0.48,293,Athlético-PR,267,Vasco,0,2.9171674079189334
+69022,Marcelo Cirino,ata,Dúvida,8.33,0.48,293,Athlético-PR,267,Vasco,0,2.9171674079189334
 69138,Pablo,ata,Provável,13.61,-1.49,276,São Paulo,263,Botafogo,0,3.4693052261962745
 69161,Boselli,ata,Nulo,3.69,-0.3,264,Corinthians,265,Bahia,1,2.1553680604903422
 70360,Eduardo Sasha,ata,Provável,17.52,-0.26,277,Santos,284,Grêmio,1,3.720935597189675
 72772,Luiz Adriano,ata,Provável,5.83,1.12,275,Palmeiras,356,Fortaleza,0,1.0983933680185742
-77809,William Pottker,ata,Nulo,9.48,3.55,285,Internacional,315,Chapecoense,1,4.486914308113892
+77809,William Pottker,ata,Contundido,9.48,3.55,285,Internacional,315,Chapecoense,1,4.486914308113892
 78117,Everaldo,ata,Provável,16.7,-0.2,315,Chapecoense,285,Internacional,0,4.021618411464859
 80287,Luciano,ata,Nulo,5.91,0.05,284,Grêmio,277,Santos,0,1.651843023057941
 80337,Arthur Caíke,ata,Nulo,9.62,0.57,265,Bahia,264,Corinthians,0,3.626545673172422
@@ -34,61 +34,61 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 83438,Guilherme Parede,ata,Nulo,4.45,-0.37,285,Internacional,315,Chapecoense,1,3.443872724948153
 83772,Neilton,ata,Nulo,7.23,1.65,285,Internacional,315,Chapecoense,1,3.7620828798384296
 84523,Romarinho,ata,Provável,5.17,0.21,356,Fortaleza,275,Palmeiras,1,3.478510529092782
-85300,Berrío ,ata,Nulo,5.06,-0.43,262,Flamengo,283,Cruzeiro,0,2.5771226484559673
-85930,Aylon,ata,Provável,2.38,-0.72,315,Chapecoense,285,Internacional,0,1.7306552914921147
+85300,Berrío ,ata,Dúvida,5.06,-0.43,262,Flamengo,283,Cruzeiro,0,2.5771226484559673
+85930,Aylon,ata,Nulo,2.38,-0.72,315,Chapecoense,285,Internacional,0,1.7306552914921147
 86120,Borja,ata,Nulo,5.6,-0.45,275,Palmeiras,356,Fortaleza,0,2.128550125837695
-86444,Pablo Dyego,ata,Nulo,2.03,0.43,266,Fluminense,290,Goiás,0,2.564227449122813
+86444,Pablo Dyego,ata,Contundido,2.03,0.43,266,Fluminense,290,Goiás,0,2.564227449122813
 86757,Everton,ata,Provável,17.88,-1.1,284,Grêmio,277,Santos,0,3.481048977752038
-86759,Luan,ata,Nulo,9.49,-0.13,284,Grêmio,277,Santos,0,2.3645356212778483
-86932,Gustavo,ata,Provável,4.03,0.41,264,Corinthians,265,Bahia,1,2.6877902077996216
+86759,Luan,ata,Dúvida,9.49,-0.13,284,Grêmio,277,Santos,0,2.3645356212778483
+86932,Gustavo,ata,Nulo,4.03,0.41,264,Corinthians,265,Bahia,1,2.6877902077996216
 88669,Leandro Carvalho,ata,Provável,10.86,-0.62,354,Ceará,341,CSA,0,3.612254563195106
 90285,Bruno Henrique,ata,Provável,19.29,-0.8,262,Flamengo,283,Cruzeiro,0,5.178081478533871
 90302,Pedro Rocha,ata,Provável,10.49,-0.37,283,Cruzeiro,262,Flamengo,1,4.453043192684059
-90309,David,ata,Provável,5.1,0.83,283,Cruzeiro,262,Flamengo,1,4.183882409500807
-91242,Leandro Barcia,ata,Nulo,8.5,0.01,290,Goiás,266,Fluminense,1,3.743957998031175
+90309,David,ata,Dúvida,5.1,0.83,283,Cruzeiro,262,Flamengo,1,4.183882409500807
+91242,Leandro Barcia,ata,Dúvida,8.5,0.01,290,Goiás,266,Fluminense,1,3.743957998031175
 93782,Alisson Safira,ata,Nulo,4.48,-0.03,341,CSA,354,Ceará,1,2.1882418408555093
 94068,Ribamar,ata,Provável,3.9,1.45,267,Vasco,293,Athlético-PR,1,3.5292716690965906
 95799,Artur,ata,Provável,9.82,0.87,265,Bahia,264,Corinthians,0,2.9153571365100026
-96966,Arthur Gomes,ata,Nulo,5.77,1.41,315,Chapecoense,285,Internacional,0,4.464200269373709
+96966,Arthur Gomes,ata,Provável,5.77,1.41,315,Chapecoense,285,Internacional,0,4.464200269373709
 97080,Yony González,ata,Provável,12.3,-0.16,266,Fluminense,290,Goiás,0,4.228775019650056
-97245,Janderson,ata,Provável,2.38,1.41,264,Corinthians,265,Bahia,1,3.935291098699164
+97245,Janderson,ata,Nulo,2.38,1.41,264,Corinthians,265,Bahia,1,3.935291098699164
 99032,Lourenço,ata,Provável,4.78,-0.54,314,Avaí,282,Atlético-MG,1,3.912135054922689
 99392,Michael,ata,Provável,7.49,0.29,290,Goiás,266,Fluminense,1,3.666859254911806
-99891,Chará,ata,Provável,12.01,0.91,282,Atlético-MG,314,Avaí,0,2.8492708958585036
+99891,Chará,ata,Nulo,12.01,0.91,282,Atlético-MG,314,Avaí,0,2.8492708958585036
 100103,Pedrinho,ata,Nulo,1.02,-0.08,293,Athlético-PR,267,Vasco,0,2.4928124018237283
 100289,Felipe Pires,ata,Nulo,5.63,1.39,356,Fortaleza,275,Palmeiras,1,3.3167445162581695
 100425,Bustamante,ata,Provável,3.08,2.31,341,CSA,354,Ceará,1,3.9331098020058457
 100963,Felippe Cardoso,ata,Provável,3.44,0.5,354,Ceará,341,CSA,0,1.9263105321171852
 101717,Marrony,ata,Nulo,11.19,-0.39,267,Vasco,293,Athlético-PR,1,3.409810063383449
 101885,Toró,ata,Nulo,5.06,-0.35,276,São Paulo,263,Botafogo,0,3.3409531950591704
-101960,Vitinho,ata,Nulo,2.63,-0.2,293,Athlético-PR,267,Vasco,0,3.245490184488424
-101997,Braian Romero,ata,Nulo,4.8,-1.12,293,Athlético-PR,267,Vasco,0,3.884962194316471
+101960,Vitinho,ata,Dúvida,2.63,-0.2,293,Athlético-PR,267,Vasco,0,3.245490184488424
+101997,Braian Romero,ata,Provável,4.8,-1.12,293,Athlético-PR,267,Vasco,0,3.884962194316471
 102318,Caio Paulista,ata,Provável,3.79,-0.46,314,Avaí,282,Atlético-MG,1,4.011088231760051
 103455,Antony,ata,Provável,11,-0.21,276,São Paulo,263,Botafogo,0,2.742290348556188
 104026,João Pedro,ata,Provável,6.08,-0.86,266,Fluminense,290,Goiás,0,3.838753111118536
 105786,Talles Magno,ata,Provável,3.23,2.03,267,Vasco,293,Athlético-PR,1,3.2543531908258734
 106161,Jonathan,ata,Provável,3.9,1.95,314,Avaí,282,Atlético-MG,1,2.7402686298725962
 50402,Kayke,ata,Provável,7.31,-0.25,290,Goiás,266,Fluminense,1,5.7893786347117535
-68895,Wellington Silva,ata,Nulo,5.72,0,285,Internacional,315,Chapecoense,1,3.0772399177088494
+68895,Wellington Silva,ata,Dúvida,5.72,0,285,Internacional,315,Chapecoense,1,3.0772399177088494
 69141,Ricardo Bueno,ata,Nulo,14.08,0,341,CSA,354,Ceará,1,2.3855851409570747
 73619,Wellington Nem,ata,Nulo,5.1,0,266,Fluminense,290,Goiás,0,2.755235834973613
 78415,Uribe,ata,Nulo,4.13,-0.56,277,Santos,284,Grêmio,1,4.761551496535088
 78435,Vitinho,ata,Nulo,8.94,0,262,Flamengo,283,Cruzeiro,0,1.471103315620338
 80080,Brenner,ata,Nulo,4.62,0,314,Avaí,282,Atlético-MG,1,2.6419607312189224
-83817,Clayson,ata,Nulo,9,0,264,Corinthians,265,Bahia,1,3.15197683335869
+83817,Clayson,ata,Provável,9,0,264,Corinthians,265,Bahia,1,3.15197683335869
 86797,Raniel,ata,Nulo,6.66,0,276,São Paulo,263,Botafogo,0,2.7982600727000366
-88651,Vinícius Tanque,ata,Provável,1.19,0,263,Botafogo,276,São Paulo,1,1.9039909995875255
+88651,Vinícius Tanque,ata,Nulo,1.19,0,263,Botafogo,276,São Paulo,1,1.9039909995875255
 91201,Pepê,ata,Nulo,4.81,0,284,Grêmio,277,Santos,0,2.803586359888594
-92146,André Luís,ata,Nulo,4.21,0,356,Fortaleza,275,Palmeiras,1,3.490041515163189
+92146,André Luís,ata,Dúvida,4.21,0,356,Fortaleza,275,Palmeiras,1,3.490041515163189
 68773,Henrique Almeida,ata,Nulo,4.19,0,315,Chapecoense,285,Internacional,0,2.3879061213005177
 69288,Gamarra,ata,Nulo,5.34,0,341,CSA,354,Ceará,1,1.9599991805405539
 73513,Maranhão,ata,Nulo,3.04,0,341,CSA,354,Ceará,1,1.7800950763879897
-73741,Marco Ruben,ata,Provável,14.52,0,293,Athlético-PR,267,Vasco,0,2.4826884371651383
-73896,Geuvânio,ata,Nulo,11.15,0,282,Atlético-MG,314,Avaí,0,0.8291716668117075
+73741,Marco Ruben,ata,Nulo,14.52,0,293,Athlético-PR,267,Vasco,0,2.4826884371651383
+73896,Geuvânio,ata,Provável,11.15,0,282,Atlético-MG,314,Avaí,0,0.8291716668117075
 75295,Paolo Guerrero,ata,Provável,12.65,0,285,Internacional,315,Chapecoense,1,3.0187822033944895
 75372,Derlis González,ata,Nulo,0.99,0,277,Santos,284,Grêmio,1,3.0901276385497196
 84709,Nico López,ata,Provável,16.2,0,285,Internacional,315,Chapecoense,1,3.8015819643067785
-91607,Rony,ata,Provável,13.09,0,293,Athlético-PR,267,Vasco,0,2.063259672921233
+91607,Rony,ata,Nulo,13.09,0,293,Athlético-PR,267,Vasco,0,2.063259672921233
 99903,Lucas Campos,ata,Nulo,2.2,0,263,Botafogo,276,São Paulo,1,2.6936293254636867
 102598,Helinho,ata,Nulo,3.27,0,276,São Paulo,263,Botafogo,0,1.690619101964468
 103076,Mateus Gonçalves,ata,Nulo,2.23,0,354,Ceará,341,CSA,0,2.2483296542498272
@@ -96,12 +96,11 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 104678,Tiago Reis,ata,Nulo,4.08,0,267,Vasco,293,Athlético-PR,1,1.77304344647816
 62968,Maicon,ata,Nulo,6.05,0,282,Atlético-MG,314,Avaí,0,0.9638137223759475
 79578,Sassá,ata,Nulo,6.25,0,283,Cruzeiro,262,Flamengo,1,2.9225071767697353
-82653,Victor Rangel,ata,Nulo,1.12,0,263,Botafogo,276,São Paulo,1,2.8871652920379574
+82653,Victor Rangel,ata,Provável,1.12,0,263,Botafogo,276,São Paulo,1,2.8871652920379574
 82880,Daniel Amorim,ata,Contundido,5.13,0,314,Avaí,282,Atlético-MG,1,1.9990532165106056
 91151,Everaldo ,ata,Contundido,3.91,0,264,Corinthians,265,Bahia,1,2.4199553588943203
 92696,Renato Kayzer,ata,Nulo,2.28,0,315,Chapecoense,285,Internacional,0,1.5083962134137565
-101715,Alerrandro,ata,Nulo,7.78,0,282,Atlético-MG,314,Avaí,0,3.8252977645570336
-102457,Victor Paraíba,ata,Nulo,2.46,0,341,CSA,354,Ceará,1,2.6661719012767557
+101715,Alerrandro,ata,Provável,7.78,0,282,Atlético-MG,314,Avaí,0,3.8252977645570336
 102958,Rhuan,ata,Nulo,0.77,0,263,Botafogo,276,São Paulo,1,1.7562918387374546
 104087,Pedro Lucas,ata,Nulo,2.69,0,285,Internacional,315,Chapecoense,1,2.8207483326099263
 87679,Tréllez,ata,Nulo,4.35,0,285,Internacional,315,Chapecoense,1,2.9419387039483427
@@ -110,9 +109,9 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 102302,Papagaio,ata,Contundido,1.97,0,282,Atlético-MG,314,Avaí,0,1.707230458806342
 92708,Deyverson,ata,Nulo,10.68,0,275,Palmeiras,356,Fortaleza,0,1.9145659133772255
 105836,Da Silva,ata,Nulo,0.78,0,284,Grêmio,277,Santos,0,1.8834054263251854
-68690,André,ata,Nulo,8.69,0,284,Grêmio,277,Santos,0,1.025856999110068
+68690,André,ata,Dúvida,8.69,0,284,Grêmio,277,Santos,0,1.025856999110068
 68930,Kieza,ata,Nulo,3.56,0,356,Fortaleza,275,Palmeiras,1,1.7752238815212993
-90917,Carlos Eduardo,ata,Nulo,3.67,0,275,Palmeiras,356,Fortaleza,0,2.437790979722401
+90917,Carlos Eduardo,ata,Dúvida,3.67,0,275,Palmeiras,356,Fortaleza,0,2.437790979722401
 98515,Lucas Silva,ata,Nulo,1.69,0,262,Flamengo,283,Cruzeiro,0,2.8948237150290557
 100065,Lincoln,ata,Contundido,3.74,0,262,Flamengo,283,Cruzeiro,0,2.1035267629749006
 104459,Rick,ata,Nulo,1.82,0,354,Ceará,341,CSA,0,0.6813002953957303
@@ -122,60 +121,60 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 97452,Marcos Calazans,ata,Nulo,2.38,0,276,São Paulo,263,Botafogo,0,1.4821912600233784
 102139,Jairinho,ata,Nulo,2.89,0,267,Vasco,293,Athlético-PR,1,2.4743674783247682
 100430,Matheus Matias,ata,Nulo,1.79,0,314,Avaí,282,Atlético-MG,1,2.4154338263983317
-39572,Renato,ata,Nulo,5.74,0,315,Chapecoense,285,Internacional,0,2.2515381085890036
+39572,Renato,ata,Provável,5.74,0,315,Chapecoense,285,Internacional,0,2.2515381085890036
 37688,Cícero,mei,Provável,11.93,-0.06,263,Botafogo,276,São Paulo,1,2.484503817202465
 37694,Henrique,mei,Provável,7.86,0.49,283,Cruzeiro,262,Flamengo,1,3.351878058721578
-38277,Thiago Neves,mei,Nulo,7.98,-0.54,283,Cruzeiro,262,Flamengo,1,5.993191237407715
+38277,Thiago Neves,mei,Dúvida,7.98,-0.54,283,Cruzeiro,262,Flamengo,1,5.993191237407715
 38315,Jadson,mei,Nulo,2.97,-0.22,264,Corinthians,265,Bahia,1,1.1537322210654957
 38545,Felipe Melo,mei,Provável,6.23,0.05,275,Palmeiras,356,Fortaleza,0,2.419068335550949
-38648,Hernanes,mei,Provável,13.62,-0.83,276,São Paulo,263,Botafogo,0,2.877434801260156
+38648,Hernanes,mei,Nulo,13.62,-0.83,276,São Paulo,263,Botafogo,0,2.877434801260156
 38913,Nenê,mei,Provável,6.39,0.37,266,Fluminense,290,Goiás,0,1.7369090718381597
 42232,Amaral,mei,Nulo,2.93,-0.34,315,Chapecoense,285,Internacional,0,1.5898339939622408
 50301,Everton,mei,Provável,6.89,-0.41,276,São Paulo,263,Botafogo,0,2.689955048058017
 50313,Elicarlos,mei,Provável,4.15,-1.04,315,Chapecoense,285,Internacional,0,0.6641871994072714
-51772,Everton Ribeiro,mei,Provável,13.59,0.96,262,Flamengo,283,Cruzeiro,0,4.588747500889585
-54395,Elias,mei,Provável,9.17,0.65,282,Atlético-MG,314,Avaí,0,1.9101310720873328
+51772,Everton Ribeiro,mei,Nulo,13.59,0.96,262,Flamengo,283,Cruzeiro,0,4.588747500889585
+54395,Elias,mei,Nulo,9.17,0.65,282,Atlético-MG,314,Avaí,0,1.9101310720873328
 62977,Ganso,mei,Provável,9.04,1.81,266,Fluminense,290,Goiás,0,0.854020423342262
 68834,Rithely,mei,Nulo,5.28,-0.02,285,Internacional,315,Chapecoense,1,3.354174486236256
-68954,Marquinhos Gabriel,mei,Provável,3.16,-0.39,283,Cruzeiro,262,Flamengo,1,0.8346091510711137
+68954,Marquinhos Gabriel,mei,Dúvida,3.16,-0.39,283,Cruzeiro,262,Flamengo,1,0.8346091510711137
 68987,João Vitor,mei,Provável,4.67,0.26,341,CSA,354,Ceará,1,3.0158463028364557
 70925,Wescley,mei,Nulo,3.62,-0.76,354,Ceará,341,CSA,0,0.7519946877326074
 70944,Bruno Henrique,mei,Provável,10.95,0.82,275,Palmeiras,356,Fortaleza,0,2.5787443111922723
-71042,Augusto,mei,Provável,4.56,0.63,315,Chapecoense,285,Internacional,0,3.5065829714933203
+71042,Augusto,mei,Nulo,4.56,0.63,315,Chapecoense,285,Internacional,0,3.5065829714933203
 71113,Felipe Baxola,mei,Nulo,4.27,0.75,354,Ceará,341,CSA,0,0.7558376097994792
-71162,Vinícius,mei,Provável,4.99,-1.07,282,Atlético-MG,314,Avaí,0,5.5400099103687825
-71479,Lucho González,mei,Nulo,4.66,0.4,293,Athlético-PR,267,Vasco,0,0.25289453551925156
+71162,Vinícius,mei,Nulo,4.99,-1.07,282,Atlético-MG,314,Avaí,0,5.5400099103687825
+71479,Lucho González,mei,Dúvida,4.66,0.4,293,Athlético-PR,267,Vasco,0,0.25289453551925156
 71829,Júnior Urso,mei,Suspenso,6.7,-0.55,264,Corinthians,265,Bahia,1,2.584608395686246
 71844,Thiago Galhardo,mei,Provável,11.46,-1.93,354,Ceará,341,CSA,0,6.140892910854943
-71920,Michel,mei,Provável,5.32,0.62,284,Grêmio,277,Santos,0,2.522165869944469
+71920,Michel,mei,Dúvida,5.32,0.62,284,Grêmio,277,Santos,0,2.522165869944469
 72168,João Paulo,mei,Provável,7.32,-1.05,263,Botafogo,276,São Paulo,1,2.1451782571898574
-72497,Gustavo Campanharo,mei,Provável,6.23,-0.13,315,Chapecoense,285,Internacional,0,3.2698882893553356
+72497,Gustavo Campanharo,mei,Contundido,6.23,-0.13,315,Chapecoense,285,Internacional,0,3.2698882893553356
 73789,Gilberto,mei,Provável,3.29,0.66,290,Goiás,266,Fluminense,1,1.7532432778389995
 73858,Jean Cléber,mei,Nulo,2.78,0.16,341,CSA,354,Ceará,1,1.0697911576638228
-73974,Alison,mei,Nulo,4.98,0.74,277,Santos,284,Grêmio,1,3.3154887927833454
-74069,Matheus Barbosa,mei,Nulo,4.54,1,314,Avaí,282,Atlético-MG,1,3.092404394519153
-74140,Élber,mei,Nulo,5.59,-0.14,265,Bahia,264,Corinthians,0,3.9299680237095895
-74213,Guerra,mei,Provável,3.57,0.18,265,Bahia,264,Corinthians,0,0.37156693187036544
+73974,Alison,mei,Dúvida,4.98,0.74,277,Santos,284,Grêmio,1,3.3154887927833454
+74069,Matheus Barbosa,mei,Dúvida,4.54,1,314,Avaí,282,Atlético-MG,1,3.092404394519153
+74140,Élber,mei,Provável,5.59,-0.14,265,Bahia,264,Corinthians,0,3.9299680237095895
+74213,Guerra,mei,Nulo,3.57,0.18,265,Bahia,264,Corinthians,0,0.37156693187036544
 78478,Willian Arão,mei,Provável,13.41,-1.61,262,Flamengo,283,Cruzeiro,0,3.4861009009532706
-78577,Ricardinho,mei,Provável,7.33,-0.31,354,Ceará,341,CSA,0,2.8570444721299544
+78577,Ricardinho,mei,Dúvida,7.33,-0.31,354,Ceará,341,CSA,0,2.8570444721299544
 78605,Gabriel,mei,Provável,6.63,0.12,264,Corinthians,265,Bahia,1,2.771721811943827
 78840,Pedro Castro,mei,Provável,5.31,0.16,314,Avaí,282,Atlético-MG,1,2.498540880451311
 78897,Naldo,mei,Provável,3.87,0.54,341,CSA,354,Ceará,1,3.4955643481502268
-80193,Edinho,mei,Provável,7.7,0.21,356,Fortaleza,275,Palmeiras,1,2.6654563989564313
+80193,Edinho,mei,Dúvida,7.7,0.21,356,Fortaleza,275,Palmeiras,1,2.6654563989564313
 80393,Fabinho,mei,Provável,7.1,1.32,354,Ceará,341,CSA,0,2.7427579633233274
 80583,Lucas Lima,mei,Nulo,4.32,0.91,275,Palmeiras,356,Fortaleza,0,0.4645176417763076
-81677,Carlos Sánchez,mei,Provável,13.67,-0.49,277,Santos,284,Grêmio,1,6.608664227434857
+81677,Carlos Sánchez,mei,Dúvida,13.67,-0.49,277,Santos,284,Grêmio,1,6.608664227434857
 81682,Cazares,mei,Nulo,10.54,-0.52,282,Atlético-MG,314,Avaí,0,5.241844307718916
 81845,Alisson,mei,Provável,9.39,1.6,284,Grêmio,277,Santos,0,3.061101011040795
 82411,Cueva,mei,Nulo,5.15,-1.68,277,Santos,284,Grêmio,1,1.0605341925756797
 82455,Zé Rafael,mei,Dúvida,8.81,-0.64,275,Palmeiras,356,Fortaleza,0,2.0404826636935574
 84381,Rafinha,mei,Nulo,3.48,0.51,290,Goiás,266,Fluminense,1,1.6690078681860498
 85465,Alex Santana,mei,Contundido,10.08,-1.94,263,Botafogo,276,São Paulo,1,6.407246082401713
-86116,Mosquera,mei,Contundido,2.57,0.24,314,Avaí,282,Atlético-MG,1,1.5492897888964365
-86519,Everton Felipe,mei,Nulo,2.44,-0.22,293,Athlético-PR,267,Vasco,0,0.32338798256816703
+86116,Mosquera,mei,Nulo,2.57,0.24,314,Avaí,282,Atlético-MG,1,1.5492897888964365
+86519,Everton Felipe,mei,Provável,2.44,-0.22,293,Athlético-PR,267,Vasco,0,0.32338798256816703
 86686,Tchê Tchê,mei,Provável,5.13,0.1,276,São Paulo,263,Botafogo,0,1.9037172456916154
 86711,Richard,mei,Provável,4.56,0.24,267,Vasco,293,Athlético-PR,1,3.446011295446781
-86766,Matheus Rossetto,mei,Nulo,2.49,0.12,293,Athlético-PR,267,Vasco,0,0.3904133674362118
+86766,Matheus Rossetto,mei,Provável,2.49,0.12,293,Athlético-PR,267,Vasco,0,0.3904133674362118
 87258,Soteldo,mei,Provável,6.82,-0.95,277,Santos,284,Grêmio,1,2.0663513208084714
 87747,Yago Felipe,mei,Provável,3.9,-0.53,290,Goiás,266,Fluminense,1,2.075243351137038
 87863,Arrascaeta,mei,Provável,16.23,-2.79,262,Flamengo,283,Cruzeiro,0,6.358912784089296
@@ -186,11 +185,11 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 90572,Léo Sena,mei,Provável,8.72,-1.12,290,Goiás,266,Fluminense,1,2.8976218000687126
 90715,Luiz Fernando ,mei,Provável,4.15,0.11,263,Botafogo,276,São Paulo,1,3.2236913553355966
 91102,Flávio,mei,Provável,3.7,0.76,265,Bahia,264,Corinthians,0,2.5496374704037743
-91508,Leonardo Valencia,mei,Provável,3.46,-0.49,263,Botafogo,276,São Paulo,1,0.6551239057988638
+91508,Leonardo Valencia,mei,Nulo,3.46,-0.49,263,Botafogo,276,São Paulo,1,0.6551239057988638
 91733,Felipe,mei,Provável,6.62,-0.34,356,Fortaleza,275,Palmeiras,1,2.219795457520468
 92155,Ramón Martínez,mei,Provável,4.07,0.18,282,Atlético-MG,314,Avaí,0,0.27263367942461064
 92496,Raul,mei,Provável,9.06,0.78,267,Vasco,293,Athlético-PR,1,5.033230826138027
-93108,Mateus Vital,mei,Provável,7.48,-0.69,264,Corinthians,265,Bahia,1,3.2273258738144017
+93108,Mateus Vital,mei,Nulo,7.48,-0.69,264,Corinthians,265,Bahia,1,3.2273258738144017
 93893,Marcos Júnior,mei,Provável,4.19,1.15,267,Vasco,293,Athlético-PR,1,2.7868797723498915
 95464,Gregore,mei,Provável,9.39,-0.6,265,Bahia,264,Corinthians,0,1.927889271405571
 96340,Lima,mei,Provável,5.25,-0.69,354,Ceará,341,CSA,0,2.826951616375707
@@ -199,76 +198,76 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 97780,Dawhan,mei,Provável,5.92,-0.26,341,CSA,354,Ceará,1,2.6068872946126014
 98022,Erick,mei,Nulo,0.77,-0.14,293,Athlético-PR,267,Vasco,0,0.8345046930459935
 98706,Pedrinho,mei,Provável,11.53,0.13,264,Corinthians,265,Bahia,1,6.8970483657428785
-98832,Jean Pyerre,mei,Provável,10.48,1.03,284,Grêmio,277,Santos,0,2.2888689486566385
+98832,Jean Pyerre,mei,Contundido,10.48,1.03,284,Grêmio,277,Santos,0,2.2888689486566385
 99802,Richard Franco,mei,Provável,5,-0.3,314,Avaí,282,Atlético-MG,1,2.733849162162506
 100084,Igor Gomes,mei,Nulo,1.08,-0.02,276,São Paulo,263,Botafogo,0,0.2897256516806695
 100742,Matheus Henrique,mei,Provável,3.6,-0.63,284,Grêmio,277,Santos,0,2.722498322873034
-100761,Liziero,mei,Provável,3.82,-0.23,276,São Paulo,263,Botafogo,0,0.6010660103738023
-100987,Nonato,mei,Nulo,8.81,-0.11,285,Internacional,315,Chapecoense,1,4.188473006710479
+100761,Liziero,mei,Nulo,3.82,-0.23,276,São Paulo,263,Botafogo,0,0.6010660103738023
+100987,Nonato,mei,Dúvida,8.81,-0.11,285,Internacional,315,Chapecoense,1,4.188473006710479
 101315,Sarrafiore,mei,Nulo,3.6,-0.23,285,Internacional,315,Chapecoense,1,2.8686559702491152
-101484,Thonny Anderson,mei,Nulo,5.72,0.75,293,Athlético-PR,267,Vasco,0,2.1460109992267498
+101484,Thonny Anderson,mei,Provável,5.72,0.75,293,Athlético-PR,267,Vasco,0,2.1460109992267498
 101716,Bruninho,mei,Provável,4.33,2.8,282,Atlético-MG,314,Avaí,0,1.3628448996690734
 102999,Régis,mei,Nulo,3.55,0.12,315,Chapecoense,285,Internacional,0,0.6983351598032355
 103099,Éderson,mei,Provável,1,-0.79,283,Cruzeiro,262,Flamengo,1,1.1569042588475447
 38311,Márcio Araújo,mei,Provável,7.89,0,315,Chapecoense,285,Internacional,0,2.268536827231247
-50293,Ramires,mei,Nulo,6.79,0,275,Palmeiras,356,Fortaleza,0,1.5332572809627152
+50293,Ramires,mei,Contundido,6.79,0,275,Palmeiras,356,Fortaleza,0,1.5332572809627152
 50324,Hudson,mei,Nulo,9.56,0,276,São Paulo,263,Botafogo,0,2.40384980090343
 61985,Airton,mei,Nulo,1.97,0,266,Fluminense,290,Goiás,0,2.01544958107492
 62104,Robinho,mei,Nulo,6.15,0,283,Cruzeiro,262,Flamengo,1,2.4213316294432023
 63289,Edenílson,mei,Provável,9.34,0,285,Internacional,315,Chapecoense,1,2.841679431388686
 68698,Bruno Silva,mei,Nulo,7.02,0,285,Internacional,315,Chapecoense,1,2.704287678172116
 70116,Fellipe Bastos,mei,Nulo,4.79,0,267,Vasco,293,Athlético-PR,1,1.6706089309264727
-71937,Juninho,mei,Nulo,6.9,0,356,Fortaleza,275,Palmeiras,1,3.5581115948791218
+71937,Juninho,mei,Provável,6.9,0,356,Fortaleza,275,Palmeiras,1,3.5581115948791218
 78548,Jean Mota,mei,Nulo,8,0,277,Santos,284,Grêmio,1,3.0372924236344803
 80196,Yago Pikachu,mei,Provável,8.83,0,267,Vasco,293,Athlético-PR,1,3.370131831595398
 80395,Renatinho,mei,Nulo,2.11,0,290,Goiás,266,Fluminense,1,0.7819497265575295
 81091,Jair,mei,Contundido,6.81,0,282,Atlético-MG,314,Avaí,0,2.0573086209940454
-83433,Patrick,mei,Provável,7.8,0,285,Internacional,315,Chapecoense,1,3.0597599887793434
-86770,João Paulo,mei,Provável,5.73,0,314,Avaí,282,Atlético-MG,1,1.8233708528378594
+83433,Patrick,mei,Dúvida,7.8,0,285,Internacional,315,Chapecoense,1,3.0597599887793434
+86770,João Paulo,mei,Dúvida,5.73,0,314,Avaí,282,Atlético-MG,1,1.8233708528378594
 86859,José Welison,mei,Nulo,4.66,0,282,Atlético-MG,314,Avaí,0,0.21809863714480343
 87552,Vitor Bueno,mei,Nulo,6.12,0,276,São Paulo,263,Botafogo,0,1.7583560445934288
 89815,Gustavo Ferrareis,mei,Nulo,1.65,0,314,Avaí,282,Atlético-MG,1,1.9272884890667028
-92981,Ronaldo,mei,Nulo,5.57,0,265,Bahia,264,Corinthians,0,2.680630228819905
-94156,Diego Pituca,mei,Provável,3.51,0,277,Santos,284,Grêmio,1,2.1550617661208813
+92981,Ronaldo,mei,Provável,5.57,0,265,Bahia,264,Corinthians,0,2.680630228819905
+94156,Diego Pituca,mei,Dúvida,3.51,0,277,Santos,284,Grêmio,1,2.1550617661208813
 94857,Jonatan Gomez,mei,Provável,6.61,0,341,CSA,354,Ceará,1,2.5441584833611475
-95798,Gustavo Bochecha,mei,Nulo,5.25,-0.16,263,Botafogo,276,São Paulo,1,2.4453297489870307
-95802,Piris da Motta,mei,Nulo,3.63,0,262,Flamengo,283,Cruzeiro,0,0.8077333241154242
+95798,Gustavo Bochecha,mei,Provável,5.25,-0.16,263,Botafogo,276,São Paulo,1,2.4453297489870307
+95802,Piris da Motta,mei,Dúvida,3.63,0,262,Flamengo,283,Cruzeiro,0,0.8077333241154242
 98569,Caio Henrique,mei,Provável,5.8,0,266,Fluminense,290,Goiás,0,2.0778125516272903
 98794,Diego Torres,mei,Nulo,4.98,0,315,Chapecoense,285,Internacional,0,1.6579928952521632
-37614,Evandro,mei,Contundido,5.04,0,277,Santos,284,Grêmio,1,2.2504328079128633
-50877,Pedro Ken,mei,Nulo,3.33,0,354,Ceará,341,CSA,0,0.704588459580431
+37614,Evandro,mei,Dúvida,5.04,0,277,Santos,284,Grêmio,1,2.2504328079128633
+50877,Pedro Ken,mei,Dúvida,3.33,0,354,Ceará,341,CSA,0,0.704588459580431
 52190,Ralf,mei,Nulo,10.31,0,264,Corinthians,265,Bahia,1,3.1575053373221467
-62009,Camilo,mei,Contundido,6.9,0,315,Chapecoense,285,Internacional,0,3.2321583978130066
-62023,D'Alessandro,mei,Provável,6.49,0,285,Internacional,315,Chapecoense,1,1.948149755528962
+62009,Camilo,mei,Provável,6.9,0,315,Chapecoense,285,Internacional,0,3.2321583978130066
+62023,D'Alessandro,mei,Contundido,6.49,0,285,Internacional,315,Chapecoense,1,1.948149755528962
 63178,Didira,mei,Nulo,5.3,0,341,CSA,354,Ceará,1,2.797781252985212
-69705,Nikão,mei,Provável,16.23,0,293,Athlético-PR,267,Vasco,0,1.8331413777950962
-70986,Léo Cittadini,mei,Provável,6.26,0,293,Athlético-PR,267,Vasco,0,1.708881319698463
+69705,Nikão,mei,Nulo,16.23,0,293,Athlético-PR,267,Vasco,0,1.8331413777950962
+70986,Léo Cittadini,mei,Dúvida,6.26,0,293,Athlético-PR,267,Vasco,0,1.708881319698463
 71667,Geovane,mei,Nulo,2.8,0,290,Goiás,266,Fluminense,1,1.9404822538761017
 72362,Rodrigo Lindoso,mei,Provável,11.35,0,285,Internacional,315,Chapecoense,1,2.889196707306173
 80944,Marlone,mei,Nulo,5.27,-0.04,290,Goiás,266,Fluminense,1,2.904793662111708
 82407,Chico,mei,Nulo,3.68,0,354,Ceará,341,CSA,0,0.8417439960175606
 84428,Fernando Sobral,mei,Nulo,5.34,0,354,Ceará,341,CSA,0,2.8496877983721234
 85423,Valdívia,mei,Nulo,3.86,0,267,Vasco,293,Athlético-PR,1,2.4631768848135587
-87009,Nathan,mei,Nulo,4.81,-0.05,282,Atlético-MG,314,Avaí,0,0.08973393255146805
+87009,Nathan,mei,Provável,4.81,-0.05,282,Atlético-MG,314,Avaí,0,0.08973393255146805
 87470,Thaciano,mei,Nulo,5.56,0,284,Grêmio,277,Santos,0,2.5557032823267747
 88427,Marlon,mei,Nulo,2.59,0,356,Fortaleza,275,Palmeiras,1,1.1084612842855324
 94067,Matheus Fernandes,mei,Nulo,3.87,0,275,Palmeiras,356,Fortaleza,0,1.4267816637625437
-94509,Raphael Veiga,mei,Dúvida,7.88,0,275,Palmeiras,356,Fortaleza,0,1.811493250608431
-98352,Bruno Guimarães,mei,Provável,12.44,0,293,Athlético-PR,267,Vasco,0,2.7064921900513834
+94509,Raphael Veiga,mei,Nulo,7.88,0,275,Palmeiras,356,Fortaleza,0,1.811493250608431
+98352,Bruno Guimarães,mei,Nulo,12.44,0,293,Athlético-PR,267,Vasco,0,2.7064921900513834
 98760,Mariano Vázquez,mei,Nulo,3.77,0,356,Fortaleza,275,Palmeiras,1,0.6435472192461527
 99918,Patrick,mei,Nulo,1.79,-0.4,284,Grêmio,277,Santos,0,1.7484343911636087
 104593,Darlan,mei,Nulo,1.73,0,284,Grêmio,277,Santos,0,1.3784099120489168
 105647,Mauricio,mei,Nulo,2.6,0,283,Cruzeiro,262,Flamengo,1,1.4026218667021246
-62129,Wellington,mei,Provável,0.77,0,293,Athlético-PR,267,Vasco,0,0.18927964625434013
+62129,Wellington,mei,Nulo,0.77,0,293,Athlético-PR,267,Vasco,0,0.18927964625434013
 63219,Luan,mei,Nulo,8.38,0,282,Atlético-MG,314,Avaí,0,2.4758575862996173
 70009,Romulo,mei,Nulo,4.74,0,284,Grêmio,277,Santos,0,1.9762200191266852
 73721,Marcos Vinícius,mei,Nulo,4.01,0,263,Botafogo,276,São Paulo,1,2.09878985399682
-78715,Ramiro,mei,Nulo,9.48,0,264,Corinthians,265,Bahia,1,1.9016645740785245
+78715,Ramiro,mei,Provável,9.48,0,264,Corinthians,265,Bahia,1,1.9016645740785245
 80129,Jadson,mei,Nulo,3.49,0,283,Cruzeiro,262,Flamengo,1,0.5617510128285412
-83004,Otero,mei,Nulo,7.29,0,282,Atlético-MG,314,Avaí,0,0.5933723917081768
-87877,Sornoza,mei,Nulo,5.07,0,264,Corinthians,265,Bahia,1,2.828975541454242
+83004,Otero,mei,Dúvida,7.29,0,282,Atlético-MG,314,Avaí,0,0.5933723917081768
+87877,Sornoza,mei,Provável,5.07,0,264,Corinthians,265,Bahia,1,2.828975541454242
 93787,Andrey,mei,Nulo,5.47,0,267,Vasco,293,Athlético-PR,1,2.9740237357322465
-95335,Matheus Jesus,mei,Provável,4.92,0,264,Corinthians,265,Bahia,1,2.872806901919942
+95335,Matheus Jesus,mei,Nulo,4.92,0,264,Corinthians,265,Bahia,1,2.872806901919942
 99900,Luan Pereira,mei,Nulo,2.54,0,314,Avaí,282,Atlético-MG,1,2.233243508487808
 38738,Douglas,mei,Nulo,4.65,0,314,Avaí,282,Atlético-MG,1,0.4786642082782039
 50407,Marquinho,mei,Nulo,4.67,0,267,Vasco,293,Athlético-PR,1,1.9896516124065808
@@ -277,17 +276,17 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 78855,Thiago Santos,mei,Nulo,5.6,0,275,Palmeiras,356,Fortaleza,0,1.014409188120358
 81776,Bruno Nazário,mei,Contundido,2.36,0,293,Athlético-PR,267,Vasco,0,2.1254803820043473
 82474,Gegê,mei,Nulo,3.11,0,314,Avaí,282,Atlético-MG,1,1.5105250891553217
-85931,Hyoran,mei,Dúvida,6.59,0,275,Palmeiras,356,Fortaleza,0,2.5550029013021374
+85931,Hyoran,mei,Nulo,6.59,0,275,Palmeiras,356,Fortaleza,0,2.5550029013021374
 90634,Lucas Mineiro,mei,Nulo,5.12,0,267,Vasco,293,Athlético-PR,1,2.291675183430729
 100002,Rickson,mei,Nulo,1.99,0,263,Botafogo,276,São Paulo,1,2.2950087621166584
-102909,Luan,mei,Nulo,2.57,0,276,São Paulo,263,Botafogo,0,0.0030960795791090123
+102909,Luan,mei,Provável,2.57,0,276,São Paulo,263,Botafogo,0,0.0030960795791090123
 105612,Miguel,mei,Nulo,2.21,0,266,Fluminense,290,Goiás,0,0.9765181549841904
-68938,Giovanni Augusto,mei,Contundido,4.32,0,290,Goiás,266,Fluminense,1,2.8835762311141915
+68938,Giovanni Augusto,mei,Dúvida,4.32,0,290,Goiás,266,Fluminense,1,2.8835762311141915
 73501,Julinho,mei,Nulo,1.68,0.13,314,Avaí,282,Atlético-MG,1,0.3745456435855322
 80363,Ariel Cabral,mei,Nulo,2.85,0,283,Cruzeiro,262,Flamengo,1,3.137478695558415
 89150,Jean,mei,Nulo,3.57,0,263,Botafogo,276,São Paulo,1,1.872951485748732
 93791,Daniel,mei,Nulo,4.58,0,266,Fluminense,290,Goiás,0,1.9414526468047364
-38196,Maicon,mei,Contundido,7.81,0,284,Grêmio,277,Santos,0,0.5628100317333123
+38196,Maicon,mei,Dúvida,7.81,0,284,Grêmio,277,Santos,0,0.5628100317333123
 38573,Nilton,mei,Nulo,2.88,0,341,CSA,354,Ceará,1,1.16908342610897
 102997,Tharlis,mei,Nulo,2.84,0,315,Chapecoense,285,Internacional,0,1.2540402632418919
 50294,Guilherme,mei,Nulo,3.06,0,266,Fluminense,290,Goiás,0,1.3001304024362543
@@ -296,74 +295,74 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 94297,William Oliveira,mei,Nulo,2.04,0,354,Ceará,341,CSA,0,1.6703834523597445
 95660,Araruna,mei,Nulo,3.04,0,356,Fortaleza,275,Palmeiras,1,1.7273728469151668
 69047,Paulo Roberto,mei,Nulo,3.66,0,356,Fortaleza,275,Palmeiras,1,1.5913096789683978
-71719,Elton,mei,Nulo,5.22,0,265,Bahia,264,Corinthians,0,1.8523701825384005
+71719,Elton,mei,Contundido,5.22,0,265,Bahia,264,Corinthians,0,1.8523701825384005
 82647,Régis,mei,Nulo,4.02,0,264,Corinthians,265,Bahia,1,2.132099914492617
 86380,Luanderson ,mei,Nulo,2.62,0,314,Avaí,282,Atlético-MG,1,2.216043406902413
 88125,Yuri,mei,Nulo,1.98,0,263,Botafogo,276,São Paulo,1,1.9507669073810656
-61033,Rodriguinho,mei,Contundido,5.52,0,283,Cruzeiro,262,Flamengo,1,1.9004302236686907
+61033,Rodriguinho,mei,Nulo,5.52,0,283,Cruzeiro,262,Flamengo,1,1.9004302236686907
 101594,Hugo Moura,mei,Nulo,2.97,0,262,Flamengo,283,Cruzeiro,0,1.1486877093876686
 77570,Auremir,mei,Nulo,4.23,0,354,Ceará,341,CSA,0,1.5523057458964344
 38144,Rafinha,lat,Provável,10.42,0.22,262,Flamengo,283,Cruzeiro,0,2.1920561646383385
-38229,Fábio Santos,lat,Provável,9.92,1.1,282,Atlético-MG,314,Avaí,0,2.0496208724261864
+38229,Fábio Santos,lat,Nulo,9.92,1.1,282,Atlético-MG,314,Avaí,0,2.0496208724261864
 38451,Carlinhos,lat,Provável,8.04,-0.03,341,CSA,354,Ceará,1,3.936093396319416
 38750,Filipe Luís,lat,Provável,13.19,-0.14,262,Flamengo,283,Cruzeiro,0,1.1781271080742357
 38939,Daniel Alves,lat,Provável,15.81,-1.22,276,São Paulo,263,Botafogo,0,2.0977901568333928
-42145,Egídio,lat,Nulo,8.38,-0.98,283,Cruzeiro,262,Flamengo,1,1.9935439416930036
+42145,Egídio,lat,Dúvida,8.38,-0.98,283,Cruzeiro,262,Flamengo,1,1.9935439416930036
 42500,Fagner,lat,Provável,12.92,-0.89,264,Corinthians,265,Bahia,1,4.377540499421241
 50645,Eduardo,lat,Provável,8.03,-0.03,315,Chapecoense,285,Internacional,0,2.692188033199896
 51042,Apodi,lat,Provável,5.16,0.07,341,CSA,354,Ceará,1,1.4021228705587616
-60969,Patric,lat,Provável,3.63,-0.56,282,Atlético-MG,314,Avaí,0,4.892431819454668
+60969,Patric,lat,Nulo,3.63,-0.56,282,Atlético-MG,314,Avaí,0,4.892431819454668
 63013,Marcos Rocha,lat,Provável,16.71,0.87,275,Palmeiras,356,Fortaleza,0,4.509092280449097
 63194,Carlinhos,lat,Provável,5.66,-0.72,356,Fortaleza,275,Palmeiras,1,3.244287911143555
 68808,Nino Paraíba,lat,Provável,12.99,-1.84,265,Bahia,264,Corinthians,0,5.327700336779163
 68821,Rafael Galhardo,lat,Provável,5.49,0.78,284,Grêmio,277,Santos,0,3.662354996913233
-69177,Léo,lat,Nulo,5.64,0.67,314,Avaí,282,Atlético-MG,1,4.120362813403377
+69177,Léo,lat,Provável,5.64,0.67,314,Avaí,282,Atlético-MG,1,4.120362813403377
 70046,Victor Ferraz,lat,Provável,10.58,0.18,277,Santos,284,Grêmio,1,4.4586145742492604
 70916,Diogo Barbosa,lat,Provável,13.86,0.85,275,Palmeiras,356,Fortaleza,0,3.578136621394468
 71680,Raúl Cáceres,lat,Nulo,1.76,-0.42,267,Vasco,293,Athlético-PR,1,3.238698322492916
 72079,Bruno Cortez,lat,Provável,6.64,1.85,284,Grêmio,277,Santos,0,2.334343406777172
 73384,Samuel Xavier,lat,Suspenso,12.51,0.33,354,Ceará,341,CSA,0,5.134442554701018
-78077,Madson,lat,Nulo,5.67,0.57,293,Athlético-PR,267,Vasco,0,2.9988037455223653
+78077,Madson,lat,Provável,5.67,0.57,293,Athlético-PR,267,Vasco,0,2.9988037455223653
 78445,Renê,lat,Nulo,8.04,0.2,262,Flamengo,283,Cruzeiro,0,3.5698032875918395
 78850,Reinaldo,lat,Provável,16.37,2.46,276,São Paulo,263,Botafogo,0,4.658418688893399
 80313,Gilberto ,lat,Provável,7.04,0.59,266,Fluminense,290,Goiás,0,1.8343329572842686
 82628,Tinga,lat,Provável,1.54,-0.06,356,Fortaleza,275,Palmeiras,1,4.032043796254591
 82635,Igor Fernandes,lat,Provável,4.94,1.01,314,Avaí,282,Atlético-MG,1,3.2827747469619153
-82639,Marcelo Hermes,lat,Provável,3.61,0.51,290,Goiás,266,Fluminense,1,3.0041231524510477
+82639,Marcelo Hermes,lat,Nulo,3.61,0.51,290,Goiás,266,Fluminense,1,3.0041231524510477
 84382,Danilo Barcelos,lat,Provável,5.36,-0.39,267,Vasco,293,Athlético-PR,1,4.855658251477406
 84890,Euller ,lat,Nulo,4.08,0.8,341,CSA,354,Ceará,1,4.123756674506373
 84893,Henrique,lat,Nulo,3.75,0.09,267,Vasco,293,Athlético-PR,1,3.4329631713508757
 86740,João Lucas,lat,Provável,10.21,1.86,354,Ceará,341,CSA,0,4.082652490665104
-87192,Zeca,lat,Nulo,7.63,-1.16,285,Internacional,315,Chapecoense,1,3.0064921491915166
+87192,Zeca,lat,Dúvida,7.63,-1.16,285,Internacional,315,Chapecoense,1,3.0064921491915166
 88065,Jorge,lat,Provável,14.34,-1.95,277,Santos,284,Grêmio,1,6.259123749148824
 88225,Daniel Guedes ,lat,Provável,4.5,0.19,290,Goiás,266,Fluminense,1,3.357108260738827
 90061,Bruno Pacheco,lat,Provável,13.68,1.17,315,Chapecoense,285,Internacional,0,3.5408531458726196
 90444,Moisés,lat,Provável,12.82,-2.26,265,Bahia,264,Corinthians,0,4.463779609353839
 93797,Marcinho,lat,Provável,7.55,0.71,263,Botafogo,276,São Paulo,1,5.527460162588573
 95352,Orejuela,lat,Provável,4.81,-1.57,283,Cruzeiro,262,Flamengo,1,2.4232685444625477
-97907,Rafael Santos,lat,Provável,0.9,-0.91,283,Cruzeiro,262,Flamengo,1,2.3562412145152627
+97907,Rafael Santos,lat,Dúvida,0.9,-0.91,283,Cruzeiro,262,Flamengo,1,2.3562412145152627
 99550,Fernando,lat,Provável,5.03,1.42,263,Botafogo,276,São Paulo,1,3.5648275529742026
-101708,Felipe Jonatan,lat,Nulo,8.56,-0.38,277,Santos,284,Grêmio,1,5.18138014573224
+101708,Felipe Jonatan,lat,Provável,8.56,-0.38,277,Santos,284,Grêmio,1,5.18138014573224
 101803,Carlos Augusto,lat,Provável,4.98,0.17,264,Corinthians,265,Bahia,1,3.6352049665122945
-101846,Iury,lat,Provável,6.54,1.03,314,Avaí,282,Atlético-MG,1,3.6136950052726178
-104513,Abner Vinícius,lat,Nulo,4.03,-0.22,293,Athlético-PR,267,Vasco,0,1.9414870739109138
+101846,Iury,lat,Nulo,6.54,1.03,314,Avaí,282,Atlético-MG,1,3.6136950052726178
+104513,Abner Vinícius,lat,Provável,4.03,-0.22,293,Athlético-PR,267,Vasco,0,1.9414870739109138
 104649,Heitor,lat,Nulo,2.08,-0.14,285,Internacional,315,Chapecoense,1,3.0781039481262193
-104650,Lucas Barros,lat,Provável,2,1.24,263,Botafogo,276,São Paulo,1,3.410156580592553
+104650,Lucas Barros,lat,Nulo,2,1.24,263,Botafogo,276,São Paulo,1,3.410156580592553
 38336,Adriano,lat,Nulo,10.25,0,293,Athlético-PR,267,Vasco,0,1.1842932523521763
 38523,Edílson,lat,Nulo,4.97,0,283,Cruzeiro,262,Flamengo,1,2.3103746255521176
-52674,Gilson,lat,Nulo,5.1,0,263,Botafogo,276,São Paulo,1,5.404484205797628
+52674,Gilson,lat,Provável,5.1,0,263,Botafogo,276,São Paulo,1,5.404484205797628
 63110,Alan Ruschel,lat,Nulo,3.75,0,290,Goiás,266,Fluminense,1,3.1557391027727895
 68727,Dodô,lat,Nulo,5.86,0,283,Cruzeiro,262,Flamengo,1,3.2950956150600543
 72142,Danilo Avelar,lat,Nulo,8.76,0,264,Corinthians,265,Bahia,1,4.809461560279634
-72620,Juanfran,lat,Nulo,11.31,0,276,São Paulo,263,Botafogo,0,1.2639313124786438
-80664,Michel,lat,Nulo,2.41,0,264,Corinthians,265,Bahia,1,4.039657337800312
+72620,Juanfran,lat,Provável,11.31,0,276,São Paulo,263,Botafogo,0,1.2639313124786438
+80664,Michel,lat,Suspenso,2.41,0,264,Corinthians,265,Bahia,1,4.039657337800312
 84339,Bruno Melo,lat,Nulo,3.2,0,356,Fortaleza,275,Palmeiras,1,2.280764461773772
 84860,Abner Felipe,lat,Nulo,4.81,0,293,Athlético-PR,267,Vasco,0,0.5845981140432723
-95220,Jefferson,lat,Nulo,11.24,0,290,Goiás,266,Fluminense,1,5.173041294793778
+95220,Jefferson,lat,Provável,11.24,0,290,Goiás,266,Fluminense,1,5.173041294793778
 95466,Igor Vinícius,lat,Nulo,7.26,0,276,São Paulo,263,Botafogo,0,3.392213926714067
 104257,João Lucas,lat,Nulo,3.49,0,262,Flamengo,283,Cruzeiro,0,1.797995267132452
-42491,Márcio Azevedo,lat,Provável,6.62,0,293,Athlético-PR,267,Vasco,0,3.6980755630459923
-60852,Uendel,lat,Provável,3.39,0,285,Internacional,315,Chapecoense,1,3.8311299596144317
+42491,Márcio Azevedo,lat,Nulo,6.62,0,293,Athlético-PR,267,Vasco,0,3.6980755630459923
+60852,Uendel,lat,Dúvida,3.39,0,285,Internacional,315,Chapecoense,1,3.8311299596144317
 81951,Igor Julião,lat,Nulo,4.23,0,266,Fluminense,290,Goiás,0,2.3979577608830502
 82930,Cristovam,lat,Provável,2.57,0,354,Ceará,341,CSA,0,2.5929103734966845
 90118,Yago Rocha,lat,Nulo,0.77,0,290,Goiás,266,Fluminense,1,2.522624837969406
@@ -371,15 +370,15 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 72097,Giovanni,lat,Nulo,6.18,0,265,Bahia,264,Corinthians,0,3.8049247601239773
 86264,Natanael,lat,Contundido,4.46,0,285,Internacional,315,Chapecoense,1,3.5989022411379303
 97536,Bryan,lat,Nulo,2.71,0,315,Chapecoense,285,Internacional,0,3.826458870972934
-98822,Lucas Hernández,lat,Nulo,1.72,0,282,Atlético-MG,314,Avaí,0,2.7971392673349347
-105175,Khellven ,lat,Provável,1.25,0,293,Athlético-PR,267,Vasco,0,2.1638839062587247
+98822,Lucas Hernández,lat,Provável,1.72,0,282,Atlético-MG,314,Avaí,0,2.7971392673349347
+105175,Khellven ,lat,Nulo,1.25,0,293,Athlético-PR,267,Vasco,0,2.1638839062587247
 105838,Erik,lat,Nulo,2.05,0,285,Internacional,315,Chapecoense,1,3.319182111561829
 37701,Léo Moura,lat,Nulo,5.69,0,284,Grêmio,277,Santos,0,3.4811456205391287
 62086,Pará,lat,Nulo,4.4,0,277,Santos,284,Grêmio,1,3.2346217104052823
 73992,Rodinei,lat,Nulo,2.24,0,262,Flamengo,283,Cruzeiro,0,2.4364884238058484
 80318,Ezequiel ,lat,Nulo,3.23,0,265,Bahia,264,Corinthians,0,2.548980547089464
 86410,Victor Luis,lat,Nulo,5.22,0,275,Palmeiras,356,Fortaleza,0,1.541927045427165
-101319,Guga,lat,Nulo,7.81,0,282,Atlético-MG,314,Avaí,0,3.0087712850199098
+101319,Guga,lat,Provável,7.81,0,282,Atlético-MG,314,Avaí,0,3.0087712850199098
 42499,Bruno,lat,Provável,5.38,0,285,Internacional,315,Chapecoense,1,2.6426634476932462
 78512,Paulinho,lat,Nulo,1.93,0,314,Avaí,282,Atlético-MG,1,2.95198036395112
 91888,Kevin ,lat,Nulo,6.04,0,290,Goiás,266,Fluminense,1,3.0845544139063814
@@ -393,20 +392,20 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 74074,Claudio Winck,lat,Nulo,4.01,0,267,Vasco,293,Athlético-PR,1,3.080712178599828
 37646,Betão,zag,Provável,4.82,1.78,314,Avaí,282,Atlético-MG,1,3.9094392825528854
 38505,Leandro Castan,zag,Provável,9.59,-0.64,267,Vasco,293,Athlético-PR,1,4.532290223024354
-42477,Maurício Ramos,zag,Provável,5.04,0.45,315,Chapecoense,285,Internacional,0,1.3057899809844746
+42477,Maurício Ramos,zag,Nulo,5.04,0.45,315,Chapecoense,285,Internacional,0,1.3057899809844746
 50317,David Braz,zag,Provável,8.69,1.91,284,Grêmio,277,Santos,0,2.532508332883579
 50459,Léo,zag,Contundido,6.34,-0.42,283,Cruzeiro,262,Flamengo,1,2.61557800405111
-51194,Rafael Pereira,zag,Nulo,3.55,-0.12,315,Chapecoense,285,Internacional,0,3.4493093196955518
+51194,Rafael Pereira,zag,Provável,3.55,-0.12,315,Chapecoense,285,Internacional,0,3.4493093196955518
 51495,Tiago Alves,zag,Provável,6.31,1.4,354,Ceará,341,CSA,0,3.4189714777873106
-52253,Réver,zag,Provável,11.68,0.08,282,Atlético-MG,314,Avaí,0,4.395104321074472
-68817,Paulo Miranda,zag,Provável,5.85,1.24,284,Grêmio,277,Santos,0,1.2395888579232306
+52253,Réver,zag,Nulo,11.68,0.08,282,Atlético-MG,314,Avaí,0,4.395104321074472
+68817,Paulo Miranda,zag,Nulo,5.85,1.24,284,Grêmio,277,Santos,0,1.2395888579232306
 68886,Digão,zag,Provável,5.84,-0.04,266,Fluminense,290,Goiás,0,1.647611637407013
 68923,Gil,zag,Provável,10.82,1.24,264,Corinthians,265,Bahia,1,3.283358990022489
-68925,Leonardo Silva,zag,Nulo,4.25,-0.54,282,Atlético-MG,314,Avaí,0,2.0610691275947843
+68925,Leonardo Silva,zag,Provável,4.25,-0.54,282,Atlético-MG,314,Avaí,0,2.0610691275947843
 68942,Luciano Castán,zag,Provável,5.26,-0.96,341,CSA,354,Ceará,1,3.4385337134739054
 70934,Jackson,zag,Provável,4.58,0.65,356,Fortaleza,275,Palmeiras,1,2.0302072207673008
 71604,Fábio Sanches,zag,Provável,4.02,1.14,290,Goiás,266,Fluminense,1,4.178222728297914
-71684,Gustavo Gómez,zag,Provável,12,0.76,275,Palmeiras,356,Fortaleza,0,1.211271669818285
+71684,Gustavo Gómez,zag,Dúvida,12,0.76,275,Palmeiras,356,Fortaleza,0,1.211271669818285
 72605,Vitor Hugo,zag,Provável,6.7,0.92,275,Palmeiras,356,Fortaleza,0,1.2127283919035006
 73421,Rafael Vaz,zag,Provável,11.1,-1.01,290,Goiás,266,Fluminense,1,4.266036619229947
 73620,Bruno Alves,zag,Provável,8.05,-0.23,276,São Paulo,263,Botafogo,0,4.184979766748962
@@ -428,30 +427,30 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 96382,Quintero,zag,Provável,3.11,-0.67,356,Fortaleza,275,Palmeiras,1,4.0728656559022935
 97528,Frazan,zag,Provável,2.62,0.17,266,Fluminense,290,Goiás,0,1.1750155341322097
 101491,Ricardo,zag,Provável,4.55,0.6,314,Avaí,282,Atlético-MG,1,3.130733085587388
-102340,Cacá,zag,Provável,2.61,0.11,283,Cruzeiro,262,Flamengo,1,3.1068207821778153
-103700,Bruno Méndez,zag,Provável,5.01,-0.3,264,Corinthians,265,Bahia,1,3.9296238587827905
+102340,Cacá,zag,Dúvida,2.61,0.11,283,Cruzeiro,262,Flamengo,1,3.1068207821778153
+103700,Bruno Méndez,zag,Nulo,5.01,-0.3,264,Corinthians,265,Bahia,1,3.9296238587827905
 105897,Pablo Marí,zag,Provável,7.54,-0.69,262,Flamengo,283,Cruzeiro,0,3.6215077390709913
 38515,Marquinhos Silva,zag,Nulo,6.34,0,314,Avaí,282,Atlético-MG,1,3.26627495555654
 42501,Rhodolfo,zag,Nulo,4.4,0,262,Flamengo,283,Cruzeiro,0,0.8992661628127228
 52618,Anderson Martins,zag,Nulo,3.03,0,276,São Paulo,263,Botafogo,0,3.211184539980515
 68887,Gum,zag,Provável,6.1,0,315,Chapecoense,285,Internacional,0,2.0415535480062155
-69014,Manoel,zag,Nulo,10.89,0,264,Corinthians,265,Bahia,1,3.4080146853301034
+69014,Manoel,zag,Provável,10.89,0,264,Corinthians,265,Bahia,1,3.4080146853301034
 79113,Víctor Cuesta,zag,Provável,14.51,0,285,Internacional,315,Chapecoense,1,4.925534893012153
-80692,Luan,zag,Nulo,9.98,0,275,Palmeiras,356,Fortaleza,0,1.7963715153913211
+80692,Luan,zag,Dúvida,9.98,0,275,Palmeiras,356,Fortaleza,0,1.7963715153913211
 80853,Pedro Geromel,zag,Contundido,13.01,0,284,Grêmio,277,Santos,0,2.9758910458101115
-83528,Léo Pereira,zag,Provável,8.04,0,293,Athlético-PR,267,Vasco,0,3.6341796981097985
-87342,Kannemann,zag,Nulo,12.58,0,284,Grêmio,277,Santos,0,3.0528620035901635
-89493,Igor Rabello,zag,Provável,8.09,0,282,Atlético-MG,314,Avaí,0,2.9006367055142084
+83528,Léo Pereira,zag,Dúvida,8.04,0,293,Athlético-PR,267,Vasco,0,3.6341796981097985
+87342,Kannemann,zag,Provável,12.58,0,284,Grêmio,277,Santos,0,3.0528620035901635
+89493,Igor Rabello,zag,Dúvida,8.09,0,282,Atlético-MG,314,Avaí,0,2.9006367055142084
 93414,Joel Carli,zag,Nulo,6.17,0,263,Botafogo,276,São Paulo,1,4.031560562363052
-95494,Aguilar,zag,Provável,6.02,0,277,Santos,284,Grêmio,1,3.1156809775320404
-60819,Dedé,zag,Contundido,15.9,0,283,Cruzeiro,262,Flamengo,1,4.094704695564205
+95494,Aguilar,zag,Dúvida,6.02,0,277,Santos,284,Grêmio,1,3.1156809775320404
+60819,Dedé,zag,Provável,15.9,0,283,Cruzeiro,262,Flamengo,1,4.094704695564205
 63354,Rodrigo Moledo,zag,Provável,6.55,0,285,Internacional,315,Chapecoense,1,4.399351025356638
 68950,Ronaldo Alves,zag,Nulo,3.9,0,341,CSA,354,Ceará,1,2.5067198522858805
-90768,Fabrício Bruno,zag,Provável,5.69,0,283,Cruzeiro,262,Flamengo,1,1.9168157607142566
+90768,Fabrício Bruno,zag,Dúvida,5.69,0,283,Cruzeiro,262,Flamengo,1,1.9168157607142566
 99881,Ricardo,zag,Nulo,7.1,0,267,Vasco,293,Athlético-PR,1,4.192298466338918
 100125,Thuler,zag,Nulo,3.28,0,262,Flamengo,283,Cruzeiro,0,1.229847254142368
 101579,Robson Bambu,zag,Nulo,4.97,0,293,Athlético-PR,267,Vasco,0,1.9403893558468526
-102253,Lucas Halter,zag,Nulo,2.77,0,293,Athlético-PR,267,Vasco,0,1.5942545921146665
+102253,Lucas Halter,zag,Dúvida,2.77,0,293,Athlético-PR,267,Vasco,0,1.5942545921146665
 51415,Roger Carvalho,zag,Contundido,4.09,0,356,Fortaleza,275,Palmeiras,1,2.684239586556194
 72359,Luiz Otávio,zag,Contundido,9,0,354,Ceará,341,CSA,0,2.4213142368862384
 79035,Luiz Felipe,zag,Nulo,5.96,0,277,Santos,284,Grêmio,1,2.4401453091637637
@@ -459,8 +458,8 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 104085,Bruno Fuchs,zag,Nulo,2.72,0,285,Internacional,315,Chapecoense,1,2.600127096150611
 77500,Yago,zag,Contundido,2.95,0,290,Goiás,266,Fluminense,1,4.912920226155103
 37657,Edu Dracena,zag,Nulo,6.97,0,275,Palmeiras,356,Fortaleza,0,1.4247062145279306
-63128,Douglas,zag,Contundido,3.12,0,315,Chapecoense,285,Internacional,0,1.3113782012072495
-89226,Iago Maidana,zag,Contundido,5.09,0,282,Atlético-MG,314,Avaí,0,2.8830321664489054
+63128,Douglas,zag,Nulo,3.12,0,315,Chapecoense,285,Internacional,0,1.3113782012072495
+89226,Iago Maidana,zag,Nulo,5.09,0,282,Atlético-MG,314,Avaí,0,2.8830321664489054
 91251,Rodriguez,zag,Nulo,5.01,0,284,Grêmio,277,Santos,0,1.435018700787702
 104086,Roberto,zag,Contundido,1.69,0,285,Internacional,315,Chapecoense,1,2.843886751023516
 95476,Kunde,zag,Nulo,0.75,0,314,Avaí,282,Atlético-MG,1,2.724097330891827
@@ -479,7 +478,7 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 69040,Vladimir,gol,Provável,8.65,2.98,314,Avaí,282,Atlético-MG,1,5.581366198713527
 69041,Muriel,gol,Provável,4.9,-2.13,266,Fluminense,290,Goiás,0,3.5089001501308204
 69051,Danilo Fernandes,gol,Nulo,7.35,-0.77,285,Internacional,315,Chapecoense,1,2.9446936930380962
-71043,Leo,gol,Nulo,2.47,-2.45,293,Athlético-PR,267,Vasco,0,6.004215577581916
+71043,Leo,gol,Provável,2.47,-2.45,293,Athlético-PR,267,Vasco,0,6.004215577581916
 71571,Fernando Miguel,gol,Provável,7.28,1.24,267,Vasco,293,Athlético-PR,1,4.480457393008995
 71631,Weverton,gol,Provável,14.19,2.56,275,Palmeiras,356,Fortaleza,0,4.1491133888680825
 71882,Diogo Silva,gol,Provável,10.71,0.93,354,Ceará,341,CSA,0,6.436803569452405
@@ -489,13 +488,13 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 74061,Gatito Fernández,gol,Provável,10.3,1.83,263,Botafogo,276,São Paulo,1,6.634626877205901
 78584,Douglas Friedrich,gol,Provável,13.97,-0.75,265,Bahia,264,Corinthians,0,4.556837135768178
 86776,Jordi,gol,Provável,10.66,-1.5,341,CSA,354,Ceará,1,4.33323377789652
-93882,Cleiton,gol,Provável,1.81,-1.2,282,Atlético-MG,314,Avaí,0,4.608269297346759
+93882,Cleiton,gol,Dúvida,1.81,-1.2,282,Atlético-MG,314,Avaí,0,4.608269297346759
 98412,Tiepo,gol,Provável,13.57,-0.23,315,Chapecoense,285,Internacional,0,5.583274078596219
 38431,Diego Cavalieri,gol,Nulo,5.35,0,263,Botafogo,276,São Paulo,1,4.464072482157254
 68872,Marcelo Lomba,gol,Provável,11.92,0,285,Internacional,315,Chapecoense,1,4.984684219431083
-82453,Tadeu,gol,Dúvida,14.39,0,290,Goiás,266,Fluminense,1,4.534455268415281
+82453,Tadeu,gol,Provável,14.39,0,290,Goiás,266,Fluminense,1,4.534455268415281
 49673,Júlio César,gol,Nulo,7.93,0,284,Grêmio,277,Santos,0,4.274240967957242
-69012,Santos,gol,Provável,8.31,0,293,Athlético-PR,267,Vasco,0,4.878347732904588
+69012,Santos,gol,Nulo,8.31,0,293,Athlético-PR,267,Vasco,0,4.878347732904588
 51413,Walter,gol,Nulo,8.01,0,264,Corinthians,265,Bahia,1,3.7601919331103364
 99460,Caio,gol,Nulo,1.25,0,293,Athlético-PR,267,Vasco,0,2.581770871575311
 69010,João Carlos,gol,Nulo,1.19,0,341,CSA,354,Ceará,1,4.163580514751592
@@ -518,7 +517,7 @@ atleta_id,apelido,posicao,status,preco_num,variacao_num,clube_id,clube,clube_adv
 70696,Fábio Carille,tec,Provável,11.53,0.06,264,Corinthians,265,Bahia,1,3.1547410853404183
 70800,Jorge Sampaoli,tec,Provável,12.21,-0.56,277,Santos,284,Grêmio,1,3.720935597189675
 71224,Jorge Jesus,tec,Provável,14.73,-0.44,262,Flamengo,283,Cruzeiro,0,2.55156503520379
-73317,Argel Fucks,tec,Provável,6.02,-0.18,341,CSA,354,Ceará,1,2.5955496167341696
+73317,Argel Fucks,tec,Provável,6.02,-0.18,341,CSA,354,Ceará,1,2.5842119388557383
 77774,Eduardo Barroca,tec,Provável,8.74,0.3,263,Botafogo,276,São Paulo,1,2.6936293254636867
 79437,Roger Machado ,tec,Provável,11.33,-0.7,265,Bahia,264,Corinthians,0,2.9153571365100026
 81031,Marquinhos Santos,tec,Provável,9.83,0,315,Chapecoense,285,Internacional,0,2.2600374679101254
