@@ -2035,3 +2035,54 @@
 [ 2019-09-21 06:37:15 ] INFO MODELO_CARTOLA::etapa de clustering iniciada 
 [ 2019-09-21 06:37:16 ] INFO MODELO_CARTOLA::obtem modelo 
 [ 2019-09-21 06:37:16 ] INFO MODELO_CARTOLA::salva modelo goleiros 
+[ 2019-09-24 06:37:03 ] INFO MODELO_CARTOLA::Prepara os dados 
+[ 2019-09-24 06:37:03 ] INFO MODELO_CARTOLA::Ler os dados 
+[ 2019-09-24 06:37:03 ] INFO MODELO_CARTOLA::partidas e classificacao 
+[ 2019-09-24 06:37:04 ] INFO MODELO_CARTOLA::jogadores, partidas e classificacao 
+[ 2019-09-24 06:37:05 ] INFO MODELO_CARTOLA::ajusta dados 
+[ 2019-09-24 06:37:06 ] INFO MODELO_CARTOLA::forca dos clubes 
+[ 2019-09-24 06:37:06 ] INFO MODELO_CARTOLA::forca dos clubes - ataque 
+[ 2019-09-24 06:37:07 ] INFO MODELO_CARTOLA::forca dos clubes - meio 
+[ 2019-09-24 06:37:09 ] INFO MODELO_CARTOLA::forca dos clubes - laterais 
+[ 2019-09-24 06:37:10 ] INFO MODELO_CARTOLA::forca dos clubes - zagueiros 
+[ 2019-09-24 06:37:10 ] INFO MODELO_CARTOLA::forca dos clubes - goleiros 
+[ 2019-09-24 06:37:10 ] INFO MODELO_CARTOLA::modelo atacantes 
+[ 2019-09-24 06:37:10 ] INFO MODELO_CARTOLA::filtrar atacantes 
+[ 2019-09-24 06:37:10 ] INFO MODELO_CARTOLA::criar defasagens 
+[ 2019-09-24 06:37:10 ] INFO MODELO_CARTOLA::variaveis da forca do adversario 
+[ 2019-09-24 06:37:10 ] INFO MODELO_CARTOLA::dados treino 
+[ 2019-09-24 06:37:10 ] INFO MODELO_CARTOLA::etapa de clustering iniciada 
+[ 2019-09-24 06:37:10 ] INFO MODELO_CARTOLA::obtem modelo 
+[ 2019-09-24 06:37:11 ] INFO MODELO_CARTOLA::salva modelo ataque 
+[ 2019-09-24 06:37:11 ] INFO MODELO_CARTOLA::modelo meio 
+[ 2019-09-24 06:37:11 ] INFO MODELO_CARTOLA::filtra meio 
+[ 2019-09-24 06:37:11 ] INFO MODELO_CARTOLA::criar defasagens 
+[ 2019-09-24 06:37:11 ] INFO MODELO_CARTOLA::variaveis da forca do adversario 
+[ 2019-09-24 06:37:11 ] INFO MODELO_CARTOLA::dados treino 
+[ 2019-09-24 06:37:11 ] INFO CARTOLA_2017::etapa de clustering iniciada 
+[ 2019-09-24 06:37:11 ] INFO MODELO_CARTOLA::obtem modelo 
+[ 2019-09-24 06:37:11 ] INFO MODELO_CARTOLA::salva modelo meio 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::modelo laterais 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::filtra laterais 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::criar defasagens 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::variaveis da forca do adversario 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::dados treino 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::etapa de clustering iniciada 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::obtem modelo 
+[ 2019-09-24 06:37:12 ] INFO CARTOLA_2017::salva modelo laterais 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::modelo zagueiros 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::filtra zagueiros 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::criar defasagens 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::variaveis da forca do adversario 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::dados treino 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::etapa de clustering iniciada 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::obtem modelo 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::salva modelo zagueiros 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::modelo goleiros 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::filtra goleiros 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::criar defasagens 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::variaveis da forca do adversario 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::dados treino 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::etapa de clustering iniciada 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::obtem modelo 
+[ 2019-09-24 06:37:12 ] INFO MODELO_CARTOLA::salva modelo goleiros 
