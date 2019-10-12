@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+24,284,354,2,1,Grêmio,Ceará,2019,2019-10-09 21:00:00,Centenário
+24,283,266,0,0,Cruzeiro,Fluminense,2019,2019-10-09 21:30:00,Mineirão
+24,356,315,2,0,Fortaleza,Chapecoense,2019,2019-10-09 20:30:00,Castelão (CE)
+24,264,293,2,2,Corinthians,Athlético-PR,2019,2019-10-10 19:15:00,Arena Corinthians
+24,277,275,2,0,Santos,Palmeiras,2019,2019-10-09 21:30:00,Vila Belmiro
+24,262,282,3,1,Flamengo,Atlético-MG,2019,2019-10-10 20:00:00,Maracanã
+24,263,290,3,1,Botafogo,Goiás,2019,2019-10-09 19:15:00,Engenhão
+24,314,267,0,0,Avaí,Vasco,2019,2019-10-10 19:15:00,Ressacada
+24,265,276,0,0,Bahia,São Paulo,2019,2019-10-09 21:00:00,Fonte Nova
+24,341,285,1,0,CSA,Internacional,2019,2019-10-09 19:15:00,Rei Pelé
