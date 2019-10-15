@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+25,285,277,0,0,Internacional,Santos,2019,2019-10-13 16:00:00,Beira-Rio
+25,282,284,1,4,Atlético-MG,Grêmio,2019,2019-10-13 19:00:00,Independência
+25,354,314,1,0,Ceará,Avaí,2019,2019-10-13 16:00:00,Castelão (CE)
+25,275,263,1,0,Palmeiras,Botafogo,2019,2019-10-12 21:00:00,Pacaembu
+25,276,264,1,0,São Paulo,Corinthians,2019,2019-10-13 18:00:00,Morumbi
+25,267,356,1,0,Vasco,Fortaleza,2019,2019-10-13 16:00:00,São Januário
+25,266,265,2,0,Fluminense,Bahia,2019,2019-10-12 19:00:00,Maracanã
+25,315,283,1,1,Chapecoense,Cruzeiro,2019,2019-10-13 19:00:00,Arena Condá
+25,290,341,1,0,Goiás,CSA,2019,2019-10-12 17:00:00,Serra Dourada
+25,293,262,0,2,Athlético-PR,Flamengo,2019,2019-10-13 16:00:00,Arena da Baixada
