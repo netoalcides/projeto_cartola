@@ -1,39 +1,39 @@
 apelido,posicao,preco_num,variacao_num,pontuacao_projetada,clube,clube_adv,mandante
-Gabriel,ata,19.48,0,9.07,Flamengo,Fortaleza,0
-Luan,ata,12.2,0.45,4.75,Grêmio,Bahia,1
-Artur,ata,8.96,0,4.32,Bahia,Grêmio,0
-Michael,ata,9.61,1.6,4.07,Goiás,Corinthians,1
-João Pedro,ata,6.46,0.5,3.92,Fluminense,Athlético-PR,1
-Rony,ata,12.68,-0.43,3.9,Athlético-PR,Fluminense,0
-André Luís,ata,4.55,0.53,3.75,Fortaleza,Flamengo,1
-Osvaldo,ata,4.81,-1.16,3.68,Fortaleza,Flamengo,1
-Alisson,mei,9.23,1.72,5.31,Grêmio,Bahia,1
-Gustavo Scarpa,mei,6.48,1.18,5.21,Palmeiras,Chapecoense,1
-Willian Arão,mei,13.72,-1.54,5.06,Flamengo,Fortaleza,0
-Juninho,mei,6.32,-0.43,4.71,Fortaleza,Flamengo,1
-Mateus Vital,mei,7.68,0.51,4.44,Corinthians,Goiás,0
-Ricardinho,mei,8.35,0.78,4.44,Ceará,Santos,0
-Thiago Neves,mei,9.14,0.62,4.38,Cruzeiro,São Paulo,1
-Hernanes,mei,13.76,0.05,4.34,São Paulo,Cruzeiro,0
-Jonatan Gomez,mei,5.72,-1.32,4.19,CSA,Atlético-MG,1
-Thiago Galhardo,mei,13.03,1.24,4.15,Ceará,Santos,0
-Marcos Rocha,lat,17.25,1.11,5.1,Palmeiras,Chapecoense,1
-Zeca,lat,7.84,0.75,5.94,Internacional,Avaí,0
-Jefferson,lat,11.69,0.3,5.37,Goiás,Corinthians,1
-Apodi,lat,6.67,0,5.79,CSA,Atlético-MG,1
-Marcinho,lat,6.36,0,5.48,Botafogo,Vasco,0
-Leandro Castan,zag,10.23,1.27,5.12,Vasco,Botafogo,1
-Réver,zag,11.76,-1.16,8.43,Atlético-MG,CSA,0
-Fábio Sanches,zag,4.64,0.82,4.67,Goiás,Corinthians,1
-Rafael Vaz,zag,13.3,1.59,5.67,Goiás,Corinthians,1
-Rodrigo Caio,zag,10.09,0,5.61,Flamengo,Fortaleza,0
-Marcelo Lomba,gol,11.18,1.08,4.81,Internacional,Avaí,0
-Fernando Miguel,gol,7.69,-0.84,4.94,Vasco,Botafogo,1
-João Ricardo,gol,5.87,0.9,5.64,Chapecoense,Palmeiras,0
-Tadeu,gol,16.34,1.23,4.62,Goiás,Corinthians,1
-Gatito Fernández,gol,8.87,0,4.85,Botafogo,Vasco,0
-Ney Franco,tec,9.74,0.69,3.25,Goiás,Corinthians,1
-Abel Braga,tec,9.71,0.1,2.95,Cruzeiro,São Paulo,1
-Renato Gaúcho,tec,12.95,0.36,3.34,Grêmio,Bahia,1
-Jorge Sampaoli,tec,12.73,-0.45,3.23,Santos,Ceará,1
-Jorge Jesus,tec,15.18,0.07,3.57,Flamengo,Fortaleza,0
+Gabriel,ata,20.59,1.11,9.18,Flamengo,Fluminense,1
+Bruno Henrique,ata,21.28,0,7.62,Flamengo,Fluminense,1
+Wellington Paulista,ata,9.94,0,6.86,Fortaleza,Grêmio,1
+Gilberto,ata,16.17,-1.1,5.67,Bahia,Ceará,1
+Pepê,ata,5.53,-2.05,5.62,Grêmio,Fortaleza,0
+Nico López,ata,14.25,0.81,4.46,Internacional,Vasco,1
+Artur,ata,9.8,0.84,3.79,Bahia,Ceará,1
+Everaldo,ata,15.04,-0.91,3.76,Chapecoense,Goiás,1
+Léo Sena,mei,9.28,0.45,4.66,Goiás,Chapecoense,0
+Everton Ribeiro,mei,11.52,0,4.64,Flamengo,Fluminense,1
+Mateus Vital,mei,7.39,-0.29,4.59,Corinthians,Cruzeiro,1
+Willian Arão,mei,13.09,-0.63,4.53,Flamengo,Fluminense,1
+Luiz Fernando ,mei,4.57,0.6,4.45,Botafogo,CSA,1
+Ricardinho,mei,8.35,0,4.37,Ceará,Bahia,0
+Thonny Anderson,mei,4.76,-0.66,4.36,Athlético-PR,Palmeiras,1
+Edinho,mei,7.53,-0.21,4.34,Fortaleza,Grêmio,1
+Patrick,mei,2.14,-1.33,4.29,Grêmio,Fortaleza,0
+Juninho,mei,6.6,0.28,4.14,Fortaleza,Grêmio,1
+Carlinhos,lat,8.75,0.78,5.13,CSA,Botafogo,0
+Marcinho,lat,7.37,1.01,4.97,Botafogo,CSA,1
+Heitor,lat,2.8,-0.28,5.55,Internacional,Vasco,1
+Carlinhos,lat,5.95,0,4.75,Fortaleza,Grêmio,1
+Eduardo,lat,8.43,0,5.62,Chapecoense,Goiás,1
+Leandro Castan,zag,9.54,-0.69,4.19,Vasco,Internacional,0
+Rafael Vaz,zag,12.37,-0.93,5.47,Goiás,Chapecoense,0
+Bruno Alves,zag,7.45,-1.06,3.95,São Paulo,Avaí,1
+Rodrigo Caio,zag,8.7,-1.39,4.02,Flamengo,Fluminense,1
+Víctor Cuesta,zag,15.13,0,4.35,Internacional,Vasco,1
+João Carlos,gol,1.6,0.83,6.07,CSA,Botafogo,0
+Diogo Silva,gol,9.95,-1.67,5.83,Ceará,Bahia,0
+Douglas Friedrich,gol,16.24,3.2,6.17,Bahia,Ceará,1
+Gatito Fernández,gol,8.87,0,6.18,Botafogo,CSA,1
+Júlio César,gol,6.29,0,5.93,Grêmio,Fortaleza,0
+Vagner Mancini,tec,6.91,-1.09,3.47,Atlético-MG,Santos,1
+Fábio Carille,tec,11.51,0.27,3.21,Corinthians,Cruzeiro,1
+Jorge Jesus,tec,14.7,-0.48,3.78,Flamengo,Fluminense,1
+Roger Machado ,tec,12.24,0.7,3.36,Bahia,Ceará,1
+Marquinhos Santos,tec,7.23,-0.53,2.98,Chapecoense,Goiás,1

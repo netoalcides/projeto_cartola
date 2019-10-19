@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+26,284,265,0,1,Grêmio,Bahia,2019,2019-10-16 19:15:00,Arena do Grêmio
+26,283,276,1,0,Cruzeiro,São Paulo,2019,2019-10-16 21:00:00,Mineirão
+26,356,262,1,2,Fortaleza,Flamengo,2019,2019-10-16 20:00:00,Castelão (CE)
+26,275,315,1,0,Palmeiras,Chapecoense,2019,2019-10-16 21:00:00,Arena Palmeiras
+26,277,354,2,1,Santos,Ceará,2019,2019-10-17 19:15:00,Vila Belmiro
+26,267,263,2,1,Vasco,Botafogo,2019,2019-10-16 21:30:00,São Januário
+26,266,293,1,2,Fluminense,Athlético-PR,2019,2019-10-17 21:00:00,Maracanã
+26,314,285,0,2,Avaí,Internacional,2019,2019-10-17 19:15:00,Ressacada
+26,290,264,2,2,Goiás,Corinthians,2019,2019-10-16 21:30:00,Serra Dourada
+26,341,282,2,2,CSA,Atlético-MG,2019,2019-10-16 19:15:00,Rei Pelé
