@@ -1,39 +1,39 @@
 apelido,posicao,preco_num,variacao_num,pontuacao_projetada,clube,clube_adv,mandante
-Wellington Paulista,ata,12.55,0.16,5.68,Fortaleza,Atlético-MG,1
-Bruno Henrique,ata,20.12,0.21,5.43,Flamengo,Corinthians,1
-Everaldo,ata,16.67,0.11,5.19,Chapecoense,São Paulo,1
-Romarinho,ata,7.16,1.97,4.76,Fortaleza,Atlético-MG,1
-Everton,ata,18.25,-0.11,4.33,Grêmio,Internacional,1
-Marco Ruben,ata,13.34,-0.85,4.17,Athlético-PR,CSA,1
-Rony,ata,14.11,-1.41,3.97,Athlético-PR,CSA,1
-Vitinho,ata,8.55,0.24,3.93,Flamengo,Corinthians,1
-Arrascaeta,mei,16.59,-1.72,5.25,Flamengo,Corinthians,1
-Thiago Neves,mei,8.76,-0.64,4.8,Cruzeiro,Bahia,1
-Gerson,mei,9.1,-0.39,4.51,Flamengo,Corinthians,1
-Everton Ribeiro,mei,12.15,-0.4,4.28,Flamengo,Corinthians,1
-Pedrinho,mei,12.8,1.61,4.11,Corinthians,Flamengo,0
-Jonatan Gomez,mei,6.26,0.41,4.08,CSA,Athlético-PR,0
-Ricardinho,mei,8.01,0.84,4.04,Ceará,Palmeiras,0
-Willian Arão,mei,13.48,0.02,3.96,Flamengo,Corinthians,1
-Yago Pikachu,mei,9.88,0.78,3.72,Vasco,Fluminense,0
-Nathan,mei,6.19,0.83,3.62,Atlético-MG,Fortaleza,0
-Samuel Xavier,lat,12.93,0.61,4.7,Ceará,Palmeiras,0
-Jorge,lat,16.91,0.56,5.64,Santos,Botafogo,1
-Bruno Pacheco,lat,14.71,1.18,6.02,Chapecoense,São Paulo,1
-Jefferson,lat,10.89,-0.77,5.08,Goiás,Avaí,1
-Carlinhos,lat,6.47,0,6.56,Fortaleza,Atlético-MG,1
-Réver,zag,12.61,0.48,4.57,Atlético-MG,Fortaleza,0
-Douglas,zag,3.53,1.09,4.37,Chapecoense,São Paulo,1
-Rafael Vaz,zag,13.17,1.13,5.61,Goiás,Avaí,1
-Pedro Geromel,zag,12.65,0,4.41,Grêmio,Internacional,1
-Kannemann,zag,12.3,0,4.39,Grêmio,Internacional,1
-Marcelo Lomba,gol,10.96,0.28,4.8,Internacional,Grêmio,0
-Paulo Victor,gol,6.23,-2,5.12,Grêmio,Internacional,1
-Muriel,gol,7,-0.67,4.97,Fluminense,Vasco,1
-Douglas Friedrich,gol,15.15,1.73,4.95,Bahia,Cruzeiro,0
-Tiepo,gol,14.63,2.12,6.61,Chapecoense,São Paulo,1
-Mano Menezes,tec,11.19,1.16,3.05,Palmeiras,Ceará,1
-Renato Gaúcho,tec,12.79,-0.35,3.31,Grêmio,Internacional,1
-Jorge Sampaoli,tec,13.3,0.26,3.18,Santos,Botafogo,1
-Jorge Jesus,tec,14.89,-0.51,3.54,Flamengo,Corinthians,1
-Marquinhos Santos,tec,8.61,0.95,3.21,Chapecoense,São Paulo,1
+Bruno Henrique,ata,23.02,2.9,5.36,Flamengo,Botafogo,0
+Gabriel,ata,20.84,0,5.33,Flamengo,Botafogo,0
+Ricardo Bueno,ata,14.3,-0.74,5.06,CSA,Grêmio,0
+Everton,ata,18.09,-0.16,4.96,Grêmio,CSA,1
+Wellington Paulista,ata,10.77,-1.78,4.85,Fortaleza,Corinthians,0
+Everaldo,ata,15.85,-0.82,4.75,Chapecoense,Bahia,0
+Luciano,ata,7.09,-1.14,4.53,Grêmio,CSA,1
+Marco Ruben,ata,13.28,-0.06,4.18,Athlético-PR,Cruzeiro,1
+Pedrinho,mei,12.35,-0.45,4.59,Corinthians,Fortaleza,1
+Ricardinho,mei,7.03,-0.98,4.4,Ceará,Internacional,1
+Yago Pikachu,mei,9.22,-0.66,4.21,Vasco,Palmeiras,1
+Arrascaeta,mei,17.36,0.77,4.01,Flamengo,Botafogo,0
+Everton Ribeiro,mei,11.61,-0.54,3.81,Flamengo,Botafogo,0
+Jonatan Gomez,mei,6.37,0.11,3.72,CSA,Grêmio,0
+Thiago Neves,mei,9.65,0.89,3.65,Cruzeiro,Athlético-PR,0
+Thiago Galhardo,mei,11.22,-0.09,3.53,Ceará,Internacional,1
+Mateus Vital,mei,8.69,1.41,3.53,Corinthians,Fortaleza,1
+Élber,mei,6.29,-0.16,3.38,Bahia,Chapecoense,1
+Samuel Xavier,lat,12.09,-0.84,5.26,Ceará,Internacional,1
+Reinaldo,lat,15.44,0.19,5.58,São Paulo,Fluminense,1
+Moisés,lat,12.77,-0.89,4.7,Bahia,Chapecoense,1
+Jefferson,lat,11.63,0.74,4.45,Goiás,Atlético-MG,0
+Marcos Rocha,lat,17.48,0,4.74,Palmeiras,Vasco,0
+Réver,zag,11.15,-1.46,4.53,Atlético-MG,Goiás,1
+Rafael Vaz,zag,12.7,-0.47,4.42,Goiás,Atlético-MG,0
+Kannemann,zag,13.55,1.25,4.65,Grêmio,CSA,1
+Arboleda,zag,7.74,0.39,4.3,São Paulo,Fluminense,1
+Lucas Veríssimo,zag,9.58,-0.13,4.95,Santos,Avaí,0
+Diego Alves,gol,8.17,-2.1,4.55,Flamengo,Botafogo,0
+Paulo Victor,gol,7.3,1.07,4.83,Grêmio,CSA,1
+Santos,gol,8.28,0.07,4.89,Athlético-PR,Cruzeiro,1
+Felipe Alves,gol,8.16,0.5,4.66,Fortaleza,Corinthians,0
+Douglas Friedrich,gol,14.63,-0.52,4.78,Bahia,Chapecoense,1
+Vagner Mancini,tec,6.64,-0.01,2.86,Atlético-MG,Goiás,1
+Renato Gaúcho,tec,13.5,0.71,3.24,Grêmio,CSA,1
+Jorge Jesus,tec,15.12,0.23,3.08,Flamengo,Botafogo,0
+Fernando Diniz,tec,8.36,1.1,3.17,São Paulo,Fluminense,1
+Tiago Nunes,tec,10.77,0.51,2.84,Athlético-PR,Cruzeiro,1
