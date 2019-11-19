@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+33,284,262,0,1,Grêmio,Flamengo,2019,2019-11-17 16:00:00,Arena do Grêmio
+33,283,314,0,0,Cruzeiro,Avaí,2019,2019-11-18 20:00:00,Mineirão
+33,356,341,3,0,Fortaleza,CSA,2019,2019-11-17 19:00:00,Castelão (CE)
+33,264,285,0,0,Corinthians,Internacional,2019,2019-11-17 18:00:00,Arena Corinthians
+33,277,276,1,1,Santos,São Paulo,2019,2019-11-16 17:00:00,Vila Belmiro
+33,267,290,1,1,Vasco,Goiás,2019,2019-11-18 19:30:00,São Januário
+33,266,282,1,1,Fluminense,Atlético-MG,2019,2019-11-16 19:00:00,Maracanã
+33,315,354,1,0,Chapecoense,Ceará,2019,2019-11-17 18:00:00,Arena Condá
+33,265,275,1,1,Bahia,Palmeiras,2019,2019-11-17 16:00:00,Fonte Nova
+33,293,263,1,0,Athlético-PR,Botafogo,2019,2019-11-17 18:00:00,Arena da Baixada
