@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+34,285,356,2,2,Internacional,Fortaleza,2019,2019-11-24 19:00:00,Beira-Rio
+34,282,293,0,1,Atlético-MG,Athlético-PR,2019,2019-11-24 16:00:00,Mineirão
+34,354,276,1,1,Ceará,São Paulo,2019,2019-11-24 19:00:00,Castelão (CE)
+34,275,284,1,2,Palmeiras,Grêmio,2019,2019-11-24 16:00:00,Arena Palmeiras
+34,277,283,4,1,Santos,Cruzeiro,2019,2019-11-23 21:00:00,Vila Belmiro
+34,262,267,4,4,Flamengo,Vasco,2019,2019-11-13 21:30:00,Maracanã
+34,263,264,1,0,Botafogo,Corinthians,2019,2019-11-24 18:00:00,Engenhão
+34,314,315,0,1,Avaí,Chapecoense,2019,2019-11-24 19:00:00,Ressacada
+34,290,265,4,3,Goiás,Bahia,2019,2019-11-24 16:00:00,Serra Dourada
+34,341,266,0,1,CSA,Fluminense,2019,2019-11-25 20:00:00,Rei Pelé
