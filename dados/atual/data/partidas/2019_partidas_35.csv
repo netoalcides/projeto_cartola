@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+35,285,290,1,2,Internacional,Goiás,2019,2019-11-27 19:30:00,Beira-Rio
+35,283,341,0,1,Cruzeiro,CSA,2019,2019-11-28 21:30:00,Mineirão
+35,356,277,2,1,Fortaleza,Santos,2019,2019-11-28 20:00:00,Castelão (CE)
+35,264,314,3,0,Corinthians,Avaí,2019,2019-11-27 21:30:00,Arena Corinthians
+35,276,267,1,0,São Paulo,Vasco,2019,2019-11-28 20:30:00,Morumbi
+35,262,354,4,1,Flamengo,Ceará,2019,2019-11-27 21:30:00,Maracanã
+35,266,275,1,0,Fluminense,Palmeiras,2019,2019-11-28 19:30:00,Maracanã
+35,315,263,0,1,Chapecoense,Botafogo,2019,2019-11-27 19:30:00,Arena Condá
+35,265,282,1,1,Bahia,Atlético-MG,2019,2019-11-27 21:00:00,Fonte Nova
+35,293,284,2,0,Athlético-PR,Grêmio,2019,2019-11-27 21:30:00,Arena da Baixada
