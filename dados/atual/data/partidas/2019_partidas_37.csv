@@ -1,0 +1,11 @@
+rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
+37,284,283,2,0,Grêmio,Cruzeiro,2019,2019-12-05 19:15:00,Arena do Grêmio
+37,282,263,2,0,Atlético-MG,Botafogo,2019,2019-12-04 19:30:00,Mineirão
+37,354,264,0,1,Ceará,Corinthians,2019,2019-12-04 19:30:00,Castelão (CE)
+37,275,290,5,1,Palmeiras,Goiás,2019,2019-12-05 19:15:00,Brinco de Ouro
+37,276,285,2,1,São Paulo,Internacional,2019,2019-12-04 21:30:00,Morumbi
+37,262,314,6,1,Flamengo,Avaí,2019,2019-12-05 20:00:00,Maracanã
+37,266,356,0,0,Fluminense,Fortaleza,2019,2019-12-04 21:30:00,Maracanã
+37,315,341,3,0,Chapecoense,CSA,2019,2019-12-04 21:00:00,Arena Condá
+37,265,267,1,1,Bahia,Vasco,2019,2019-12-05 19:15:00,Fonte Nova
+37,293,277,1,0,Athlético-PR,Santos,2019,2019-12-04 19:00:00,Arena da Baixada
