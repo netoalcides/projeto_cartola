@@ -3540,3 +3540,62 @@
 [ 2019-12-10 06:42:18 ] INFO FORECAST_CARTOLA::obtem as previsoes 
 [ 2019-12-10 06:42:18 ] INFO FORECAST_CARTOLA::forecast treinadores 
 [ 2019-12-10 06:42:18 ] INFO FORECAST_CARTOLA::forecast de todos os jogadores 
+[ 2019-12-14 06:42:03 ] INFO FORECAST_CARTOLA::Prepara os dados dos jogadores 
+[ 2019-12-14 06:42:04 ] INFO CARTOLA_DADOS::obtem informacoes gerais dos jogadores 
+[ 2019-12-14 06:42:04 ] INFO CARTOLA_DADOS::obtem precos dos jogadores 
+[ 2019-12-14 06:42:05 ] INFO CARTOLA_DADOS::obtem labels posicoes 
+[ 2019-12-14 06:42:05 ] INFO CARTOLA_DADOS::obtem labels status 
+[ 2019-12-14 06:42:05 ] INFO CARTOLA_DADOS::obtem labels clubes 
+[ 2019-12-14 06:42:05 ] INFO CARTOLA_DADOS::obtem scouts 
+[ 2019-12-14 06:42:05 ] INFO CARTOLA_DADOS::obtem organiza dados atuais 
+[ 2019-12-14 06:42:05 ] INFO FORECAST_CARTOLA::Prepara os dados das partidas 
+[ 2019-12-14 06:42:06 ] INFO FORECAST_CARTOLA::Ajusta dados partidas 
+[ 2019-12-14 06:42:06 ] INFO FORECAST_CARTOLA::Partidas atuais 
+[ 2019-12-14 06:42:06 ] INFO FORECAST_CARTOLA::Prepara os dados 
+[ 2019-12-14 06:42:06 ] INFO FORECAST_CARTOLA::Ler os dados 
+[ 2019-12-14 06:42:07 ] INFO FORECAST_CARTOLA::partidas e classificacao 
+[ 2019-12-14 06:42:07 ] INFO FORECAST_CARTOLA::jogadores, partidas e classificacao 
+[ 2019-12-14 06:42:08 ] INFO FORECAST_CARTOLA::ajusta dados 
+[ 2019-12-14 06:42:09 ] INFO FORECAST_CARTOLA::forca dos clubes 
+[ 2019-12-14 06:42:09 ] INFO FORECAST_CARTOLA::forca dos clubes - ataque 
+[ 2019-12-14 06:42:13 ] INFO FORECAST_CARTOLA::forca dos clubes - meio 
+[ 2019-12-14 06:42:16 ] INFO FORECAST_CARTOLA::forca dos clubes - laterais 
+[ 2019-12-14 06:42:17 ] INFO FORECAST_CARTOLA::forca dos clubes - zagueiros 
+[ 2019-12-14 06:42:17 ] INFO FORECAST_CARTOLA::forca dos clubes - goleiros 
+[ 2019-12-14 06:42:17 ] INFO FORECAST_CARTOLA::forecast atacantes 
+[ 2019-12-14 06:42:17 ] INFO FORECAST_CARTOLA::filtra atacantes 
+[ 2019-12-14 06:42:17 ] INFO FORECAST_CARTOLA::preparar dados forecast atacantes 
+[ 2019-12-14 06:42:17 ] INFO FORECAST_CARTOLA::clusterizar atacantes 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::forecast meias 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::filtra meio-campo 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::preparar dados forecast meio-campo 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::clusterizar meias 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::forecast laterais 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::filtra meio-campo 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::preparar dados forecast laterais 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::clusterizar laterais 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::forecast zagueiros 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::filtra zagueiros 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::preparar dados forecast zagueiros 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::clusterizar zagueiros 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::forecast goleiros 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::filtra goleiros 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::preparar dados forecast goleiros 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::clusterizar goleiros 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::dados das defasagens 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::dados da forca do adversario 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::obtem as previsoes 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::forecast treinadores 
+[ 2019-12-14 06:42:18 ] INFO FORECAST_CARTOLA::forecast de todos os jogadores 
