@@ -2,7 +2,7 @@ rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficia
 7,285,314,2,0,Internacional,Avaí,2019,2019-06-02 19:00:00,Beira-Rio
 7,282,341,4,0,Atlético-MG,CSA,2019,2019-06-02 19:00:00,Independência
 7,354,277,0,1,Ceará,Santos,2019,2019-06-02 16:00:00,Castelão (CE)
-7,264,290,NA,NA,Corinthians,Goiás,2019,2019-06-01 21:00:00,Arena Corinthians
+7,264,290,2,0,Corinthians,Goiás,2019,2019-06-01 21:00:00,Arena Corinthians
 7,276,283,1,1,São Paulo,Cruzeiro,2019,2019-06-02 16:00:00,Pacaembu
 7,262,356,2,0,Flamengo,Fortaleza,2019,2019-06-01 16:00:00,Engenhão
 7,263,267,1,0,Botafogo,Vasco,2019,2019-06-02 11:00:00,Engenhão

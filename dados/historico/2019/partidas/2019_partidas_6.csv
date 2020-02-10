@@ -5,7 +5,7 @@ rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficia
 6,264,276,1,0,Corinthians,São Paulo,2019,2019-05-26 19:00:00,Arena Corinthians
 6,277,285,0,0,Santos,Internacional,2019,2019-05-26 16:00:00,Vila Belmiro
 6,262,293,3,2,Flamengo,Athlético-PR,2019,2019-05-26 16:00:00,Maracanã
-6,263,275,NA,NA,Botafogo,Palmeiras,2019,2019-05-25 16:00:00,Mané Garrincha
+6,263,275,0,1,Botafogo,Palmeiras,2019,2019-05-25 16:00:00,Mané Garrincha
 6,314,354,1,2,Avaí,Ceará,2019,2019-05-27 20:00:00,Ressacada
 6,265,266,3,2,Bahia,Fluminense,2019,2019-05-26 19:00:00,Fonte Nova
 6,341,290,1,0,CSA,Goiás,2019,2019-05-27 20:00:00,Rei Pelé

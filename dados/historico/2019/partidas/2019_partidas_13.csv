@@ -8,4 +8,4 @@ rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficia
 13,266,285,2,1,Fluminense,Internacional,2019,2019-08-03 19:00:00,Maracanã
 13,314,263,0,2,Avaí,Botafogo,2019,2019-08-04 16:00:00,Ressacada
 13,265,262,3,0,Bahia,Flamengo,2019,2019-08-04 16:00:00,Fonte Nova
-13,293,276,NA,NA,Athlético-PR,São Paulo,2019,2019-08-21 19:15:00,Arena da Baixada
+13,293,276,0,1,Athlético-PR,São Paulo,2019,2019-08-21 19:15:00,Arena da Baixada

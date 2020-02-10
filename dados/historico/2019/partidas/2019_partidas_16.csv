@@ -2,7 +2,7 @@ rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficia
 16,284,293,2,1,Grêmio,Athlético-PR,2019,2019-08-24 17:00:00,Arena do Grêmio
 16,282,265,0,1,Atlético-MG,Bahia,2019,2019-08-24 11:00:00,Independência
 16,354,262,0,3,Ceará,Flamengo,2019,2019-08-25 19:00:00,Castelão (CE)
-16,275,266,NA,NA,Palmeiras,Fluminense,2019,2019-09-10 21:00:00,Pacaembu
+16,275,266,3,0,Palmeiras,Fluminense,2019,2019-09-10 21:00:00,Pacaembu
 16,277,356,3,3,Santos,Fortaleza,2019,2019-08-25 16:00:00,Vila Belmiro
 16,267,276,2,0,Vasco,São Paulo,2019,2019-08-25 16:00:00,São Januário
 16,263,315,0,0,Botafogo,Chapecoense,2019,2019-08-26 20:00:00,Engenhão
