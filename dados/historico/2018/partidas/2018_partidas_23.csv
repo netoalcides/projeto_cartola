@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-23,275,293,2,0,Palmeiras,Atlético-PR,2018,05/09/2018 21:00,Arena Palmeiras
-23,265,292,2,0,Bahia,Sport,2018,05/09/2018 19:30,Fonte Nova
-23,263,283,1,1,Botafogo,Cruzeiro,2018,05/09/2018 19:30,Engenhão
-23,354,264,2,1,Ceará,Corinthians,2018,05/09/2018 20:00,Castelão (CE)
-23,289,315,1,1,Paraná,Chapecoense,2018,05/09/2018 21:00,Durival Britto
-23,282,276,1,0,Atlético-MG,São Paulo,2018,05/09/2018 21:45,Independência
-23,285,262,2,1,Internacional,Flamengo,2018,05/09/2018 21:45,Beira-Rio
-23,266,287,0,0,Fluminense,Vitória,2018,06/09/2018 19:00,Maracanã
-23,277,284,0,0,Santos,Grêmio,2018,06/09/2018 19:00,Pacaembu
-23,327,267,2,1,América-MG,Vasco,2018,06/09/2018 20:00,Independência
+23,275,293,2,0,Palmeiras,Atlético-PR,2018,2018-09-05T21:00:00Z,Arena Palmeiras
+23,265,292,2,0,Bahia,Sport,2018,2018-09-05T19:30:00Z,Fonte Nova
+23,263,283,1,1,Botafogo,Cruzeiro,2018,2018-09-05T19:30:00Z,Engenhão
+23,354,264,2,1,Ceará,Corinthians,2018,2018-09-05T20:00:00Z,Castelão (CE)
+23,289,315,1,1,Paraná,Chapecoense,2018,2018-09-05T21:00:00Z,Durival Britto
+23,282,276,1,0,Atlético-MG,São Paulo,2018,2018-09-05T21:45:00Z,Independência
+23,285,262,2,1,Internacional,Flamengo,2018,2018-09-05T21:45:00Z,Beira-Rio
+23,266,287,0,0,Fluminense,Vitória,2018,2018-09-06T19:00:00Z,Maracanã
+23,277,284,0,0,Santos,Grêmio,2018,2018-09-06T19:00:00Z,Pacaembu
+23,327,267,2,1,América-MG,Vasco,2018,2018-09-06T20:00:00Z,Independência

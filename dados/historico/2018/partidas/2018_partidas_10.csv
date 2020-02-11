@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-10,283,267,1,1,Cruzeiro,Vasco,2018,06/06/2018 21:45,Mineirão
-10,289,265,1,0,Paraná,Bahia,2018,07/06/2018 20:00,Durival Britto
-10,327,282,1,3,América-MG,Atlético-MG,2018,07/06/2018 21:00,Independência
-10,287,315,1,0,Vitória,Chapecoense,2018,06/06/2018 19:30,Barradão
-10,266,262,0,2,Fluminense,Flamengo,2018,07/06/2018 20:00,Mané Garrincha
-10,263,354,0,0,Botafogo,Ceará,2018,06/06/2018 19:30,Engenhão
-10,276,285,0,0,São Paulo,Internacional,2018,05/06/2018 21:30,Morumbi
-10,292,293,1,0,Sport,Atlético-PR,2018,06/06/2018 21:00,Ilha do Retiro
-10,264,277,1,1,Corinthians,Santos,2018,06/06/2018 21:00,Arena Corinthians
-10,284,275,0,2,Grêmio,Palmeiras,2018,06/06/2018 21:45,Arena do Grêmio
+10,283,267,1,1,Cruzeiro,Vasco,2018,2018-06-06T21:45:00Z,Mineirão
+10,289,265,1,0,Paraná,Bahia,2018,2018-06-07T20:00:00Z,Durival Britto
+10,327,282,1,3,América-MG,Atlético-MG,2018,2018-06-07T21:00:00Z,Independência
+10,287,315,1,0,Vitória,Chapecoense,2018,2018-06-06T19:30:00Z,Barradão
+10,266,262,0,2,Fluminense,Flamengo,2018,2018-06-07T20:00:00Z,Mané Garrincha
+10,263,354,0,0,Botafogo,Ceará,2018,2018-06-06T19:30:00Z,Engenhão
+10,276,285,0,0,São Paulo,Internacional,2018,2018-06-05T21:30:00Z,Morumbi
+10,292,293,1,0,Sport,Atlético-PR,2018,2018-06-06T21:00:00Z,Ilha do Retiro
+10,264,277,1,1,Corinthians,Santos,2018,2018-06-06T21:00:00Z,Arena Corinthians
+10,284,275,0,2,Grêmio,Palmeiras,2018,2018-06-06T21:45:00Z,Arena do Grêmio

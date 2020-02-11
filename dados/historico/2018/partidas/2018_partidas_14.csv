@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-14,283,293,2,1,Cruzeiro,Atlético-PR,2018,22/07/2018 19:00,Mineirão
-14,289,327,1,0,Paraná,América-MG,2018,22/07/2018 16:00,Durival Britto
-14,315,277,0,0,Chapecoense,Santos,2018,22/07/2018 19:00,Arena Condá
-14,265,287,4,1,Bahia,Vitória,2018,22/07/2018 16:00,Fonte Nova
-14,267,284,1,0,Vasco,Grêmio,2018,22/07/2018 16:00,São Januário
-14,262,263,2,0,Flamengo,Botafogo,2018,21/07/2018 19:00,Maracanã
-14,276,264,3,1,São Paulo,Corinthians,2018,21/07/2018 21:00,Morumbi
-14,292,266,1,2,Sport,Fluminense,2018,22/07/2018 16:00,Ilha do Retiro
-14,275,282,3,2,Palmeiras,Atlético-MG,2018,22/07/2018 16:00,Arena Palmeiras
-14,285,354,1,0,Internacional,Ceará,2018,23/07/2018 20:00,Beira-Rio
+14,283,293,2,1,Cruzeiro,Atlético-PR,2018,2018-07-22T19:00:00Z,Mineirão
+14,289,327,1,0,Paraná,América-MG,2018,2018-07-22T16:00:00Z,Durival Britto
+14,315,277,0,0,Chapecoense,Santos,2018,2018-07-22T19:00:00Z,Arena Condá
+14,265,287,4,1,Bahia,Vitória,2018,2018-07-22T16:00:00Z,Fonte Nova
+14,267,284,1,0,Vasco,Grêmio,2018,2018-07-22T16:00:00Z,São Januário
+14,262,263,2,0,Flamengo,Botafogo,2018,2018-07-21T19:00:00Z,Maracanã
+14,276,264,3,1,São Paulo,Corinthians,2018,2018-07-21T21:00:00Z,Morumbi
+14,292,266,1,2,Sport,Fluminense,2018,2018-07-22T16:00:00Z,Ilha do Retiro
+14,275,282,3,2,Palmeiras,Atlético-MG,2018,2018-07-22T16:00:00Z,Arena Palmeiras
+14,285,354,1,0,Internacional,Ceará,2018,2018-07-23T20:00:00Z,Beira-Rio

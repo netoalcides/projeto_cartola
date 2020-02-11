@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-28,292,285,2,1,Sport,Internacional,2018,05/10/2018 19:00,Ilha do Retiro
-28,264,262,0,3,Corinthians,Flamengo,2018,05/10/2018 21:00,Arena Corinthians
-28,287,277,0,1,Vitória,Santos,2018,05/10/2018 21:30,Barradão
-28,293,327,4,0,Atlético-PR,América-MG,2018,06/10/2018 16:00,Arena da Baixada
-28,315,282,1,0,Chapecoense,Atlético-MG,2018,06/10/2018 16:00,Arena Condá
-28,276,275,0,2,São Paulo,Palmeiras,2018,06/10/2018 18:00,Morumbi
-28,284,265,2,2,Grêmio,Bahia,2018,06/10/2018 21:00,Arena do Grêmio
-28,266,289,4,0,Fluminense,Paraná,2018,08/10/2018 20:00,Maracanã
-28,263,267,1,1,Botafogo,Vasco,2018,09/10/2018 21:00,Engenhão
-28,283,354,0,2,Cruzeiro,Ceará,2018,24/10/2018 19:30,Mineirão
+28,292,285,2,1,Sport,Internacional,2018,2018-10-05T19:00:00Z,Ilha do Retiro
+28,264,262,0,3,Corinthians,Flamengo,2018,2018-10-05T21:00:00Z,Arena Corinthians
+28,287,277,0,1,Vitória,Santos,2018,2018-10-05T21:30:00Z,Barradão
+28,293,327,4,0,Atlético-PR,América-MG,2018,2018-10-06T16:00:00Z,Arena da Baixada
+28,315,282,1,0,Chapecoense,Atlético-MG,2018,2018-10-06T16:00:00Z,Arena Condá
+28,276,275,0,2,São Paulo,Palmeiras,2018,2018-10-06T18:00:00Z,Morumbi
+28,284,265,2,2,Grêmio,Bahia,2018,2018-10-06T21:00:00Z,Arena do Grêmio
+28,266,289,4,0,Fluminense,Paraná,2018,2018-10-08T20:00:00Z,Maracanã
+28,263,267,1,1,Botafogo,Vasco,2018,2018-10-09T21:00:00Z,Engenhão
+28,283,354,0,2,Cruzeiro,Ceará,2018,2018-10-24T19:30:00Z,Mineirão

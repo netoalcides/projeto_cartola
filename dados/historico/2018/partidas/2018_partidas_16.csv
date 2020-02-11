@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-16,283,276,0,2,Cruzeiro,São Paulo,2018,29/07/2018 16:00,Mineirão
-16,293,287,4,0,Atlético-PR,Vitória,2018,29/07/2018 16:00,Arena da Baixada
-16,315,284,1,1,Chapecoense,Grêmio,2018,29/07/2018 19:00,Arena Condá
-16,265,282,2,2,Bahia,Atlético-MG,2018,30/07/2018 20:00,Fonte Nova
-16,267,264,1,4,Vasco,Corinthians,2018,29/07/2018 11:00,Mané Garrincha
-16,262,292,4,1,Flamengo,Sport,2018,29/07/2018 16:00,Maracanã
-16,354,266,1,0,Ceará,Fluminense,2018,28/07/2018 16:00,Presidente Vargas (CE)
-16,277,327,0,1,Santos,América-MG,2018,29/07/2018 19:00,Vila Belmiro
-16,275,289,3,0,Palmeiras,Paraná,2018,29/07/2018 11:00,Arena Palmeiras
-16,285,263,3,0,Internacional,Botafogo,2018,29/07/2018 16:00,Beira-Rio
+16,283,276,0,2,Cruzeiro,São Paulo,2018,2018-07-29T16:00:00Z,Mineirão
+16,293,287,4,0,Atlético-PR,Vitória,2018,2018-07-29T16:00:00Z,Arena da Baixada
+16,315,284,1,1,Chapecoense,Grêmio,2018,2018-07-29T19:00:00Z,Arena Condá
+16,265,282,2,2,Bahia,Atlético-MG,2018,2018-07-30T20:00:00Z,Fonte Nova
+16,267,264,1,4,Vasco,Corinthians,2018,2018-07-29T11:00:00Z,Mané Garrincha
+16,262,292,4,1,Flamengo,Sport,2018,2018-07-29T16:00:00Z,Maracanã
+16,354,266,1,0,Ceará,Fluminense,2018,2018-07-28T16:00:00Z,Presidente Vargas (CE)
+16,277,327,0,1,Santos,América-MG,2018,2018-07-29T19:00:00Z,Vila Belmiro
+16,275,289,3,0,Palmeiras,Paraná,2018,2018-07-29T11:00:00Z,Arena Palmeiras
+16,285,263,3,0,Internacional,Botafogo,2018,2018-07-29T16:00:00Z,Beira-Rio

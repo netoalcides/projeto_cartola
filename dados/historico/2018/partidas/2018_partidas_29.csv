@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-29,262,266,3,0,Flamengo,Fluminense,2018,13/10/2018 17:00,Maracanã
-29,277,264,1,0,Santos,Corinthians,2018,13/10/2018 19:00,Pacaembu
-29,265,289,2,0,Bahia,Paraná,2018,13/10/2018 21:00,Pituaçu
-29,315,287,0,1,Chapecoense,Vitória,2018,14/10/2018 11:00,Arena Condá
-29,267,283,2,0,Vasco,Cruzeiro,2018,14/10/2018 16:00,São Januário
-29,275,284,2,0,Palmeiras,Grêmio,2018,14/10/2018 16:00,Pacaembu
-29,285,276,3,1,Internacional,São Paulo,2018,14/10/2018 16:00,Beira-Rio
-29,282,327,0,0,Atlético-MG,América-MG,2018,14/10/2018 19:00,Independência
-29,293,292,4,0,Atlético-PR,Sport,2018,14/10/2018 19:00,Arena da Baixada
-29,354,263,0,0,Ceará,Botafogo,2018,15/10/2018 20:00,Castelão (CE)
+29,262,266,3,0,Flamengo,Fluminense,2018,2018-10-13T17:00:00Z,Maracanã
+29,277,264,1,0,Santos,Corinthians,2018,2018-10-13T19:00:00Z,Pacaembu
+29,265,289,2,0,Bahia,Paraná,2018,2018-10-13T21:00:00Z,Pituaçu
+29,315,287,0,1,Chapecoense,Vitória,2018,2018-10-14T11:00:00Z,Arena Condá
+29,267,283,2,0,Vasco,Cruzeiro,2018,2018-10-14T16:00:00Z,São Januário
+29,275,284,2,0,Palmeiras,Grêmio,2018,2018-10-14T16:00:00Z,Pacaembu
+29,285,276,3,1,Internacional,São Paulo,2018,2018-10-14T16:00:00Z,Beira-Rio
+29,282,327,0,0,Atlético-MG,América-MG,2018,2018-10-14T19:00:00Z,Independência
+29,293,292,4,0,Atlético-PR,Sport,2018,2018-10-14T19:00:00Z,Arena da Baixada
+29,354,263,0,0,Ceará,Botafogo,2018,2018-10-15T20:00:00Z,Castelão (CE)

@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-5,283,292,2,0,Cruzeiro,Sport,2018,13/05/2018 11:00,Mineirão
-5,293,282,1,2,Atlético-PR,Atlético-MG,2018,13/05/2018 16:00,Arena da Baixada
-5,315,262,3,2,Chapecoense,Flamengo,2018,13/05/2018 16:00,Arena Condá
-5,265,276,2,2,Bahia,São Paulo,2018,13/05/2018 16:00,Fonte Nova
-5,267,287,2,3,Vasco,Vitória,2018,13/05/2018 16:00,São Januário
-5,263,266,2,1,Botafogo,Fluminense,2018,14/05/2018 20:00,Engenhão
-5,354,327,2,2,Ceará,América-MG,2018,14/05/2018 20:00,Castelão (CE)
-5,277,289,3,1,Santos,Paraná,2018,13/05/2018 19:00,Vila Belmiro
-5,264,275,1,0,Corinthians,Palmeiras,2018,13/05/2018 16:00,Arena Corinthians
-5,284,285,0,0,Grêmio,Internacional,2018,12/05/2018 16:00,Arena do Grêmio
+5,283,292,2,0,Cruzeiro,Sport,2018,2018-05-13T11:00:00Z,Mineirão
+5,293,282,1,2,Atlético-PR,Atlético-MG,2018,2018-05-13T16:00:00Z,Arena da Baixada
+5,315,262,3,2,Chapecoense,Flamengo,2018,2018-05-13T16:00:00Z,Arena Condá
+5,265,276,2,2,Bahia,São Paulo,2018,2018-05-13T16:00:00Z,Fonte Nova
+5,267,287,2,3,Vasco,Vitória,2018,2018-05-13T16:00:00Z,São Januário
+5,263,266,2,1,Botafogo,Fluminense,2018,2018-05-14T20:00:00Z,Engenhão
+5,354,327,2,2,Ceará,América-MG,2018,2018-05-14T20:00:00Z,Castelão (CE)
+5,277,289,3,1,Santos,Paraná,2018,2018-05-13T19:00:00Z,Vila Belmiro
+5,264,275,1,0,Corinthians,Palmeiras,2018,2018-05-13T16:00:00Z,Arena Corinthians
+5,284,285,0,0,Grêmio,Internacional,2018,2018-05-12T16:00:00Z,Arena do Grêmio

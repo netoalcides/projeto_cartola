@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-2,282,287,2,1,Atlético-MG,Vitória,2018,22/04/2018 16:00,Independência
-2,289,264,0,4,Paraná,Corinthians,2018,22/04/2018 11:00,Durival Britto
-2,315,267,1,1,Chapecoense,Vasco,2018,22/04/2018 16:00,Arena Condá
-2,265,277,1,0,Bahia,Santos,2018,21/04/2018 16:00,Fonte Nova
-2,266,283,1,0,Fluminense,Cruzeiro,2018,22/04/2018 16:00,Maracanã
-2,262,327,2,0,Flamengo,América-MG,2018,21/04/2018 19:00,Maracanã
-2,354,276,0,0,Ceará,São Paulo,2018,22/04/2018 16:00,Castelão (CE)
-2,292,263,1,1,Sport,Botafogo,2018,23/04/2018 20:00,Ilha do Retiro
-2,275,285,1,0,Palmeiras,Internacional,2018,22/04/2018 16:00,Pacaembu
-2,284,293,0,0,Grêmio,Atlético-PR,2018,22/04/2018 19:00,Arena do Grêmio
+2,282,287,2,1,Atlético-MG,Vitória,2018,2018-04-22T16:00:00Z,Independência
+2,289,264,0,4,Paraná,Corinthians,2018,2018-04-22T11:00:00Z,Durival Britto
+2,315,267,1,1,Chapecoense,Vasco,2018,2018-04-22T16:00:00Z,Arena Condá
+2,265,277,1,0,Bahia,Santos,2018,2018-04-21T16:00:00Z,Fonte Nova
+2,266,283,1,0,Fluminense,Cruzeiro,2018,2018-04-22T16:00:00Z,Maracanã
+2,262,327,2,0,Flamengo,América-MG,2018,2018-04-21T19:00:00Z,Maracanã
+2,354,276,0,0,Ceará,São Paulo,2018,2018-04-22T16:00:00Z,Castelão (CE)
+2,292,263,1,1,Sport,Botafogo,2018,2018-04-23T20:00:00Z,Ilha do Retiro
+2,275,285,1,0,Palmeiras,Internacional,2018,2018-04-22T16:00:00Z,Pacaembu
+2,284,293,0,0,Grêmio,Atlético-PR,2018,2018-04-22T19:00:00Z,Arena do Grêmio

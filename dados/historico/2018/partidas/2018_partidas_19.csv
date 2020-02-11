@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-19,283,265,1,1,Cruzeiro,Bahia,2018,19/08/2018 16:00,Mineirão
-19,293,262,3,0,Atlético-PR,Flamengo,2018,19/08/2018 11:00,Arena da Baixada
-19,327,266,0,0,América-MG,Fluminense,2018,19/08/2018 19:00,Independência
-19,287,275,0,3,Vitória,Palmeiras,2018,19/08/2018 16:00,Barradão
-19,267,354,1,1,Vasco,Ceará,2018,20/08/2018 20:00,São Januário
-19,263,282,0,3,Botafogo,Atlético-MG,2018,19/08/2018 16:00,Engenhão
-19,276,315,2,0,São Paulo,Chapecoense,2018,19/08/2018 19:00,Morumbi
-19,277,292,3,0,Santos,Sport,2018,18/08/2018 16:00,Vila Belmiro
-19,264,284,0,1,Corinthians,Grêmio,2018,18/08/2018 19:00,Arena Corinthians
-19,285,289,1,0,Internacional,Paraná,2018,19/08/2018 11:00,Beira-Rio
+19,283,265,1,1,Cruzeiro,Bahia,2018,2018-08-19T16:00:00Z,Mineirão
+19,293,262,3,0,Atlético-PR,Flamengo,2018,2018-08-19T11:00:00Z,Arena da Baixada
+19,327,266,0,0,América-MG,Fluminense,2018,2018-08-19T19:00:00Z,Independência
+19,287,275,0,3,Vitória,Palmeiras,2018,2018-08-19T16:00:00Z,Barradão
+19,267,354,1,1,Vasco,Ceará,2018,2018-08-20T20:00:00Z,São Januário
+19,263,282,0,3,Botafogo,Atlético-MG,2018,2018-08-19T16:00:00Z,Engenhão
+19,276,315,2,0,São Paulo,Chapecoense,2018,2018-08-19T19:00:00Z,Morumbi
+19,277,292,3,0,Santos,Sport,2018,2018-08-18T16:00:00Z,Vila Belmiro
+19,264,284,0,1,Corinthians,Grêmio,2018,2018-08-18T19:00:00Z,Arena Corinthians
+19,285,289,1,0,Internacional,Paraná,2018,2018-08-19T11:00:00Z,Beira-Rio

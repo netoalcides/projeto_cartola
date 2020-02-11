@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-12,282,354,2,1,Atlético-MG,Ceará,2018,13/06/2018 21:45,Independência
-12,289,283,1,1,Paraná,Cruzeiro,2018,13/06/2018 19:30,Durival Britto
-12,327,315,0,0,América-MG,Chapecoense,2018,13/06/2018 16:00,Independência
-12,265,264,1,0,Bahia,Corinthians,2018,13/06/2018 21:45,Fonte Nova
-12,266,277,0,1,Fluminense,Santos,2018,13/06/2018 19:00,Maracanã
-12,263,293,2,0,Botafogo,Atlético-PR,2018,13/06/2018 21:00,Engenhão
-12,276,287,3,0,São Paulo,Vitória,2018,12/06/2018 21:30,Morumbi
-12,292,284,0,0,Sport,Grêmio,2018,13/06/2018 19:30,Ilha do Retiro
-12,275,262,1,1,Palmeiras,Flamengo,2018,13/06/2018 21:00,Arena Palmeiras
-12,285,267,3,1,Internacional,Vasco,2018,13/06/2018 21:45,Beira-Rio
+12,282,354,2,1,Atlético-MG,Ceará,2018,2018-06-13T21:45:00Z,Independência
+12,289,283,1,1,Paraná,Cruzeiro,2018,2018-06-13T19:30:00Z,Durival Britto
+12,327,315,0,0,América-MG,Chapecoense,2018,2018-06-13T16:00:00Z,Independência
+12,265,264,1,0,Bahia,Corinthians,2018,2018-06-13T21:45:00Z,Fonte Nova
+12,266,277,0,1,Fluminense,Santos,2018,2018-06-13T19:00:00Z,Maracanã
+12,263,293,2,0,Botafogo,Atlético-PR,2018,2018-06-13T21:00:00Z,Engenhão
+12,276,287,3,0,São Paulo,Vitória,2018,2018-06-12T21:30:00Z,Morumbi
+12,292,284,0,0,Sport,Grêmio,2018,2018-06-13T19:30:00Z,Ilha do Retiro
+12,275,262,1,1,Palmeiras,Flamengo,2018,2018-06-13T21:00:00Z,Arena Palmeiras
+12,285,267,3,1,Internacional,Vasco,2018,2018-06-13T21:45:00Z,Beira-Rio

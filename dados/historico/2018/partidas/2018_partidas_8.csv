@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-8,283,275,1,0,Cruzeiro,Palmeiras,2018,30/05/2018 21:45,Mineirão
-8,293,277,2,0,Atlético-PR,Santos,2018,31/05/2018 21:00,Arena da Baixada
-8,315,354,2,0,Chapecoense,Ceará,2018,30/05/2018 21:00,Arena Condá
-8,287,285,2,3,Vitória,Internacional,2018,30/05/2018 19:30,Barradão
-8,267,289,1,0,Vasco,Paraná,2018,30/05/2018 19:30,São Januário
-8,262,265,2,0,Flamengo,Bahia,2018,31/05/2018 16:00,Maracanã
-8,276,263,3,2,São Paulo,Botafogo,2018,30/05/2018 21:00,Morumbi
-8,292,282,3,2,Sport,Atlético-MG,2018,30/05/2018 19:30,Ilha do Retiro
-8,264,327,1,0,Corinthians,América-MG,2018,31/05/2018 18:00,Arena Corinthians
-8,284,266,0,0,Grêmio,Fluminense,2018,30/05/2018 21:45,Arena do Grêmio
+8,283,275,1,0,Cruzeiro,Palmeiras,2018,2018-05-30T21:45:00Z,Mineirão
+8,293,277,2,0,Atlético-PR,Santos,2018,2018-05-31T21:00:00Z,Arena da Baixada
+8,315,354,2,0,Chapecoense,Ceará,2018,2018-05-30T21:00:00Z,Arena Condá
+8,287,285,2,3,Vitória,Internacional,2018,2018-05-30T19:30:00Z,Barradão
+8,267,289,1,0,Vasco,Paraná,2018,2018-05-30T19:30:00Z,São Januário
+8,262,265,2,0,Flamengo,Bahia,2018,2018-05-31T16:00:00Z,Maracanã
+8,276,263,3,2,São Paulo,Botafogo,2018,2018-05-30T21:00:00Z,Morumbi
+8,292,282,3,2,Sport,Atlético-MG,2018,2018-05-30T19:30:00Z,Ilha do Retiro
+8,264,327,1,0,Corinthians,América-MG,2018,2018-05-31T18:00:00Z,Arena Corinthians
+8,284,266,0,0,Grêmio,Fluminense,2018,2018-05-30T21:45:00Z,Arena do Grêmio

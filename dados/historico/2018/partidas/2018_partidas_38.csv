@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-38,282,263,1,0,Atlético-MG,Botafogo,2018,01/12/2018 17:00,Independência
-38,262,293,1,2,Flamengo,Atlético-PR,2018,01/12/2018 17:00,Maracanã
-38,289,285,1,1,Paraná,Internacional,2018,02/12/2018 17:00,Durival Britto
-38,315,276,1,0,Chapecoense,São Paulo,2018,02/12/2018 17:00,Arena Condá
-38,265,283,0,0,Bahia,Cruzeiro,2018,02/12/2018 17:00,Pituaçu
-38,266,327,1,0,Fluminense,América-MG,2018,02/12/2018 17:00,Maracanã
-38,354,267,0,0,Ceará,Vasco,2018,02/12/2018 17:00,Castelão (CE)
-38,292,277,2,1,Sport,Santos,2018,02/12/2018 17:00,Ilha do Retiro
-38,275,287,3,2,Palmeiras,Vitória,2018,02/12/2018 17:00,Arena Palmeiras
-38,284,264,1,0,Grêmio,Corinthians,2018,02/12/2018 17:00,Arena do Grêmio
+38,282,263,1,0,Atlético-MG,Botafogo,2018,2018-12-01T17:00:00Z,Independência
+38,262,293,1,2,Flamengo,Atlético-PR,2018,2018-12-01T17:00:00Z,Maracanã
+38,289,285,1,1,Paraná,Internacional,2018,2018-12-02T17:00:00Z,Durival Britto
+38,315,276,1,0,Chapecoense,São Paulo,2018,2018-12-02T17:00:00Z,Arena Condá
+38,265,283,0,0,Bahia,Cruzeiro,2018,2018-12-02T17:00:00Z,Pituaçu
+38,266,327,1,0,Fluminense,América-MG,2018,2018-12-02T17:00:00Z,Maracanã
+38,354,267,0,0,Ceará,Vasco,2018,2018-12-02T17:00:00Z,Castelão (CE)
+38,292,277,2,1,Sport,Santos,2018,2018-12-02T17:00:00Z,Ilha do Retiro
+38,275,287,3,2,Palmeiras,Vitória,2018,2018-12-02T17:00:00Z,Arena Palmeiras
+38,284,264,1,0,Grêmio,Corinthians,2018,2018-12-02T17:00:00Z,Arena do Grêmio

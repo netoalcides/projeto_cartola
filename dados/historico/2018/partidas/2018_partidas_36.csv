@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-36,285,282,1,2,Internacional,Atlético-MG,2018,21/11/2018 19:30,Beira-Rio
-36,277,263,1,1,Santos,Botafogo,2018,21/11/2018 21:00,Vila Belmiro
-36,283,287,3,0,Cruzeiro,Vitória,2018,21/11/2018 21:45,Mineirão
-36,293,264,1,0,Atlético-PR,Corinthians,2018,21/11/2018 21:45,Arena da Baixada
-36,262,284,2,0,Flamengo,Grêmio,2018,21/11/2018 21:45,Maracanã
-36,275,327,4,0,Palmeiras,América-MG,2018,21/11/2018 21:45,Arena Palmeiras
-36,267,276,2,0,Vasco,São Paulo,2018,22/11/2018 20:00,São Januário
-36,315,292,2,1,Chapecoense,Sport,2018,22/11/2018 21:00,Arena Condá
-36,265,266,2,0,Bahia,Fluminense,2018,22/11/2018 21:00,Fonte Nova
-36,354,289,1,0,Ceará,Paraná,2018,22/11/2018 21:00,Castelão (CE)
+36,285,282,1,2,Internacional,Atlético-MG,2018,2018-11-21T19:30:00Z,Beira-Rio
+36,277,263,1,1,Santos,Botafogo,2018,2018-11-21T21:00:00Z,Vila Belmiro
+36,283,287,3,0,Cruzeiro,Vitória,2018,2018-11-21T21:45:00Z,Mineirão
+36,293,264,1,0,Atlético-PR,Corinthians,2018,2018-11-21T21:45:00Z,Arena da Baixada
+36,262,284,2,0,Flamengo,Grêmio,2018,2018-11-21T21:45:00Z,Maracanã
+36,275,327,4,0,Palmeiras,América-MG,2018,2018-11-21T21:45:00Z,Arena Palmeiras
+36,267,276,2,0,Vasco,São Paulo,2018,2018-11-22T20:00:00Z,São Januário
+36,315,292,2,1,Chapecoense,Sport,2018,2018-11-22T21:00:00Z,Arena Condá
+36,265,266,2,0,Bahia,Fluminense,2018,2018-11-22T21:00:00Z,Fonte Nova
+36,354,289,1,0,Ceará,Paraná,2018,2018-11-22T21:00:00Z,Castelão (CE)

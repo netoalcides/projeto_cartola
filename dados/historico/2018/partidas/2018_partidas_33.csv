@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-33,327,289,0,1,América-MG,Paraná,2018,10/11/2018 17:00,Independência
-33,264,276,1,1,Corinthians,São Paulo,2018,10/11/2018 17:00,Arena Corinthians
-33,293,283,2,0,Atlético-PR,Cruzeiro,2018,10/11/2018 19:00,Arena da Baixada
-33,263,262,2,1,Botafogo,Flamengo,2018,10/11/2018 19:00,Engenhão
-33,282,275,1,1,Atlético-MG,Palmeiras,2018,11/11/2018 17:00,Independência
-33,287,265,2,2,Vitória,Bahia,2018,11/11/2018 17:00,Barradão
-33,354,285,1,1,Ceará,Internacional,2018,11/11/2018 17:00,Castelão (CE)
-33,284,267,2,1,Grêmio,Vasco,2018,11/11/2018 17:00,Arena do Grêmio
-33,266,292,0,0,Fluminense,Sport,2018,11/11/2018 19:00,Maracanã
-33,277,315,0,1,Santos,Chapecoense,2018,12/11/2018 20:00,Pacaembu
+33,327,289,0,1,América-MG,Paraná,2018,2018-11-10T17:00:00Z,Independência
+33,264,276,1,1,Corinthians,São Paulo,2018,2018-11-10T17:00:00Z,Arena Corinthians
+33,293,283,2,0,Atlético-PR,Cruzeiro,2018,2018-11-10T19:00:00Z,Arena da Baixada
+33,263,262,2,1,Botafogo,Flamengo,2018,2018-11-10T19:00:00Z,Engenhão
+33,282,275,1,1,Atlético-MG,Palmeiras,2018,2018-11-11T17:00:00Z,Independência
+33,287,265,2,2,Vitória,Bahia,2018,2018-11-11T17:00:00Z,Barradão
+33,354,285,1,1,Ceará,Internacional,2018,2018-11-11T17:00:00Z,Castelão (CE)
+33,284,267,2,1,Grêmio,Vasco,2018,2018-11-11T17:00:00Z,Arena do Grêmio
+33,266,292,0,0,Fluminense,Sport,2018,2018-11-11T19:00:00Z,Maracanã
+33,277,315,0,1,Santos,Chapecoense,2018,2018-11-12T20:00:00Z,Pacaembu

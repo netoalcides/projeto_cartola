@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-35,287,293,1,2,Vitória,Atlético-PR,2018,17/11/2018 19:00,Barradão
-35,264,267,1,0,Corinthians,Vasco,2018,17/11/2018 19:00,Arena Corinthians
-35,282,265,1,0,Atlético-MG,Bahia,2018,17/11/2018 21:00,Independência
-35,289,275,1,1,Paraná,Palmeiras,2018,18/11/2018 17:00,Estádio do Café
-35,327,277,2,1,América-MG,Santos,2018,18/11/2018 17:00,Independência
-35,263,285,1,0,Botafogo,Internacional,2018,18/11/2018 17:00,Engenhão
-35,292,262,0,1,Sport,Flamengo,2018,18/11/2018 17:00,Ilha do Retiro
-35,276,283,1,0,São Paulo,Cruzeiro,2018,18/11/2018 19:00,Morumbi
-35,284,315,2,0,Grêmio,Chapecoense,2018,18/11/2018 19:00,Arena do Grêmio
-35,266,354,0,0,Fluminense,Ceará,2018,19/11/2018 20:00,Maracanã
+35,287,293,1,2,Vitória,Atlético-PR,2018,2018-11-17T19:00:00Z,Barradão
+35,264,267,1,0,Corinthians,Vasco,2018,2018-11-17T19:00:00Z,Arena Corinthians
+35,282,265,1,0,Atlético-MG,Bahia,2018,2018-11-17T21:00:00Z,Independência
+35,289,275,1,1,Paraná,Palmeiras,2018,2018-11-18T17:00:00Z,Estádio do Café
+35,327,277,2,1,América-MG,Santos,2018,2018-11-18T17:00:00Z,Independência
+35,263,285,1,0,Botafogo,Internacional,2018,2018-11-18T17:00:00Z,Engenhão
+35,292,262,0,1,Sport,Flamengo,2018,2018-11-18T17:00:00Z,Ilha do Retiro
+35,276,283,1,0,São Paulo,Cruzeiro,2018,2018-11-18T19:00:00Z,Morumbi
+35,284,315,2,0,Grêmio,Chapecoense,2018,2018-11-18T19:00:00Z,Arena do Grêmio
+35,266,354,0,0,Fluminense,Ceará,2018,2018-11-19T20:00:00Z,Maracanã

@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-3,282,264,1,0,Atlético-MG,Corinthians,2018,29/04/2018 16:00,Independência
-3,289,292,1,2,Paraná,Sport,2018,29/04/2018 16:00,Durival Britto
-3,327,287,2,1,América-MG,Vitória,2018,30/04/2018 20:00,Independência
-3,265,293,0,0,Bahia,Atlético-PR,2018,29/04/2018 16:00,Fonte Nova
-3,266,276,1,1,Fluminense,São Paulo,2018,29/04/2018 16:00,Maracanã
-3,263,284,2,1,Botafogo,Grêmio,2018,28/04/2018 16:00,Engenhão
-3,354,262,0,3,Ceará,Flamengo,2018,29/04/2018 16:00,Castelão (CE)
-3,277,267,1,1,Santos,Vasco,2018,27/09/2018 20:00,Pacaembu
-3,275,315,0,0,Palmeiras,Chapecoense,2018,29/04/2018 16:00,Arena Palmeiras
-3,285,283,0,0,Internacional,Cruzeiro,2018,29/04/2018 19:00,Beira-Rio
+3,282,264,1,0,Atlético-MG,Corinthians,2018,2018-04-29T16:00:00Z,Independência
+3,289,292,1,2,Paraná,Sport,2018,2018-04-29T16:00:00Z,Durival Britto
+3,327,287,2,1,América-MG,Vitória,2018,2018-04-30T20:00:00Z,Independência
+3,265,293,0,0,Bahia,Atlético-PR,2018,2018-04-29T16:00:00Z,Fonte Nova
+3,266,276,1,1,Fluminense,São Paulo,2018,2018-04-29T16:00:00Z,Maracanã
+3,263,284,2,1,Botafogo,Grêmio,2018,2018-04-28T16:00:00Z,Engenhão
+3,354,262,0,3,Ceará,Flamengo,2018,2018-04-29T16:00:00Z,Castelão (CE)
+3,277,267,1,1,Santos,Vasco,2018,2018-09-27T20:00:00Z,Pacaembu
+3,275,315,0,0,Palmeiras,Chapecoense,2018,2018-04-29T16:00:00Z,Arena Palmeiras
+3,285,283,0,0,Internacional,Cruzeiro,2018,2018-04-29T19:00:00Z,Beira-Rio

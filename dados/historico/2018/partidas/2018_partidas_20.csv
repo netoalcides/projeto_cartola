@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-20,282,267,0,0,Atlético-MG,Vasco,2018,23/08/2018 20:00,Independência
-20,289,276,1,1,Paraná,São Paulo,2018,22/08/2018 19:30,Durival Britto
-20,315,293,2,1,Chapecoense,Atlético-PR,2018,13/09/2018 20:00,Arena Condá
-20,265,285,0,1,Bahia,Internacional,2018,22/08/2018 19:30,Fonte Nova
-20,266,264,1,0,Fluminense,Corinthians,2018,22/08/2018 21:45,Maracanã
-20,262,287,1,0,Flamengo,Vitória,2018,23/08/2018 19:30,Maracanã
-20,354,277,1,1,Ceará,Santos,2018,08/08/2018 19:30,Presidente Vargas (CE)
-20,292,327,0,2,Sport,América-MG,2018,22/08/2018 21:00,Ilha do Retiro
-20,275,263,2,0,Palmeiras,Botafogo,2018,22/08/2018 21:00,Arena Palmeiras
-20,284,283,1,1,Grêmio,Cruzeiro,2018,22/08/2018 21:45,Arena do Grêmio
+20,282,267,0,0,Atlético-MG,Vasco,2018,2018-08-23T20:00:00Z,Independência
+20,289,276,1,1,Paraná,São Paulo,2018,2018-08-22T19:30:00Z,Durival Britto
+20,315,293,2,1,Chapecoense,Atlético-PR,2018,2018-09-13T20:00:00Z,Arena Condá
+20,265,285,0,1,Bahia,Internacional,2018,2018-08-22T19:30:00Z,Fonte Nova
+20,266,264,1,0,Fluminense,Corinthians,2018,2018-08-22T21:45:00Z,Maracanã
+20,262,287,1,0,Flamengo,Vitória,2018,2018-08-23T19:30:00Z,Maracanã
+20,354,277,1,1,Ceará,Santos,2018,2018-08-08T19:30:00Z,Presidente Vargas (CE)
+20,292,327,0,2,Sport,América-MG,2018,2018-08-22T21:00:00Z,Ilha do Retiro
+20,275,263,2,0,Palmeiras,Botafogo,2018,2018-08-22T21:00:00Z,Arena Palmeiras
+20,284,283,1,1,Grêmio,Cruzeiro,2018,2018-08-22T21:45:00Z,Arena do Grêmio

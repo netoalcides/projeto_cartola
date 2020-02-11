@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-24,282,293,3,1,Atlético-MG,Atlético-PR,2018,10/09/2018 20:00,Independência
-24,289,277,0,2,Paraná,Santos,2018,09/09/2018 19:00,Durival Britto
-24,327,354,0,0,América-MG,Ceará,2018,09/09/2018 16:00,Independência
-24,287,267,1,0,Vitória,Vasco,2018,09/09/2018 19:00,Barradão
-24,266,263,1,0,Fluminense,Botafogo,2018,09/09/2018 16:00,Maracanã
-24,262,315,2,0,Flamengo,Chapecoense,2018,08/09/2018 21:00,Maracanã
-24,276,265,1,0,São Paulo,Bahia,2018,08/09/2018 19:00,Morumbi
-24,292,283,0,0,Sport,Cruzeiro,2018,08/09/2018 16:00,Ilha do Retiro
-24,275,264,1,0,Palmeiras,Corinthians,2018,09/09/2018 16:00,Arena Palmeiras
-24,285,284,1,0,Internacional,Grêmio,2018,09/09/2018 16:00,Beira-Rio
+24,282,293,3,1,Atlético-MG,Atlético-PR,2018,2018-09-10T20:00:00Z,Independência
+24,289,277,0,2,Paraná,Santos,2018,2018-09-09T19:00:00Z,Durival Britto
+24,327,354,0,0,América-MG,Ceará,2018,2018-09-09T16:00:00Z,Independência
+24,287,267,1,0,Vitória,Vasco,2018,2018-09-09T19:00:00Z,Barradão
+24,266,263,1,0,Fluminense,Botafogo,2018,2018-09-09T16:00:00Z,Maracanã
+24,262,315,2,0,Flamengo,Chapecoense,2018,2018-09-08T21:00:00Z,Maracanã
+24,276,265,1,0,São Paulo,Bahia,2018,2018-09-08T19:00:00Z,Morumbi
+24,292,283,0,0,Sport,Cruzeiro,2018,2018-09-08T16:00:00Z,Ilha do Retiro
+24,275,264,1,0,Palmeiras,Corinthians,2018,2018-09-09T16:00:00Z,Arena Palmeiras
+24,285,284,1,0,Internacional,Grêmio,2018,2018-09-09T16:00:00Z,Beira-Rio

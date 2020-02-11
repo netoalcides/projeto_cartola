@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-34,267,293,1,1,Vasco,Atlético-PR,2018,14/11/2018 19:30,São Januário
-34,289,282,0,1,Paraná,Atlético-MG,2018,14/11/2018 21:00,Durival Britto
-34,265,354,2,1,Bahia,Ceará,2018,14/11/2018 21:00,Fonte Nova
-34,283,264,1,0,Cruzeiro,Corinthians,2018,14/11/2018 21:45,Mineirão
-34,292,287,0,0,Sport,Vitória,2018,14/11/2018 21:45,Ilha do Retiro
-34,275,266,3,0,Palmeiras,Fluminense,2018,14/11/2018 21:45,Arena Palmeiras
-34,315,263,0,1,Chapecoense,Botafogo,2018,15/11/2018 17:00,Arena Condá
-34,262,277,1,0,Flamengo,Santos,2018,15/11/2018 17:00,Maracanã
-34,276,284,1,1,São Paulo,Grêmio,2018,15/11/2018 21:00,Morumbi
-34,285,327,2,0,Internacional,América-MG,2018,15/11/2018 21:00,Beira-Rio
+34,267,293,1,1,Vasco,Atlético-PR,2018,2018-11-14T19:30:00Z,São Januário
+34,289,282,0,1,Paraná,Atlético-MG,2018,2018-11-14T21:00:00Z,Durival Britto
+34,265,354,2,1,Bahia,Ceará,2018,2018-11-14T21:00:00Z,Fonte Nova
+34,283,264,1,0,Cruzeiro,Corinthians,2018,2018-11-14T21:45:00Z,Mineirão
+34,292,287,0,0,Sport,Vitória,2018,2018-11-14T21:45:00Z,Ilha do Retiro
+34,275,266,3,0,Palmeiras,Fluminense,2018,2018-11-14T21:45:00Z,Arena Palmeiras
+34,315,263,0,1,Chapecoense,Botafogo,2018,2018-11-15T17:00:00Z,Arena Condá
+34,262,277,1,0,Flamengo,Santos,2018,2018-11-15T17:00:00Z,Maracanã
+34,276,284,1,1,São Paulo,Grêmio,2018,2018-11-15T21:00:00Z,Morumbi
+34,285,327,2,0,Internacional,América-MG,2018,2018-11-15T21:00:00Z,Beira-Rio

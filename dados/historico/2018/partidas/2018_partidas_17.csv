@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-17,282,285,0,1,Atlético-MG,Internacional,2018,06/08/2018 20:00,Independência
-17,289,354,0,1,Paraná,Ceará,2018,05/08/2018 16:00,Durival Britto
-17,327,275,0,0,América-MG,Palmeiras,2018,05/08/2018 16:00,Independência
-17,287,283,1,1,Vitória,Cruzeiro,2018,05/08/2018 16:00,Barradão
-17,266,265,1,1,Fluminense,Bahia,2018,05/08/2018 19:00,Maracanã
-17,263,277,0,0,Botafogo,Santos,2018,04/08/2018 16:00,Engenhão
-17,276,267,2,1,São Paulo,Vasco,2018,05/08/2018 16:00,Morumbi
-17,292,315,1,1,Sport,Chapecoense,2018,05/08/2018 19:00,Ilha do Retiro
-17,264,293,0,0,Corinthians,Atlético-PR,2018,04/08/2018 21:00,Arena Corinthians
-17,284,262,2,0,Grêmio,Flamengo,2018,04/08/2018 19:00,Arena do Grêmio
+17,282,285,0,1,Atlético-MG,Internacional,2018,2018-08-06T20:00:00Z,Independência
+17,289,354,0,1,Paraná,Ceará,2018,2018-08-05T16:00:00Z,Durival Britto
+17,327,275,0,0,América-MG,Palmeiras,2018,2018-08-05T16:00:00Z,Independência
+17,287,283,1,1,Vitória,Cruzeiro,2018,2018-08-05T16:00:00Z,Barradão
+17,266,265,1,1,Fluminense,Bahia,2018,2018-08-05T19:00:00Z,Maracanã
+17,263,277,0,0,Botafogo,Santos,2018,2018-08-04T16:00:00Z,Engenhão
+17,276,267,2,1,São Paulo,Vasco,2018,2018-08-05T16:00:00Z,Morumbi
+17,292,315,1,1,Sport,Chapecoense,2018,2018-08-05T19:00:00Z,Ilha do Retiro
+17,264,293,0,0,Corinthians,Atlético-PR,2018,2018-08-04T21:00:00Z,Arena Corinthians
+17,284,262,2,0,Grêmio,Flamengo,2018,2018-08-04T19:00:00Z,Arena do Grêmio

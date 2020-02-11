@@ -1,11 +1,11 @@
 rodada_id,clube_casa_id,clube_visitante_id,placar_oficial_mandante,placar_oficial_visitante,clube_casa,clube_visitante,ano,partidas.partida_data,partidas.local
-27,266,284,0,1,Fluminense,Grêmio,2018,29/09/2018 16:00,Engenhão
-27,327,264,0,0,América-MG,Corinthians,2018,29/09/2018 19:00,Independência
-27,265,262,0,0,Bahia,Flamengo,2018,29/09/2018 21:00,Fonte Nova
-27,275,283,3,1,Palmeiras,Cruzeiro,2018,30/09/2018 11:00,Pacaembu
-27,282,292,5,2,Atlético-MG,Sport,2018,30/09/2018 16:00,Independência
-27,263,276,2,2,Botafogo,São Paulo,2018,30/09/2018 16:00,Engenhão
-27,277,293,1,0,Santos,Atlético-PR,2018,30/09/2018 16:00,Vila Belmiro
-27,285,287,2,1,Internacional,Vitória,2018,30/09/2018 16:00,Beira-Rio
-27,354,315,3,1,Ceará,Chapecoense,2018,30/09/2018 19:00,Castelão (CE)
-27,289,267,1,1,Paraná,Vasco,2018,01/10/2018 20:00,Durival Britto
+27,266,284,0,1,Fluminense,Grêmio,2018,2018-09-29T16:00:00Z,Engenhão
+27,327,264,0,0,América-MG,Corinthians,2018,2018-09-29T19:00:00Z,Independência
+27,265,262,0,0,Bahia,Flamengo,2018,2018-09-29T21:00:00Z,Fonte Nova
+27,275,283,3,1,Palmeiras,Cruzeiro,2018,2018-09-30T11:00:00Z,Pacaembu
+27,282,292,5,2,Atlético-MG,Sport,2018,2018-09-30T16:00:00Z,Independência
+27,263,276,2,2,Botafogo,São Paulo,2018,2018-09-30T16:00:00Z,Engenhão
+27,277,293,1,0,Santos,Atlético-PR,2018,2018-09-30T16:00:00Z,Vila Belmiro
+27,285,287,2,1,Internacional,Vitória,2018,2018-09-30T16:00:00Z,Beira-Rio
+27,354,315,3,1,Ceará,Chapecoense,2018,2018-09-30T19:00:00Z,Castelão (CE)
+27,289,267,1,1,Paraná,Vasco,2018,2018-10-01T20:00:00Z,Durival Britto
