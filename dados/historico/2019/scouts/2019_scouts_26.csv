@@ -1,826 +1,826 @@
-clube_id,clube,status_id,status,posicao_id,posicao,apelido,atleta_id,rodada_id,pontos_num,media_num,jogos_num,preco_num,variacao_num,preco_num_anterior,value,ano
-266,Fluminense,5,Contundido,3,zag,Matheus Ferraz,38632,26,0,3.56,7,6.23,0,6.23,NA,2019
-341,CSA,7,Provável,2,lat,Carlinhos,38451,26,0,5.13,22,8.75,0.78,7.97,NA,2019
-341,CSA,6,Nulo,4,mei,Nilton,38573,26,0,0.16,8,2.88,0,2.88,NA,2019
-275,Palmeiras,6,Nulo,1,gol,Fernando Prass,38140,26,0,5,1,7.07,0,7.07,NA,2019
-262,Flamengo,6,Nulo,4,mei,Diego,38909,26,0,1.53,9,5.52,0,5.52,NA,2019
-263,Botafogo,6,Nulo,1,gol,Diego Cavalieri,38431,26,0,6.31,7,6.35,-0.96,7.31,NA,2019
-267,Vasco,7,Provável,3,zag,Leandro Castan,38505,26,0,3.86,13,9.54,-0.69,10.229999999999999,NA,2019
-314,Avaí,6,Nulo,3,zag,Marquinhos Silva,38515,26,0,2.08,11,6.34,0,6.34,NA,2019
-262,Flamengo,7,Provável,1,gol,Diego Alves,38509,26,0,4.78,22,7.73,-2.38,10.11,NA,2019
-262,Flamengo,5,Contundido,2,lat,Rafinha,38144,26,0,4.5,14,10.1,0,10.1,NA,2019
-283,Cruzeiro,6,Nulo,2,lat,Edílson,38523,26,0,2.59,10,6.35,1.44,4.91,NA,2019
-275,Palmeiras,7,Provável,4,mei,Felipe Melo,38545,26,0,2.45,14,7.58,1.65,5.93,NA,2019
-314,Avaí,6,Nulo,4,mei,Douglas,38738,26,0,-0.13,10,4.3,0,4.3,NA,2019
-276,São Paulo,2,Dúvida,4,mei,Hernanes,38648,26,0,4.12,19,13.27,-0.49,13.76,NA,2019
-315,Chapecoense,6,Nulo,5,ata,Renato,39572,26,0,2.07,7,4.84,0.22,4.62,NA,2019
-264,Corinthians,6,Nulo,5,ata,Vagner Love,38959,26,0,2.71,20,5.39,-0.06,5.449999999999999,NA,2019
-262,Flamengo,6,Nulo,2,lat,Filipe Luís,38750,26,0,6.19,9,14.02,0,14.02,NA,2019
-282,Atlético-MG,6,Nulo,5,ata,Ricardo Oliveira,38910,26,0,3,17,13.14,0.32,12.82,NA,2019
-283,Cruzeiro,7,Provável,6,tec,Abel Braga,40006,26,0,3.52,11,9.87,0.16,9.709999999999999,NA,2019
-266,Fluminense,7,Provável,4,mei,Nenê,38913,26,0,3.42,15,6.68,-0.82,7.5,NA,2019
-282,Atlético-MG,7,Provável,6,tec,Vagner Mancini,39850,26,0,3.72,1,6.91,-1.09,8,NA,2019
-276,São Paulo,7,Provável,2,lat,Daniel Alves,38939,26,0,5.39,9,15,-1.24,16.24,NA,2019
-267,Vasco,7,Provável,6,tec,Vanderlei Luxemburgo,41327,26,0,3.06,21,8.51,0.19,8.32,NA,2019
-354,Ceará,7,Provável,6,tec,Adilson Batista,41258,26,0,3.52,4,9.88,-0.63,10.510000000000002,NA,2019
-284,Grêmio,7,Provável,6,tec,Renato Gaúcho,41929,26,0,4.55,26,12.44,-0.51,12.95,NA,2019
-315,Chapecoense,6,Nulo,3,zag,Maurício Ramos,42477,26,0,1.98,10,4.31,-0.11,4.42,NA,2019
-283,Cruzeiro,7,Provável,2,lat,Egídio,42145,26,0,4.61,17,10.72,1.07,9.65,NA,2019
-264,Corinthians,3,Suspenso,1,gol,Cássio,42234,26,0,3.23,21,6.97,-0.65,7.62,NA,2019
-315,Chapecoense,6,Nulo,4,mei,Amaral,42232,26,0,1.27,7,2.84,-0.09,2.9299999999999997,NA,2019
-275,Palmeiras,7,Provável,5,ata,Willian,42116,26,0,3.15,12,8.19,1.2,6.989999999999999,NA,2019
-293,Athlético-PR,7,Provável,2,lat,Márcio Azevedo,42491,26,0,2.44,18,4.82,-0.85,5.67,NA,2019
-285,Internacional,6,Nulo,2,lat,Bruno,42499,26,0,2.77,7,4.62,0,4.62,NA,2019
-356,Fortaleza,7,Provável,5,ata,Osvaldo,42222,26,0,1.88,22,5.03,0.22,4.8100000000000005,NA,2019
-264,Corinthians,7,Provável,2,lat,Fagner,42500,26,0,5.19,19,12.55,-0.29,12.84,NA,2019
-282,Atlético-MG,6,Nulo,1,gol,Wilson,50284,26,0,1.97,3,4.21,0,4.21,NA,2019
-276,São Paulo,5,Contundido,4,mei,Everton,50301,26,0,1.68,16,7.34,0,7.34,NA,2019
-356,Fortaleza,6,Nulo,4,mei,Tião,47134,26,0,0,0,1,0,1,NA,2019
-265,Bahia,6,Nulo,3,zag,Ernando,49651,26,0,4.64,8,10.78,0,10.78,NA,2019
-315,Chapecoense,7,Provável,4,mei,Elicarlos,50313,26,0,0.78,13,4.17,-0.19,4.36,NA,2019
-262,Flamengo,6,Nulo,3,zag,Rhodolfo,42501,26,0,2.12,5,4.62,0,4.62,NA,2019
-266,Fluminense,6,Nulo,4,mei,Guilherme,50294,26,0,-0.66,5,2.63,0,2.63,NA,2019
-275,Palmeiras,5,Contundido,4,mei,Ramires,50293,26,0,1.17,3,6.79,0,6.79,NA,2019
-276,São Paulo,7,Provável,5,ata,Alexandre Pato,49675,26,0,4.45,16,8.4,-1.01,9.41,NA,2019
-276,São Paulo,6,Nulo,4,mei,Hudson,50324,26,0,2.28,14,9.05,0,9.05,NA,2019
-284,Grêmio,7,Provável,1,gol,Júlio César,49673,26,0,4.34,8,6.29,0,6.29,NA,2019
-284,Grêmio,7,Provável,3,zag,David Braz,50317,26,0,4.64,13,7.98,0,7.98,NA,2019
-284,Grêmio,5,Contundido,3,zag,Marcelo Oliveira,50328,26,0,0,0,5,0,5,NA,2019
-354,Ceará,7,Provável,4,mei,Pedro Ken,50877,26,0,1.45,10,3.93,1.74,2.1900000000000004,NA,2019
-264,Corinthians,7,Provável,1,gol,Walter,51413,26,0,9.63,3,8.01,0,8.01,NA,2019
-341,CSA,7,Provável,2,lat,Apodi,51042,26,0,3.06,23,5.63,-1.04,6.67,NA,2019
-267,Vasco,6,Nulo,3,zag,Breno,50408,26,0,0,0,6,0,6,NA,2019
-315,Chapecoense,7,Provável,2,lat,Eduardo,50645,26,0,2.54,15,8.43,0,8.43,NA,2019
-354,Ceará,7,Provável,3,zag,Tiago Alves,51495,26,0,2.36,17,5.71,-1.52,7.23,NA,2019
-283,Cruzeiro,5,Contundido,3,zag,Léo,50459,26,0,1.92,13,6.34,0,6.34,NA,2019
-356,Fortaleza,5,Contundido,3,zag,Roger Carvalho,51415,26,0,0.98,12,4.09,0,4.09,NA,2019
-315,Chapecoense,7,Provável,3,zag,Rafael Pereira,51194,26,0,0.74,10,3.41,0,3.41,NA,2019
-262,Flamengo,7,Provável,4,mei,Everton Ribeiro,51772,26,0,3.86,21,11.52,0,11.52,NA,2019
-356,Fortaleza,6,Nulo,3,zag,Adalberto,51549,26,0,-2.8,1,1.72,0,1.72,NA,2019
-267,Vasco,6,Nulo,4,mei,Bruno César,52558,26,0,1.37,9,6.11,0,6.11,NA,2019
-264,Corinthians,7,Provável,4,mei,Ralf,52190,26,0,4.66,16,11.33,0.84,10.49,NA,2019
-282,Atlético-MG,6,Nulo,1,gol,Victor,52950,26,0,3.32,9,6.56,0,6.56,NA,2019
-282,Atlético-MG,7,Provável,3,zag,Réver,52253,26,0,4.94,18,13.63,1.87,11.760000000000002,NA,2019
-282,Atlético-MG,7,Provável,4,mei,Elias,54395,26,0,1.61,21,8.65,0.3,8.35,NA,2019
-283,Cruzeiro,7,Provável,3,zag,Dedé,60819,26,0,5.35,19,15.81,-0.26,16.07,NA,2019
-356,Fortaleza,6,Nulo,4,mei,Derley,60791,26,0,-0.5,2,3.15,0,3.15,NA,2019
-267,Vasco,6,Nulo,2,lat,Ramon,68896,26,0,0,0,5,0,5,NA,2019
-285,Internacional,6,Nulo,2,lat,Uendel,60852,26,0,3.64,12,5.39,2.54,2.8499999999999996,NA,2019
-263,Botafogo,6,Nulo,2,lat,Gilson,52674,26,0,1.68,18,5.35,0,5.35,NA,2019
-282,Atlético-MG,6,Nulo,2,lat,Patric,60969,26,0,1.49,15,3.65,0.25,3.4,NA,2019
-341,CSA,6,Nulo,1,gol,Fabrício,61228,26,0,0,0,1,0,1,NA,2019
-315,Chapecoense,5,Contundido,4,mei,Yann Rolim,102892,26,0,0,0,4,0,4,NA,2019
-265,Bahia,6,Nulo,5,ata,Lucca,61149,26,0,2.25,12,5.39,0,5.39,NA,2019
-283,Cruzeiro,5,Contundido,4,mei,Rodriguinho,61033,26,0,2.48,5,5.52,0,5.52,NA,2019
-276,São Paulo,6,Nulo,3,zag,Anderson Martins,52618,26,0,2.05,10,3.52,0,3.52,NA,2019
-285,Internacional,7,Provável,4,mei,D'Alessandro,62023,26,0,0.9,13,5.94,0.08,5.86,NA,2019
-265,Bahia,6,Nulo,5,ata,Fernandão,62033,26,0,1.85,22,6.01,0,6.01,NA,2019
-315,Chapecoense,7,Provável,4,mei,Camilo,62009,26,0,2.45,18,6.07,-1.28,7.3500000000000005,NA,2019
-266,Fluminense,6,Nulo,4,mei,Airton,61985,26,0,-0.39,8,2.38,0,2.38,NA,2019
-265,Bahia,7,Provável,5,ata,Gilberto,61188,26,0,7.05,21,16.17,-1.1,17.270000000000003,NA,2019
-267,Vasco,6,Nulo,4,mei,Marquinho,50407,26,0,1.15,6,4.67,0,4.67,NA,2019
-275,Palmeiras,6,Nulo,4,mei,Jean,62047,26,0,-0.53,3,3.72,0,3.72,NA,2019
-283,Cruzeiro,7,Provável,4,mei,Robinho,62104,26,0,0.6,19,5.34,0.08,5.26,NA,2019
-282,Atlético-MG,6,Nulo,5,ata,Maicon,62968,26,0,2.14,8,5.64,-0.07,5.71,NA,2019
-277,Santos,2,Dúvida,2,lat,Pará,62086,26,0,2.07,10,4.24,-1.37,5.61,NA,2019
-290,Goiás,6,Nulo,2,lat,Alan Ruschel,63110,26,0,1.95,9,4.6,-2.31,6.91,NA,2019
-266,Fluminense,3,Suspenso,1,gol,Rodolfo,63082,26,0,-0.67,6,2.22,0,2.22,NA,2019
-290,Goiás,3,Suspenso,5,ata,Walter,62128,26,0,0,0,5,0,5,NA,2019
-267,Vasco,6,Nulo,3,zag,Werley,62974,26,0,-0.82,6,0.78,0,0.78,NA,2019
-266,Fluminense,7,Provável,4,mei,Ganso,62977,26,0,1.87,19,7.8,0.92,6.88,NA,2019
-293,Athlético-PR,7,Provável,4,mei,Wellington,62129,26,0,-0.74,19,1.62,0.85,0.7700000000000001,NA,2019
-277,Santos,6,Nulo,1,gol,Vanderlei,62121,26,0,7.97,6,22.89,0,22.89,NA,2019
-315,Chapecoense,7,Provável,3,zag,Douglas,63128,26,0,0.22,16,2.2,-0.04,2.24,NA,2019
-341,CSA,5,Contundido,4,mei,Didira,63178,26,0,1.39,13,5.3,0,5.3,NA,2019
-356,Fortaleza,7,Provável,2,lat,Carlinhos,63194,26,0,3.14,20,5.95,0,5.95,NA,2019
-275,Palmeiras,7,Provável,2,lat,Marcos Rocha,63013,26,0,6.22,18,17.03,-0.22,17.25,NA,2019
-356,Fortaleza,7,Provável,3,zag,Paulão,63172,26,0,4.6,3,5.49,0.44,5.05,NA,2019
-285,Internacional,5,Contundido,3,zag,Rodrigo Moledo,63354,26,0,4.46,9,6.3,0,6.3,NA,2019
-282,Atlético-MG,7,Provável,4,mei,Luan,63219,26,0,4.31,16,9.93,1.53,8.4,NA,2019
-285,Internacional,7,Provável,4,mei,Edenílson,63289,26,0,3.32,19,9.14,0.63,8.51,NA,2019
-276,São Paulo,6,Nulo,4,mei,Jucilei,63422,26,0,0,0,8,0,8,NA,2019
-284,Grêmio,7,Provável,5,ata,André,68690,26,0,2.53,15,8.63,0,8.63,NA,2019
-293,Athlético-PR,3,Suspenso,4,mei,Camacho,68770,26,0,1.2,1,4.3,0,4.3,NA,2019
-283,Cruzeiro,6,Nulo,2,lat,Dodô,68727,26,0,2.95,12,6.02,0,6.02,NA,2019
-354,Ceará,6,Nulo,5,ata,Bergson,68696,26,0,2.07,14,4.5,-1.47,5.97,NA,2019
-315,Chapecoense,7,Provável,5,ata,Henrique Almeida,68773,26,0,2.58,6,3.65,-0.62,4.27,NA,2019
-290,Goiás,6,Nulo,4,mei,Giovanni Augusto,68938,26,0,1.76,12,4.32,0,4.32,NA,2019
-285,Internacional,6,Nulo,4,mei,Rithely,68834,26,0,3.18,8,5.28,0,5.28,NA,2019
-284,Grêmio,7,Provável,2,lat,Rafael Galhardo,68821,26,0,5.65,11,5.98,0,5.98,NA,2019
-285,Internacional,2,Dúvida,4,mei,Bruno Silva,68698,26,0,2.65,9,7.6,0.91,6.6899999999999995,NA,2019
-285,Internacional,7,Provável,1,gol,Marcelo Lomba,68872,26,0,4.49,23,13.48,2.3,11.18,NA,2019
-265,Bahia,2,Dúvida,2,lat,Nino Paraíba,68808,26,0,6.42,19,14.57,0,14.57,NA,2019
-266,Fluminense,5,Contundido,3,zag,Digão,68886,26,0,1.59,11,5.74,0,5.74,NA,2019
-284,Grêmio,6,Nulo,1,gol,Paulo Victor,68873,26,0,4.83,18,6.57,-0.78,7.3500000000000005,NA,2019
-284,Grêmio,7,Provável,3,zag,Paulo Miranda,68817,26,0,1.9,9,3.87,0,3.87,NA,2019
-263,Botafogo,7,Provável,5,ata,Diego Souza,68911,26,0,2.53,23,5.98,0.54,5.44,NA,2019
-285,Internacional,6,Nulo,5,ata,Wellington Silva,68895,26,0,2.78,14,5.59,0,5.59,NA,2019
-315,Chapecoense,6,Nulo,3,zag,Gum,68887,26,0,1.56,20,5.21,-1.41,6.62,NA,2019
-275,Palmeiras,7,Provável,5,ata,Dudu,68920,26,0,6.08,19,19.07,1.29,17.78,NA,2019
-264,Corinthians,3,Suspenso,3,zag,Gil,68923,26,0,4.69,16,10.85,0.27,10.58,NA,2019
-282,Atlético-MG,6,Nulo,3,zag,Leonardo Silva,68925,26,0,0.54,11,3.68,-0.11,3.79,NA,2019
-283,Cruzeiro,6,Nulo,1,gol,Rafael,68928,26,0,2.73,3,3.99,0,3.99,NA,2019
-356,Fortaleza,6,Nulo,5,ata,Kieza,68930,26,0,0.81,12,3.23,-0.14,3.37,NA,2019
-277,Santos,2,Dúvida,4,mei,Jean Mota,78548,26,0,1.92,19,7.37,0.15,7.22,NA,2019
-263,Botafogo,5,Contundido,5,ata,Rodrigo Pimpão,68901,26,0,0.65,19,1.84,-0.05,1.8900000000000001,NA,2019
-341,CSA,7,Provável,3,zag,Luciano Castán,68942,26,0,2.1,23,5.32,-0.33,5.65,NA,2019
-293,Athlético-PR,7,Provável,1,gol,Santos,69012,26,0,3.67,18,7.04,-0.21,7.25,NA,2019
-315,Chapecoense,5,Contundido,3,zag,Neto,69008,26,0,0,0,2,0,2,NA,2019
-264,Corinthians,6,Nulo,3,zag,Manoel,69014,26,0,4.13,20,10.47,0,10.47,NA,2019
-283,Cruzeiro,7,Provável,4,mei,Marquinhos Gabriel,68954,26,0,1.47,18,4.36,0.82,3.5400000000000005,NA,2019
-341,CSA,7,Provável,4,mei,João Vitor,68987,26,0,2.64,10,6.11,0.5,5.61,NA,2019
-341,CSA,7,Provável,1,gol,João Carlos,69010,26,0,0.93,4,1.6,0.83,0.7700000000000001,NA,2019
-341,CSA,6,Nulo,3,zag,Ronaldo Alves,68950,26,0,1.9,5,4.58,0,4.58,NA,2019
-293,Athlético-PR,7,Provável,5,ata,Marcelo Cirino,69022,26,0,4.22,21,8.35,0.49,7.859999999999999,NA,2019
-277,Santos,2,Dúvida,5,ata,Marinho,68952,26,0,3.54,18,7.17,0,7.17,NA,2019
-314,Avaí,7,Provável,1,gol,Vladimir,69040,26,0,4.98,24,10.4,2.64,7.76,NA,2019
-267,Vasco,6,Nulo,4,mei,Guarín,71233,26,0,1.5,1,7.41,-1.59,9,NA,2019
-285,Internacional,6,Nulo,1,gol,Danilo Fernandes,69051,26,0,8.23,3,7.35,0,7.35,NA,2019
-356,Fortaleza,6,Nulo,4,mei,Paulo Roberto,69047,26,0,0.68,4,3.66,0,3.66,NA,2019
-276,São Paulo,5,Contundido,5,ata,Pablo,69138,26,0,3.69,7,12.68,0,12.68,NA,2019
-293,Athlético-PR,6,Nulo,4,mei,Lucho González,71479,26,0,0.54,13,4.34,0.07,4.27,NA,2019
-275,Palmeiras,7,Provável,1,gol,Weverton,71631,26,0,3.6,17,13.7,0.11,13.59,NA,2019
-290,Goiás,7,Provável,3,zag,Fábio Sanches,71604,26,0,3.9,13,3.74,-0.9,4.640000000000001,NA,2019
-266,Fluminense,7,Provável,1,gol,Muriel,69041,26,0,5.25,14,6.53,-1.73,8.26,NA,2019
-341,CSA,2,Dúvida,5,ata,Ricardo Bueno,69141,26,0,3.4,17,13.65,0,13.65,NA,2019
-275,Palmeiras,7,Provável,3,zag,Gustavo Gómez,71684,26,0,3.6,12,12.7,0.43,12.27,NA,2019
-267,Vasco,7,Provável,1,gol,Fernando Miguel,71571,26,0,3.4,17,7.7,0.01,7.69,NA,2019
-267,Vasco,6,Nulo,2,lat,Raúl Cáceres,71680,26,0,-0.02,5,1.76,0,1.76,NA,2019
-290,Goiás,2,Dúvida,4,mei,Geovane,71667,26,0,0.46,15,2.8,0,2.8,NA,2019
-266,Fluminense,6,Nulo,1,gol,Agenor,71724,26,0,2.37,6,3.05,0,3.05,NA,2019
-265,Bahia,5,Contundido,4,mei,Elton,71719,26,0,1.71,9,5.22,0,5.22,NA,2019
-354,Ceará,3,Suspenso,4,mei,Thiago Galhardo,71844,26,0,5.73,23,11.32,-1.71,13.030000000000001,NA,2019
-264,Corinthians,5,Contundido,4,mei,Júnior Urso,71829,26,0,2.13,14,6.7,0,6.7,NA,2019
-284,Grêmio,6,Nulo,4,mei,Maicon,38196,26,0,2.87,9,7.72,-0.42,8.14,NA,2019
-354,Ceará,7,Provável,1,gol,Diogo Silva,71882,26,0,3.58,25,9.95,-1.67,11.62,NA,2019
-354,Ceará,6,Nulo,4,mei,Juninho Quixadá,71787,26,0,1.5,5,3.99,0.43,3.56,NA,2019
-284,Grêmio,6,Nulo,4,mei,Michel,71920,26,0,2.13,15,4.85,0,4.85,NA,2019
-356,Fortaleza,7,Provável,4,mei,Juninho,71937,26,0,3,22,6.6,0.28,6.319999999999999,NA,2019
-314,Avaí,6,Nulo,2,lat,Léo,69177,26,0,3.51,11,5.99,0,5.99,NA,2019
-283,Cruzeiro,7,Provável,4,mei,Thiago Neves,38277,26,0,4.63,20,9.79,0.65,9.139999999999999,NA,2019
-264,Corinthians,6,Nulo,5,ata,Boselli,69161,26,0,3.12,13,4.21,0,4.21,NA,2019
-276,São Paulo,7,Provável,1,gol,Tiago Volpi,72018,26,0,4.99,25,10.94,-0.52,11.459999999999999,NA,2019
-265,Bahia,7,Provável,1,gol,Douglas Friedrich,78584,26,0,6.96,25,16.24,3.2,13.04,NA,2019
-341,CSA,5,Contundido,4,mei,Amaral,72071,26,0,0,0,4,0,4,NA,2019
-284,Grêmio,6,Nulo,2,lat,Bruno Cortez,72079,26,0,3.88,12,6.16,0.4,5.76,NA,2019
-284,Grêmio,6,Nulo,5,ata,Diego Tardelli,38231,26,0,2.14,19,7.73,-0.54,8.27,NA,2019
-264,Corinthians,7,Provável,6,tec,Fábio Carille,70696,26,0,4.13,24,11.51,0.27,11.24,NA,2019
-276,São Paulo,5,Contundido,5,ata,Joao Rojas,70784,26,0,0,0,7,0,7,NA,2019
-354,Ceará,7,Provável,4,mei,Ricardinho,78577,26,0,4.08,22,8.35,0,8.35,NA,2019
-282,Atlético-MG,7,Provável,2,lat,Fábio Santos,38229,26,0,2.11,19,9.7,1.24,8.459999999999999,NA,2019
-293,Athlético-PR,6,Nulo,4,mei,Nikão,69705,26,0,4.69,14,15.34,0,15.34,NA,2019
-265,Bahia,7,Provável,2,lat,Giovanni,72097,26,0,3.82,8,6.49,0.89,5.6000000000000005,NA,2019
-341,CSA,6,Nulo,5,ata,Gamarra,69288,26,0,0.2,2,5.34,0,5.34,NA,2019
-277,Santos,7,Provável,6,tec,Jorge Sampaoli,70800,26,0,4.56,26,12.87,0.14,12.729999999999999,NA,2019
-275,Palmeiras,7,Provável,2,lat,Diogo Barbosa,70916,26,0,5.74,18,14.59,0.04,14.55,NA,2019
-356,Fortaleza,5,Contundido,3,zag,Jackson,70934,26,0,1.44,10,4.23,0,4.23,NA,2019
-354,Ceará,7,Provável,4,mei,Felipe Baxola,71113,26,0,0.64,12,4.41,0.88,3.5300000000000002,NA,2019
-275,Palmeiras,7,Provável,4,mei,Bruno Henrique,70944,26,0,3.21,19,11.68,1.11,10.57,NA,2019
-354,Ceará,6,Nulo,4,mei,Wescley,70925,26,0,0.27,11,3.48,0,3.48,NA,2019
-283,Cruzeiro,7,Provável,5,ata,Fred,38162,26,0,1.98,21,4.94,-1.95,6.890000000000001,NA,2019
-315,Chapecoense,6,Nulo,4,mei,Augusto,71042,26,0,2.38,12,4.74,0,4.74,NA,2019
-277,Santos,6,Nulo,4,mei,Bryan Ruíz,71019,26,0,0,0,4,0,4,NA,2019
-315,Chapecoense,7,Provável,2,lat,Roberto,71116,26,0,2.62,5,3.72,0.42,3.3000000000000003,NA,2019
-293,Athlético-PR,6,Nulo,1,gol,Leo,71043,26,0,1.6,4,1.76,0,1.76,NA,2019
-293,Athlético-PR,7,Provável,4,mei,Léo Cittadini,70986,26,0,5.68,16,7.49,0.11,7.38,NA,2019
-282,Atlético-MG,3,Suspenso,4,mei,Vinícius,71162,26,0,3.09,17,4.99,0.12,4.87,NA,2019
-263,Botafogo,7,Provável,4,mei,João Paulo,72168,26,0,3.07,24,8.46,-0.27,8.73,NA,2019
-277,Santos,2,Dúvida,2,lat,Victor Ferraz,70046,26,0,4.25,21,10.52,0,10.52,NA,2019
-264,Corinthians,7,Provável,2,lat,Danilo Avelar,72142,26,0,5.03,16,8.14,0,8.14,NA,2019
-356,Fortaleza,7,Provável,5,ata,Wellington Paulista,38279,26,0,4.45,20,9.94,0,9.94,NA,2019
-275,Palmeiras,6,Nulo,1,gol,Jailson,72290,26,0,3,2,6.78,0,6.78,NA,2019
-262,Flamengo,7,Provável,6,tec,Jorge Jesus,71224,26,0,5.71,17,14.7,-0.48,15.18,NA,2019
-277,Santos,7,Provável,1,gol,Éverson,72294,26,0,3.87,20,8.8,-0.25,9.05,NA,2019
-284,Grêmio,2,Dúvida,4,mei,Romulo,70009,26,0,1.56,9,4.58,0,4.58,NA,2019
-265,Bahia,6,Nulo,5,ata,Arthur Caíke,80337,26,0,2.71,20,10.4,0.78,9.620000000000001,NA,2019
-315,Chapecoense,7,Provável,4,mei,Márcio Araújo,38311,26,0,2.93,23,9.1,0.41,8.69,NA,2019
-354,Ceará,7,Provável,3,zag,Luiz Otávio,72359,26,0,2.12,16,8.51,-1.57,10.08,NA,2019
-285,Internacional,2,Dúvida,4,mei,Rodrigo Lindoso,72362,26,0,6.06,17,10.19,0,10.19,NA,2019
-277,Santos,7,Provável,5,ata,Eduardo Sasha,70360,26,0,5.88,25,18.43,0.9,17.53,NA,2019
-262,Flamengo,2,Dúvida,2,lat,Rodinei,73992,26,0,1.25,9,2.67,-1.31,3.98,NA,2019
-341,CSA,6,Nulo,4,mei,Jean Cléber,73858,26,0,1.43,14,3.24,0,3.24,NA,2019
-264,Corinthians,7,Provável,3,zag,Marllon,70666,26,0,5.05,2,5.51,0,5.51,NA,2019
-267,Vasco,6,Nulo,4,mei,Fellipe Bastos,70116,26,0,3.04,9,4.73,0,4.73,NA,2019
-262,Flamengo,7,Provável,3,zag,Rodrigo Caio,73800,26,0,3.89,18,8.7,-1.39,10.09,NA,2019
-267,Vasco,6,Nulo,1,gol,Sidão,70222,26,0,1.03,6,3.74,0,3.74,NA,2019
-263,Botafogo,6,Nulo,4,mei,Alan Santos,70132,26,0,0.47,4,2.8,0,2.8,NA,2019
-277,Santos,6,Nulo,4,mei,Alison,73974,26,0,2.58,14,4.61,0,4.61,NA,2019
-263,Botafogo,7,Provável,1,gol,Gatito Fernández,74061,26,0,4.63,20,8.87,0,8.87,NA,2019
-282,Atlético-MG,6,Nulo,5,ata,Geuvânio,73896,26,0,2.11,18,9.98,0,9.98,NA,2019
-314,Avaí,7,Provável,4,mei,Matheus Barbosa,74069,26,0,2.05,15,4.14,0.12,4.02,NA,2019
-290,Goiás,5,Contundido,3,zag,Yago,77500,26,0,1.27,13,2.95,0,2.95,NA,2019
-267,Vasco,6,Nulo,2,lat,Claudio Winck,74074,26,0,2.15,2,4.01,0,4.01,NA,2019
-285,Internacional,7,Provável,5,ata,Paolo Guerrero,75295,26,0,3.49,12,11.45,-0.31,11.76,NA,2019
-277,Santos,2,Dúvida,5,ata,Derlis González,75372,26,0,0.58,12,1,0,1,NA,2019
-265,Bahia,7,Provável,4,mei,Élber,74140,26,0,3.42,20,7.22,0.4,6.819999999999999,NA,2019
-354,Ceará,6,Nulo,4,mei,Auremir,77570,26,0,1.65,4,3.67,0,3.67,NA,2019
-285,Internacional,6,Nulo,5,ata,William Pottker,77809,26,0,5.02,5,9.48,0,9.48,NA,2019
-276,São Paulo,7,Provável,6,tec,Fernando Diniz,72391,26,0,3.16,20,6.67,-0.87,7.54,NA,2019
-265,Bahia,7,Provável,4,mei,Guerra,74213,26,0,0.39,12,3.12,-0.12,3.24,NA,2019
-264,Corinthians,6,Nulo,4,mei,Jadson,38315,26,0,-0.1,13,2.84,-0.08,2.92,NA,2019
-356,Fortaleza,7,Provável,1,gol,Felipe Alves,72372,26,0,3.23,20,8.36,0.16,8.2,NA,2019
-341,CSA,6,Nulo,2,lat,Celsinho,72494,26,0,0.7,6,2.74,0.17,2.5700000000000003,NA,2019
-293,Athlético-PR,6,Nulo,2,lat,Adriano,38336,26,0,1.62,5,9.07,0,9.07,NA,2019
-262,Flamengo,7,Provável,2,lat,Renê,78445,26,0,4.46,17,7.79,-1.77,9.56,NA,2019
-275,Palmeiras,2,Dúvida,3,zag,Vitor Hugo,72605,26,0,2.54,10,7.19,0,7.19,NA,2019
-315,Chapecoense,6,Nulo,4,mei,Gustavo Campanharo,72497,26,0,4.14,19,6.02,0,6.02,NA,2019
-264,Corinthians,6,Nulo,4,mei,Renê Júnior,73281,26,0,2.2,1,5.84,0,5.84,NA,2019
-293,Athlético-PR,7,Provável,3,zag,Thiago Heleno,38394,26,0,-0.64,5,1.13,0,1.13,NA,2019
-276,São Paulo,6,Nulo,2,lat,Juanfran,72620,26,0,3.3,9,10.28,-0.95,11.229999999999999,NA,2019
-354,Ceará,3,Suspenso,2,lat,Samuel Xavier,73384,26,0,3.24,23,11.7,-0.75,12.45,NA,2019
-341,CSA,7,Provável,6,tec,Argel Fucks,73317,26,0,3.12,17,6.91,0.67,6.24,NA,2019
-275,Palmeiras,5,Contundido,5,ata,Luiz Adriano,72772,26,0,2.77,8,5.92,0,5.92,NA,2019
-290,Goiás,7,Provável,3,zag,Rafael Vaz,73421,26,0,5.34,19,12.37,-0.93,13.299999999999999,NA,2019
-262,Flamengo,7,Provável,4,mei,Willian Arão,78478,26,0,4.46,24,13.09,-0.63,13.72,NA,2019
-354,Ceará,6,Nulo,5,ata,Alex Amado,78475,26,0,0,0,2,0,2,NA,2019
-266,Fluminense,7,Provável,5,ata,Wellington Nem,73619,26,0,1.6,10,5.29,0.74,4.55,NA,2019
-290,Goiás,6,Nulo,1,gol,Marcos,78495,26,0,-0.5,1,2.23,0,2.23,NA,2019
-356,Fortaleza,5,Contundido,4,mei,Nenê Bonilha,73608,26,0,-0.9,2,1.61,-0.8,2.41,NA,2019
-356,Fortaleza,6,Nulo,5,ata,Éderson,73446,26,0,0,0,6,0,6,NA,2019
-314,Avaí,6,Nulo,4,mei,Julinho,73501,26,0,0.53,5,1.68,0,1.68,NA,2019
-276,São Paulo,7,Provável,3,zag,Bruno Alves,73620,26,0,3.41,22,7.45,-1.06,8.51,NA,2019
-266,Fluminense,6,Nulo,3,zag,Luccas Claro,73465,26,0,0,0,3,0,3,NA,2019
-266,Fluminense,7,Provável,6,tec,Marcão,73476,26,0,4.69,5,7.13,-0.37,7.5,NA,2019
-314,Avaí,6,Nulo,1,gol,Glédson,73533,26,0,2,1,2.69,0,2.69,NA,2019
-341,CSA,6,Nulo,5,ata,Maranhão,73513,26,0,1.58,11,3.04,0,3.04,NA,2019
-265,Bahia,6,Nulo,5,ata,Rogério,73540,26,0,2.48,9,7.76,0,7.76,NA,2019
-290,Goiás,6,Nulo,4,mei,Gilberto,73789,26,0,2.59,11,3.2,-0.03,3.23,NA,2019
-263,Botafogo,6,Nulo,4,mei,Marcos Vinícius,73721,26,0,0.73,4,3.8,0,3.8,NA,2019
-277,Santos,6,Nulo,5,ata,Uribe,78415,26,0,-0.29,10,3.59,0,3.59,NA,2019
-293,Athlético-PR,6,Nulo,5,ata,Marco Ruben,73741,26,0,3.8,13,13.02,0,13.02,NA,2019
-315,Chapecoense,7,Provável,5,ata,Everaldo,78117,26,0,4.33,23,15.04,-0.91,15.95,NA,2019
-290,Goiás,7,Provável,6,tec,Ney Franco,37246,26,0,3.67,24,9.44,-0.3,9.74,NA,2019
-277,Santos,7,Provável,3,zag,Gustavo Henrique,78248,26,0,3.5,22,7.53,0.4,7.13,NA,2019
-315,Chapecoense,5,Contundido,1,gol,Vagner,78151,26,0,0,0,4,0,4,NA,2019
-262,Flamengo,6,Nulo,1,gol,César,78086,26,0,4.62,4,6.1,0,6.1,NA,2019
-314,Avaí,6,Nulo,2,lat,Paulinho,78512,26,0,1.22,5,2.21,0.28,1.93,NA,2019
-275,Palmeiras,7,Provável,6,tec,Mano Menezes,37281,26,0,3.79,22,10.37,0.19,10.18,NA,2019
-314,Avaí,7,Provável,3,zag,Betão,37646,26,0,2.34,23,4.41,0.25,4.16,NA,2019
-293,Athlético-PR,7,Provável,2,lat,Madson,78077,26,0,4.38,18,8.98,3.29,5.69,NA,2019
-277,Santos,2,Dúvida,4,mei,Evandro,37614,26,0,0.86,9,3.95,-0.61,4.5600000000000005,NA,2019
-275,Palmeiras,6,Nulo,3,zag,Antônio Carlos ,79702,26,0,2.16,7,6.13,0,6.13,NA,2019
-283,Cruzeiro,7,Provável,1,gol,Fábio,37656,26,0,3.31,23,10.66,-0.05,10.71,NA,2019
-290,Goiás,6,Nulo,1,gol,Matheus Alves,91712,26,0,0,0,1,0,1,NA,2019
-314,Avaí,6,Nulo,4,mei,Luanderson ,86380,26,0,3,2,2.62,0,2.62,NA,2019
-290,Goiás,3,Suspenso,5,ata,Rafael Moura,37655,26,0,-0.57,12,1.55,-1.34,2.89,NA,2019
-356,Fortaleza,7,Provável,4,mei,Felipe,91733,26,0,2.65,20,7,0,7,NA,2019
-283,Cruzeiro,6,Nulo,5,ata,Sassá,79578,26,0,2.03,16,6.47,0,6.47,NA,2019
-275,Palmeiras,6,Nulo,2,lat,Fabiano,79887,26,0,0,0,4,0,4,NA,2019
-290,Goiás,5,Contundido,3,zag,David Duarte,91772,26,0,2.92,7,8.03,0,8.03,NA,2019
-275,Palmeiras,3,Suspenso,2,lat,Victor Luis,86410,26,0,-3.3,2,4.17,-1.05,5.22,NA,2019
-266,Fluminense,5,Contundido,5,ata,Pablo Dyego,86444,26,0,0.73,3,2.03,0,2.03,NA,2019
-276,São Paulo,7,Provável,4,mei,Tchê Tchê,86686,26,0,1.85,24,4.78,-0.4,5.180000000000001,NA,2019
-264,Corinthians,6,Nulo,1,gol,Caíque França,91808,26,0,0,0,3,0,3,NA,2019
-356,Fortaleza,6,Nulo,5,ata,André Luís,92146,26,0,2.01,17,4.52,-0.03,4.55,NA,2019
-290,Goiás,6,Nulo,2,lat,Kevin ,91888,26,0,1.97,4,6.04,0,6.04,NA,2019
-354,Ceará,5,Contundido,5,ata,João Paulo,91972,26,0,0,0,3,0,3,NA,2019
-282,Atlético-MG,6,Nulo,4,mei,Ramón Martínez,92155,26,0,1.78,7,4.73,0,4.73,NA,2019
-293,Athlético-PR,6,Nulo,4,mei,Everton Felipe,86519,26,0,0.75,8,2.17,0,2.17,NA,2019
-267,Vasco,7,Provável,4,mei,Richard,86711,26,0,2.02,17,4.51,0.18,4.33,NA,2019
-290,Goiás,6,Nulo,5,ata,Giovanny ,92085,26,0,-1.6,1,1.24,0,1.24,NA,2019
-267,Vasco,6,Nulo,4,mei,Raul,92496,26,0,4.48,19,7.94,0,7.94,NA,2019
-265,Bahia,7,Provável,3,zag,Juninho,92182,26,0,4.03,16,6.87,0.94,5.93,NA,2019
-314,Avaí,6,Nulo,5,ata,Brenner,80080,26,0,1.1,12,4.24,0,4.24,NA,2019
-315,Chapecoense,6,Nulo,5,ata,Renato Kayzer,92696,26,0,1.21,11,2.18,0,2.18,NA,2019
-283,Cruzeiro,6,Nulo,4,mei,Jadson,80129,26,0,1.54,12,3.48,-0.71,4.1899999999999995,NA,2019
-275,Palmeiras,2,Dúvida,5,ata,Deyverson,92708,26,0,3.21,12,9.29,-0.09,9.379999999999999,NA,2019
-265,Bahia,6,Nulo,4,mei,Ronaldo,92981,26,0,3.1,12,4.38,-0.53,4.91,NA,2019
-264,Corinthians,7,Provável,4,mei,Mateus Vital,93108,26,0,4.05,18,7.39,-0.29,7.68,NA,2019
-265,Bahia,7,Provável,3,zag,Lucas Fonseca,80189,26,0,3.28,26,7.41,0.7,6.71,NA,2019
-265,Bahia,6,Nulo,4,mei,Fernando Medeiros,92841,26,0,0,0,2,0,2,NA,2019
-356,Fortaleza,7,Provável,4,mei,Edinho,80193,26,0,2.29,20,7.53,-0.21,7.74,NA,2019
-277,Santos,7,Provável,3,zag,Lucas Veríssimo,93368,26,0,3.77,23,9.72,0.06,9.66,NA,2019
-354,Ceará,7,Provável,2,lat,João Lucas,86740,26,0,2.33,22,9.36,-0.66,10.02,NA,2019
-277,Santos,6,Nulo,3,zag,Aguilar,95494,26,0,3.42,16,6.33,0,6.33,NA,2019
-282,Atlético-MG,5,Contundido,1,gol,Michael,93659,26,0,0,0,1,0,1,NA,2019
-277,Santos,6,Nulo,4,mei,Jobson,93377,26,0,2.5,1,3.57,-0.43,4,NA,2019
-315,Chapecoense,5,Contundido,5,ata,Thiago Santos,93151,26,0,0,0,3,0,3,NA,2019
-277,Santos,6,Nulo,2,lat,Alan Cardoso,93785,26,0,0,0,3,0,3,NA,2019
-267,Vasco,7,Provável,4,mei,Felipe Ferreira,86749,26,0,1.1,4,2.88,0.34,2.54,NA,2019
-263,Botafogo,6,Nulo,3,zag,Joel Carli,93414,26,0,1.43,17,5.59,0,5.59,NA,2019
-284,Grêmio,6,Nulo,5,ata,Everton,86757,26,0,7.22,19,17.39,0.12,17.27,NA,2019
-341,CSA,6,Nulo,5,ata,Alisson Safira,93782,26,0,0.65,4,3.13,0,3.13,NA,2019
-284,Grêmio,6,Nulo,5,ata,Luan,86759,26,0,5.3,20,11.16,-1.04,12.2,NA,2019
-266,Fluminense,7,Provável,4,mei,Daniel,93791,26,0,1.7,19,4.17,-1.53,5.7,NA,2019
-285,Internacional,6,Nulo,1,gol,Keiller,93834,26,0,0,0,2,0,2,NA,2019
-293,Athlético-PR,6,Nulo,4,mei,Matheus Rossetto,86766,26,0,0.17,6,2.49,0,2.49,NA,2019
-267,Vasco,6,Nulo,4,mei,Andrey,93787,26,0,2.73,14,5.89,0,5.89,NA,2019
-276,São Paulo,6,Nulo,5,ata,Raniel,86797,26,0,2.12,9,6.66,0,6.66,NA,2019
-354,Ceará,6,Nulo,1,gol,Matheus Cabral,93795,26,0,0,0,2,0,2,NA,2019
-341,CSA,5,Contundido,1,gol,Jordi,86776,26,0,6.1,24,10.48,0,10.48,NA,2019
-263,Botafogo,7,Provável,2,lat,Marcinho,93797,26,0,3.57,18,7.37,1.01,6.36,NA,2019
-262,Flamengo,2,Dúvida,5,ata,Vitinho,78435,26,0,4.05,15,8.6,0.34,8.26,NA,2019
-314,Avaí,7,Provável,4,mei,João Paulo,86770,26,0,2.4,21,4.94,0,4.94,NA,2019
-266,Fluminense,6,Nulo,5,ata,Ewandro,86842,26,0,-1.25,2,2.26,0,2.26,NA,2019
-282,Atlético-MG,6,Nulo,4,mei,José Welison,86859,26,0,1.97,9,3.97,0,3.97,NA,2019
-267,Vasco,6,Nulo,4,mei,Marcos Júnior,93893,26,0,1.68,18,3.66,0.22,3.44,NA,2019
-354,Ceará,7,Provável,5,ata,Willian Popp,86890,26,0,-1.8,1,1.81,0,1.81,NA,2019
-282,Atlético-MG,7,Provável,1,gol,Cleiton,93882,26,0,1.53,13,1.72,-0.67,2.39,NA,2019
-277,Santos,6,Nulo,1,gol,John Victor,94044,26,0,0,0,1,0,1,NA,2019
-264,Corinthians,7,Provável,5,ata,Gustavo,86932,26,0,2.06,13,5.66,2.64,3.02,NA,2019
-275,Palmeiras,6,Nulo,3,zag,Edu Dracena,37657,26,0,4.7,4,6.97,0,6.97,NA,2019
-293,Athlético-PR,5,Contundido,2,lat,Jonathan,37662,26,0,4.32,5,7.3,0,7.3,NA,2019
-341,CSA,2,Dúvida,5,ata,Alecsandro,37673,26,0,1.2,14,5.27,1.72,3.55,NA,2019
-275,Palmeiras,6,Nulo,4,mei,Matheus Fernandes,94067,26,0,1.7,5,4.03,0,4.03,NA,2019
-284,Grêmio,5,Contundido,2,lat,Leonardo,86973,26,0,2.7,9,5.41,0,5.41,NA,2019
-285,Internacional,6,Nulo,3,zag,Emerson Santos,86972,26,0,2.88,11,4.12,0,4.12,NA,2019
-264,Corinthians,6,Nulo,4,mei,Gabriel,78605,26,0,3.48,9,6.53,0,6.53,NA,2019
-263,Botafogo,7,Provável,4,mei,Cícero,37688,26,0,3.13,23,11.71,0.29,11.420000000000002,NA,2019
-354,Ceará,6,Nulo,1,gol,Lucas França,93869,26,0,4,1,2.36,0,2.36,NA,2019
-283,Cruzeiro,7,Provável,4,mei,Henrique,37694,26,0,3.32,21,8.56,0.32,8.24,NA,2019
-354,Ceará,6,Nulo,3,zag,Eduardo Brock,78654,26,0,8,1,4.5,0,4.5,NA,2019
-284,Grêmio,6,Nulo,2,lat,Léo Moura,37701,26,0,1.73,12,4.49,-0.53,5.0200000000000005,NA,2019
-264,Corinthians,6,Nulo,4,mei,Ramiro,78715,26,0,0.88,13,8.58,0,8.58,NA,2019
-314,Avaí,5,Contundido,4,mei,Pedro Castro,78840,26,0,2.79,22,5.68,0,5.68,NA,2019
-275,Palmeiras,6,Nulo,4,mei,Thiago Santos,78855,26,0,2.4,9,6.39,0,6.39,NA,2019
-285,Internacional,5,Contundido,5,ata,Rafael Sobis,37798,26,0,4.45,14,7.76,0,7.76,NA,2019
-356,Fortaleza,6,Nulo,1,gol,Marcelo Boeck,37788,26,0,4.41,7,4.9,0,4.9,NA,2019
-354,Ceará,6,Nulo,1,gol,Richard,78851,26,0,1.2,1,4.73,0,4.73,NA,2019
-265,Bahia,6,Nulo,1,gol,Anderson,38001,26,0,-1,1,2.08,0,2.08,NA,2019
-341,CSA,7,Provável,4,mei,Naldo,78897,26,0,2.17,23,4.95,1.4,3.5500000000000003,NA,2019
-276,São Paulo,6,Nulo,1,gol,Lucas Perri,91260,26,0,0,0,2,0,2,NA,2019
-276,São Paulo,3,Suspenso,2,lat,Reinaldo,78850,26,0,6.59,24,14.9,-2.61,17.51,NA,2019
-285,Internacional,5,Contundido,4,mei,Rodrigo Dourado,78865,26,0,1.4,1,7.12,0,7.12,NA,2019
-314,Avaí,7,Provável,4,mei,Mosquera,86116,26,0,0.89,11,2.43,0.19,2.24,NA,2019
-356,Fortaleza,6,Nulo,4,mei,Romero,79109,26,0,0,0,4,0,4,NA,2019
-263,Botafogo,7,Provável,4,mei,Leonardo Valencia,91508,26,0,1.34,12,3.73,0.14,3.59,NA,2019
-265,Bahia,6,Nulo,3,zag,Wanderson,86143,26,0,-2.5,1,1.68,0,1.68,NA,2019
-285,Internacional,5,Contundido,2,lat,Natanael,86264,26,0,1.47,6,4.46,0,4.46,NA,2019
-285,Internacional,7,Provável,3,zag,Víctor Cuesta,79113,26,0,5.81,19,15.13,0,15.13,NA,2019
-276,São Paulo,7,Provável,3,zag,Arboleda,91573,26,0,2.24,17,6.37,-0.89,7.26,NA,2019
-315,Chapecoense,3,Suspenso,4,mei,Moisés Ribeiro,78991,26,0,0,0,3,0,3,NA,2019
-277,Santos,6,Nulo,3,zag,Luiz Felipe,79035,26,0,3.58,5,6.47,0,6.47,NA,2019
-275,Palmeiras,2,Dúvida,5,ata,Borja,86120,26,0,1.6,5,5.77,0,5.77,NA,2019
-293,Athlético-PR,7,Provável,5,ata,Rony,91607,26,0,5.25,19,13.86,1.18,12.68,NA,2019
-354,Ceará,6,Nulo,5,ata,Romário Rodrigues,79336,26,0,1,2,1.76,0,1.76,NA,2019
-290,Goiás,7,Provável,2,lat,Jefferson,95220,26,0,4.81,23,12.19,0.5,11.69,NA,2019
-284,Grêmio,5,Contundido,5,ata,Felipe Vizeu,94138,26,0,0.67,9,2.41,0,2.41,NA,2019
-265,Bahia,7,Provável,6,tec,Roger Machado ,79437,26,0,4.4,26,12.24,0.7,11.540000000000001,NA,2019
-282,Atlético-MG,7,Provável,4,mei,Nathan,87009,26,0,2.95,15,5.3,0,5.3,NA,2019
-266,Fluminense,7,Provável,3,zag,Nino,91708,26,0,3.02,23,4.32,-1.01,5.33,NA,2019
-277,Santos,7,Provável,4,mei,Diego Pituca,94156,26,0,1.18,24,3.05,0.17,2.88,NA,2019
-267,Vasco,7,Provável,5,ata,Ribamar,94068,26,0,3.05,9,4.1,1.51,2.59,NA,2019
-285,Internacional,7,Provável,2,lat,Zeca,87192,26,0,4.07,17,7.79,-0.05,7.84,NA,2019
-293,Athlético-PR,6,Nulo,3,zag,Pedro Henrique,87225,26,0,4.46,13,8.45,-0.48,8.93,NA,2019
-282,Atlético-MG,6,Nulo,4,mei,Alessandro Vinícius,94495,26,0,0,0,1,0,1,NA,2019
-284,Grêmio,6,Nulo,3,zag,Kannemann,87342,26,0,4.24,9,11.98,-1.04,13.02,NA,2019
-277,Santos,7,Provável,4,mei,Soteldo,87258,26,0,3.08,22,6.8,0.01,6.79,NA,2019
-354,Ceará,7,Provável,4,mei,William Oliveira,94297,26,0,0.43,8,1.88,-0.19,2.07,NA,2019
-263,Botafogo,7,Provável,3,zag,Gabriel,87393,26,0,3.41,24,8.63,0.11,8.520000000000001,NA,2019
-275,Palmeiras,6,Nulo,4,mei,Raphael Veiga,94509,26,0,2.76,9,6.96,-0.1,7.06,NA,2019
-267,Vasco,7,Provável,4,mei,Yago Pikachu,80196,26,0,2.29,24,8.87,-0.82,9.69,NA,2019
-264,Corinthians,6,Nulo,4,mei,Matheus Jesus,95335,26,0,2.4,5,4.5,0,4.5,NA,2019
-290,Goiás,3,Suspenso,2,lat,Daniel Guedes ,88225,26,0,2.31,14,5.6,0,5.6,NA,2019
-277,Santos,2,Dúvida,2,lat,Jorge,88065,26,0,7,21,14.99,-1.54,16.53,NA,2019
-263,Botafogo,7,Provável,4,mei,Yuri,88125,26,0,0.59,7,2.37,0.22,2.15,NA,2019
-290,Goiás,7,Provável,4,mei,Thalles,95222,26,0,2,1,1.89,0,1.89,NA,2019
-314,Avaí,6,Nulo,5,ata,Matheus Lucas,95246,26,0,1.1,2,1.1,-0.06,1.1600000000000001,NA,2019
-265,Bahia,7,Provável,4,mei,Gregore,95464,26,0,2.13,23,10.23,1.19,9.040000000000001,NA,2019
-283,Cruzeiro,7,Provável,2,lat,Orejuela,95352,26,0,2.41,12,5.03,0,5.03,NA,2019
-356,Fortaleza,6,Nulo,4,mei,Gabriel Dias,88368,26,0,1.29,20,2.81,0,2.81,NA,2019
-290,Goiás,6,Nulo,3,zag,Paulo Ricardo,88224,26,0,-0.3,1,2.22,0,2.22,NA,2019
-356,Fortaleza,6,Nulo,4,mei,Marlon,88427,26,0,0.39,14,3.33,0.67,2.66,NA,2019
-315,Chapecoense,6,Nulo,2,lat,Caíque Sá,87437,26,0,-0.25,2,3.03,0,3.03,NA,2019
-341,CSA,7,Provável,4,mei,Jonatan Gomez,94857,26,0,5.24,18,7.13,1.41,5.72,NA,2019
-276,São Paulo,7,Provável,2,lat,Igor Vinícius,95466,26,0,3.67,15,8.7,0,8.7,NA,2019
-263,Botafogo,6,Nulo,5,ata,Vinícius Tanque,88651,26,0,-0.72,4,1.21,0,1.21,NA,2019
-341,CSA,6,Nulo,5,ata,Jarro Pedroso,94542,26,0,-0.5,3,1.05,0,1.05,NA,2019
-284,Grêmio,7,Provável,4,mei,Thaciano,87470,26,0,2.52,19,5.09,0.38,4.71,NA,2019
-354,Ceará,6,Nulo,5,ata,Leandro Carvalho,88669,26,0,3.42,19,10.65,0,10.65,NA,2019
-276,São Paulo,6,Nulo,4,mei,Lucas Fernandes,94931,26,0,0,0,2,0,2,NA,2019
-284,Grêmio,7,Provável,2,lat,Juninho Capixaba,94968,26,0,3.54,14,7.25,0,7.25,NA,2019
-290,Goiás,7,Provável,4,mei,Yago Felipe,87747,26,0,3.57,20,6.48,0.82,5.66,NA,2019
-265,Bahia,6,Nulo,4,mei,Marco Antônio,94975,26,0,1,1,2.52,-0.48,3,NA,2019
-290,Goiás,6,Nulo,5,ata,Zeca,94976,26,0,0,0,1,0,1,NA,2019
-276,São Paulo,2,Dúvida,4,mei,Vitor Bueno,87552,26,0,2.73,16,5.75,-0.78,6.53,NA,2019
-285,Internacional,6,Nulo,5,ata,Tréllez,87679,26,0,1.58,4,4.35,0,4.35,NA,2019
-265,Bahia,6,Nulo,5,ata,Geovane Itinga,94980,26,0,0,0,2,0,2,NA,2019
-265,Bahia,6,Nulo,4,mei,Max,94982,26,0,0,0,1,0,1,NA,2019
-262,Flamengo,5,Contundido,4,mei,Arrascaeta,87863,26,0,11.75,14,18.35,0,18.35,NA,2019
-264,Corinthians,7,Provável,4,mei,Sornoza,87877,26,0,2,15,3.99,-0.43,4.42,NA,2019
-356,Fortaleza,6,Nulo,4,mei,Matheus Vargas,87929,26,0,1.6,2,2.2,0,2.2,NA,2019
-275,Palmeiras,7,Provável,4,mei,Gustavo Scarpa,87999,26,0,3.43,18,5.48,-1,6.48,NA,2019
-265,Bahia,6,Nulo,4,mei,Felipinho,94981,26,0,0,0,2,0,2,NA,2019
-265,Bahia,6,Nulo,2,lat,Ezequiel ,80318,26,0,0.85,6,3.23,0,3.23,NA,2019
-314,Avaí,6,Nulo,5,ata,Bruno Sávio,89101,26,0,1.63,4,2.22,0,2.22,NA,2019
-314,Avaí,6,Nulo,3,zag,Kunde,95476,26,0,0.1,4,0.75,0,0.75,NA,2019
-282,Atlético-MG,6,Nulo,3,zag,Iago Maidana,89226,26,0,3.35,4,3.9,0,3.9,NA,2019
-263,Botafogo,7,Provável,3,zag,Marcelo Benevenuto,95638,26,0,1.94,11,5.82,2.25,3.5700000000000003,NA,2019
-263,Botafogo,6,Nulo,4,mei,Jean,89150,26,0,0.93,3,3.57,0,3.57,NA,2019
-341,CSA,5,Contundido,1,gol,Alexandre Cajuru,80276,26,0,0,0,3,0,3,NA,2019
-263,Botafogo,7,Provável,4,mei,Gustavo Bochecha,95798,26,0,1.67,19,6.05,0.17,5.88,NA,2019
-356,Fortaleza,6,Nulo,4,mei,Araruna,95660,26,0,1.46,5,3.53,0.33,3.1999999999999997,NA,2019
-315,Chapecoense,5,Contundido,5,ata,Dalberto,97995,26,0,0,1,2.34,0,2.34,NA,2019
-283,Cruzeiro,6,Nulo,4,mei,Ariel Cabral,80363,26,0,0.97,11,2.61,-0.06,2.67,NA,2019
-266,Fluminense,6,Nulo,2,lat,Orinho,95542,26,0,4.92,4,2.97,-1.57,4.54,NA,2019
-263,Botafogo,6,Nulo,1,gol,Saulo,89492,26,0,0,0,3,0,3,NA,2019
-266,Fluminense,7,Provável,2,lat,Gilberto ,80313,26,0,3.31,18,6.95,-0.92,7.87,NA,2019
-265,Bahia,7,Provável,5,ata,Artur,95799,26,0,2.84,22,9.8,0.84,8.96,NA,2019
-284,Grêmio,7,Provável,5,ata,Luciano,80287,26,0,3.68,14,7.08,0,7.08,NA,2019
-262,Flamengo,2,Dúvida,4,mei,Piris da Motta,95802,26,0,0.66,18,3.33,0.33,3,NA,2019
-264,Corinthians,5,Contundido,3,zag,Léo Santos,95820,26,0,0,0,6,0,6,NA,2019
-275,Palmeiras,6,Nulo,4,mei,Lucas Lima,80583,26,0,0.78,11,4.04,0,4.04,NA,2019
-264,Corinthians,3,Suspenso,2,lat,Michel,80664,26,0,1.17,6,2.41,0,2.41,NA,2019
-282,Atlético-MG,7,Provável,3,zag,Igor Rabello,89493,26,0,2.13,22,7.88,-0.76,8.64,NA,2019
-267,Vasco,6,Nulo,5,ata,Hugo Borges,95875,26,0,0,0,2,0,2,NA,2019
-315,Chapecoense,6,Nulo,5,ata,Arthur Gomes,96966,26,0,2.7,21,5.09,0,5.09,NA,2019
-275,Palmeiras,2,Dúvida,3,zag,Luan,80692,26,0,4.9,8,9.91,0.31,9.6,NA,2019
-314,Avaí,6,Nulo,4,mei,Gustavo Ferrareis,89815,26,0,0.74,9,3.21,0,3.21,NA,2019
-315,Chapecoense,6,Nulo,3,zag,Ruan,95860,26,0,0,0,1,0,1,NA,2019
-314,Avaí,6,Nulo,1,gol,Léo Lopes,96965,26,0,0,0,1,0,1,NA,2019
-354,Ceará,7,Provável,4,mei,Lima,96340,26,0,5,10,6.78,0.97,5.8100000000000005,NA,2019
-266,Fluminense,7,Provável,5,ata,Yony González,97080,26,0,5.64,22,12.9,-0.05,12.950000000000001,NA,2019
-266,Fluminense,6,Nulo,4,mei,Dodi,89883,26,0,0.4,3,2.25,0,2.25,NA,2019
-282,Atlético-MG,7,Provável,5,ata,Di Santo,80748,26,0,2.95,8,7.08,-0.27,7.35,NA,2019
-283,Cruzeiro,3,Suspenso,5,ata,David,90309,26,0,1.11,24,3.97,-0.92,4.890000000000001,NA,2019
-315,Chapecoense,7,Provável,2,lat,Bruno Pacheco,90061,26,0,3.44,23,12.19,-0.53,12.719999999999999,NA,2019
-264,Corinthians,6,Nulo,4,mei,Mantuan,97315,26,0,0,0,2,0,2,NA,2019
-264,Corinthians,7,Provável,5,ata,Janderson,97245,26,0,2.4,7,2.86,1.75,1.1099999999999999,NA,2019
-262,Flamengo,7,Provável,5,ata,Bruno Henrique,90285,26,0,6.75,23,21.28,0,21.28,NA,2019
-285,Internacional,6,Nulo,2,lat,Dudu,97133,26,0,0,0,3,0,3,NA,2019
-356,Fortaleza,7,Provável,6,tec,Rogério Ceni,97341,26,0,3.26,24,8.15,0.41,7.74,NA,2019
-290,Goiás,7,Provável,2,lat,Yago Rocha,90118,26,0,2.04,10,1.86,-0.72,2.58,NA,2019
-283,Cruzeiro,6,Nulo,5,ata,Pedro Rocha,90302,26,0,2.95,17,9.73,0,9.73,NA,2019
-263,Botafogo,6,Nulo,5,ata,Pachu,97352,26,0,0,0,1,0,1,NA,2019
-265,Bahia,5,Contundido,2,lat,Moisés,90444,26,0,5.65,20,13.92,0,13.92,NA,2019
-276,São Paulo,6,Nulo,5,ata,Marcos Calazans,97452,26,0,0.17,3,2.38,0,2.38,NA,2019
-265,Bahia,6,Nulo,4,mei,Shaylon,97520,26,0,0.32,6,2.99,0,2.99,NA,2019
-265,Bahia,6,Nulo,4,mei,Lepu,97522,26,0,0,0,2,0,2,NA,2019
-356,Fortaleza,6,Nulo,5,ata,Matheus Alessandro,97527,26,0,0.75,4,2.1,0,2.1,NA,2019
-263,Botafogo,7,Provável,4,mei,Luiz Fernando ,90715,26,0,1.38,23,4.57,0.6,3.97,NA,2019
-266,Fluminense,7,Provável,3,zag,Frazan,97528,26,0,2.29,10,3.65,1.01,2.6399999999999997,NA,2019
-266,Fluminense,6,Nulo,4,mei,Yuri Lima,90569,26,0,0.57,14,2.08,0,2.08,NA,2019
-315,Chapecoense,6,Nulo,2,lat,Bryan,97536,26,0,1.22,9,2.6,0,2.6,NA,2019
-283,Cruzeiro,7,Provável,3,zag,Fabrício Bruno,90768,26,0,3.32,12,5.95,1.02,4.93,NA,2019
-290,Goiás,7,Provável,4,mei,Léo Sena,90572,26,0,4.9,20,9.28,0.45,8.83,NA,2019
-315,Chapecoense,6,Nulo,3,zag,Hiago,97535,26,0,-0.5,1,1.45,0,1.45,NA,2019
-356,Fortaleza,7,Provável,3,zag,Quintero,96382,26,0,1.46,25,3.28,-0.28,3.5599999999999996,NA,2019
-315,Chapecoense,6,Nulo,1,gol,Elias,90843,26,0,0,0,2,0,2,NA,2019
-263,Botafogo,6,Nulo,4,mei,Rickson,100002,26,0,1.35,4,1.73,0,1.73,NA,2019
-293,Athlético-PR,6,Nulo,4,mei,Erick,98022,26,0,1.56,8,2.98,0,2.98,NA,2019
-262,Flamengo,6,Nulo,3,zag,Rafael,97902,26,0,-1.2,1,0.73,0,0.73,NA,2019
-293,Athlético-PR,6,Nulo,4,mei,Tomás Andrade,97619,26,0,0.69,10,3.82,0,3.82,NA,2019
-284,Grêmio,6,Nulo,3,zag,Pedro Geromel,80853,26,0,6.18,13,13.31,1.07,12.24,NA,2019
-282,Atlético-MG,6,Nulo,1,gol,Fernando,97543,26,0,0,0,1,0,1,NA,2019
-285,Internacional,6,Nulo,3,zag,Klaus,90846,26,0,1.23,10,3.11,0,3.11,NA,2019
-341,CSA,7,Provável,4,mei,Dawhan,97780,26,0,1.29,21,5.56,-0.46,6.02,NA,2019
-276,São Paulo,6,Nulo,1,gol,Jean,90933,26,0,-2,0,3.32,0,3.32,NA,2019
-283,Cruzeiro,6,Nulo,2,lat,Rafael Santos,97907,26,0,1.65,2,0.9,0,0.9,NA,2019
-265,Bahia,7,Provável,4,mei,Flávio,91102,26,0,2.2,18,3.7,-1.09,4.79,NA,2019
-284,Grêmio,6,Nulo,4,mei,Jhonata,97993,26,0,0,0,1,0,1,NA,2019
-314,Avaí,6,Nulo,3,zag,Zé Marcos,90943,26,0,-0.1,1,0.77,0,0.77,NA,2019
-265,Bahia,6,Nulo,5,ata,Fernandinho,91130,26,0,0,0,2,0,2,NA,2019
-290,Goiás,5,Contundido,4,mei,Marlone,80944,26,0,1.37,14,5.08,0,5.08,NA,2019
-263,Botafogo,5,Contundido,5,ata,Biro Biro,80949,26,0,0,0,3,0,3,NA,2019
-264,Corinthians,6,Nulo,4,mei,Fessin,97994,26,0,0,0,2,0,2,NA,2019
-315,Chapecoense,7,Provável,6,tec,Marquinhos Santos,81031,26,0,1.84,6,7.23,-0.53,7.760000000000001,NA,2019
-314,Avaí,7,Provável,6,tec,Evando Camillato,96454,26,0,2.63,2,6.88,0.46,6.42,NA,2019
-354,Ceará,3,Suspenso,4,mei,Fabinho,80393,26,0,2.45,25,6.58,0.62,5.96,NA,2019
-356,Fortaleza,6,Nulo,5,ata,Romarinho Gouveia,102891,26,0,0,0,1,0,1,NA,2019
-262,Flamengo,2,Dúvida,4,mei,Gerson,89256,26,0,3.85,16,8.69,-0.05,8.74,NA,2019
-356,Fortaleza,5,Contundido,1,gol,Matheus Inácio,80394,26,0,0,0,2,0,2,NA,2019
-314,Avaí,6,Nulo,3,zag,Maurício,96464,26,0,0,0,3,0,3,NA,2019
-266,Fluminense,7,Provável,4,mei,Allan,96652,26,0,0.47,19,2.1,0.75,1.35,NA,2019
-265,Bahia,2,Dúvida,2,lat,João Pedro ,89273,26,0,4.3,3,5.7,1.75,3.95,NA,2019
-264,Corinthians,5,Contundido,5,ata,Everaldo ,91151,26,0,2.62,10,3.91,0,3.91,NA,2019
-285,Internacional,6,Nulo,1,gol,Daniel,96468,26,0,0,0,3,0,3,NA,2019
-293,Athlético-PR,7,Provável,6,tec,Tiago Nunes,98057,26,0,3.64,25,10.42,0.62,9.8,NA,2019
-266,Fluminense,6,Nulo,2,lat,César,102912,26,0,0,0,1,0,1,NA,2019
-282,Atlético-MG,5,Contundido,4,mei,Gustavo Blanco,91191,26,0,0,0,9,0,9,NA,2019
-265,Bahia,6,Nulo,4,mei,Yuri,83263,26,0,0,0,1,0,1,NA,2019
-267,Vasco,6,Nulo,1,gol,João Pedro Borges,101721,26,0,0,0,1,0,1,NA,2019
-285,Internacional,7,Provável,4,mei,Patrick,83433,26,0,4.76,15,10.48,2.19,8.290000000000001,NA,2019
-267,Vasco,6,Nulo,3,zag,Miranda,101720,26,0,0.7,1,2.57,0,2.57,NA,2019
-293,Athlético-PR,6,Nulo,4,mei,Jaderson,98224,26,0,0,1,0.76,0,0.76,NA,2019
-262,Flamengo,6,Nulo,1,gol,Gabriel Batista,98333,26,0,0,0,4,0,4,NA,2019
-276,São Paulo,6,Nulo,3,zag,Diego,101728,26,0,0,0,1,0,1,NA,2019
-282,Atlético-MG,5,Contundido,4,mei,Jair,81091,26,0,3.48,9,6.81,0,6.81,NA,2019
-276,São Paulo,6,Nulo,5,ata,Fabinho,101729,26,0,-0.5,1,0.77,0,0.77,NA,2019
-284,Grêmio,7,Provável,5,ata,Pepê,91201,26,0,3.29,20,5.53,-2.05,7.58,NA,2019
-285,Internacional,6,Nulo,5,ata,Guilherme Parede,83438,26,0,1.74,17,4.58,0.5,4.08,NA,2019
-284,Grêmio,6,Nulo,3,zag,Rodriguez,91251,26,0,6.17,6,4.69,0,4.69,NA,2019
-290,Goiás,3,Suspenso,5,ata,Leandro Barcia,91242,26,0,3.3,23,9.81,1.33,8.48,NA,2019
-293,Athlético-PR,7,Provável,3,zag,Léo Pereira,83528,26,0,1.58,20,7.48,0.02,7.460000000000001,NA,2019
-276,São Paulo,3,Suspenso,5,ata,Gonzalo Carneiro,101796,26,0,0,0,5,0,5,NA,2019
-264,Corinthians,6,Nulo,2,lat,Carlos Augusto,101803,26,0,2.69,9,4.96,-0.29,5.25,NA,2019
-293,Athlético-PR,7,Provável,4,mei,Bruno Guimarães,98352,26,0,3.97,17,12.51,0.69,11.82,NA,2019
-275,Palmeiras,6,Nulo,2,lat,Mayke,81150,26,0,-0.3,1,7.71,0,7.71,NA,2019
-267,Vasco,7,Provável,3,zag,Oswaldo Henríquez,81241,26,0,2.52,17,3.74,-0.87,4.61,NA,2019
-264,Corinthians,6,Nulo,5,ata,Clayson,83817,26,0,2.72,21,9.94,0,9.94,NA,2019
-314,Avaí,6,Nulo,5,ata,Gabriel Lima,98400,26,0,0.5,1,2.4,0,2.4,NA,2019
-285,Internacional,6,Nulo,5,ata,Neilton,83772,26,0,2.54,10,6,0,6,NA,2019
-341,CSA,6,Nulo,2,lat,Rafinha,83681,26,0,1.87,3,3.19,0,3.19,NA,2019
-315,Chapecoense,6,Nulo,4,mei,Ronei,98419,26,0,0,0,1,0,1,NA,2019
-262,Flamengo,6,Nulo,5,ata,Lincoln,100065,26,0,1.97,8,3.74,0,3.74,NA,2019
-263,Botafogo,6,Nulo,5,ata,Rhuan,102958,26,0,-0.3,2,0.77,0,0.77,NA,2019
-356,Fortaleza,6,Nulo,2,lat,Diego Tavares,83869,26,0,0,0,3,0,3,NA,2019
-315,Chapecoense,6,Nulo,1,gol,Tiepo,98412,26,0,3.16,22,12.51,-1.28,13.79,NA,2019
-356,Fortaleza,6,Nulo,5,ata,Felipe Pires,100289,26,0,3.1,9,5.15,0.68,4.470000000000001,NA,2019
-276,São Paulo,2,Dúvida,4,mei,Igor Gomes,100084,26,0,0.77,16,1.03,-0.33,1.36,NA,2019
-315,Chapecoense,6,Nulo,4,mei,Tharlis,102997,26,0,1.7,2,2.84,0,2.84,NA,2019
-315,Chapecoense,6,Nulo,4,mei,Vini Locatelli,102998,26,0,2.95,4,1.64,0,1.64,NA,2019
-275,Palmeiras,6,Nulo,5,ata,Carlos Eduardo,90917,26,0,-0.2,4,2.89,0,2.89,NA,2019
-315,Chapecoense,6,Nulo,4,mei,Régis,102999,26,0,1.49,12,3.87,-0.67,4.54,NA,2019
-315,Chapecoense,6,Nulo,4,mei,Kendy,98421,26,0,0,0,2,0,2,NA,2019
-277,Santos,7,Provável,4,mei,Carlos Sánchez,81677,26,0,6,23,15.77,0.76,15.01,NA,2019
-356,Fortaleza,6,Nulo,1,gol,Max Walef,84338,26,0,0,0,1,0,1,NA,2019
-284,Grêmio,6,Nulo,3,zag,Antonini,103069,26,0,0,0,1,0,1,NA,2019
-283,Cruzeiro,7,Provável,4,mei,Éderson,103099,26,0,1.45,10,2.02,-0.34,2.36,NA,2019
-263,Botafogo,6,Nulo,3,zag,Kanu,98484,26,0,0.9,2,0.93,-0.48,1.4100000000000001,NA,2019
-356,Fortaleza,6,Nulo,2,lat,Bruno Melo,84339,26,0,4.02,6,4.52,1.32,3.1999999999999993,NA,2019
-293,Athlético-PR,6,Nulo,5,ata,Pedrinho,100103,26,0,0.55,4,1.01,0.04,0.97,NA,2019
-354,Ceará,6,Nulo,5,ata,Mateus Gonçalves,103076,26,0,1.29,15,2.79,0,2.79,NA,2019
-267,Vasco,6,Nulo,2,lat,Danilo Barcelos,84382,26,0,3.24,16,6.47,0,6.47,NA,2019
-290,Goiás,2,Dúvida,4,mei,Rafinha,84381,26,0,1.28,5,2.73,0,2.73,NA,2019
-354,Ceará,6,Nulo,4,mei,Fernando Sobral,84428,26,0,2.14,13,5.34,0,5.34,NA,2019
-263,Botafogo,6,Nulo,1,gol,Andrew,103183,26,0,0,0,2,0,2,NA,2019
-262,Flamengo,6,Nulo,4,mei,Yuri ,103446,26,0,0,0,2,0,2,NA,2019
-277,Santos,6,Nulo,5,ata,Kaio Jorge,103445,26,0,0,1,0.75,0,0.75,NA,2019
-341,CSA,6,Nulo,5,ata,Bruno Alves,84462,26,0,-0.83,6,0.78,0.01,0.77,NA,2019
-267,Vasco,6,Nulo,5,ata,Clayton,81770,26,0,0.2,7,3.33,0,3.33,NA,2019
-276,São Paulo,6,Nulo,4,mei,Liziero,100761,26,0,1.35,12,3.8,-0.83,4.63,NA,2019
-283,Cruzeiro,6,Nulo,1,gol,Vinícius,98496,26,0,0,0,1,0,1,NA,2019
-314,Avaí,7,Provável,5,ata,Vinícius Araújo,82767,26,0,0.63,3,1.75,0.07,1.68,NA,2019
-277,Santos,6,Nulo,5,ata,Lucas Venuto,100290,26,0,-0.17,3,1.89,0,1.89,NA,2019
-275,Palmeiras,6,Nulo,4,mei,Natan,98497,26,0,0,0,2,0,2,NA,2019
-262,Flamengo,6,Nulo,5,ata,Lucas Silva,98515,26,0,0.5,7,1.48,0.09,1.39,NA,2019
-341,CSA,2,Dúvida,5,ata,Bustamante,100425,26,0,1.81,13,2.74,-0.05,2.79,NA,2019
-262,Flamengo,2,Dúvida,3,zag,Thuler,100125,26,0,1.34,10,2.95,0,2.95,NA,2019
-314,Avaí,6,Nulo,5,ata,Matheus Matias,100430,26,0,-0.1,2,1.79,0,1.79,NA,2019
-293,Athlético-PR,6,Nulo,4,mei,Bruno Nazário,81776,26,0,1.51,8,2.4,0.04,2.36,NA,2019
-266,Fluminense,7,Provável,4,mei,Caio Henrique,98569,26,0,2.58,23,6.85,1.03,5.819999999999999,NA,2019
-264,Corinthians,7,Provável,4,mei,Pedrinho,98706,26,0,4.72,17,10.74,-0.8,11.540000000000001,NA,2019
-285,Internacional,6,Nulo,4,mei,Lucas Bessa,98494,26,0,0,0,1,0,1,NA,2019
-356,Fortaleza,6,Nulo,4,mei,Mariano Vázquez,98760,26,0,1.9,6,3.43,0,3.43,NA,2019
-277,Santos,6,Nulo,5,ata,Yuri Alberto,100652,26,0,0,0,2,0,2,NA,2019
-264,Corinthians,6,Nulo,1,gol,Filipe,100712,26,0,0,0,2,0,2,NA,2019
-267,Vasco,7,Provável,5,ata,Rossi,81798,26,0,1.69,19,5.41,1.16,4.25,NA,2019
-276,São Paulo,6,Nulo,4,mei,Gabriel Sara,100763,26,0,0.05,2,0.77,0,0.77,NA,2019
-282,Atlético-MG,7,Provável,4,mei,Cazares,81682,26,0,3.47,16,9.03,0,9.03,NA,2019
-284,Grêmio,6,Nulo,4,mei,Matheus Henrique,100742,26,0,1.06,13,3.33,0.26,3.0700000000000003,NA,2019
-282,Atlético-MG,2,Dúvida,4,mei,Marquinhos,98765,26,0,0.8,3,0.91,0.06,0.8500000000000001,NA,2019
-290,Goiás,5,Contundido,4,mei,Renatinho,80395,26,0,0.91,8,2.11,0,2.11,NA,2019
-315,Chapecoense,6,Nulo,4,mei,Diego Torres,98794,26,0,2.25,11,4.03,0,4.03,NA,2019
-284,Grêmio,6,Nulo,4,mei,Jean Pyerre,98832,26,0,5.61,10,10.48,0,10.48,NA,2019
-282,Atlético-MG,6,Nulo,2,lat,Lucas Hernández,98822,26,0,-0.62,4,1.97,0,1.97,NA,2019
-277,Santos,6,Nulo,2,lat,Caju,89342,26,0,0,0,3,0,3,NA,2019
-284,Grêmio,6,Nulo,4,mei,Alisson,81845,26,0,5.74,14,8.31,-0.92,9.23,NA,2019
-314,Avaí,6,Nulo,1,gol,Cláudio Vitor,98888,26,0,0,0,1,0,1,NA,2019
-314,Avaí,7,Provável,5,ata,Lourenço,99032,26,0,2.53,20,4.49,-0.34,4.83,NA,2019
-315,Chapecoense,7,Provável,1,gol,João Ricardo,81881,26,0,4.23,3,5.57,-0.3,5.87,NA,2019
-275,Palmeiras,2,Dúvida,5,ata,Henrique Dourado,81905,26,0,0.5,2,4.51,-0.5,5.01,NA,2019
-284,Grêmio,6,Nulo,1,gol,Brenno,100830,26,0,0,0,2,0,2,NA,2019
-266,Fluminense,6,Nulo,2,lat,Igor Julião,81951,26,0,2.78,12,4.32,0,4.32,NA,2019
-276,São Paulo,6,Nulo,1,gol,Lucas Paes,101837,26,0,0,0,2,0,2,NA,2019
-314,Avaí,5,Contundido,2,lat,Iury,101846,26,0,2.94,10,6.43,0,6.43,NA,2019
-290,Goiás,7,Provável,1,gol,Tadeu,82453,26,0,6.53,24,15.15,-1.19,16.34,NA,2019
-277,Santos,6,Nulo,4,mei,Cueva,82411,26,0,0.38,5,5.15,0,5.15,NA,2019
-354,Ceará,6,Nulo,4,mei,Chico,82407,26,0,0.65,6,3.68,0,3.68,NA,2019
-314,Avaí,6,Nulo,4,mei,Gegê,82474,26,0,3.39,9,3.69,0,3.69,NA,2019
-275,Palmeiras,6,Nulo,4,mei,Zé Rafael,82455,26,0,2.04,14,8.1,-0.26,8.36,NA,2019
-263,Botafogo,6,Nulo,1,gol,Diego,99430,26,0,0,0,1,0,1,NA,2019
-266,Fluminense,6,Nulo,5,ata,Brenner,99789,26,0,2.3,6,3.14,0,3.14,NA,2019
-290,Goiás,3,Suspenso,5,ata,Michael,99392,26,0,4.6,25,8.67,-0.94,9.61,NA,2019
-284,Grêmio,6,Nulo,3,zag,Emanuel,100840,26,0,0,0,2,0,2,NA,2019
-293,Athlético-PR,6,Nulo,1,gol,Caio,99460,26,0,1.6,3,1.25,0,1.25,NA,2019
-284,Grêmio,6,Nulo,3,zag,Ruan,100842,26,0,0,0,1,0,1,NA,2019
-284,Grêmio,6,Nulo,2,lat,Felipe,100843,26,0,0,0,1,0,1,NA,2019
-314,Avaí,3,Suspenso,4,mei,Wesley,99462,26,0,-3,2,0.78,-0.67,1.4500000000000002,NA,2019
-290,Goiás,6,Nulo,4,mei,Jean Carlos,84253,26,0,-2.8,1,0.78,0,0.78,NA,2019
-341,CSA,7,Provável,3,zag,Alan Costa,82613,26,0,2.11,15,4.23,-0.33,4.5600000000000005,NA,2019
-263,Botafogo,6,Nulo,4,mei,Wenderson,99474,26,0,2.9,1,3.4,0,3.4,NA,2019
-356,Fortaleza,7,Provável,2,lat,Tinga,82628,26,0,2.56,16,2.3,-0.66,2.96,NA,2019
-285,Internacional,5,Contundido,4,mei,Matheus Galdezani,82634,26,0,0,0,5,0,5,NA,2019
-275,Palmeiras,6,Nulo,2,lat,Esteves,100846,26,0,0,0,1,0,1,NA,2019
-263,Botafogo,6,Nulo,2,lat,Fernando,99550,26,0,2.66,16,4.04,0,4.04,NA,2019
-314,Avaí,7,Provável,2,lat,Igor Fernandes,82635,26,0,3.09,21,5.12,0,5.12,NA,2019
-285,Internacional,6,Nulo,4,mei,Nonato,100987,26,0,3.57,21,9.09,0,9.09,NA,2019
-263,Botafogo,6,Nulo,5,ata,Igor Cássio,99661,26,0,-0.1,3,1.18,0,1.18,NA,2019
-264,Corinthians,6,Nulo,4,mei,Régis,82647,26,0,1.34,5,3.47,0.2,3.27,NA,2019
-266,Fluminense,5,Contundido,2,lat,Mascarenhas,99721,26,0,-2.3,1,1.75,0,1.75,NA,2019
-354,Ceará,6,Nulo,5,ata,Felippe Cardoso,100963,26,0,1.94,15,2.98,0,2.98,NA,2019
-290,Goiás,6,Nulo,2,lat,Marcelo Hermes,82639,26,0,3.16,9,4.35,0,4.35,NA,2019
-263,Botafogo,6,Nulo,5,ata,Victor Rangel,82653,26,0,0.03,9,1.53,0,1.53,NA,2019
-314,Avaí,7,Provável,4,mei,Richard Franco,99802,26,0,3.55,16,6.05,0.57,5.4799999999999995,NA,2019
-276,São Paulo,6,Nulo,3,zag,Rony,101040,26,0,0,0,2,0,2,NA,2019
-285,Internacional,6,Nulo,4,mei,Sarrafiore,101315,26,0,1.92,15,4.75,1.14,3.6100000000000003,NA,2019
-284,Grêmio,6,Nulo,5,ata,Ferreira,101290,26,0,8.5,1,4.77,0,4.77,NA,2019
-282,Atlético-MG,7,Provável,2,lat,Guga,101319,26,0,4.02,12,7.79,-0.59,8.38,NA,2019
-314,Avaí,6,Nulo,4,mei,Luan Pereira,99900,26,0,1.15,11,2.89,0.35,2.54,NA,2019
-282,Atlético-MG,5,Contundido,5,ata,Chará,99891,26,0,4.21,18,11.57,0,11.57,NA,2019
-314,Avaí,6,Nulo,3,zag,Gustavo,101316,26,0,0,0,3,0,3,NA,2019
-267,Vasco,6,Nulo,3,zag,Ricardo,99881,26,0,3,12,7.73,0,7.73,NA,2019
-290,Goiás,6,Nulo,1,gol,Marcelo Rangel,82730,26,0,12.5,1,5.43,0,5.43,NA,2019
-341,CSA,6,Nulo,4,mei,Matheus Prado,101375,26,0,0,0,1,0,1,NA,2019
-315,Chapecoense,6,Nulo,1,gol,Igor Campos,101421,26,0,0,0,1,0,1,NA,2019
-284,Grêmio,6,Nulo,5,ata,Isaque,101483,26,0,0,0,1,0,1,NA,2019
-263,Botafogo,6,Nulo,5,ata,Lucas Campos,99903,26,0,1.54,8,1.73,0,1.73,NA,2019
-283,Cruzeiro,6,Nulo,5,ata,Joel,82787,26,0,0,0,2,0,2,NA,2019
-282,Atlético-MG,6,Nulo,5,ata,Bruno Silva,101422,26,0,-0.3,1,2.8,0,2.8,NA,2019
-284,Grêmio,7,Provável,4,mei,Patrick,99918,26,0,1.77,12,2.14,-1.33,3.47,NA,2019
-283,Cruzeiro,6,Nulo,5,ata,Ezequiel,99915,26,0,1.96,5,4.4,0,4.4,NA,2019
-354,Ceará,7,Provável,2,lat,Cristovam,82930,26,0,1.25,4,2.34,0,2.34,NA,2019
-314,Avaí,5,Contundido,5,ata,Daniel Amorim,82880,26,0,1.37,9,5.13,0,5.13,NA,2019
-277,Santos,6,Nulo,2,lat,Matheus Ribeiro,82943,26,0,0,0,3,0,3,NA,2019
-282,Atlético-MG,6,Nulo,5,ata,Felipe Sousa,101861,26,0,0,0,1,0,1,NA,2019
-276,São Paulo,5,Contundido,5,ata,Toró,101885,26,0,2.18,15,4.99,0,4.99,NA,2019
-293,Athlético-PR,7,Provável,4,mei,Thonny Anderson,101484,26,0,3.65,17,4.76,-0.66,5.42,NA,2019
-293,Athlético-PR,6,Nulo,1,gol,Gabriel,102290,26,0,0,0,1,0,1,NA,2019
-293,Athlético-PR,6,Nulo,3,zag,Lucas Halter,102253,26,0,1.61,9,3.09,0,3.09,NA,2019
-314,Avaí,6,Nulo,5,ata,Caio Paulista,102318,26,0,2.8,20,4.12,0.09,4.03,NA,2019
-293,Athlético-PR,5,Contundido,4,mei,Bruno Leite,102301,26,0,0,0,2,0,2,NA,2019
-314,Avaí,7,Provável,4,mei,Igor Goularte,101889,26,0,2.3,3,2.59,-0.43,3.02,NA,2019
-290,Goiás,7,Provável,5,ata,Papagaio,102302,26,0,0.7,7,1.43,0,1.43,NA,2019
-315,Chapecoense,6,Nulo,4,mei,Gabriel Calabres,101911,26,0,0,0,2,0,2,NA,2019
-283,Cruzeiro,6,Nulo,3,zag,Cacá,102340,26,0,2.02,8,1.79,0,1.79,NA,2019
-314,Avaí,6,Nulo,4,mei,Marcinho,102380,26,0,0,0,1,0,1,NA,2019
-314,Avaí,7,Provável,3,zag,Ricardo,101491,26,0,2.16,16,4.56,0.48,4.08,NA,2019
-341,CSA,6,Nulo,4,mei,Joelson,101512,26,0,0,0,1,0,1,NA,2019
-262,Flamengo,6,Nulo,1,gol,Hugo Souza,101574,26,0,0,0,1,0,1,NA,2019
-262,Flamengo,6,Nulo,4,mei,Pepê,101573,26,0,0,0,2,0,2,NA,2019
-341,CSA,6,Nulo,3,zag,Vital,102452,26,0,0,0,1,0,1,NA,2019
-293,Athlético-PR,6,Nulo,5,ata,Braian Romero,101997,26,0,3.28,11,4.48,0,4.48,NA,2019
-293,Athlético-PR,6,Nulo,5,ata,Vitinho,101960,26,0,2.93,10,2.74,0,2.74,NA,2019
-290,Goiás,2,Dúvida,4,mei,Kaio,102563,26,0,0.52,5,1.05,0,1.05,NA,2019
-293,Athlético-PR,6,Nulo,3,zag,Robson Bambu,101579,26,0,3.12,4,4.97,0,4.97,NA,2019
-283,Cruzeiro,6,Nulo,1,gol,Vitor Eudes,102137,26,0,0,0,2,0,2,NA,2019
-314,Avaí,6,Nulo,4,mei,Jean,99459,26,0,0,0,1,0,1,NA,2019
-277,Santos,6,Nulo,4,mei,Lucas Lourenço,101580,26,0,0,0,2,0,2,NA,2019
-267,Vasco,6,Nulo,5,ata,Jairinho,102139,26,0,1.77,4,2.89,0,2.89,NA,2019
-290,Goiás,6,Nulo,4,mei,Miguel Figueira,102565,26,0,0.5,1,0.86,0,0.86,NA,2019
-262,Flamengo,6,Nulo,5,ata,Vitor Gabriel,101596,26,0,7.2,1,2.86,0.86,2,NA,2019
-276,São Paulo,6,Nulo,5,ata,Helinho,102598,26,0,-0.23,6,2.56,0,2.56,NA,2019
-264,Corinthians,6,Nulo,4,mei,Thiaguinho,102599,26,0,0,0,3,0,3,NA,2019
-265,Bahia,6,Nulo,1,gol,Fernando Castro,102609,26,0,0,0,2,0,2,NA,2019
-262,Flamengo,6,Nulo,3,zag,Matheus Dantas,101592,26,0,-0.6,1,1.25,0,1.25,NA,2019
-262,Flamengo,6,Nulo,1,gol,Yago Darub,102686,26,0,0,0,1,0,1,NA,2019
-266,Fluminense,6,Nulo,5,ata,Lucas Barcelos,101622,26,0,0,0,1,0,1,NA,2019
-266,Fluminense,6,Nulo,4,mei,Caio,101601,26,0,-2.5,1,1.07,0,1.07,NA,2019
-262,Flamengo,6,Nulo,2,lat,Ramon,101597,26,0,0,0,2,0,2,NA,2019
-290,Goiás,6,Nulo,5,ata,Dudu,102581,26,0,-0.25,2,1.33,-0.21,1.54,NA,2019
-282,Atlético-MG,6,Nulo,2,lat,Hulk,102700,26,0,2.5,1,2.75,0,2.75,NA,2019
-265,Bahia,6,Nulo,3,zag,Xandão,101626,26,0,0,0,2,0,2,NA,2019
-262,Flamengo,6,Nulo,4,mei,Hugo Moura,101594,26,0,0.3,1,2.97,0,2.97,NA,2019
-267,Vasco,6,Nulo,4,mei,Rodrigo Fernandes,102771,26,0,0,0,2,0,2,NA,2019
-282,Atlético-MG,6,Nulo,4,mei,Terans,102878,26,0,0.4,1,3.94,0,3.94,NA,2019
-267,Vasco,6,Nulo,3,zag,Ulisses,101647,26,0,0,0,1,0,1,NA,2019
-267,Vasco,6,Nulo,4,mei,Dudu,102852,26,0,0,0,3,0,3,NA,2019
-290,Goiás,6,Nulo,5,ata,Ricardo Verza,101679,26,0,0,0,1,0,1,NA,2019
-267,Vasco,7,Provável,5,ata,Marrony,101717,26,0,2.75,22,12,1.21,10.79,NA,2019
-282,Atlético-MG,6,Nulo,4,mei,Bruninho,101716,26,0,3.13,7,2.08,0,2.08,NA,2019
-267,Vasco,6,Nulo,5,ata,Moresche,102719,26,0,0,0,2,0,2,NA,2019
-290,Goiás,2,Dúvida,4,mei,Breno,106083,26,0,-1.2,4,0.78,0,0.78,NA,2019
-277,Santos,6,Nulo,2,lat,Felipe Jonatan,101708,26,0,3.57,17,9.63,0,9.63,NA,2019
-285,Internacional,7,Provável,3,zag,Bruno Fuchs,104085,26,0,3.08,6,2.77,0.33,2.44,NA,2019
-282,Atlético-MG,2,Dúvida,4,mei,Otero,83004,26,0,3.76,9,8.56,0,8.56,NA,2019
-282,Atlético-MG,6,Nulo,5,ata,Alerrandro,101715,26,0,5.15,10,6.27,0,6.27,NA,2019
-266,Fluminense,6,Nulo,5,ata,Lucão,83199,26,0,0.13,3,2.62,-0.09,2.71,NA,2019
-282,Atlético-MG,6,Nulo,4,mei,Igor Reis,104408,26,0,0,0,1,0,1,NA,2019
-267,Vasco,6,Nulo,2,lat,Rafael França,101719,26,0,0,0,2,0,2,NA,2019
-277,Santos,6,Nulo,3,zag,Wagner Leonardo,104994,26,0,0,0,1,0,1,NA,2019
-262,Flamengo,7,Provável,5,ata,Gabriel,83257,26,0,9.81,19,20.59,1.11,19.48,NA,2019
-290,Goiás,6,Nulo,4,mei,Rafael Barbosa,105396,26,0,0,0,1,0,1,NA,2019
-282,Atlético-MG,6,Nulo,2,lat,Talison,104415,26,0,0,0,1,0,1,NA,2019
-262,Flamengo,2,Dúvida,4,mei,Reinier,105068,26,0,5.37,6,4.48,-0.05,4.53,NA,2019
-356,Fortaleza,6,Nulo,2,lat,Talison,105173,26,0,0,0,1,0,1,NA,2019
-293,Athlético-PR,6,Nulo,2,lat,Abner Vinícius,104513,26,0,2.06,5,5.07,0,5.07,NA,2019
-277,Santos,6,Nulo,5,ata,Bruninho,105111,26,0,0,0,2,0,2,NA,2019
-354,Ceará,6,Nulo,5,ata,Rick,104459,26,0,0.82,4,1.82,0,1.82,NA,2019
-263,Botafogo,6,Nulo,5,ata,Luis Henrique ,105049,26,0,0,0,1,0,1,NA,2019
-284,Grêmio,2,Dúvida,4,mei,Darlan,104593,26,0,1.1,8,1.72,0,1.72,NA,2019
-293,Athlético-PR,6,Nulo,5,ata,Luiz Fernando,105176,26,0,0,0,2,0,2,NA,2019
-277,Santos,6,Nulo,4,mei,Sandry,104580,26,0,0,0,1,0,1,NA,2019
-293,Athlético-PR,6,Nulo,2,lat,Khellven ,105175,26,0,1.65,2,1.25,0,1.25,NA,2019
-265,Bahia,6,Nulo,5,ata,Caíque,104591,26,0,0,0,2,0,2,NA,2019
-282,Atlético-MG,6,Nulo,5,ata,Raphael Lopes,105198,26,0,0,0,1,0,1,NA,2019
-277,Santos,2,Dúvida,5,ata,Tailson,104578,26,0,2.33,4,1.52,0.75,0.77,NA,2019
-293,Athlético-PR,6,Nulo,1,gol,Bento,105208,26,0,0,0,1,0,1,NA,2019
-275,Palmeiras,6,Nulo,1,gol,Lucas Bergantin,105589,26,0,0,0,1,0,1,NA,2019
-266,Fluminense,6,Nulo,3,zag,Luan,105807,26,0,0,0,1,0,1,NA,2019
-290,Goiás,6,Nulo,3,zag,Iago Mendonça,105278,26,0,0,0,1,0,1,NA,2019
-262,Flamengo,6,Nulo,4,mei,Vinícius,105199,26,0,-0.3,1,1.5,0,1.5,NA,2019
-282,Atlético-MG,6,Nulo,2,lat,Hélio Júnior,104622,26,0,0,0,1,0,1,NA,2019
-356,Fortaleza,6,Nulo,3,zag,Diguinho,105282,26,0,0,0,2,0,2,NA,2019
-283,Cruzeiro,6,Nulo,2,lat,Weverton,104625,26,0,3.25,4,2.61,0,2.61,NA,2019
-284,Grêmio,6,Nulo,5,ata,Da Silva,105836,26,0,0.17,3,0.78,0,0.78,NA,2019
-290,Goiás,6,Nulo,1,gol,Felipe Mosquete,105397,26,0,0,0,1,0,1,NA,2019
-285,Internacional,6,Nulo,2,lat,Erik,105838,26,0,2.55,2,2.05,0,2.05,NA,2019
-267,Vasco,6,Nulo,1,gol,Alexander,105553,26,0,6,2,9.79,0,9.79,NA,2019
-284,Grêmio,6,Nulo,5,ata,Guilherme Azevedo,105837,26,0,-0.5,1,0.78,0,0.78,NA,2019
-275,Palmeiras,6,Nulo,5,ata,Iván Angulo,105841,26,0,0,0,4,0,4,NA,2019
-264,Corinthians,6,Nulo,2,lat,Lucas Piton,105584,26,0,0,0,1,0,1,NA,2019
-264,Corinthians,6,Nulo,4,mei,Roni,105585,26,0,0,0,2,0,2,NA,2019
-267,Vasco,6,Nulo,2,lat,Riquelme,105566,26,0,0,0,1,0,1,NA,2019
-293,Athlético-PR,6,Nulo,3,zag,Welligton Rocha,105846,26,0,0,0,1,0,1,NA,2019
-262,Flamengo,2,Dúvida,3,zag,Pablo Marí,105897,26,0,5.1,15,7.51,-1.23,8.74,NA,2019
-264,Corinthians,6,Nulo,5,ata,João Celeri,105866,26,0,0,0,1,0,1,NA,2019
-264,Corinthians,6,Nulo,2,lat,Daniel Marcos,105868,26,0,0,0,1,0,1,NA,2019
-293,Athlético-PR,6,Nulo,3,zag,Gabriel Fornari,105636,26,0,0,0,1,0,1,NA,2019
-266,Fluminense,6,Nulo,4,mei,Miguel,105612,26,0,0.35,2,2.21,0,2.21,NA,2019
-283,Cruzeiro,6,Nulo,3,zag,Edu,105842,26,0,0,0,1,0,1,NA,2019
-290,Goiás,6,Nulo,3,zag,Heron,105339,26,0,0,0,1,0,1,NA,2019
-290,Goiás,6,Nulo,3,zag,Filipe Trindade,105341,26,0,0,0,1,0,1,NA,2019
-290,Goiás,6,Nulo,4,mei,Flávio,105340,26,0,0,0,1,0,1,NA,2019
-293,Athlético-PR,6,Nulo,4,mei,Geovane,105635,26,0,0,0,1,0,1,NA,2019
-283,Cruzeiro,6,Nulo,4,mei,Mauricio,105647,26,0,1.76,7,1.47,0,1.47,NA,2019
-293,Athlético-PR,6,Nulo,5,ata,Vinicius Mingotti,105909,26,0,0,0,1,0,1,NA,2019
-290,Goiás,6,Nulo,4,mei,Alisson Taddei,105907,26,0,0,0,1,0,1,NA,2019
-277,Santos,6,Nulo,4,mei,Ivonei,105899,26,0,0,0,1,0,1,NA,2019
-285,Internacional,6,Nulo,4,mei,José Gabriel,105902,26,0,-0.2,2,0.77,0,0.77,NA,2019
-290,Goiás,6,Nulo,3,zag,Alan,105395,26,0,0,0,1,0,1,NA,2019
-265,Bahia,6,Nulo,4,mei,Edson,105901,26,0,0,0,1,0,1,NA,2019
-283,Cruzeiro,6,Nulo,3,zag,Jonathan,105910,26,0,0,0,1,0,1,NA,2019
-267,Vasco,6,Nulo,5,ata,Talles Magno,105786,26,0,2.11,14,2.55,0,2.55,NA,2019
-283,Cruzeiro,6,Nulo,4,mei,Rômulo,105911,26,0,0,0,1,0,1,NA,2019
-277,Santos,6,Nulo,3,zag,Cadu Silva,105914,26,0,0,0,1,0,1,NA,2019
-277,Santos,6,Nulo,5,ata,Allanzinho,105900,26,0,0,0,1,0,1,NA,2019
-285,Internacional,6,Nulo,4,mei,Lucas Ramos,106000,26,0,0,0,1,0,1,NA,2019
-285,Internacional,6,Nulo,4,mei,José Aldo,105903,26,0,3.5,1,1.53,0,1.53,NA,2019
-283,Cruzeiro,6,Nulo,5,ata,Welinton,105913,26,0,1.5,1,1.29,0,1.29,NA,2019
-283,Cruzeiro,6,Nulo,4,mei,Marco Antônio,105912,26,0,0,0,1,0,1,NA,2019
-283,Cruzeiro,6,Nulo,4,mei,Adriano,105906,26,0,0,0,1,0,1,NA,2019
-265,Bahia,6,Nulo,3,zag,Ignácio,103523,26,0,0,0,2,0,2,NA,2019
-354,Ceará,6,Nulo,3,zag,Valdo,84509,26,0,2.56,21,4.41,-0.08,4.49,NA,2019
-267,Vasco,6,Nulo,5,ata,João Pedro ,106017,26,0,0,0,1,0,1,NA,2019
-276,São Paulo,2,Dúvida,5,ata,Antony,103455,26,0,4.21,18,11.6,-0.88,12.48,NA,2019
-285,Internacional,6,Nulo,5,ata,Johnny ,106002,26,0,0,1,0.77,0,0.77,NA,2019
-356,Fortaleza,7,Provável,5,ata,Romarinho,84523,26,0,2.73,20,5.45,0,5.45,NA,2019
-285,Internacional,7,Provável,5,ata,Nico López,84709,26,0,3.24,18,14.25,0.81,13.44,NA,2019
-284,Grêmio,6,Nulo,1,gol,Phelipe,103524,26,0,0,0,1,0,1,NA,2019
-283,Cruzeiro,6,Nulo,4,mei,Michel,103579,26,0,0,0,2,0,2,NA,2019
-277,Santos,6,Nulo,3,zag,Kaique Rocha,103684,26,0,0,0,2,0,2,NA,2019
-266,Fluminense,6,Nulo,5,ata,Marcos Paulo,103645,26,0,3.33,12,4,0,4,NA,2019
-276,São Paulo,6,Nulo,1,gol,Júnior,103662,26,0,0,0,1,0,1,NA,2019
-290,Goiás,6,Nulo,3,zag,Lucão,84554,26,0,0,0,2,0,2,NA,2019
-314,Avaí,6,Nulo,1,gol,Lucas Frigeri,84854,26,0,3.7,2,3.88,0,3.88,NA,2019
-283,Cruzeiro,6,Nulo,4,mei,Jadsom Silva,103695,26,0,0,1,0.76,0,0.76,NA,2019
-264,Corinthians,7,Provável,3,zag,Bruno Méndez,103700,26,0,2.25,4,4.33,-0.68,5.01,NA,2019
-277,Santos,2,Dúvida,3,zag,Luan Peres ,84847,26,0,2.7,4,3.39,-1.02,4.41,NA,2019
-314,Avaí,5,Contundido,2,lat,Alex Silva,84861,26,0,1.7,1,4.35,0,4.35,NA,2019
-293,Athlético-PR,6,Nulo,2,lat,Abner Felipe,84860,26,0,6.43,3,4.81,0,4.81,NA,2019
-341,CSA,6,Nulo,2,lat,Euller ,84890,26,0,1.65,6,3.6,0,3.6,NA,2019
-277,Santos,6,Nulo,4,mei,Anderson Ceará,103724,26,0,0,0,1,0,1,NA,2019
-275,Palmeiras,6,Nulo,5,ata,Veron,103764,26,0,0,0,1,0,1,NA,2019
-267,Vasco,7,Provável,2,lat,Henrique,84893,26,0,2.54,12,3.89,-0.54,4.43,NA,2019
-266,Fluminense,6,Nulo,1,gol,Marcos Felipe ,85004,26,0,0,0,2,0,2,NA,2019
-263,Botafogo,7,Provável,6,tec,Alberto Valentim,84863,26,0,3.19,16,6.96,-0.16,7.12,NA,2019
-266,Fluminense,6,Nulo,5,ata,João Pedro,104026,26,0,4.33,20,6.02,-0.44,6.46,NA,2019
-266,Fluminense,6,Nulo,5,ata,Evanilson,101606,26,0,0,0,2,0,2,NA,2019
-282,Atlético-MG,6,Nulo,4,mei,Neto,103706,26,0,0,0,1,0,1,NA,2019
-276,São Paulo,6,Nulo,3,zag,Walce,104074,26,0,3.57,3,3.67,0,3.67,NA,2019
-263,Botafogo,6,Nulo,1,gol,André,104080,26,0,0,0,1,0,1,NA,2019
-285,Internacional,7,Provável,6,tec,Ricardo Colbachini,106475,26,0,6.04,2,11.91,1.7,10.21,NA,2019
-262,Flamengo,5,Contundido,5,ata,Berrío ,85300,26,0,1.17,16,5.06,0,5.06,NA,2019
-263,Botafogo,6,Nulo,4,mei,Alessandro,104081,26,0,0,0,1,0,1,NA,2019
-285,Internacional,6,Nulo,1,gol,Carlos Miguel,104084,26,0,0,0,1,0,1,NA,2019
-282,Atlético-MG,5,Contundido,1,gol,Uilson,85418,26,0,0,0,3,0,3,NA,2019
-290,Goiás,6,Nulo,3,zag,Vanderley,106077,26,0,0,0,1,0,1,NA,2019
-267,Vasco,6,Nulo,4,mei,Valdívia,85423,26,0,1.45,11,3.86,0,3.86,NA,2019
-263,Botafogo,6,Nulo,4,mei,Alex Santana,85465,26,0,4.82,15,10.08,0,10.08,NA,2019
-285,Internacional,6,Nulo,5,ata,Pedro Lucas,104087,26,0,-0.45,4,2.45,0,2.45,NA,2019
-277,Santos,6,Nulo,1,gol,João Paulo,85425,26,0,0,0,2,0,2,NA,2019
-285,Internacional,6,Nulo,3,zag,Roberto,104086,26,0,1.88,5,2.43,-0.26,2.6900000000000004,NA,2019
-275,Palmeiras,6,Nulo,4,mei,Hyoran,85931,26,0,4.16,5,5.14,0,5.14,NA,2019
-276,São Paulo,7,Provável,2,lat,Léo,85626,26,0,-1,1,3.67,0,3.67,NA,2019
-264,Corinthians,6,Nulo,3,zag,João Victor,104250,26,0,0,0,2,0,2,NA,2019
-282,Atlético-MG,6,Nulo,3,zag,Matheus Stockl,104088,26,0,0,0,1,0,1,NA,2019
-266,Fluminense,6,Nulo,2,lat,Calegari,104276,26,0,0,0,1,0,1,NA,2019
-265,Bahia,6,Nulo,2,lat,Douglas Borel,104634,26,0,0,0,1,0,1,NA,2019
-265,Bahia,6,Nulo,3,zag,Jaques,104128,26,0,0,0,1,0,1,NA,2019
-262,Flamengo,2,Dúvida,2,lat,João Lucas,104257,26,0,4.16,5,2.39,-1.02,3.41,NA,2019
-314,Avaí,6,Nulo,4,mei,Falcão,104104,26,0,0,0,2,0,2,NA,2019
-341,CSA,2,Dúvida,2,lat,Warley,104646,26,0,0.5,2,1.62,-0.06,1.6800000000000002,NA,2019
-314,Avaí,6,Nulo,3,zag,Nuno,104326,26,0,0,0,2,0,2,NA,2019
-315,Chapecoense,6,Nulo,1,gol,Arthur,104325,26,0,0,0,1,0,1,NA,2019
-314,Avaí,6,Nulo,4,mei,Dudu,104327,26,0,0,0,1,0,1,NA,2019
-314,Avaí,6,Nulo,1,gol,Rodrigo,104328,26,0,0,0,1,0,1,NA,2019
-263,Botafogo,6,Nulo,2,lat,Lucas Barros,104650,26,0,0.72,7,0.83,-0.03,0.86,NA,2019
-285,Internacional,7,Provável,2,lat,Heitor,104649,26,0,3.59,9,2.8,-0.28,3.08,NA,2019
-314,Avaí,6,Nulo,4,mei,Julian,104333,26,0,0,0,2,0,2,NA,2019
-341,CSA,6,Nulo,3,zag,Lucas Dias,104356,26,0,0,0,2,0,2,NA,2019
-290,Goiás,6,Nulo,5,ata,Vinícius,104660,26,0,0,0,1,0,1,NA,2019
-263,Botafogo,6,Nulo,1,gol,Lucas Alves,104651,26,0,0,0,1,0,1,NA,2019
-283,Cruzeiro,6,Nulo,5,ata,Vinícius Popó,105201,26,0,0,2,1.28,0,1.28,NA,2019
-267,Vasco,6,Nulo,5,ata,Tiago Reis,104678,26,0,1.74,8,4.08,0,4.08,NA,2019
-314,Avaí,6,Nulo,1,gol,João Vitor,104329,26,0,0,0,1,0,1,NA,2019
-356,Fortaleza,6,Nulo,5,ata,Gustavo Coutinho,104362,26,0,0,0,1,0,1,NA,2019
-341,CSA,6,Nulo,5,ata,Gerson Júnior,104824,26,0,0,2,0.75,0,0.75,NA,2019
-290,Goiás,6,Nulo,4,mei,Daniel Oliveira,106076,26,0,0,0,1,0,1,NA,2019
-314,Avaí,5,Contundido,5,ata,Jonathan,106161,26,0,4.04,8,5.68,0,5.68,NA,2019
-282,Atlético-MG,6,Nulo,4,mei,Gabriel,104404,26,0,0,0,1,0,1,NA,2019
-341,CSA,6,Nulo,1,gol,Igo,104991,26,0,0,0,1,0,1,NA,2019
-282,Atlético-MG,6,Nulo,3,zag,Vitor Mendes,104401,26,0,0,0,1,0,1,NA,2019
-267,Vasco,6,Nulo,2,lat,Alexandre Melo,106159,26,0,0,0,1,0,1,NA,2019
-267,Vasco,6,Nulo,5,ata,Kaio Magno,106200,26,0,0,0,1,0,1,NA,2019
-314,Avaí,6,Nulo,4,mei,Marx Lênin,106312,26,0,0,0,1,0,1,NA,2019
-267,Vasco,7,Provável,4,mei,Bruno Gomes,106202,26,0,5.5,2,3.03,1.94,1.0899999999999999,NA,2019
-267,Vasco,6,Nulo,5,ata,Lucas Figueiredo,106201,26,0,0,0,1,0,1,NA,2019
-267,Vasco,6,Nulo,4,mei,Gabriel Pec,106199,26,0,1.1,2,1.32,-0.06,1.3800000000000001,NA,2019
-263,Botafogo,6,Nulo,4,mei,Caio Alexandre,106323,26,0,0,0,1,0,1,NA,2019
-293,Athlético-PR,6,Nulo,4,mei,Kawan,106219,26,0,0,0,1,0,1,NA,2019
-284,Grêmio,6,Nulo,5,ata,Jhonata Robert,106371,26,0,0,0,1,0,1,NA,2019
-276,São Paulo,7,Provável,4,mei,Luan,102909,26,0,0.84,16,3.04,0.03,3.0100000000000002,NA,2019
-275,Palmeiras,6,Nulo,1,gol,Matheus Teixeira,102907,26,0,0,0,1,0,1,NA,2019
-267,Vasco,6,Nulo,1,gol,Lucão,106160,26,0,0,0,2,0,2,NA,2019
-266,Fluminense,6,Nulo,4,mei,Zé Ricardo,102911,26,0,0,0,1,0,1,NA,2019
-293,Athlético-PR,6,Nulo,1,gol,Anderson,102906,26,0,0,0,1,0,1,NA,2019
+atleta_id,apelido,rodada_id,ano,clube_id,clube,posicao_id,posicao,jogos_num,pontos_num,media_num,preco_num_anterior,preco_num,variacao_num,FS,PE,A,FT,FD,FF,G,I,PP,RB,FC,GC,CA,CV,SG,DD,DP,GS,status_id,status
+37246,Ney Franco,26,2019,290,Goiás,6,tec,24,3.26,3.67,9.74,9.44,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+37281,Mano Menezes,26,2019,275,Palmeiras,6,tec,22,5.77,3.79,10.18,10.37,0.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+37614,Evandro,26,2019,277,Santos,4,mei,9,-1.6,0.86,4.5600000000000005,3.95,-0.61,2,2,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,2,Dúvida
+37646,Betão,26,2019,314,Avaí,3,zag,23,2,2.34,4.16,4.41,0.25,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+37655,Rafael Moura,26,2019,290,Goiás,5,ata,12,-6.9,-0.57,2.89,1.55,-1.34,0,3,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,3,Suspenso
+37656,Fábio,26,2019,283,Cruzeiro,1,gol,23,5.2,3.31,10.71,10.66,-0.05,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,Provável
+37657,Edu Dracena,26,2019,275,Palmeiras,3,zag,4,0,4.7,6.97,6.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+37662,Jonathan,26,2019,293,Athlético-PR,2,lat,5,0,4.32,7.3,7.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+37673,Alecsandro,26,2019,341,CSA,5,ata,14,8.4,1.2,3.55,5.27,1.72,0,1,0,0,1,0,1,1,0,1,3,0,0,0,0,0,0,0,2,Dúvida
+37688,Cícero,26,2019,263,Botafogo,4,mei,23,1.4,3.13,11.420000000000002,11.71,0.29,0,1,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,0,7,Provável
+37694,Henrique,26,2019,283,Cruzeiro,4,mei,21,6.3,3.32,8.24,8.56,0.32,3,0,0,0,0,1,0,0,0,3,1,0,0,0,0,0,0,0,7,Provável
+37701,Léo Moura,26,2019,284,Grêmio,2,lat,12,-3.3,1.73,5.0200000000000005,4.49,-0.53,0,1,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,6,Nulo
+37788,Marcelo Boeck,26,2019,356,Fortaleza,1,gol,7,0,4.41,4.9,4.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+37798,Rafael Sobis,26,2019,285,Internacional,5,ata,14,0,4.45,7.76,7.76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+38001,Anderson,26,2019,265,Bahia,1,gol,1,0,-1,2.08,2.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+38140,Fernando Prass,26,2019,275,Palmeiras,1,gol,1,0,5,7.07,7.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+38144,Rafinha,26,2019,262,Flamengo,2,lat,14,0,4.5,10.1,10.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+38162,Fred,26,2019,283,Cruzeiro,5,ata,21,-4.9,1.98,6.890000000000001,4.94,-1.95,3,3,0,0,0,0,0,2,0,0,5,0,1,0,0,0,0,0,7,Provável
+38196,Maicon,26,2019,284,Grêmio,4,mei,9,2.9,2.87,8.14,7.72,-0.42,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,6,Nulo
+38229,Fábio Santos,26,2019,282,Atlético-MG,2,lat,19,5,2.11,8.459999999999999,9.7,1.24,0,4,1,1,1,0,0,0,0,0,2,0,1,0,0,0,0,0,7,Provável
+38231,Diego Tardelli,26,2019,284,Grêmio,5,ata,19,-1.7,2.14,8.27,7.73,-0.54,1,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,6,Nulo
+38277,Thiago Neves,26,2019,283,Cruzeiro,4,mei,20,9.4,4.63,9.139999999999999,9.79,0.65,1,2,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+38279,Wellington Paulista,26,2019,356,Fortaleza,5,ata,20,0,4.45,9.94,9.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+38311,Márcio Araújo,26,2019,315,Chapecoense,4,mei,23,3.7,2.93,8.69,9.1,0.41,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,7,Provável
+38315,Jadson,26,2019,264,Corinthians,4,mei,13,0,-0.1,2.92,2.84,-0.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+38336,Adriano,26,2019,293,Athlético-PR,2,lat,5,0,1.62,9.07,9.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+38394,Thiago Heleno,26,2019,293,Athlético-PR,3,zag,5,0,-0.64,1.13,1.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+38431,Diego Cavalieri,26,2019,263,Botafogo,1,gol,7,5,6.31,7.31,6.35,-0.96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,6,Nulo
+38451,Carlinhos,26,2019,341,CSA,2,lat,22,5,5.13,7.97,8.75,0.78,2,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,7,Provável
+38505,Leandro Castan,26,2019,267,Vasco,3,zag,13,1,3.86,10.229999999999999,9.54,-0.69,0,1,0,0,0,1,0,0,0,2,1,0,1,0,0,0,0,0,7,Provável
+38509,Diego Alves,26,2019,262,Flamengo,1,gol,22,1,4.78,10.11,7.73,-2.38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,7,Provável
+38515,Marquinhos Silva,26,2019,314,Avaí,3,zag,11,0,2.08,6.34,6.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+38523,Edílson,26,2019,283,Cruzeiro,2,lat,10,8.4,2.59,4.91,6.35,1.44,0,2,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,6,Nulo
+38545,Felipe Melo,26,2019,275,Palmeiras,4,mei,14,8.6,2.45,5.93,7.58,1.65,1,3,0,0,1,1,1,1,0,1,4,0,0,0,0,0,0,0,7,Provável
+38573,Nilton,26,2019,341,CSA,4,mei,8,0,0.16,2.88,2.88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+38632,Matheus Ferraz,26,2019,266,Fluminense,3,zag,7,0,3.56,6.23,6.23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+38648,Hernanes,26,2019,276,São Paulo,4,mei,19,1.2,4.12,13.76,13.27,-0.49,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,Dúvida
+38738,Douglas,26,2019,314,Avaí,4,mei,10,0,-0.13,4.3,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+38750,Filipe Luís,26,2019,262,Flamengo,2,lat,9,0,6.19,14.02,14.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+38909,Diego,26,2019,262,Flamengo,4,mei,9,0,1.53,5.52,5.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+38910,Ricardo Oliveira,26,2019,282,Atlético-MG,5,ata,17,3.1,3,12.82,13.14,0.32,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,6,Nulo
+38913,Nenê,26,2019,266,Fluminense,4,mei,15,2.7,3.42,7.5,6.68,-0.82,2,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+38939,Daniel Alves,26,2019,276,São Paulo,2,lat,9,1,5.39,16.24,15,-1.24,3,6,0,0,0,1,0,0,0,2,1,0,1,0,0,0,0,0,7,Provável
+38959,Vagner Love,26,2019,264,Corinthians,5,ata,20,0.5,2.71,5.449999999999999,5.39,-0.06,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+39572,Renato,26,2019,315,Chapecoense,5,ata,7,1.2,2.07,4.62,4.84,0.22,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+39850,Vagner Mancini,26,2019,282,Atlético-MG,6,tec,1,3.72,3.72,8,6.91,-1.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+40006,Abel Braga,26,2019,283,Cruzeiro,6,tec,11,4.59,3.52,9.709999999999999,9.87,0.16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+41258,Adilson Batista,26,2019,354,Ceará,6,tec,4,2.05,3.52,10.510000000000002,9.88,-0.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+41327,Vanderlei Luxemburgo,26,2019,267,Vasco,6,tec,21,4.51,3.06,8.32,8.51,0.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+41929,Renato Gaúcho,26,2019,284,Grêmio,6,tec,26,2.69,4.55,12.95,12.44,-0.51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+42116,Willian,26,2019,275,Palmeiras,5,ata,12,4.2,3.15,6.989999999999999,8.19,1.2,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+42145,Egídio,26,2019,283,Cruzeiro,2,lat,17,10.7,4.61,9.65,10.72,1.07,1,2,0,0,0,1,0,0,0,4,2,0,0,0,1,0,0,0,7,Provável
+42222,Osvaldo,26,2019,356,Fortaleza,5,ata,22,0,1.88,4.8100000000000005,5.03,0.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+42232,Amaral,26,2019,315,Chapecoense,4,mei,7,0.3,1.27,2.9299999999999997,2.84,-0.09,0,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,6,Nulo
+42234,Cássio,26,2019,264,Corinthians,1,gol,21,-5.5,3.23,7.62,6.97,-0.65,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,3,Suspenso
+42477,Maurício Ramos,26,2019,315,Chapecoense,3,zag,10,0.5,1.98,4.42,4.31,-0.11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+42491,Márcio Azevedo,26,2019,293,Athlético-PR,2,lat,18,-2.9,2.44,5.67,4.82,-0.85,2,3,0,0,0,0,0,2,0,1,3,0,1,0,0,0,0,0,7,Provável
+42499,Bruno,26,2019,285,Internacional,2,lat,7,0,2.77,4.62,4.62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+42500,Fagner,26,2019,264,Corinthians,2,lat,19,0.9,5.19,12.84,12.55,-0.29,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+42501,Rhodolfo,26,2019,262,Flamengo,3,zag,5,0,2.12,4.62,4.62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+47134,Tião,26,2019,356,Fortaleza,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+49651,Ernando,26,2019,265,Bahia,3,zag,8,0,4.64,10.78,10.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+49673,Júlio César,26,2019,284,Grêmio,1,gol,8,0,4.34,6.29,6.29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+49675,Alexandre Pato,26,2019,276,São Paulo,5,ata,16,-1.9,4.45,9.41,8.4,-1.01,1,2,0,0,1,0,0,1,0,0,5,0,0,0,0,0,0,0,7,Provável
+50284,Wilson,26,2019,282,Atlético-MG,1,gol,3,0,1.97,4.21,4.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+50293,Ramires,26,2019,275,Palmeiras,4,mei,3,0,1.17,6.79,6.79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+50294,Guilherme,26,2019,266,Fluminense,4,mei,5,0,-0.66,2.63,2.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+50301,Everton,26,2019,276,São Paulo,4,mei,16,0,1.68,7.34,7.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+50313,Elicarlos,26,2019,315,Chapecoense,4,mei,13,-0.2,0.78,4.36,4.17,-0.19,2,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,7,Provável
+50317,David Braz,26,2019,284,Grêmio,3,zag,13,0,4.64,7.98,7.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+50324,Hudson,26,2019,276,São Paulo,4,mei,14,0,2.28,9.05,9.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+50328,Marcelo Oliveira,26,2019,284,Grêmio,3,zag,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+50407,Marquinho,26,2019,267,Vasco,4,mei,6,0,1.15,4.67,4.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+50408,Breno,26,2019,267,Vasco,3,zag,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+50459,Léo,26,2019,283,Cruzeiro,3,zag,13,0,1.92,6.34,6.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+50645,Eduardo,26,2019,315,Chapecoense,2,lat,15,0,2.54,8.43,8.43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+50877,Pedro Ken,26,2019,354,Ceará,4,mei,10,7.3,1.45,2.1900000000000004,3.93,1.74,2,0,0,0,0,1,0,0,0,4,1,0,0,0,0,0,0,0,7,Provável
+51042,Apodi,26,2019,341,CSA,2,lat,23,0.7,3.06,6.67,5.63,-1.04,5,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,7,Provável
+51194,Rafael Pereira,26,2019,315,Chapecoense,3,zag,10,0,0.74,3.41,3.41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+51413,Walter,26,2019,264,Corinthians,1,gol,3,0,9.63,8.01,8.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+51415,Roger Carvalho,26,2019,356,Fortaleza,3,zag,12,0,0.98,4.09,4.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+51495,Tiago Alves,26,2019,354,Ceará,3,zag,17,-0.5,2.36,7.23,5.71,-1.52,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+51549,Adalberto,26,2019,356,Fortaleza,3,zag,1,0,-2.8,1.72,1.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+51772,Everton Ribeiro,26,2019,262,Flamengo,4,mei,21,0,3.86,11.52,11.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+52190,Ralf,26,2019,264,Corinthians,4,mei,16,7.2,4.66,10.49,11.33,0.84,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0,0,7,Provável
+52253,Réver,26,2019,282,Atlético-MG,3,zag,18,13.5,4.94,11.760000000000002,13.63,1.87,4,1,0,0,1,2,1,0,0,1,1,0,0,0,0,0,0,0,7,Provável
+52558,Bruno César,26,2019,267,Vasco,4,mei,9,0,1.37,6.11,6.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+52618,Anderson Martins,26,2019,276,São Paulo,3,zag,10,0,2.05,3.52,3.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+52674,Gilson,26,2019,263,Botafogo,2,lat,18,0,1.68,5.35,5.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+52950,Victor,26,2019,282,Atlético-MG,1,gol,9,0,3.32,6.56,6.56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+54395,Elias,26,2019,282,Atlético-MG,4,mei,21,2.4,1.61,8.35,8.65,0.3,0,3,0,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,7,Provável
+60791,Derley,26,2019,356,Fortaleza,4,mei,2,0,-0.5,3.15,3.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+60819,Dedé,26,2019,283,Cruzeiro,3,zag,19,7.6,5.35,16.07,15.81,-0.26,2,3,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,7,Provável
+60852,Uendel,26,2019,285,Internacional,2,lat,12,13,3.64,2.8499999999999996,5.39,2.54,0,0,1,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,6,Nulo
+60969,Patric,26,2019,282,Atlético-MG,2,lat,15,0,1.49,3.4,3.65,0.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+61033,Rodriguinho,26,2019,283,Cruzeiro,4,mei,5,0,2.48,5.52,5.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+61149,Lucca,26,2019,265,Bahia,5,ata,12,0,2.25,5.39,5.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+61188,Gilberto,26,2019,265,Bahia,5,ata,21,-0.1,7.05,17.270000000000003,16.17,-1.1,1,1,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,7,Provável
+61228,Fabrício,26,2019,341,CSA,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+61985,Airton,26,2019,266,Fluminense,4,mei,8,0,-0.39,2.38,2.38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+62009,Camilo,26,2019,315,Chapecoense,4,mei,18,-0.7,2.45,7.3500000000000005,6.07,-1.28,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+62023,D'Alessandro,26,2019,285,Internacional,4,mei,13,0.6,0.9,5.86,5.94,0.08,1,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+62033,Fernandão,26,2019,265,Bahia,5,ata,22,0,1.85,6.01,6.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+62047,Jean,26,2019,275,Palmeiras,4,mei,3,0,-0.53,3.72,3.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+62086,Pará,26,2019,277,Santos,2,lat,10,-0.8,2.07,5.61,4.24,-1.37,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,Dúvida
+62104,Robinho,26,2019,283,Cruzeiro,4,mei,19,-1.1,0.6,5.26,5.34,0.08,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+62121,Vanderlei,26,2019,277,Santos,1,gol,6,0,7.97,22.89,22.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+62128,Walter,26,2019,290,Goiás,5,ata,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,Suspenso
+62129,Wellington,26,2019,293,Athlético-PR,4,mei,19,7.9,-0.74,0.7700000000000001,1.62,0.85,3,3,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+62968,Maicon,26,2019,282,Atlético-MG,5,ata,8,1.5,2.14,5.71,5.64,-0.07,1,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+62974,Werley,26,2019,267,Vasco,3,zag,6,0,-0.82,0.78,0.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+62977,Ganso,26,2019,266,Fluminense,4,mei,19,2.9,1.87,6.88,7.8,0.92,2,6,0,0,1,0,0,0,0,3,4,0,0,0,0,0,0,0,7,Provável
+63013,Marcos Rocha,26,2019,275,Palmeiras,2,lat,18,8.3,6.22,17.25,17.03,-0.22,3,4,0,0,0,0,0,0,0,3,3,0,0,0,1,0,0,0,7,Provável
+63082,Rodolfo,26,2019,266,Fluminense,1,gol,6,0,-0.67,2.22,2.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,Suspenso
+63110,Alan Ruschel,26,2019,290,Goiás,2,lat,9,0,1.95,6.91,4.6,-2.31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+63128,Douglas,26,2019,315,Chapecoense,3,zag,16,0,0.22,2.24,2.2,-0.04,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+63172,Paulão,26,2019,356,Fortaleza,3,zag,3,3.7,4.6,5.05,5.49,0.44,0,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,7,Provável
+63178,Didira,26,2019,341,CSA,4,mei,13,0,1.39,5.3,5.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+63194,Carlinhos,26,2019,356,Fortaleza,2,lat,20,0,3.14,5.95,5.95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+63219,Luan,26,2019,282,Atlético-MG,4,mei,16,14.2,4.31,8.4,9.93,1.53,2,1,0,0,1,1,1,0,0,3,2,0,0,0,0,0,0,0,7,Provável
+63289,Edenílson,26,2019,285,Internacional,4,mei,19,4.6,3.32,8.51,9.14,0.63,0,3,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,7,Provável
+63354,Rodrigo Moledo,26,2019,285,Internacional,3,zag,9,0,4.46,6.3,6.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+63422,Jucilei,26,2019,276,São Paulo,4,mei,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+68690,André,26,2019,284,Grêmio,5,ata,15,0,2.53,8.63,8.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+68696,Bergson,26,2019,354,Ceará,5,ata,14,1.2,2.07,5.97,4.5,-1.47,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+68698,Bruno Silva,26,2019,285,Internacional,4,mei,9,4.6,2.65,6.6899999999999995,7.6,0.91,1,2,0,0,1,0,0,0,0,3,2,0,0,0,0,0,0,0,2,Dúvida
+68727,Dodô,26,2019,283,Cruzeiro,2,lat,12,0,2.95,6.02,6.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+68770,Camacho,26,2019,293,Athlético-PR,4,mei,1,0,1.2,4.3,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,Suspenso
+68773,Henrique Almeida,26,2019,315,Chapecoense,5,ata,6,0.4,2.58,4.27,3.65,-0.62,0,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,7,Provável
+68808,Nino Paraíba,26,2019,265,Bahia,2,lat,19,0,6.42,14.57,14.57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+68817,Paulo Miranda,26,2019,284,Grêmio,3,zag,9,0,1.9,3.87,3.87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+68821,Rafael Galhardo,26,2019,284,Grêmio,2,lat,11,0,5.65,5.98,5.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+68834,Rithely,26,2019,285,Internacional,4,mei,8,0,3.18,5.28,5.28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+68872,Marcelo Lomba,26,2019,285,Internacional,1,gol,23,17,4.49,11.18,13.48,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,7,Provável
+68873,Paulo Victor,26,2019,284,Grêmio,1,gol,18,1,4.83,7.3500000000000005,6.57,-0.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,6,Nulo
+68886,Digão,26,2019,266,Fluminense,3,zag,11,0,1.59,5.74,5.74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+68887,Gum,26,2019,315,Chapecoense,3,zag,20,-5.2,1.56,6.62,5.21,-1.41,0,3,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,6,Nulo
+68895,Wellington Silva,26,2019,285,Internacional,5,ata,14,0,2.78,5.59,5.59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+68896,Ramon,26,2019,267,Vasco,2,lat,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+68901,Rodrigo Pimpão,26,2019,263,Botafogo,5,ata,19,1.2,0.65,1.8900000000000001,1.84,-0.05,0,1,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,5,Contundido
+68911,Diego Souza,26,2019,263,Botafogo,5,ata,23,1.2,2.53,5.44,5.98,0.54,1,2,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,7,Provável
+68920,Dudu,26,2019,275,Palmeiras,5,ata,19,7.4,6.08,17.78,19.07,1.29,3,2,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+68923,Gil,26,2019,264,Corinthians,3,zag,16,0.7,4.69,10.58,10.85,0.27,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,3,Suspenso
+68925,Leonardo Silva,26,2019,282,Atlético-MG,3,zag,11,0,0.54,3.79,3.68,-0.11,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,6,Nulo
+68928,Rafael,26,2019,283,Cruzeiro,1,gol,3,0,2.73,3.99,3.99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+68930,Kieza,26,2019,356,Fortaleza,5,ata,12,0,0.81,3.37,3.23,-0.14,3,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,6,Nulo
+68938,Giovanni Augusto,26,2019,290,Goiás,4,mei,12,0,1.76,4.32,4.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+68942,Luciano Castán,26,2019,341,CSA,3,zag,23,-1,2.1,5.65,5.32,-0.33,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,7,Provável
+68950,Ronaldo Alves,26,2019,341,CSA,3,zag,5,0,1.9,4.58,4.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+68952,Marinho,26,2019,277,Santos,5,ata,18,0,3.54,7.17,7.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+68954,Marquinhos Gabriel,26,2019,283,Cruzeiro,4,mei,18,4.7,1.47,3.5400000000000005,4.36,0.82,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+68987,João Vitor,26,2019,341,CSA,4,mei,10,6.2,2.64,5.61,6.11,0.5,0,0,0,0,1,0,0,0,0,4,2,0,0,0,0,0,0,0,7,Provável
+69008,Neto,26,2019,315,Chapecoense,3,zag,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+69010,João Carlos,26,2019,341,CSA,1,gol,4,5,0.93,0.7700000000000001,1.6,0.83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,7,Provável
+69012,Santos,26,2019,293,Athlético-PR,1,gol,18,0.4,3.67,7.25,7.04,-0.21,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,7,Provável
+69014,Manoel,26,2019,264,Corinthians,3,zag,20,0,4.13,10.47,10.47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+69022,Marcelo Cirino,26,2019,293,Athlético-PR,5,ata,21,2.2,4.22,7.859999999999999,8.35,0.49,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+69040,Vladimir,26,2019,314,Avaí,1,gol,24,20,4.98,7.76,10.4,2.64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,2,7,Provável
+69041,Muriel,26,2019,266,Fluminense,1,gol,14,2,5.25,8.26,6.53,-1.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,7,Provável
+69047,Paulo Roberto,26,2019,356,Fortaleza,4,mei,4,0,0.68,3.66,3.66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+69051,Danilo Fernandes,26,2019,285,Internacional,1,gol,3,0,8.23,7.35,7.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+69138,Pablo,26,2019,276,São Paulo,5,ata,7,0,3.69,12.68,12.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+69141,Ricardo Bueno,26,2019,341,CSA,5,ata,17,0,3.4,13.65,13.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+69161,Boselli,26,2019,264,Corinthians,5,ata,13,0,3.12,4.21,4.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+69177,Léo,26,2019,314,Avaí,2,lat,11,0,3.51,5.99,5.99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+69288,Gamarra,26,2019,341,CSA,5,ata,2,0,0.2,5.34,5.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+69705,Nikão,26,2019,293,Athlético-PR,4,mei,14,0,4.69,15.34,15.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+70009,Romulo,26,2019,284,Grêmio,4,mei,9,0,1.56,4.58,4.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+70046,Victor Ferraz,26,2019,277,Santos,2,lat,21,0,4.25,10.52,10.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+70116,Fellipe Bastos,26,2019,267,Vasco,4,mei,9,0,3.04,4.73,4.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+70132,Alan Santos,26,2019,263,Botafogo,4,mei,4,0,0.47,2.8,2.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+70222,Sidão,26,2019,267,Vasco,1,gol,6,0,1.03,3.74,3.74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+70360,Eduardo Sasha,26,2019,277,Santos,5,ata,25,8.5,5.88,17.53,18.43,0.9,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+70666,Marllon,26,2019,264,Corinthians,3,zag,2,0,5.05,5.51,5.51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+70696,Fábio Carille,26,2019,264,Corinthians,6,tec,24,2.3,4.13,11.24,11.51,0.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+70784,Joao Rojas,26,2019,276,São Paulo,5,ata,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+70800,Jorge Sampaoli,26,2019,277,Santos,6,tec,26,3.63,4.56,12.729999999999999,12.87,0.14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+70916,Diogo Barbosa,26,2019,275,Palmeiras,2,lat,18,7.7,5.74,14.55,14.59,0.04,0,1,0,0,1,1,0,1,0,1,0,0,0,0,1,0,0,0,7,Provável
+70925,Wescley,26,2019,354,Ceará,4,mei,11,0,0.27,3.48,3.48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+70934,Jackson,26,2019,356,Fortaleza,3,zag,10,0,1.44,4.23,4.23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+70944,Bruno Henrique,26,2019,275,Palmeiras,4,mei,19,7.8,3.21,10.57,11.68,1.11,1,2,0,0,2,5,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+70986,Léo Cittadini,26,2019,293,Athlético-PR,4,mei,16,1.7,5.68,7.38,7.49,0.11,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+71019,Bryan Ruíz,26,2019,277,Santos,4,mei,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+71042,Augusto,26,2019,315,Chapecoense,4,mei,12,0,2.38,4.74,4.74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+71043,Leo,26,2019,293,Athlético-PR,1,gol,4,0,1.6,1.76,1.76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+71113,Felipe Baxola,26,2019,354,Ceará,4,mei,12,5.1,0.64,3.5300000000000002,4.41,0.88,0,2,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+71116,Roberto,26,2019,315,Chapecoense,2,lat,5,2,2.62,3.3000000000000003,3.72,0.42,5,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,7,Provável
+71162,Vinícius,26,2019,282,Atlético-MG,4,mei,17,1.9,3.09,4.87,4.99,0.12,3,5,0,1,2,0,0,0,0,1,0,0,0,1,0,0,0,0,3,Suspenso
+71224,Jorge Jesus,26,2019,262,Flamengo,6,tec,17,2.06,5.71,15.18,14.7,-0.48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+71233,Guarín,26,2019,267,Vasco,4,mei,1,1.5,1.5,9,7.41,-1.59,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,Nulo
+71479,Lucho González,26,2019,293,Athlético-PR,4,mei,13,0,0.54,4.27,4.34,0.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+71571,Fernando Miguel,26,2019,267,Vasco,1,gol,17,4,3.4,7.69,7.7,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,7,Provável
+71604,Fábio Sanches,26,2019,290,Goiás,3,zag,13,-1,3.9,4.640000000000001,3.74,-0.9,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,7,Provável
+71631,Weverton,26,2019,275,Palmeiras,1,gol,17,8,3.6,13.59,13.7,0.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,7,Provável
+71667,Geovane,26,2019,290,Goiás,4,mei,15,0,0.46,2.8,2.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+71680,Raúl Cáceres,26,2019,267,Vasco,2,lat,5,0,-0.02,1.76,1.76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+71684,Gustavo Gómez,26,2019,275,Palmeiras,3,zag,12,5.9,3.6,12.27,12.7,0.43,1,2,0,0,1,1,0,0,0,1,1,0,1,0,1,0,0,0,7,Provável
+71719,Elton,26,2019,265,Bahia,4,mei,9,0,1.71,5.22,5.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+71724,Agenor,26,2019,266,Fluminense,1,gol,6,0,2.37,3.05,3.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+71787,Juninho Quixadá,26,2019,354,Ceará,4,mei,5,2.8,1.5,3.56,3.99,0.43,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6,Nulo
+71829,Júnior Urso,26,2019,264,Corinthians,4,mei,14,0,2.13,6.7,6.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+71844,Thiago Galhardo,26,2019,354,Ceará,4,mei,23,-2,5.73,13.030000000000001,11.32,-1.71,2,5,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,3,Suspenso
+71882,Diogo Silva,26,2019,354,Ceará,1,gol,25,-0.5,3.58,11.62,9.95,-1.67,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,7,Provável
+71920,Michel,26,2019,284,Grêmio,4,mei,15,0,2.13,4.85,4.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+71937,Juninho,26,2019,356,Fortaleza,4,mei,22,-0.3,3,6.319999999999999,6.6,0.28,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+72018,Tiago Volpi,26,2019,276,São Paulo,1,gol,25,0.4,4.99,11.459999999999999,10.94,-0.52,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,7,Provável
+72071,Amaral,26,2019,341,CSA,4,mei,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+72079,Bruno Cortez,26,2019,284,Grêmio,2,lat,12,5,3.88,5.76,6.16,0.4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,6,Nulo
+72097,Giovanni,26,2019,265,Bahia,2,lat,8,6.7,3.82,5.6000000000000005,6.49,0.89,0,1,0,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,7,Provável
+72142,Danilo Avelar,26,2019,264,Corinthians,2,lat,16,0,5.03,8.14,8.14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+72168,João Paulo,26,2019,263,Botafogo,4,mei,24,1.3,3.07,8.73,8.46,-0.27,2,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+72290,Jailson,26,2019,275,Palmeiras,1,gol,2,0,3,6.78,6.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+72294,Éverson,26,2019,277,Santos,1,gol,20,4,3.87,9.05,8.8,-0.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,7,Provável
+72359,Luiz Otávio,26,2019,354,Ceará,3,zag,16,0.2,2.12,10.08,8.51,-1.57,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,7,Provável
+72362,Rodrigo Lindoso,26,2019,285,Internacional,4,mei,17,0,6.06,10.19,10.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+72372,Felipe Alves,26,2019,356,Fortaleza,1,gol,20,1.4,3.23,8.2,8.36,0.16,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,7,Provável
+72391,Fernando Diniz,26,2019,276,São Paulo,6,tec,20,0.75,3.16,7.54,6.67,-0.87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+72494,Celsinho,26,2019,341,CSA,2,lat,6,0,0.7,2.5700000000000003,2.74,0.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+72497,Gustavo Campanharo,26,2019,315,Chapecoense,4,mei,19,0,4.14,6.02,6.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+72605,Vitor Hugo,26,2019,275,Palmeiras,3,zag,10,0,2.54,7.19,7.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+72620,Juanfran,26,2019,276,São Paulo,2,lat,9,-0.5,3.3,11.229999999999999,10.28,-0.95,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,Nulo
+72772,Luiz Adriano,26,2019,275,Palmeiras,5,ata,8,0,2.77,5.92,5.92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+73281,Renê Júnior,26,2019,264,Corinthians,4,mei,1,0,2.2,5.84,5.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+73317,Argel Fucks,26,2019,341,CSA,6,tec,17,3.72,3.12,6.24,6.91,0.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+73384,Samuel Xavier,26,2019,354,Ceará,2,lat,23,0,3.24,12.45,11.7,-0.75,1,2,0,0,0,2,0,0,0,1,2,0,1,0,0,0,0,0,3,Suspenso
+73421,Rafael Vaz,26,2019,290,Goiás,3,zag,19,3.2,5.34,13.299999999999999,12.37,-0.93,1,3,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+73446,Éderson,26,2019,356,Fortaleza,5,ata,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+73465,Luccas Claro,26,2019,266,Fluminense,3,zag,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+73476,Marcão,26,2019,266,Fluminense,6,tec,5,3.59,4.69,7.5,7.13,-0.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+73501,Julinho,26,2019,314,Avaí,4,mei,5,0,0.53,1.68,1.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+73513,Maranhão,26,2019,341,CSA,5,ata,11,0,1.58,3.04,3.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+73533,Glédson,26,2019,314,Avaí,1,gol,1,0,2,2.69,2.69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+73540,Rogério,26,2019,265,Bahia,5,ata,9,0,2.48,7.76,7.76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+73608,Nenê Bonilha,26,2019,356,Fortaleza,4,mei,2,-2.1,-0.9,2.41,1.61,-0.8,0,1,0,0,1,0,0,0,0,0,2,0,1,0,0,0,0,0,5,Contundido
+73619,Wellington Nem,26,2019,266,Fluminense,5,ata,10,4.8,1.6,4.55,5.29,0.74,3,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,7,Provável
+73620,Bruno Alves,26,2019,276,São Paulo,3,zag,22,0.5,3.41,8.51,7.45,-1.06,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,7,Provável
+73721,Marcos Vinícius,26,2019,263,Botafogo,4,mei,4,0,0.73,3.8,3.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+73741,Marco Ruben,26,2019,293,Athlético-PR,5,ata,13,0,3.8,13.02,13.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+73789,Gilberto,26,2019,290,Goiás,4,mei,11,2,2.59,3.23,3.2,-0.03,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,6,Nulo
+73800,Rodrigo Caio,26,2019,262,Flamengo,3,zag,18,1.8,3.89,10.09,8.7,-1.39,1,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,7,Provável
+73858,Jean Cléber,26,2019,341,CSA,4,mei,14,0,1.43,3.24,3.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+73896,Geuvânio,26,2019,282,Atlético-MG,5,ata,18,0,2.11,9.98,9.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+73974,Alison,26,2019,277,Santos,4,mei,14,0,2.58,4.61,4.61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+73992,Rodinei,26,2019,262,Flamengo,2,lat,9,0,1.25,3.98,2.67,-1.31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+74061,Gatito Fernández,26,2019,263,Botafogo,1,gol,20,0,4.63,8.87,8.87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+74069,Matheus Barbosa,26,2019,314,Avaí,4,mei,15,2.4,2.05,4.02,4.14,0.12,0,2,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,7,Provável
+74074,Claudio Winck,26,2019,267,Vasco,2,lat,2,0,2.15,4.01,4.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+74140,Élber,26,2019,265,Bahia,4,mei,20,6,3.42,6.819999999999999,7.22,0.4,3,3,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,7,Provável
+74213,Guerra,26,2019,265,Bahia,4,mei,12,-0.3,0.39,3.24,3.12,-0.12,2,1,0,0,0,0,0,0,0,2,4,0,1,0,0,0,0,0,7,Provável
+75295,Paolo Guerrero,26,2019,285,Internacional,5,ata,12,1.3,3.49,11.76,11.45,-0.31,1,3,0,0,0,4,0,1,0,1,5,0,0,0,0,0,0,0,7,Provável
+75372,Derlis González,26,2019,277,Santos,5,ata,12,0,0.58,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+77500,Yago,26,2019,290,Goiás,3,zag,13,0,1.27,2.95,2.95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+77570,Auremir,26,2019,354,Ceará,4,mei,4,0,1.65,3.67,3.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+77809,William Pottker,26,2019,285,Internacional,5,ata,5,0,5.02,9.48,9.48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+78077,Madson,26,2019,293,Athlético-PR,2,lat,18,19.5,4.38,5.69,8.98,3.29,2,1,0,0,0,1,2,0,0,2,2,0,0,0,0,0,0,0,7,Provável
+78086,César,26,2019,262,Flamengo,1,gol,4,0,4.62,6.1,6.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+78117,Everaldo,26,2019,315,Chapecoense,5,ata,23,-2,4.33,15.95,15.04,-0.91,1,5,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,7,Provável
+78151,Vagner,26,2019,315,Chapecoense,1,gol,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+78248,Gustavo Henrique,26,2019,277,Santos,3,zag,22,5.5,3.5,7.13,7.53,0.4,0,1,0,0,0,1,1,0,0,0,2,0,1,0,0,0,0,0,7,Provável
+78415,Uribe,26,2019,277,Santos,5,ata,10,0,-0.29,3.59,3.59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+78435,Vitinho,26,2019,262,Flamengo,5,ata,15,0.6,4.05,8.26,8.6,0.34,0,3,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,2,Dúvida
+78445,Renê,26,2019,262,Flamengo,2,lat,17,0,4.46,9.56,7.79,-1.77,1,5,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,7,Provável
+78475,Alex Amado,26,2019,354,Ceará,5,ata,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+78478,Willian Arão,26,2019,262,Flamengo,4,mei,24,-1.1,4.46,13.72,13.09,-0.63,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+78495,Marcos,26,2019,290,Goiás,1,gol,1,0,-0.5,2.23,2.23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+78512,Paulinho,26,2019,314,Avaí,2,lat,5,2.7,1.22,1.93,2.21,0.28,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,Nulo
+78548,Jean Mota,26,2019,277,Santos,4,mei,19,-0.3,1.92,7.22,7.37,0.15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+78577,Ricardinho,26,2019,354,Ceará,4,mei,22,0,4.08,8.35,8.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+78584,Douglas Friedrich,26,2019,265,Bahia,1,gol,25,14,6.96,13.04,16.24,3.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,7,Provável
+78605,Gabriel,26,2019,264,Corinthians,4,mei,9,0,3.48,6.53,6.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+78654,Eduardo Brock,26,2019,354,Ceará,3,zag,1,0,8,4.5,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+78715,Ramiro,26,2019,264,Corinthians,4,mei,13,0,0.88,8.58,8.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+78840,Pedro Castro,26,2019,314,Avaí,4,mei,22,0,2.79,5.68,5.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+78850,Reinaldo,26,2019,276,São Paulo,2,lat,24,2.2,6.59,17.51,14.9,-2.61,3,1,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,3,Suspenso
+78851,Richard,26,2019,354,Ceará,1,gol,1,0,1.2,4.73,4.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+78855,Thiago Santos,26,2019,275,Palmeiras,4,mei,9,0,2.4,6.39,6.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+78865,Rodrigo Dourado,26,2019,285,Internacional,4,mei,1,0,1.4,7.12,7.12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+78897,Naldo,26,2019,341,CSA,4,mei,23,7.4,2.17,3.5500000000000003,4.95,1.4,0,1,1,0,1,0,0,0,0,3,2,0,1,0,0,0,0,0,7,Provável
+78991,Moisés Ribeiro,26,2019,315,Chapecoense,4,mei,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,Suspenso
+79035,Luiz Felipe,26,2019,277,Santos,3,zag,5,0,3.58,6.47,6.47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+79109,Romero,26,2019,356,Fortaleza,4,mei,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+79113,Víctor Cuesta,26,2019,285,Internacional,3,zag,19,0,5.81,15.13,15.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+79336,Romário Rodrigues,26,2019,354,Ceará,5,ata,2,0,1,1.76,1.76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+79437,Roger Machado,26,2019,265,Bahia,6,tec,26,6.02,4.4,11.540000000000001,12.24,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+79578,Sassá,26,2019,283,Cruzeiro,5,ata,16,0,2.03,6.47,6.47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+79702,Antônio Carlos,26,2019,275,Palmeiras,3,zag,7,0,2.16,6.13,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+79887,Fabiano,26,2019,275,Palmeiras,2,lat,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+80080,Brenner,26,2019,314,Avaí,5,ata,12,0,1.1,4.24,4.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+80129,Jadson,26,2019,283,Cruzeiro,4,mei,12,0.2,1.54,4.1899999999999995,3.48,-0.71,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+80189,Lucas Fonseca,26,2019,265,Bahia,3,zag,26,5,3.28,6.71,7.41,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,Provável
+80193,Edinho,26,2019,356,Fortaleza,4,mei,20,1.3,2.29,7.74,7.53,-0.21,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+80196,Yago Pikachu,26,2019,267,Vasco,4,mei,24,1.4,2.29,9.69,8.87,-0.82,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+80276,Alexandre Cajuru,26,2019,341,CSA,1,gol,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+80287,Luciano,26,2019,284,Grêmio,5,ata,14,0,3.68,7.08,7.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+80313,Gilberto,26,2019,266,Fluminense,2,lat,18,2.5,3.31,7.87,6.95,-0.92,1,1,0,0,0,1,0,0,0,2,3,0,0,0,0,0,0,0,7,Provável
+80318,Ezequiel,26,2019,265,Bahia,2,lat,6,0,0.85,3.23,3.23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+80337,Arthur Caíke,26,2019,265,Bahia,5,ata,20,8,2.71,9.620000000000001,10.4,0.78,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+80363,Ariel Cabral,26,2019,283,Cruzeiro,4,mei,11,0,0.97,2.67,2.61,-0.06,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,Nulo
+80393,Fabinho,26,2019,354,Ceará,4,mei,25,1.8,2.45,5.96,6.58,0.62,1,0,0,0,0,1,0,1,0,2,0,0,1,0,0,0,0,0,3,Suspenso
+80394,Matheus Inácio,26,2019,356,Fortaleza,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+80395,Renatinho,26,2019,290,Goiás,4,mei,8,0,0.91,2.11,2.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+80583,Lucas Lima,26,2019,275,Palmeiras,4,mei,11,0,0.78,4.04,4.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+80664,Michel,26,2019,264,Corinthians,2,lat,6,0,1.17,2.41,2.41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,Suspenso
+80692,Luan,26,2019,275,Palmeiras,3,zag,8,4.9,4.9,9.6,9.91,0.31,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,Dúvida
+80748,Di Santo,26,2019,282,Atlético-MG,5,ata,8,3.5,2.95,7.35,7.08,-0.27,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,7,Provável
+80853,Pedro Geromel,26,2019,284,Grêmio,3,zag,13,5.3,6.18,12.24,13.31,1.07,1,0,0,0,0,1,0,0,0,3,1,0,0,0,0,0,0,0,6,Nulo
+80944,Marlone,26,2019,290,Goiás,4,mei,14,0,1.37,5.08,5.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+80949,Biro Biro,26,2019,263,Botafogo,5,ata,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+81031,Marquinhos Santos,26,2019,315,Chapecoense,6,tec,6,0.3,1.84,7.760000000000001,7.23,-0.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+81091,Jair,26,2019,282,Atlético-MG,4,mei,9,0,3.48,6.81,6.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+81150,Mayke,26,2019,275,Palmeiras,2,lat,1,0,-0.3,7.71,7.71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+81241,Oswaldo Henríquez,26,2019,267,Vasco,3,zag,17,0,2.52,4.61,3.74,-0.87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+81677,Carlos Sánchez,26,2019,277,Santos,4,mei,23,13.9,6,15.01,15.77,0.76,2,3,2,0,1,2,0,1,0,3,2,0,1,0,0,0,0,0,7,Provável
+81682,Cazares,26,2019,282,Atlético-MG,4,mei,16,0,3.47,9.03,9.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+81770,Clayton,26,2019,267,Vasco,5,ata,7,0,0.2,3.33,3.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+81776,Bruno Nazário,26,2019,293,Athlético-PR,4,mei,8,0.5,1.51,2.36,2.4,0.04,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+81798,Rossi,26,2019,267,Vasco,5,ata,19,8.6,1.69,4.25,5.41,1.16,1,2,1,0,1,0,0,1,0,2,0,0,0,0,0,0,0,0,7,Provável
+81845,Alisson,26,2019,284,Grêmio,4,mei,14,4.1,5.74,9.23,8.31,-0.92,3,2,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+81881,João Ricardo,26,2019,315,Chapecoense,1,gol,3,4,4.23,5.87,5.57,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,7,Provável
+81905,Henrique Dourado,26,2019,275,Palmeiras,5,ata,2,-1,0.5,5.01,4.51,-0.5,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,Dúvida
+81951,Igor Julião,26,2019,266,Fluminense,2,lat,12,0,2.78,4.32,4.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+82407,Chico,26,2019,354,Ceará,4,mei,6,0,0.65,3.68,3.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+82411,Cueva,26,2019,277,Santos,4,mei,5,0,0.38,5.15,5.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+82453,Tadeu,26,2019,290,Goiás,1,gol,24,2,6.53,16.34,15.15,-1.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,7,Provável
+82455,Zé Rafael,26,2019,275,Palmeiras,4,mei,14,-1.3,2.04,8.36,8.1,-0.26,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,6,Nulo
+82474,Gegê,26,2019,314,Avaí,4,mei,9,0,3.39,3.69,3.69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+82613,Alan Costa,26,2019,341,CSA,3,zag,15,-0.6,2.11,4.5600000000000005,4.23,-0.33,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+82628,Tinga,26,2019,356,Fortaleza,2,lat,16,0.6,2.56,2.96,2.3,-0.66,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+82634,Matheus Galdezani,26,2019,285,Internacional,4,mei,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+82635,Igor Fernandes,26,2019,314,Avaí,2,lat,21,0,3.09,5.12,5.12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+82639,Marcelo Hermes,26,2019,290,Goiás,2,lat,9,0,3.16,4.35,4.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+82647,Régis,26,2019,264,Corinthians,4,mei,5,1,1.34,3.27,3.47,0.2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+82653,Victor Rangel,26,2019,263,Botafogo,5,ata,9,0,0.03,1.53,1.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+82730,Marcelo Rangel,26,2019,290,Goiás,1,gol,1,0,12.5,5.43,5.43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+82767,Vinícius Araújo,26,2019,314,Avaí,5,ata,3,1.2,0.63,1.68,1.75,0.07,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+82787,Joel,26,2019,283,Cruzeiro,5,ata,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+82880,Daniel Amorim,26,2019,314,Avaí,5,ata,9,0,1.37,5.13,5.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+82930,Cristovam,26,2019,354,Ceará,2,lat,4,0,1.25,2.34,2.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+82943,Matheus Ribeiro,26,2019,277,Santos,2,lat,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+83004,Otero,26,2019,282,Atlético-MG,4,mei,9,0,3.76,8.56,8.56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+83199,Lucão,26,2019,266,Fluminense,5,ata,3,0.7,0.13,2.71,2.62,-0.09,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,Nulo
+83257,Gabriel,26,2019,262,Flamengo,5,ata,19,7.7,9.81,19.48,20.59,1.11,0,1,0,0,0,0,1,2,0,2,0,0,1,0,0,0,0,0,7,Provável
+83263,Yuri,26,2019,265,Bahia,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+83433,Patrick,26,2019,285,Internacional,4,mei,15,12.5,4.76,8.290000000000001,10.48,2.19,0,1,0,0,0,1,1,0,0,3,1,0,0,0,0,0,0,0,7,Provável
+83438,Guilherme Parede,26,2019,285,Internacional,5,ata,17,2.5,1.74,4.08,4.58,0.5,0,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+83528,Léo Pereira,26,2019,293,Athlético-PR,3,zag,20,-0.6,1.58,7.460000000000001,7.48,0.02,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+83681,Rafinha,26,2019,341,CSA,2,lat,3,0,1.87,3.19,3.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+83772,Neilton,26,2019,285,Internacional,5,ata,10,0,2.54,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+83817,Clayson,26,2019,264,Corinthians,5,ata,21,0,2.72,9.94,9.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+83869,Diego Tavares,26,2019,356,Fortaleza,2,lat,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+84253,Jean Carlos,26,2019,290,Goiás,4,mei,1,0,-2.8,0.78,0.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+84338,Max Walef,26,2019,356,Fortaleza,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+84339,Bruno Melo,26,2019,356,Fortaleza,2,lat,6,8,4.02,3.1999999999999993,4.52,1.32,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,6,Nulo
+84381,Rafinha,26,2019,290,Goiás,4,mei,5,0,1.28,2.73,2.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+84382,Danilo Barcelos,26,2019,267,Vasco,2,lat,16,0,3.24,6.47,6.47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+84428,Fernando Sobral,26,2019,354,Ceará,4,mei,13,0,2.14,5.34,5.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+84462,Bruno Alves,26,2019,341,CSA,5,ata,6,0.4,-0.83,0.77,0.78,0.01,1,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,6,Nulo
+84509,Valdo,26,2019,354,Ceará,3,zag,21,0,2.56,4.49,4.41,-0.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+84523,Romarinho,26,2019,356,Fortaleza,5,ata,20,0,2.73,5.45,5.45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+84554,Lucão,26,2019,290,Goiás,3,zag,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+84709,Nico López,26,2019,285,Internacional,5,ata,18,5.7,3.24,13.44,14.25,0.81,1,1,0,0,3,3,0,1,0,0,0,0,0,0,0,0,0,0,7,Provável
+84847,Luan Peres,26,2019,277,Santos,3,zag,4,0.5,2.7,4.41,3.39,-1.02,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+84854,Lucas Frigeri,26,2019,314,Avaí,1,gol,2,0,3.7,3.88,3.88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+84860,Abner Felipe,26,2019,293,Athlético-PR,2,lat,3,0,6.43,4.81,4.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+84861,Alex Silva,26,2019,314,Avaí,2,lat,1,0,1.7,4.35,4.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+84863,Alberto Valentim,26,2019,263,Botafogo,6,tec,16,3.25,3.19,7.12,6.96,-0.16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+84890,Euller,26,2019,341,CSA,2,lat,6,0,1.65,3.6,3.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+84893,Henrique,26,2019,267,Vasco,2,lat,12,0.5,2.54,4.43,3.89,-0.54,1,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,7,Provável
+85004,Marcos Felipe,26,2019,266,Fluminense,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+85300,Berrío,26,2019,262,Flamengo,5,ata,16,0,1.17,5.06,5.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+85418,Uilson,26,2019,282,Atlético-MG,1,gol,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+85423,Valdívia,26,2019,267,Vasco,4,mei,11,0,1.45,3.86,3.86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+85425,João Paulo,26,2019,277,Santos,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+85465,Alex Santana,26,2019,263,Botafogo,4,mei,15,0,4.82,10.08,10.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+85626,Léo,26,2019,276,São Paulo,2,lat,1,0,-1,3.67,3.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+85931,Hyoran,26,2019,275,Palmeiras,4,mei,5,0,4.16,5.14,5.14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+86116,Mosquera,26,2019,314,Avaí,4,mei,11,0.5,0.89,2.24,2.43,0.19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+86120,Borja,26,2019,275,Palmeiras,5,ata,5,0,1.6,5.77,5.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+86143,Wanderson,26,2019,265,Bahia,3,zag,1,0,-2.5,1.68,1.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+86264,Natanael,26,2019,285,Internacional,2,lat,6,0,1.47,4.46,4.46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+86380,Luanderson,26,2019,314,Avaí,4,mei,2,0,3,2.62,2.62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+86410,Victor Luis,26,2019,275,Palmeiras,2,lat,2,-2,-3.3,5.22,4.17,-1.05,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,3,Suspenso
+86444,Pablo Dyego,26,2019,266,Fluminense,5,ata,3,0,0.73,2.03,2.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+86519,Everton Felipe,26,2019,293,Athlético-PR,4,mei,8,0,0.75,2.17,2.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+86686,Tchê Tchê,26,2019,276,São Paulo,4,mei,24,0.2,1.85,5.180000000000001,4.78,-0.4,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+86711,Richard,26,2019,267,Vasco,4,mei,17,2,2.02,4.33,4.51,0.18,0,0,0,0,1,1,0,0,0,1,3,0,0,0,0,0,0,0,7,Provável
+86740,João Lucas,26,2019,354,Ceará,2,lat,22,1.2,2.33,10.02,9.36,-0.66,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+86749,Felipe Ferreira,26,2019,267,Vasco,4,mei,4,2.5,1.1,2.54,2.88,0.34,0,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+86757,Everton,26,2019,284,Grêmio,5,ata,19,7.2,7.22,17.27,17.39,0.12,3,1,0,0,1,1,0,1,0,3,0,0,0,0,0,0,0,0,6,Nulo
+86759,Luan,26,2019,284,Grêmio,5,ata,20,2,5.3,12.2,11.16,-1.04,1,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+86766,Matheus Rossetto,26,2019,293,Athlético-PR,4,mei,6,0,0.17,2.49,2.49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+86770,João Paulo,26,2019,314,Avaí,4,mei,21,0,2.4,4.94,4.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+86776,Jordi,26,2019,341,CSA,1,gol,24,0,6.1,10.48,10.48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+86797,Raniel,26,2019,276,São Paulo,5,ata,9,0,2.12,6.66,6.66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+86842,Ewandro,26,2019,266,Fluminense,5,ata,2,0,-1.25,2.26,2.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+86859,José Welison,26,2019,282,Atlético-MG,4,mei,9,0,1.97,3.97,3.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+86890,Willian Popp,26,2019,354,Ceará,5,ata,1,0,-1.8,1.81,1.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+86932,Gustavo,26,2019,264,Corinthians,5,ata,13,12.5,2.06,3.02,5.66,2.64,1,1,1,0,0,1,1,0,0,0,3,0,0,0,0,0,0,0,7,Provável
+86972,Emerson Santos,26,2019,285,Internacional,3,zag,11,0,2.88,4.12,4.12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+86973,Leonardo,26,2019,284,Grêmio,2,lat,9,0,2.7,5.41,5.41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+87009,Nathan,26,2019,282,Atlético-MG,4,mei,15,0,2.95,5.3,5.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+87192,Zeca,26,2019,285,Internacional,2,lat,17,4.4,4.07,7.84,7.79,-0.05,1,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,7,Provável
+87225,Pedro Henrique,26,2019,293,Athlético-PR,3,zag,13,0.5,4.46,8.93,8.45,-0.48,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+87258,Soteldo,26,2019,277,Santos,4,mei,22,-0.3,3.08,6.79,6.8,0.01,1,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,7,Provável
+87342,Kannemann,26,2019,284,Grêmio,3,zag,9,1.9,4.24,13.02,11.98,-1.04,1,2,0,0,0,0,0,0,0,4,4,0,1,0,0,0,0,0,6,Nulo
+87393,Gabriel,26,2019,263,Botafogo,3,zag,24,0,3.41,8.520000000000001,8.63,0.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+87437,Caíque Sá,26,2019,315,Chapecoense,2,lat,2,0,-0.25,3.03,3.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+87470,Thaciano,26,2019,284,Grêmio,4,mei,19,3.8,2.52,4.71,5.09,0.38,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,7,Provável
+87552,Vitor Bueno,26,2019,276,São Paulo,4,mei,16,1.5,2.73,6.53,5.75,-0.78,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,2,Dúvida
+87679,Tréllez,26,2019,285,Internacional,5,ata,4,0,1.58,4.35,4.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+87747,Yago Felipe,26,2019,290,Goiás,4,mei,20,9.5,3.57,5.66,6.48,0.82,2,1,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,7,Provável
+87863,Arrascaeta,26,2019,262,Flamengo,4,mei,14,0,11.75,18.35,18.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+87877,Sornoza,26,2019,264,Corinthians,4,mei,15,-3.5,2,4.42,3.99,-0.43,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,7,Provável
+87929,Matheus Vargas,26,2019,356,Fortaleza,4,mei,2,0,1.6,2.2,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+87999,Gustavo Scarpa,26,2019,275,Palmeiras,4,mei,18,2.9,3.43,6.48,5.48,-1,1,2,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,7,Provável
+88065,Jorge,26,2019,277,Santos,2,lat,21,0.7,7,16.53,14.99,-1.54,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,Dúvida
+88125,Yuri,26,2019,263,Botafogo,4,mei,7,3.2,0.59,2.15,2.37,0.22,2,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,7,Provável
+88224,Paulo Ricardo,26,2019,290,Goiás,3,zag,1,0,-0.3,2.22,2.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+88225,Daniel Guedes,26,2019,290,Goiás,2,lat,14,0,2.31,5.6,5.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,Suspenso
+88368,Gabriel Dias,26,2019,356,Fortaleza,4,mei,20,0,1.29,2.81,2.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+88427,Marlon,26,2019,356,Fortaleza,4,mei,14,3,0.39,2.66,3.33,0.67,1,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,6,Nulo
+88651,Vinícius Tanque,26,2019,263,Botafogo,5,ata,4,0,-0.72,1.21,1.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+88669,Leandro Carvalho,26,2019,354,Ceará,5,ata,19,0,3.42,10.65,10.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+89101,Bruno Sávio,26,2019,314,Avaí,5,ata,4,0,1.63,2.22,2.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+89150,Jean,26,2019,263,Botafogo,4,mei,3,0,0.93,3.57,3.57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+89226,Iago Maidana,26,2019,282,Atlético-MG,3,zag,4,0,3.35,3.9,3.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+89256,Gerson,26,2019,262,Flamengo,4,mei,16,-0.3,3.85,8.74,8.69,-0.05,2,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Dúvida
+89273,João Pedro,26,2019,265,Bahia,2,lat,3,8.6,4.3,3.95,5.7,1.75,1,0,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,2,Dúvida
+89342,Caju,26,2019,277,Santos,2,lat,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+89492,Saulo,26,2019,263,Botafogo,1,gol,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+89493,Igor Rabello,26,2019,282,Atlético-MG,3,zag,22,-3.5,2.13,8.64,7.88,-0.76,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,7,Provável
+89815,Gustavo Ferrareis,26,2019,314,Avaí,4,mei,9,0,0.74,3.21,3.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+89883,Dodi,26,2019,266,Fluminense,4,mei,3,0,0.4,2.25,2.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+90061,Bruno Pacheco,26,2019,315,Chapecoense,2,lat,23,-1,3.44,12.719999999999999,12.19,-0.53,1,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,7,Provável
+90118,Yago Rocha,26,2019,290,Goiás,2,lat,10,1.2,2.04,2.58,1.86,-0.72,1,2,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,7,Provável
+90285,Bruno Henrique,26,2019,262,Flamengo,5,ata,23,0,6.75,21.28,21.28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+90302,Pedro Rocha,26,2019,283,Cruzeiro,5,ata,17,0,2.95,9.73,9.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+90309,David,26,2019,283,Cruzeiro,5,ata,24,-3.4,1.11,4.890000000000001,3.97,-0.92,0,3,0,0,0,0,0,0,0,1,4,0,1,0,0,0,0,0,3,Suspenso
+90444,Moisés,26,2019,265,Bahia,2,lat,20,0,5.65,13.92,13.92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+90569,Yuri Lima,26,2019,266,Fluminense,4,mei,14,0,0.57,2.08,2.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+90572,Léo Sena,26,2019,290,Goiás,4,mei,20,7.8,4.9,8.83,9.28,0.45,6,0,0,0,0,1,0,0,0,3,1,0,0,0,0,0,0,0,7,Provável
+90715,Luiz Fernando,26,2019,263,Botafogo,4,mei,23,4,1.38,3.97,4.57,0.6,2,2,0,0,0,2,0,0,0,2,2,0,0,0,0,0,0,0,7,Provável
+90768,Fabrício Bruno,26,2019,283,Cruzeiro,3,zag,12,7.2,3.32,4.93,5.95,1.02,2,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,7,Provável
+90843,Elias,26,2019,315,Chapecoense,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+90846,Klaus,26,2019,285,Internacional,3,zag,10,0,1.23,3.11,3.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+90917,Carlos Eduardo,26,2019,275,Palmeiras,5,ata,4,0,-0.2,2.89,2.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+90933,Jean,26,2019,276,São Paulo,1,gol,0,0,-2,3.32,3.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+90943,Zé Marcos,26,2019,314,Avaí,3,zag,1,0,-0.1,0.77,0.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+91102,Flávio,26,2019,265,Bahia,4,mei,18,3,2.2,4.79,3.7,-1.09,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,7,Provável
+91130,Fernandinho,26,2019,265,Bahia,5,ata,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+91151,Everaldo,26,2019,264,Corinthians,5,ata,10,0,2.62,3.91,3.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+91191,Gustavo Blanco,26,2019,282,Atlético-MG,4,mei,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+91201,Pepê,26,2019,284,Grêmio,5,ata,20,1.2,3.29,7.58,5.53,-2.05,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+91242,Leandro Barcia,26,2019,290,Goiás,5,ata,23,8.5,3.3,8.48,9.81,1.33,1,0,0,0,0,0,1,0,0,2,2,0,1,0,0,0,0,0,3,Suspenso
+91251,Rodriguez,26,2019,284,Grêmio,3,zag,6,0,6.17,4.69,4.69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+91260,Lucas Perri,26,2019,276,São Paulo,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+91508,Leonardo Valencia,26,2019,263,Botafogo,4,mei,12,1,1.34,3.59,3.73,0.14,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+91573,Arboleda,26,2019,276,São Paulo,3,zag,17,0.5,2.24,7.26,6.37,-0.89,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+91607,Rony,26,2019,293,Athlético-PR,5,ata,19,8.4,5.25,12.68,13.86,1.18,1,1,1,0,1,0,0,0,0,2,2,0,0,0,0,0,0,0,7,Provável
+91708,Nino,26,2019,266,Fluminense,3,zag,23,1.7,3.02,5.33,4.32,-1.01,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+91712,Matheus Alves,26,2019,290,Goiás,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+91733,Felipe,26,2019,356,Fortaleza,4,mei,20,0,2.65,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+91772,David Duarte,26,2019,290,Goiás,3,zag,7,0,2.92,8.03,8.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+91808,Caíque França,26,2019,264,Corinthians,1,gol,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+91888,Kevin,26,2019,290,Goiás,2,lat,4,0,1.97,6.04,6.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+91972,João Paulo,26,2019,354,Ceará,5,ata,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+92085,Giovanny,26,2019,290,Goiás,5,ata,1,0,-1.6,1.24,1.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+92146,André Luís,26,2019,356,Fortaleza,5,ata,17,2.2,2.01,4.55,4.52,-0.03,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+92155,Ramón Martínez,26,2019,282,Atlético-MG,4,mei,7,0,1.78,4.73,4.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+92182,Juninho,26,2019,265,Bahia,3,zag,16,5.9,4.03,5.93,6.87,0.94,2,2,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,7,Provável
+92496,Raul,26,2019,267,Vasco,4,mei,19,0,4.48,7.94,7.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+92696,Renato Kayzer,26,2019,315,Chapecoense,5,ata,11,0,1.21,2.18,2.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+92708,Deyverson,26,2019,275,Palmeiras,5,ata,12,0.7,3.21,9.379999999999999,9.29,-0.09,2,3,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+92841,Fernando Medeiros,26,2019,265,Bahia,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+92981,Ronaldo,26,2019,265,Bahia,4,mei,12,0,3.1,4.91,4.38,-0.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+93108,Mateus Vital,26,2019,264,Corinthians,4,mei,18,2.3,4.05,7.68,7.39,-0.29,2,1,0,0,1,3,0,0,0,0,4,0,0,0,0,0,0,0,7,Provável
+93151,Thiago Santos,26,2019,315,Chapecoense,5,ata,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+93368,Lucas Veríssimo,26,2019,277,Santos,3,zag,23,4.5,3.77,9.66,9.72,0.06,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,7,Provável
+93377,Jobson,26,2019,277,Santos,4,mei,1,2.5,2.5,4,3.57,-0.43,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,6,Nulo
+93414,Joel Carli,26,2019,263,Botafogo,3,zag,17,0,1.43,5.59,5.59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+93659,Michael,26,2019,282,Atlético-MG,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+93782,Alisson Safira,26,2019,341,CSA,5,ata,4,0,0.65,3.13,3.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+93785,Alan Cardoso,26,2019,277,Santos,2,lat,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+93787,Andrey,26,2019,267,Vasco,4,mei,14,0,2.73,5.89,5.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+93791,Daniel,26,2019,266,Fluminense,4,mei,19,-0.6,1.7,5.7,4.17,-1.53,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+93795,Matheus Cabral,26,2019,354,Ceará,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+93797,Marcinho,26,2019,263,Botafogo,2,lat,18,5.1,3.57,6.36,7.37,1.01,0,3,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,7,Provável
+93834,Keiller,26,2019,285,Internacional,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+93869,Lucas França,26,2019,354,Ceará,1,gol,1,0,4,2.36,2.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+93882,Cleiton,26,2019,282,Atlético-MG,1,gol,13,-3.8,1.53,2.39,1.72,-0.67,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,Provável
+93893,Marcos Júnior,26,2019,267,Vasco,4,mei,18,1.3,1.68,3.44,3.66,0.22,0,3,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,6,Nulo
+94044,John Victor,26,2019,277,Santos,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+94067,Matheus Fernandes,26,2019,275,Palmeiras,4,mei,5,0,1.7,4.03,4.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+94068,Ribamar,26,2019,267,Vasco,5,ata,9,8.7,3.05,2.59,4.1,1.51,2,0,0,0,1,0,1,0,0,0,3,0,0,0,0,0,0,0,7,Provável
+94138,Felipe Vizeu,26,2019,284,Grêmio,5,ata,9,0,0.67,2.41,2.41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+94156,Diego Pituca,26,2019,277,Santos,4,mei,24,-0.3,1.18,2.88,3.05,0.17,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+94297,William Oliveira,26,2019,354,Ceará,4,mei,8,-1.3,0.43,2.07,1.88,-0.19,3,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,7,Provável
+94495,Alessandro Vinícius,26,2019,282,Atlético-MG,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+94509,Raphael Veiga,26,2019,275,Palmeiras,4,mei,9,1.4,2.76,7.06,6.96,-0.1,0,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0,6,Nulo
+94542,Jarro Pedroso,26,2019,341,CSA,5,ata,3,0,-0.5,1.05,1.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+94857,Jonatan Gomez,26,2019,341,CSA,4,mei,18,9.4,5.24,5.72,7.13,1.41,3,7,0,0,0,0,1,0,0,2,2,0,0,0,0,0,0,0,7,Provável
+94931,Lucas Fernandes,26,2019,276,São Paulo,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+94968,Juninho Capixaba,26,2019,284,Grêmio,2,lat,14,0,3.54,7.25,7.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+94975,Marco Antônio,26,2019,265,Bahia,4,mei,1,1,1,3,2.52,-0.48,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+94976,Zeca,26,2019,290,Goiás,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+94980,Geovane Itinga,26,2019,265,Bahia,5,ata,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+94981,Felipinho,26,2019,265,Bahia,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+94982,Max,26,2019,265,Bahia,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+95220,Jefferson,26,2019,290,Goiás,2,lat,23,5.8,4.81,11.69,12.19,0.5,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+95222,Thalles,26,2019,290,Goiás,4,mei,1,0,2,1.89,1.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+95246,Matheus Lucas,26,2019,314,Avaí,5,ata,2,0.7,1.1,1.1600000000000001,1.1,-0.06,3,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,Nulo
+95335,Matheus Jesus,26,2019,264,Corinthians,4,mei,5,0,2.4,4.5,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+95352,Orejuela,26,2019,283,Cruzeiro,2,lat,12,0,2.41,5.03,5.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+95464,Gregore,26,2019,265,Bahia,4,mei,23,5,2.13,9.040000000000001,10.23,1.19,1,1,0,0,0,1,0,0,0,5,3,0,1,0,0,0,0,0,7,Provável
+95466,Igor Vinícius,26,2019,276,São Paulo,2,lat,15,0,3.67,8.7,8.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+95476,Kunde,26,2019,314,Avaí,3,zag,4,0,0.1,0.75,0.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+95494,Aguilar,26,2019,277,Santos,3,zag,16,0,3.42,6.33,6.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+95542,Orinho,26,2019,266,Fluminense,2,lat,4,0.7,4.92,4.54,2.97,-1.57,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,6,Nulo
+95638,Marcelo Benevenuto,26,2019,263,Botafogo,3,zag,11,10.7,1.94,3.5700000000000003,5.82,2.25,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+95660,Araruna,26,2019,356,Fortaleza,4,mei,5,3.9,1.46,3.1999999999999997,3.53,0.33,0,2,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,6,Nulo
+95798,Gustavo Bochecha,26,2019,263,Botafogo,4,mei,19,2.9,1.67,5.88,6.05,0.17,0,3,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,7,Provável
+95799,Artur,26,2019,265,Bahia,5,ata,22,3.4,2.84,8.96,9.8,0.84,0,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+95802,Piris da Motta,26,2019,262,Flamengo,4,mei,18,1.7,0.66,3,3.33,0.33,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,Dúvida
+95820,Léo Santos,26,2019,264,Corinthians,3,zag,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+95860,Ruan,26,2019,315,Chapecoense,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+95875,Hugo Borges,26,2019,267,Vasco,5,ata,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+96340,Lima,26,2019,354,Ceará,4,mei,10,7.2,5,5.8100000000000005,6.78,0.97,1,1,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,7,Provável
+96382,Quintero,26,2019,356,Fortaleza,3,zag,25,0.5,1.46,3.5599999999999996,3.28,-0.28,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+96454,Evando Camillato,26,2019,314,Avaí,6,tec,2,3.22,2.63,6.42,6.88,0.46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+96464,Maurício,26,2019,314,Avaí,3,zag,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+96468,Daniel,26,2019,285,Internacional,1,gol,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+96652,Allan,26,2019,266,Fluminense,4,mei,19,2.9,0.47,1.35,2.1,0.75,0,3,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,7,Provável
+96965,Léo Lopes,26,2019,314,Avaí,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+96966,Arthur Gomes,26,2019,315,Chapecoense,5,ata,21,0,2.7,5.09,5.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97080,Yony González,26,2019,266,Fluminense,5,ata,22,2.4,5.64,12.950000000000001,12.9,-0.05,2,3,0,0,0,1,0,0,0,2,3,0,0,0,0,0,0,0,7,Provável
+97133,Dudu,26,2019,285,Internacional,2,lat,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97245,Janderson,26,2019,264,Corinthians,5,ata,7,9.3,2.4,1.1099999999999999,2.86,1.75,1,3,0,0,0,4,1,0,0,0,3,0,0,0,0,0,0,0,7,Provável
+97315,Mantuan,26,2019,264,Corinthians,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97341,Rogério Ceni,26,2019,356,Fortaleza,6,tec,24,2.45,3.26,7.74,8.15,0.41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+97352,Pachu,26,2019,263,Botafogo,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97452,Marcos Calazans,26,2019,276,São Paulo,5,ata,3,0,0.17,2.38,2.38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97520,Shaylon,26,2019,265,Bahia,4,mei,6,0,0.32,2.99,2.99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97522,Lepu,26,2019,265,Bahia,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97527,Matheus Alessandro,26,2019,356,Fortaleza,5,ata,4,0,0.75,2.1,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97528,Frazan,26,2019,266,Fluminense,3,zag,10,9.7,2.29,2.6399999999999997,3.65,1.01,0,1,0,0,0,0,1,0,0,2,2,0,0,0,0,0,0,0,7,Provável
+97535,Hiago,26,2019,315,Chapecoense,3,zag,1,0,-0.5,1.45,1.45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97536,Bryan,26,2019,315,Chapecoense,2,lat,9,0,1.22,2.6,2.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97543,Fernando,26,2019,282,Atlético-MG,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97619,Tomás Andrade,26,2019,293,Athlético-PR,4,mei,10,0,0.69,3.82,3.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97780,Dawhan,26,2019,341,CSA,4,mei,21,-1.3,1.29,6.02,5.56,-0.46,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,7,Provável
+97902,Rafael,26,2019,262,Flamengo,3,zag,1,0,-1.2,0.73,0.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97907,Rafael Santos,26,2019,283,Cruzeiro,2,lat,2,0,1.65,0.9,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97993,Jhonata,26,2019,284,Grêmio,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97994,Fessin,26,2019,264,Corinthians,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+97995,Dalberto,26,2019,315,Chapecoense,5,ata,1,0,0,2.34,2.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+98022,Erick,26,2019,293,Athlético-PR,4,mei,8,0,1.56,2.98,2.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98057,Tiago Nunes,26,2019,293,Athlético-PR,6,tec,25,4.03,3.64,9.8,10.42,0.62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+98224,Jaderson,26,2019,293,Athlético-PR,4,mei,1,0,0,0.76,0.76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98333,Gabriel Batista,26,2019,262,Flamengo,1,gol,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98352,Bruno Guimarães,26,2019,293,Athlético-PR,4,mei,17,5.3,3.97,11.82,12.51,0.69,3,4,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,7,Provável
+98400,Gabriel Lima,26,2019,314,Avaí,5,ata,1,0,0.5,2.4,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98412,Tiepo,26,2019,315,Chapecoense,1,gol,22,-2,3.16,13.79,12.51,-1.28,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,Nulo
+98419,Ronei,26,2019,315,Chapecoense,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98421,Kendy,26,2019,315,Chapecoense,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98484,Kanu,26,2019,263,Botafogo,3,zag,2,-0.8,0.9,1.4100000000000001,0.93,-0.48,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,Nulo
+98494,Lucas Bessa,26,2019,285,Internacional,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98496,Vinícius,26,2019,283,Cruzeiro,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98497,Natan,26,2019,275,Palmeiras,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98515,Lucas Silva,26,2019,262,Flamengo,5,ata,7,0,0.5,1.39,1.48,0.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98569,Caio Henrique,26,2019,266,Fluminense,4,mei,23,6.9,2.58,5.819999999999999,6.85,1.03,1,2,0,0,1,1,0,0,0,4,2,0,0,0,0,0,0,0,7,Provável
+98706,Pedrinho,26,2019,264,Corinthians,4,mei,17,-0.8,4.72,11.540000000000001,10.74,-0.8,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+98760,Mariano Vázquez,26,2019,356,Fortaleza,4,mei,6,0,1.9,3.43,3.43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98765,Marquinhos,26,2019,282,Atlético-MG,4,mei,3,0.5,0.8,0.8500000000000001,0.91,0.06,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+98794,Diego Torres,26,2019,315,Chapecoense,4,mei,11,0,2.25,4.03,4.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98822,Lucas Hernández,26,2019,282,Atlético-MG,2,lat,4,0,-0.62,1.97,1.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98832,Jean Pyerre,26,2019,284,Grêmio,4,mei,10,0,5.61,10.48,10.48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+98888,Cláudio Vitor,26,2019,314,Avaí,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+99032,Lourenço,26,2019,314,Avaí,5,ata,20,-0.6,2.53,4.83,4.49,-0.34,0,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+99392,Michael,26,2019,290,Goiás,5,ata,25,4.3,4.6,9.61,8.67,-0.94,2,1,0,0,0,2,1,1,0,0,1,0,0,1,0,0,0,0,3,Suspenso
+99430,Diego,26,2019,263,Botafogo,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+99459,Jean,26,2019,314,Avaí,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+99460,Caio,26,2019,293,Athlético-PR,1,gol,3,0,1.6,1.25,1.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+99462,Wesley,26,2019,314,Avaí,4,mei,2,-5.5,-3,1.4500000000000002,0.78,-0.67,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,3,Suspenso
+99474,Wenderson,26,2019,263,Botafogo,4,mei,1,0,2.9,3.4,3.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+99550,Fernando,26,2019,263,Botafogo,2,lat,16,0,2.66,4.04,4.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+99661,Igor Cássio,26,2019,263,Botafogo,5,ata,3,0,-0.1,1.18,1.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+99721,Mascarenhas,26,2019,266,Fluminense,2,lat,1,0,-2.3,1.75,1.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+99789,Brenner,26,2019,266,Fluminense,5,ata,6,0,2.3,3.14,3.14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+99802,Richard Franco,26,2019,314,Avaí,4,mei,16,4.5,3.55,5.4799999999999995,6.05,0.57,2,5,0,0,2,2,0,0,0,3,3,0,1,0,0,0,0,0,7,Provável
+99881,Ricardo,26,2019,267,Vasco,3,zag,12,0,3,7.73,7.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+99891,Chará,26,2019,282,Atlético-MG,5,ata,18,0,4.21,11.57,11.57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+99900,Luan Pereira,26,2019,314,Avaí,4,mei,11,2.9,1.15,2.54,2.89,0.35,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6,Nulo
+99903,Lucas Campos,26,2019,263,Botafogo,5,ata,8,0,1.54,1.73,1.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+99915,Ezequiel,26,2019,283,Cruzeiro,5,ata,5,0,1.96,4.4,4.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+99918,Patrick,26,2019,284,Grêmio,4,mei,12,-0.3,1.77,3.47,2.14,-1.33,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,Provável
+100002,Rickson,26,2019,263,Botafogo,4,mei,4,0,1.35,1.73,1.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100065,Lincoln,26,2019,262,Flamengo,5,ata,8,0,1.97,3.74,3.74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100084,Igor Gomes,26,2019,276,São Paulo,4,mei,16,-0.8,0.77,1.36,1.03,-0.33,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Dúvida
+100103,Pedrinho,26,2019,293,Athlético-PR,5,ata,4,0.7,0.55,0.97,1.01,0.04,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,Nulo
+100125,Thuler,26,2019,262,Flamengo,3,zag,10,0,1.34,2.95,2.95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+100289,Felipe Pires,26,2019,356,Fortaleza,5,ata,9,4.8,3.1,4.470000000000001,5.15,0.68,3,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,6,Nulo
+100290,Lucas Venuto,26,2019,277,Santos,5,ata,3,0,-0.17,1.89,1.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100425,Bustamante,26,2019,341,CSA,5,ata,13,0.8,1.81,2.79,2.74,-0.05,0,0,0,0,0,1,0,0,0,1,3,0,0,0,0,0,0,0,2,Dúvida
+100430,Matheus Matias,26,2019,314,Avaí,5,ata,2,0,-0.1,1.79,1.79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100652,Yuri Alberto,26,2019,277,Santos,5,ata,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100712,Filipe,26,2019,264,Corinthians,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100742,Matheus Henrique,26,2019,284,Grêmio,4,mei,13,0.5,1.06,3.0700000000000003,3.33,0.26,0,1,0,0,0,1,0,0,0,2,2,0,1,0,0,0,0,0,6,Nulo
+100761,Liziero,26,2019,276,São Paulo,4,mei,12,-0.3,1.35,4.63,3.8,-0.83,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100763,Gabriel Sara,26,2019,276,São Paulo,4,mei,2,0,0.05,0.77,0.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100830,Brenno,26,2019,284,Grêmio,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100840,Emanuel,26,2019,284,Grêmio,3,zag,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100842,Ruan,26,2019,284,Grêmio,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100843,Felipe,26,2019,284,Grêmio,2,lat,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100846,Esteves,26,2019,275,Palmeiras,2,lat,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100963,Felippe Cardoso,26,2019,354,Ceará,5,ata,15,0,1.94,2.98,2.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+100987,Nonato,26,2019,285,Internacional,4,mei,21,0,3.57,9.09,9.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101040,Rony,26,2019,276,São Paulo,3,zag,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101290,Ferreira,26,2019,284,Grêmio,5,ata,1,0,8.5,4.77,4.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101315,Sarrafiore,26,2019,285,Internacional,4,mei,15,7.5,1.92,3.6100000000000003,4.75,1.14,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,6,Nulo
+101316,Gustavo,26,2019,314,Avaí,3,zag,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101319,Guga,26,2019,282,Atlético-MG,2,lat,12,2.6,4.02,8.38,7.79,-0.59,3,3,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,7,Provável
+101375,Matheus Prado,26,2019,341,CSA,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101421,Igor Campos,26,2019,315,Chapecoense,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101422,Bruno Silva,26,2019,282,Atlético-MG,5,ata,1,0,-0.3,2.8,2.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101483,Isaque,26,2019,284,Grêmio,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101484,Thonny Anderson,26,2019,293,Athlético-PR,4,mei,17,0.7,3.65,5.42,4.76,-0.66,3,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,7,Provável
+101491,Ricardo,26,2019,314,Avaí,3,zag,16,2.7,2.16,4.08,4.56,0.48,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,7,Provável
+101512,Joelson,26,2019,341,CSA,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101573,Pepê,26,2019,262,Flamengo,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101574,Hugo Souza,26,2019,262,Flamengo,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101579,Robson Bambu,26,2019,293,Athlético-PR,3,zag,4,0,3.12,4.97,4.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101580,Lucas Lourenço,26,2019,277,Santos,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101592,Matheus Dantas,26,2019,262,Flamengo,3,zag,1,0,-0.6,1.25,1.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101594,Hugo Moura,26,2019,262,Flamengo,4,mei,1,0,0.3,2.97,2.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101596,Vitor Gabriel,26,2019,262,Flamengo,5,ata,1,7.2,7.2,2,2.86,0.86,1,0,1,0,1,0,0,0,0,1,2,0,0,0,0,0,0,0,6,Nulo
+101597,Ramon,26,2019,262,Flamengo,2,lat,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101601,Caio,26,2019,266,Fluminense,4,mei,1,0,-2.5,1.07,1.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101606,Evanilson,26,2019,266,Fluminense,5,ata,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101622,Lucas Barcelos,26,2019,266,Fluminense,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101626,Xandão,26,2019,265,Bahia,3,zag,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101647,Ulisses,26,2019,267,Vasco,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101679,Ricardo Verza,26,2019,290,Goiás,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101708,Felipe Jonatan,26,2019,277,Santos,2,lat,17,0,3.57,9.63,9.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101715,Alerrandro,26,2019,282,Atlético-MG,5,ata,10,0,5.15,6.27,6.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101716,Bruninho,26,2019,282,Atlético-MG,4,mei,7,0,3.13,2.08,2.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101717,Marrony,26,2019,267,Vasco,5,ata,22,7.4,2.75,10.79,12,1.21,2,1,1,0,1,0,0,0,0,1,2,0,0,0,0,0,0,0,7,Provável
+101719,Rafael França,26,2019,267,Vasco,2,lat,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101720,Miranda,26,2019,267,Vasco,3,zag,1,0,0.7,2.57,2.57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101721,João Pedro Borges,26,2019,267,Vasco,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101728,Diego,26,2019,276,São Paulo,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101729,Fabinho,26,2019,276,São Paulo,5,ata,1,0,-0.5,0.77,0.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101796,Gonzalo Carneiro,26,2019,276,São Paulo,5,ata,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,Suspenso
+101803,Carlos Augusto,26,2019,264,Corinthians,2,lat,9,1.5,2.69,5.25,4.96,-0.29,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,6,Nulo
+101837,Lucas Paes,26,2019,276,São Paulo,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101846,Iury,26,2019,314,Avaí,2,lat,10,0,2.94,6.43,6.43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+101861,Felipe Sousa,26,2019,282,Atlético-MG,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101885,Toró,26,2019,276,São Paulo,5,ata,15,0,2.18,4.99,4.99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+101889,Igor Goularte,26,2019,314,Avaí,4,mei,3,0.5,2.3,3.02,2.59,-0.43,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+101911,Gabriel Calabres,26,2019,315,Chapecoense,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101960,Vitinho,26,2019,293,Athlético-PR,5,ata,10,0,2.93,2.74,2.74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+101997,Braian Romero,26,2019,293,Athlético-PR,5,ata,11,0,3.28,4.48,4.48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102137,Vitor Eudes,26,2019,283,Cruzeiro,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102139,Jairinho,26,2019,267,Vasco,5,ata,4,0,1.77,2.89,2.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102253,Lucas Halter,26,2019,293,Athlético-PR,3,zag,9,0,1.61,3.09,3.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102290,Gabriel,26,2019,293,Athlético-PR,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102301,Bruno Leite,26,2019,293,Athlético-PR,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+102302,Papagaio,26,2019,290,Goiás,5,ata,7,0,0.7,1.43,1.43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+102318,Caio Paulista,26,2019,314,Avaí,5,ata,20,1.4,2.8,4.03,4.12,0.09,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102340,Cacá,26,2019,283,Cruzeiro,3,zag,8,0,2.02,1.79,1.79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102380,Marcinho,26,2019,314,Avaí,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102452,Vital,26,2019,341,CSA,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102563,Kaio,26,2019,290,Goiás,4,mei,5,0,0.52,1.05,1.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+102565,Miguel Figueira,26,2019,290,Goiás,4,mei,1,0,0.5,0.86,0.86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102581,Dudu,26,2019,290,Goiás,5,ata,2,-0.5,-0.25,1.54,1.33,-0.21,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,Nulo
+102598,Helinho,26,2019,276,São Paulo,5,ata,6,0,-0.23,2.56,2.56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102599,Thiaguinho,26,2019,264,Corinthians,4,mei,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102609,Fernando Castro,26,2019,265,Bahia,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102686,Yago Darub,26,2019,262,Flamengo,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102700,Hulk,26,2019,282,Atlético-MG,2,lat,1,0,2.5,2.75,2.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102719,Moresche,26,2019,267,Vasco,5,ata,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102771,Rodrigo Fernandes,26,2019,267,Vasco,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102852,Dudu,26,2019,267,Vasco,4,mei,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102878,Terans,26,2019,282,Atlético-MG,4,mei,1,0,0.4,3.94,3.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102891,Romarinho Gouveia,26,2019,356,Fortaleza,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102892,Yann Rolim,26,2019,315,Chapecoense,4,mei,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+102906,Anderson,26,2019,293,Athlético-PR,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102907,Matheus Teixeira,26,2019,275,Palmeiras,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102909,Luan,26,2019,276,São Paulo,4,mei,16,0.5,0.84,3.0100000000000002,3.04,0.03,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+102911,Zé Ricardo,26,2019,266,Fluminense,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102912,César,26,2019,266,Fluminense,2,lat,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102958,Rhuan,26,2019,263,Botafogo,5,ata,2,0,-0.3,0.77,0.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102997,Tharlis,26,2019,315,Chapecoense,4,mei,2,0,1.7,2.84,2.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102998,Vini Locatelli,26,2019,315,Chapecoense,4,mei,4,0,2.95,1.64,1.64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+102999,Régis,26,2019,315,Chapecoense,4,mei,12,2.3,1.49,4.54,3.87,-0.67,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6,Nulo
+103069,Antonini,26,2019,284,Grêmio,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103076,Mateus Gonçalves,26,2019,354,Ceará,5,ata,15,0,1.29,2.79,2.79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103099,Éderson,26,2019,283,Cruzeiro,4,mei,10,0.2,1.45,2.36,2.02,-0.34,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,7,Provável
+103183,Andrew,26,2019,263,Botafogo,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103445,Kaio Jorge,26,2019,277,Santos,5,ata,1,0,0,0.75,0.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103446,Yuri,26,2019,262,Flamengo,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103455,Antony,26,2019,276,São Paulo,5,ata,18,3.8,4.21,12.48,11.6,-0.88,2,4,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,2,Dúvida
+103523,Ignácio,26,2019,265,Bahia,3,zag,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103524,Phelipe,26,2019,284,Grêmio,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103579,Michel,26,2019,283,Cruzeiro,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103645,Marcos Paulo,26,2019,266,Fluminense,5,ata,12,0,3.33,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103662,Júnior,26,2019,276,São Paulo,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103684,Kaique Rocha,26,2019,277,Santos,3,zag,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103695,Jadsom Silva,26,2019,283,Cruzeiro,4,mei,1,0,0,0.76,0.76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103700,Bruno Méndez,26,2019,264,Corinthians,3,zag,4,-0.8,2.25,5.01,4.33,-0.68,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,7,Provável
+103706,Neto,26,2019,282,Atlético-MG,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103724,Anderson Ceará,26,2019,277,Santos,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+103764,Veron,26,2019,275,Palmeiras,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104026,João Pedro,26,2019,266,Fluminense,5,ata,20,0.2,4.33,6.46,6.02,-0.44,0,2,0,0,0,1,0,1,0,1,2,0,0,0,0,0,0,0,6,Nulo
+104074,Walce,26,2019,276,São Paulo,3,zag,3,0,3.57,3.67,3.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104080,André,26,2019,263,Botafogo,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104081,Alessandro,26,2019,263,Botafogo,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104084,Carlos Miguel,26,2019,285,Internacional,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104085,Bruno Fuchs,26,2019,285,Internacional,3,zag,6,3.5,3.08,2.44,2.77,0.33,2,5,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,7,Provável
+104086,Roberto,26,2019,285,Internacional,3,zag,5,3.2,1.88,2.6900000000000004,2.43,-0.26,0,0,0,0,1,0,0,0,0,0,2,0,1,0,1,0,0,0,6,Nulo
+104087,Pedro Lucas,26,2019,285,Internacional,5,ata,4,0,-0.45,2.45,2.45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104088,Matheus Stockl,26,2019,282,Atlético-MG,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104104,Falcão,26,2019,314,Avaí,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104128,Jaques,26,2019,265,Bahia,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104250,João Victor,26,2019,264,Corinthians,3,zag,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104257,João Lucas,26,2019,262,Flamengo,2,lat,5,-2.5,4.16,3.41,2.39,-1.02,1,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,2,Dúvida
+104276,Calegari,26,2019,266,Fluminense,2,lat,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104325,Arthur,26,2019,315,Chapecoense,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104326,Nuno,26,2019,314,Avaí,3,zag,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104327,Dudu,26,2019,314,Avaí,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104328,Rodrigo,26,2019,314,Avaí,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104329,João Vitor,26,2019,314,Avaí,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104333,Julian,26,2019,314,Avaí,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104356,Lucas Dias,26,2019,341,CSA,3,zag,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104362,Gustavo Coutinho,26,2019,356,Fortaleza,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104401,Vitor Mendes,26,2019,282,Atlético-MG,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104404,Gabriel,26,2019,282,Atlético-MG,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104408,Igor Reis,26,2019,282,Atlético-MG,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104415,Talison,26,2019,282,Atlético-MG,2,lat,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104459,Rick,26,2019,354,Ceará,5,ata,4,0,0.82,1.82,1.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104513,Abner Vinícius,26,2019,293,Athlético-PR,2,lat,5,0,2.06,5.07,5.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104578,Tailson,26,2019,277,Santos,5,ata,4,3.1,2.33,0.77,1.52,0.75,3,3,0,0,2,2,0,1,0,0,2,0,0,0,0,0,0,0,2,Dúvida
+104580,Sandry,26,2019,277,Santos,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104591,Caíque,26,2019,265,Bahia,5,ata,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104593,Darlan,26,2019,284,Grêmio,4,mei,8,0,1.1,1.72,1.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+104622,Hélio Júnior,26,2019,282,Atlético-MG,2,lat,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104625,Weverton,26,2019,283,Cruzeiro,2,lat,4,0,3.25,2.61,2.61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104634,Douglas Borel,26,2019,265,Bahia,2,lat,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104646,Warley,26,2019,341,CSA,2,lat,2,0.5,0.5,1.6800000000000002,1.62,-0.06,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+104649,Heitor,26,2019,285,Internacional,2,lat,9,6,3.59,3.08,2.8,-0.28,0,4,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,7,Provável
+104650,Lucas Barros,26,2019,263,Botafogo,2,lat,7,-0.5,0.72,0.86,0.83,-0.03,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,Nulo
+104651,Lucas Alves,26,2019,263,Botafogo,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104660,Vinícius,26,2019,290,Goiás,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104678,Tiago Reis,26,2019,267,Vasco,5,ata,8,0,1.74,4.08,4.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104824,Gerson Júnior,26,2019,341,CSA,5,ata,2,0,0,0.75,0.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104991,Igo,26,2019,341,CSA,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+104994,Wagner Leonardo,26,2019,277,Santos,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105049,Luis Henrique,26,2019,263,Botafogo,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105068,Reinier,26,2019,262,Flamengo,4,mei,6,8,5.37,4.53,4.48,-0.05,0,2,0,0,0,2,1,0,0,1,1,0,1,0,0,0,0,0,2,Dúvida
+105111,Bruninho,26,2019,277,Santos,5,ata,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105173,Talison,26,2019,356,Fortaleza,2,lat,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105175,Khellven,26,2019,293,Athlético-PR,2,lat,2,0,1.65,1.25,1.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105176,Luiz Fernando,26,2019,293,Athlético-PR,5,ata,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105198,Raphael Lopes,26,2019,282,Atlético-MG,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105199,Vinícius,26,2019,262,Flamengo,4,mei,1,0,-0.3,1.5,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105201,Vinícius Popó,26,2019,283,Cruzeiro,5,ata,2,0,0,1.28,1.28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105208,Bento,26,2019,293,Athlético-PR,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105278,Iago Mendonça,26,2019,290,Goiás,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105282,Diguinho,26,2019,356,Fortaleza,3,zag,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105339,Heron,26,2019,290,Goiás,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105340,Flávio,26,2019,290,Goiás,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105341,Filipe Trindade,26,2019,290,Goiás,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105395,Alan,26,2019,290,Goiás,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105396,Rafael Barbosa,26,2019,290,Goiás,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105397,Felipe Mosquete,26,2019,290,Goiás,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105553,Alexander,26,2019,267,Vasco,1,gol,2,0,6,9.79,9.79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105566,Riquelme,26,2019,267,Vasco,2,lat,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105584,Lucas Piton,26,2019,264,Corinthians,2,lat,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105585,Roni,26,2019,264,Corinthians,4,mei,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105589,Lucas Bergantin,26,2019,275,Palmeiras,1,gol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105612,Miguel,26,2019,266,Fluminense,4,mei,2,0,0.35,2.21,2.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105635,Geovane,26,2019,293,Athlético-PR,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105636,Gabriel Fornari,26,2019,293,Athlético-PR,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105647,Mauricio,26,2019,283,Cruzeiro,4,mei,7,0,1.76,1.47,1.47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105786,Talles Magno,26,2019,267,Vasco,5,ata,14,0,2.11,2.55,2.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105807,Luan,26,2019,266,Fluminense,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105836,Da Silva,26,2019,284,Grêmio,5,ata,3,0,0.17,0.78,0.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105837,Guilherme Azevedo,26,2019,284,Grêmio,5,ata,1,0,-0.5,0.78,0.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105838,Erik,26,2019,285,Internacional,2,lat,2,0,2.55,2.05,2.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105841,Iván Angulo,26,2019,275,Palmeiras,5,ata,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105842,Edu,26,2019,283,Cruzeiro,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105846,Welligton Rocha,26,2019,293,Athlético-PR,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105866,João Celeri,26,2019,264,Corinthians,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105868,Daniel Marcos,26,2019,264,Corinthians,2,lat,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105897,Pablo Marí,26,2019,262,Flamengo,3,zag,15,-1.4,5.1,8.74,7.51,-1.23,0,3,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,2,Dúvida
+105899,Ivonei,26,2019,277,Santos,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105900,Allanzinho,26,2019,277,Santos,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105901,Edson,26,2019,265,Bahia,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105902,José Gabriel,26,2019,285,Internacional,4,mei,2,0,-0.2,0.77,0.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105903,José Aldo,26,2019,285,Internacional,4,mei,1,0,3.5,1.53,1.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105906,Adriano,26,2019,283,Cruzeiro,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105907,Alisson Taddei,26,2019,290,Goiás,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105909,Vinicius Mingotti,26,2019,293,Athlético-PR,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105910,Jonathan,26,2019,283,Cruzeiro,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105911,Rômulo,26,2019,283,Cruzeiro,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105912,Marco Antônio,26,2019,283,Cruzeiro,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105913,Welinton,26,2019,283,Cruzeiro,5,ata,1,0,1.5,1.29,1.29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+105914,Cadu Silva,26,2019,277,Santos,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106000,Lucas Ramos,26,2019,285,Internacional,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106002,Johnny,26,2019,285,Internacional,5,ata,1,0,0,0.77,0.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106017,João Pedro,26,2019,267,Vasco,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106076,Daniel Oliveira,26,2019,290,Goiás,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106077,Vanderley,26,2019,290,Goiás,3,zag,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106083,Breno,26,2019,290,Goiás,4,mei,4,0,-1.2,0.78,0.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Dúvida
+106159,Alexandre Melo,26,2019,267,Vasco,2,lat,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106160,Lucão,26,2019,267,Vasco,1,gol,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106161,Jonathan,26,2019,314,Avaí,5,ata,8,0,4.04,5.68,5.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Contundido
+106199,Gabriel Pec,26,2019,267,Vasco,4,mei,2,0.9,1.1,1.3800000000000001,1.32,-0.06,1,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,6,Nulo
+106200,Kaio Magno,26,2019,267,Vasco,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106201,Lucas Figueiredo,26,2019,267,Vasco,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106202,Bruno Gomes,26,2019,267,Vasco,4,mei,2,9.8,5.5,1.0899999999999999,3.03,1.94,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,7,Provável
+106219,Kawan,26,2019,293,Athlético-PR,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106312,Marx Lênin,26,2019,314,Avaí,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106323,Caio Alexandre,26,2019,263,Botafogo,4,mei,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106371,Jhonata Robert,26,2019,284,Grêmio,5,ata,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,Nulo
+106475,Ricardo Colbachini,26,2019,285,Internacional,6,tec,2,7.85,6.04,10.21,11.91,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Provável
